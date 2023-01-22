@@ -1,0 +1,1229 @@
+ANNUAL
+REPORT
+EKF Diagnostics Holdings plc EKF Diagnostics Holdings plc  Annual Report 2017
+1.0 Strategic Review Financial and Operational Highlights 2 At a Glance 3
+Chairmans Statement 8
+Chief Executives Review 9
+Finance Directors Review 10 Board of Directors 12 2.0 Corporate Governance Strategic Report 14 Report of the Directors 17
+Corporate Governance Statement 20
+Report of the Remuneration Committee 23
+Independent Auditors Report 25
+3.0 Financial Statements Consolidated Income Statement 30 Consolidated Statement of Comprehensive Income 31 Consolidated and Companys Statements of Financial Position 32 Consolidated and Companys Statements of Cash Flows 33 Consolidated Statement of Changes in Equity 34 Companys Statement of Changes in Equity 35 Notes to the Financial Statements 36 4.0 Additional Information Notice of Annual General Meeting 72 Company Information 75 2 Annual Report 2017 EKF Diagnostics Holdings plc 1.0 Strategic Review Financial and Operational Highlights
+Financial Highlights
+Revenue up 8% to 41.6m 2016 38.6m Gross profit up 25% to 22.9m 2016 18.3m Adjusted EBITDA up 52% to 9.3m 2016 6.1m Earnings per share of 0.59p 2016 nil Cash generated from operations of 10.1m 2016 8.8m Cash at 31 December 2017 of 8.2m 31 Dec 2016 7.9m net cash of 7.0m 31 Dec 2016 2.2m Capital restructure creates distributable reserves and allows share buy back programme Excluding exceptional items and share based payments
+Operational Highlights
+Continued effect of improvements to operational efficiency Closure of Polish operations brings sites down from twelve to seven Creation of Renalytix AI Inc in January 2018 to exploit sTNFR technology 2017 Revenueteltel 2017 2016 Revenue m 41.6 38.6 8% Net cash m 7.0 2.2 218%
+EBITDA m 9.3 6.1 52% 8% increase in revenues year on year 10%
+REVENUES
+FY 2017 12911 k FY 2016 11704 k 5%
+LABORATORY
+REVENUES
+FY 2017 12597 k FY 2016 12051 k 13%
+REVENUES
+FY 2017 11547 k FY 2016 10203 k Annual revenues
+EKF Diagnostics Holdings plc  Annual Report 2017 1.0 Strategic Review At a Glance
+EKF Diagnostics is a global medical diagnostics business with a long history in pointofcare testing and manufacturing reagents for use in central laboratories.
+Our pointofcare POC products most of which are designed and manufactured in Germany have a hard earned reputation for ease of use reliability and accuracy from professionals working in diabetes blood banking and sports medicine.
+The POC business is built around a large installed base of analysers each of which generates a regular demand for tests often for the entire life cycle of the analyser.
+In 2017 we sold an estimated 70 million tests.
+This approach  sometimes known as the razorrazorblade model  permits a percentage of organic growth each year.
+The EKF Central Laboratory range includes clinical reagents and centrifuges which are manufactured at premises near San Antonio Texas.
+Clinical chemistry reagents are sold for use on open channel systems or on EKFs own brand of analysers.
+EKF Life Sciences based in Elkhart Indiana manufactures diagnostic enzymes and contracted custom products for use in medical diagnostics pharmaceuticals and industry.
+2017 Sales Geographical Performance Cardiff UK Shanghai China Barleben Germany San Antonio TX Elkhart IN Moscow Russia
+Analysers sold 7% 1m Revenue FY 2017 k FY 2016 k  k APAC 4210 3930 280 EMEA 17005 15558 1447 AMERICAS 20369 19101 1268 Americas k FY 2017 20369 EMEA k FY 2017 17005 APAC k FY 2017 4210 Leipzig Germany 4 Annual Report 2017 EKF Diagnostics Holdings plc 1.0 Strategic Review PointofCare Hemoglobin Analysers Product Portfolio The hemoglobin analysers product range within EKF Diagnostics is the largest in terms of revenues and the size of the installed base.
+The acquisition of DiaSpect and Separation T echnology in 2014 allowed EKF to offer an unparalleled range of hemoglobin and hematocrit Point of Care blood analysers manufactured in Germany and the USA.
+Strategy
+The EKF Diagnostics portfolio of hemoglobin and hematocrit analysers is unique within the Point of Care diagnostics sector.
+Sales are primarily focused around two markets  public health initiatives such as anaemia screening programmes and private practices where the cost of testing is paid for by an insurance company or the patient.
+To approach these markets EKF has two distinct strategies firstly OEM partnerships with international distributormanufacturers such as Fresenius Kabi and secondly agreements with smaller distributors who are focused on the public health opportunities within their own countries.
+Sports medicine and veterinary medicine provide two additional niche sources of customer for EKF distributors.
+EKF believes that this portfolio can provide it with a competitive advantage to grow its market share.
+In
+2017 EKF sold more than 22 million tests for the DiaSpect Tm range and 19 million tests for Hemo Control and HemoPoint H2 Hemo Control
+Uses gold standard methodology reagent filled microcuvettes Data management capability provides a hematocrit calculation Proven robust analyser sold worldwide DiaSpect Tm Handheld analyser utilising reagentless methodology Benefits of speed to result one second and shelf life of microcuvettes Connectivity to a mobile phone application now available DiaSpect Hemoglobin T Low Tests serum plasma aqueous solutions or stored erythrocytes Estimates the degree of hemolysis Results in less than two seconds
+UltraCrit
+TM
+Hematocrit analyser using unique ultrasound technology Strong presence in US blood banking sector HemataStat II
+Laboratory hematocrit centrifuge and analyser Processes multiple samples EKF Diagnostics Holdings plc  Annual Report 2017 1.0 Strategic Review PointofCare Diabetes Care Product Portfolio EKFs Diabetes Care range aims to provide affordable easytouse technology that reduces the costs of longterm healthcare of the diabetic and prediabetic population.
+Diabetes has been at the core of EKFs strategy for well over 10 years starting with the early models of the Biosen CLine and Biosen SLine glucose analysers.
+More recently HbA1c analysers have been launched that address the diabetes screening market.
+Although they do not strictly belong within a pointofcare framework clinical chemistry reagents such as Glycated Serum Protein and Beta Hydroxybutyrate add further provenance to EKFs claim to be a significant contributor to diabetes care worldwide.
+Strategy
+Although glucose testing is the most commonly used method of determining glycaemic control within diabetics HbA1c is the accepted long term barometer of patient wellbeing and their compliance with the treatment regimes.
+The growth in popularity of HbA1c measurement has seen an increasing number of entrants to the pointofcare HbA1c market focused on GP surgeries and diabetes clinics.
+Since transferring manufacturing from the UK to Germany EKF has engaged in programmes to automate the production of cartridges to increase capacity and improve quality.
+In addition these changes have allowed EKF Diagnostics to make significant operational savings through the centralisation of manufacturing warehousing and logistics and customer service.
+Biosen
+TM
+Glucose andor lactate measurement Three models each aimed at different settings Strong presence in Eastern Europe and China in diabetes clinics and research Used by professional and amateur sports clubs.
+QuoLab A1c HbA1c testing Glycated
+Results in four minutes using a unique methodology Semiautomated analyser aimed at costsensitive markets QuoTest A1c HbA1c testing Glycated
+Same methodology as QuoLab but fully automated Simple operation requires minimal training 6 Annual Report 2017 EKF Diagnostics Holdings plc 1.0 Strategic Review PointofCare Maternal and Womens Health Product Portfolio Maternal and Womens Health focuses primarily on diagnostics used to address conditions and complications associated with pregnancy and child birth.
+Sales include revenues from Creamatocrit centrifuges and hemoglobin meters used in Women and Infant Clinics pregnancy test kits and HbA1c analysers used to diagnose gestational diabetes in pregnant women.
+Strategy
+EKFs Maternal and Womens Health business unit has seen steady growth since it was created.
+SensPoint is awaiting CE marking whilst the product team continue to work with key opinion leaders to educate the future target market on the need for a protocol in the use of lactate in obstetric medicine.
+In parallel there is a slowly building commercial interest in this market in Europe.
+Some medical professionals are using the Lactate Scout to provide accurate lactate readings within ten seconds.
+Lactate Scout uses the same strip system as SensPoint but does not include SensPoints data management functionality.
+Lactate Scout has historically been sold into sports medicine specifically endurance activities such as crosscountry skiing cycling and rowing.
+This market also contributes significantly to Biosen revenues in which the lactate testing function is used in the preparation of elite squads of athletes such as Premier League and Budesliga football teams and Olympians.
+Creamatocrit Plus
+Small lab centrifuge used in Women and Infant
+Measures the lipid concentration and caloric density of breast milk Allows professionals to guide mothers with underweight infants Pregnancy Testing Cassette rapid tests Marketed for use in hospital settings
+Handheld lactate analyser with docking station Results in 10 seconds Undergoing European evaluation at the time of publication Lactate Scout Handheld lactate analyser Results in 10 seconds Developed for use in sports medicine Applications in medical and veterinary medicine New model to be launched in 2018 EKF Diagnostics Holdings plc  Annual Report 2017 1.0 Strategic Review Central Laboratory Product Portfolio EKF through its wholly owned subsidiary Stanbio Laboratory has had a presence within central laboratory dating back over 50 years.
+During this time it has built a global customer base for its clinical chemistry reagents that can be used on most openchannel analyser platforms.
+The Central Laboratory business also includes the manufacture of enzymes produced at EKF Life Sciences in Elkhart Indiana.
+From this facility EKF Life Sciences sells enzymes used in Stanbios clinical chemistry portfolio as well as providing contract manufacturing services for enzymes and proteins used in industrial applications.
+These are then sold in bulk or used in the production of invitro diagnostic devices
+The acquisition of Separation Technology Inc. laboratory offering.
+As well as being a manufacturer of hematology products STI has a heritage in manufacturing high quality USbuilt minicentrifuges.
+Strategy
+The central laboratory market continues to experience relatively low levels of growth.
+This is in part because sales of chemistry reagents are often linked to the provision of the analysers on which the tests are performed.
+EKF Diagnostics approach to the clinical chemistry market changed in late 2015 with the launch of the Altair 240 a benchtop analyser calibrated to run the Stanbio Chemistry range of reagents.
+Further opportunities continue to exist in niche markets.
+Sales of BetaHydroxybutyrate Liquicolor reagent continue to be healthy with a strong performance from US distributors who have developed a market capitalising on the withdrawal of a previous method of testing for ketosis.
+More than 1000 US hospitals now use EKFs BetaHydroxybutyrate reagent.
+A similar approach is being used for Procalcitonin PCT in Europe where EKF has undertaken awareness activity using key opinion leaders in target markets.
+Altair
+TM
+Automated benchtop analyser Runs up to 400 tests per hour and can handle up to 43 different reagents Calibrated to run the Stanbio Chemistry range of reagents
+Liquid reagent for the early detection of ketosis Primarily sold in USA through national distribution networks
+Liquid reagent for the detection of sepsis Targeted at certain European markets Glycated Serum Protein 23 week indicator of average blood glucose Complementary to HbA1c in diagnosis and screening of diabetes 8 Annual Report 2017 EKF Diagnostics Holdings plc 1.0 Strategic Review
+Chairmans Statement
+I am delighted to present results which show continued good progress with revenues earnings and net cash all significantly improved compared with the previous year.
+Strategy
+The Group has continued to follow the path which led to the successful turnaround of the business in 2016 namely concentrating its activities on pointofcare diagnostics and the related central laboratory reagents business while reducing costs and simplifying the business.
+In the first half we closed our manufacturing site in Poland and transferred activities to our main European hub in Barleben
+This led to a small number of redundancies and we thank those affected and wish them well for the future.
+As a result the number of sites used by the Group has reduced from a peak of twelve to seven of which four are in Europe two in the USA and one in China.
+While we are not currently planning further closures our efforts to improve efficiency and therefore reduce costs continue.
+After considerable deliberation and discussion with our professional advisors we were unable to proceed with our plan to split out the central laboratory business in a tax efficient manner.
+Subsequent to the year end on 11 January 2018 the Group announced its intention to spinout its sTNFR biomarker technology into a separate entity Renalytix AI Inc. been registered in the USA.
+Tumour Necrosis Factor Receptors 1 and 2 are novel biomarkers used in combination with artificial intelligence to identify which diabetes patients are at the highest risk of progressive Diabetic Kidney Disease DKD potentially leading to End Stage Renal Disease
+Plans for the entity are at an early stage and discussions with partners are continuing.
+Capital changes The Directors have taken a number of actions during the year to create distributable reserves and to reduce the number of actual and potential shares in issue.
+In June 2017 21.6m share options which had been granted to employees and others were cancelled at the election of the holders in return for payments totalling 1.5m.
+In September 2017 court and shareholder approval were received for a capital reduction allowing us to create distributable reserves through the writeoff of the Companys share premium account and to buy back up to 15% of the Companys ordinary shares.
+Subsequently a total of 6.7m shares have been cancelled.
+As a result of these actions the total number of potential shares has reduced by nearly 6%.
+Results overview The Chief Executives and Finance Directors statements contain a review of the year and an overview of the financial performance of the
+Board
+All of the Board members have served throughout the year.
+Nonexecutive Directors have continued to waive their standard directors fees however as each has performed considerable amounts of work for the Group in addition to their duties as directors they have been paid an appropriate bonus.
+Outlook
+Trading in 2017 has been positive and this has continued into the early part of 2018.
+Trading is in line with management expectations.
+Christopher Mills Nonexecutive Chairman 14 March 2018 EKF Diagnostics Holdings plc  Annual Report 2017 1.0 Strategic Review
+Chief Executives Review
+It is pleasing to be able to report a strong set of results for 2017.
+In particular cash generation has once again been very strong with net cash growing from 2.2m to 7.0m during the year despite spending 1.4m on capital expenditure and 1.5m on the cancellation of share options.
+Operations
+We have succeeded in our aim for 2017 of driving the existing business and continuing to reduce cost.
+Gross margins have improved at a greater rate than the increase in sales.
+We have sold around 15000 analysers and 70 million tests during the year and cemented our place as number one supplier of Beta Hydroxybutyrate  HB reagent in the USA and number two worldwide in Hemoglobin pointofcare products.
+During the year we completed the restructuring of our manufacturing operations by closing our manufacturing facility in Poland.
+Production volume was shifted to our factory in Barleben Germany and customers successfully transitioned away from the older style cuvette previously made in Poland.
+In Barleben we have invested in modern production equipment including new automated equipment for the manufacture and packaging of the Quo Test cartridge.
+At our Elkhart facility where we manufacture a number of wet chemistry products we have a medium term programme to update the facilities to improve quality and volumes.
+PointofCare
+EKFs pointofcare business model continues to be to sell analysers into the market and then benefit from the ongoing revenue stream generated by sales of the dedicated consumables.
+Over the last five years we have sold over 65000 analysers for use worldwide and each year we supply a growing number of tests for use on these.
+Hematology
+Sales of Hematology products have increased by 10% to 12.9m 2016 11.7m.
+Sales of Hemo Control sold in the USA as HemoPoint H2 have built on the strong growth in 2016 rising a further 7% while DiaSpect revenues have risen by a further 23%.
+Diabetes
+Diabetes revenues are up by 13% at 11.5m 2016 10.2m.
+The Saudi tender won in 2015 was completed during the year and this has led to an increase in QuoT est and QuoLab sales of 14%.
+There has been further success for Biosen sales which have risen by 10%.
+Central Laboratory Central laboratory sales have grown by 5% to 12.6m from 12.1m last year again driven by sales of HB Liquicolor reagent which are higher by a further 17% having risen by a very significant percentage in 2016.
+We have continued to promote our Altair 240 analyser through an increasing portfolio of specialist distributors.
+Sales of other Central Laboratory products have been stable.
+We have discontinued a number of the marginal former STI products.
+New and updated products We have concentrated in 2017 on widening the range of regulatory approvals for our existing product ranges.
+In particular we have conducted a number of clinical trials in the USA in anticipation of submitting applications for FDA approval in the USA for our DiaSpect Tm and QuoTest products.
+QuoTest is also in the lab testing phase of its China FDA registration and we have secured registration for it in Brazil alongside Hemo Control DiaSpect Tm and QuoLab.
+POC Connect our connectivity solution for our DiaSpect Tm handheld analyser was launched in November 2017.
+We will soon be showcasing our new and updated Lactate Scout 4.0 product.
+As noted above we are working to secure commercial launch of our sTNFR biomarker for early detection of end stage renal disease in diabetic patients alongside a number of partners.
+Outlook
+We are looking forward to finalising our two FDA applications in the first half of 2018 and to update on progress with our sTNFR project.
+At the same time we anticipate receiving completed registrations for Beta Hydroxybutyrate  HB in Mexico Brazil and Colombia as well as the Indian registration of DiaSpect Tm all in the first half of 2018.
+We are continuing to work hard to increase efficiency and reduce costs by investing in automation and streamlining processes.
+We are confident that we will continue to see growth in the business on a steady and sustainable basis.
+Julian Baines
+Chief Executive Officer
+14 March 2018 10 Annual Report 2017 EKF Diagnostics Holdings plc 1.0 Strategic Review Finance Directors Review
+Revenue for the year was 41.6m 2016 38.6m an increase of 8%.
+6.6% of the increase was the result of improvements in foreign currency exchange rates largely because of a further fall in the average value of sterling against the US dollar and Euro especially in the first half of the year.
+The remainder of the increase comes from organic growth.
+Revenue by disease state which is presented for illustration purposes only is as follows FY 2017 FY 2016 000 % Hematology 12911 11704 10% Diabetes Care 11547 10203 13% Central Laboratory 12597 12051 5% Other 4529 4631 2% Total revenue 41584 38589 8% Gross profit Gross profit increased to 22.9m 2016 The gross margin percentage on sales was 55.0% 2016 47.5%.
+The increase was attributable in part to cost reductions arising from the actions taken in previous years partly through mix and volume effects and partly as a result of the release of inventory provisions set in prior years.
+Administration costs and research and development costs Administration expenses have again fallen to 18.2m 2016 18.7m.
+RandD costs included in administration expenses were 2.2m with a further 0.7m being capitalised as an intangible cost.
+Gross RandD expenses have therefore increased to 2.9m from 2.7m in 2016.
+The charge for depreciation of fixed assets and amortisation of intangible assets is 4.6m 2016 The charge includes an impairment in the year related to the carrying value of our Polish operations which were closed during the year as well as the reassessment of the carrying value of certain noncore development projects.
+Exceptional items relate to provisions made and costs incurred in the closure of the Polish manufacturing site the increase in the fair value of the warranty claim associated with the acquisition of EKFdiagnostic GmbH which is attributable to the increase in the Companys share price during the year and to the benefit at fair value of the shares released to EKF from an escrow account associated with the acquisition of Selah Genomics Inc.
+Operating profit and adjusted earnings before interest tax and depreciation The Group made an operating profit of 4.7m having made a small loss of 0.3m in 2016.
+This reflects the considerable efforts made in the last two years to reduce costs and improve efficiency.
+We continue to consider that adjusted earnings before interest tax depreciation and amortisation sharebased payments and exceptional items adjusted EBITDA is a better measure of progress because the Board believes it gives clearer comparability of operating performance between periods.
+In
+2017 we achieved adjusted EBITDA of 9.3m 2016 6.1m.
+The calculation of this nonGAAP measure is shown on the face of the income statement.
+It excludes the effect of sharebased payment charges of 1.5m 2016 1.0m which increased largely because of the acceleration of charges as a result of the programme of share option cancellations and exceptional profits of 1.6m 2016 losses of 0.5m.
+Of the increase in adjusted EBITDA of 3.2m 0.6m is attributable to the effect of more favourable exchange rates with the remainder being attributable to improved underlying performance.
+Finance costs Finance costs have continued to fall to 0.5m in 2017 2016 0.7m.
+This is largely as a result of lower interest costs associated with the reduction of debt during the year offset by higher charges relating to the discounting of deferred consideration.
+Tax
+There is an income tax charge of 1.4m 2016 credit of 1.2m.
+This is because of a tax adjustment in the USA caused by timing differences on the carry back of losses in previous years while in 2016 there was a large credit relating to 2015.
+In future years the Group anticipates a positive impact on its tax charge as a result of the tax policy changes recently made by the US Government.
+Balance sheet Property plant and equipment Additions to fixed assets were 1.4m 2016 This reflected investment in production equipment in both Germany and in the USA including automated pouching equipment in Barleben and the replacement of obsolete plant in Elkhart.
+Intangible assets The value of intangible assets has fallen from 46.5m to 43.6m yearonyear.
+This is partially attributable to the annual amortisation charge plus the offsetting effect of additions and impairments.
+EKF Diagnostics Holdings plc  Annual Report 2017 1.0 Strategic Review Deferred consideration The remaining deferred consideration relates to the sharebased payment to the former owner of EKFdiagnostic GmbH.
+Finalisation of the contracts to conclude the position is now expected to take place in 2018.
+Cash and working capital Net cash has increased from 2.2m to 7.0m during the year.
+Gross cash has increased to 8.2m 2016 7.9m and borrowings have reduced from 5.7m to 1.2m.
+All borrowings in the UK and the USA have have been paid off.
+The remaining borrowings is are being reduced over the loan period to 2023 and were used to fund the new building in Barleben.
+1.5m was used to buy employees out of share option agreements and 0.2m was used to acquire ordinary shares for cancellation.
+Inventory has reduced from 6.0m to 5.6m in 2017 as our programme to reduce inventory levels continued.
+While results so far have been encouraging and we have seen inventory levels reduce by over 30% since December 2015 despite higher revenue our ambition remains to reduce our holdings further while ensuring production and sales run efficiently.
+Trade receivables have reduced partly because of the completion of payments relating to business in Saudi Arabia which required extended payment terms.
+The increase in payables reflects increased activity during the year and the liability recognised in respect of cash settled sharebased payments.
+Richard Evans Finance Director and Chief Operating Officer 14 March 2018 12 Annual Report 2017 EKF Diagnostics Holdings plc 1.0 Strategic Review Board of Directors Executive Directors Julian Baines MBE
+Chief Executive Officer aged 53
+Julian was Group CEO of BBI where he undertook a management buyout in 2000 a flotation on AIM in 2004 and was responsible for selling the business to Alere Inc.
+Laboratories in 2008 for circa 85 million.
+In December 2009 Julian became CEO of the Group and has subsequently successfully completed a number of fund raisings and the acquisition and subsequent integration of eight businesses in seven countries.
+In 2016 he was awarded an MBE for services to the life sciences industry.
+Richard Evans Chief Operating Officer and Finance Director aged 60 Richard qualified as a Chartered Management Accountant in 1983 and holds a Bachelor of Commerce in Business Studies and Law from Edinburgh University and an MBA from INSEAD.
+Before joining EKF Richard was Finance Director General Manager and finally Global Account Director at Hitachi Data Systems GmbH.
+He has also held positions at Fisher Scientific TRW Seat Belt Systems Maxtor Corporation United Technologies Carrier and Abbott Diagnostics GmbH in
+EKF Diagnostics Holdings plc  Annual Report 2017 1.0 Strategic Review NonExecutive Directors NonExecutive Directors Christopher Mills NonExecutive Chairman aged 65 Christopher founded Harwood Capital Management in 2011 a successor from its former parent company J.
+Hambro Capital Management which he cofounded in 1993.
+He is Chief Executive and Investment Manager of North Atlantic Smaller Companies Investment Trust plc and Chief Investment Officer of Harwood Capital LLP.
+He is a NonExecutive Director of a number of companies.
+Christopher was a Director of Invesco MIM where he was Head of North American Investments and Venture Capital and of Samuel Montagu International.
+Christopher is a member of the Audit Committee and chairs the Remuneration Committee.
+Adam Reynolds NonExecutive Director aged 55 Adam is a former stockbroker specialising in corporate finance.
+He has built rescued and re financed a number of public companies.
+He is currently Chairman of Autoclenz Group Limited Premaitha Health plc and Concepta plc and a director of several listed and private companies.
+Adam chairs the Audit Committee and is a member of the Remuneration Committee.
+Carl Contadini NonExecutive Director aged 69 Carl has been a director of numerous companies throughout his career predominately focusing on the healthcare and electronics sectors.
+He is currently a board member and past Chairman of Waterbury Healthcare Systems Inc.
+Harwood Capital LLP where he assists in sourcing evaluating and monitoring investments.
+Carl also holds the positions of Executive Chairman and NonExecutive Chairman at Utitec Holdings and Curtis Gilmour Holding Inc. respectively.
+Carl has in the past also been a director of Bionostics Limited and Celsis Group Limited.
+He holds an Associate of Science degree in Business Administration and Marketing from Tunix Community College Connecticut and a Batchelor of General Studies degree specialising in Human Resources from University of Connecticut.
+14 Annual Report 2017 EKF Diagnostics Holdings plc 2.0 Corporate Governance Strategic Report The Directors present their Strategic Report for the year to 31 December 2017.
+Review of the business A review of the business is contained in the Chairmans Statement on page 8 and in the Chief Executives Review on page 9 and the Finance Directors Review on pages 10 and 11.
+Risk Management
+We recognise that effective risk management is essential to the successful delivery of the Groups strategy.
+As we continue to grow our business we believe it is important to develop and enhance our risk management processes and control environment on an ongoing basis and ensure it remains fit for purpose.
+We continue to mature our approach to identifying and managing risks across the Group in a consistent and robust manner.
+Below we describe our risk management approach the principal risks and uncertainties faced by the Group and the controls in place to manage them.
+Overview of risk management approach Each business area is responsible for identifying assessing and managing the risks in their respective area.
+Risks are identified and assessed by all business areas on a periodic basis and are measured against a defined set of criteria considering likelihood of occurrence and potential impact.
+The Executive Board members also conduct a strategic risk identification and assessment exercise to identify risks including those that could impact the business model future performance solvency or liquidity.
+This risk information is combined with a consolidated view of the business area risks.
+The most significant risks identified are included in our Group Risk Profile which is reported to the Executive Board for review and challenge ahead of it being submitted to the Group Board for final review challenge and approval.
+The Board has the overall accountability for ensuring that risk is effectively managed across the Group and therefore ensuring that it is comfortable with the nature and extent of the principal risks faced in achieving its strategic objectives.
+Principal risks and uncertainties Set out below are the principal risks which we believe could materially affect the Groups ability to achieve its financial and operating objectives and control or mitigating activities adopted to manage them.
+The risks are not listed in order of significance.
+Key employees Lack of retention of key employees affects the continuity and effectiveness of ongoing relationships with key customers and suppliers.
+This risk is minimised by ensuring that a minimum of two individuals manage every relationship with key customers and suppliers.
+In addition in retaining the key employees incentivisation packages are offered through a mixture of sales commission and profit related bonuses.
+Main Board Directors are incentivised as detailed in the Directors Remuneration
+Political risk A significant proportion of the Groups revenues are accounted for by agreements in developing countries.
+Any instability in these countries could significantly affect the operations and the revenue of the Group.
+In particular the Group has significant revenue from customers in Russia which are ultimately largely funded by the government.
+The Group spreads the risk through seeking a portfolio of diversified revenue streams geographically with a mixture of distribution partners in developing and developed countries.
+Following the European Union EU membership referendum in 2016 the UK Government has commenced the process of withdrawal from the EU.
+Although at present the Group does not anticipate significant issues the Group has employees facilities customers and suppliers in both the United Kingdom and the EU and therefore withdrawal may affect the Groups operational abilities and costs.
+The Group seeks to manage this risk by monitoring events and taking mitigating actions if necessary.
+Supply chain continuity The Group relies on third party manufacturers for the supply of the majority of raw materials.
+Problems with obsolescence and manufacturer facilities may lead to delay and disruptions in the supply chain which could have a significant negative impact on the Group.
+The Group maintains a close dialogue with key suppliers and closely monitors its inventory status and customer demand to ensure that any problems with the supply chain can be managed and back up sources of supply are maintained where possible.
+Regulatory risk There can be no guarantee that any of the Groups products will be able to obtain or maintain the necessary regulatory approvals in any or all of the territories in respect of which applications for such approvals are made.
+Where regulatory approvals are obtained there can be no guarantee that the conditions attached to such approvals will not be considered too onerous by the Group or its distribution partners in order to be able to market its products effectively.
+The Group seeks to reduce this risk by manufacturing the products to recognised standards by keeping appraised with changes in the standards geographically by seeking advice from regulatory advisers consultations with regulatory approval bodies and by working with experienced distribution partners.
+EKF Diagnostics Holdings plc  Annual Report 2017 2.0 Corporate Governance Competition risk Due to the Groups current and future potential competitors such as major multinational pharmaceutical and healthcare companies having substantially greater resources than those of the Group the competitors may develop systems and products that are more effective or economic than any of those developed by the Group rendering the Groups products obsolete or otherwise non competitive.
+The Group seeks to mitigate this risk by securing patent registration protection for its products maintaining confidentiality agreements regarding the Groups knowhow and technology monitoring technological developments and by selecting leading businesses in their respective fields as distribution partners capable of addressing significant competition should it arise.
+Intellectual property risk The commercial success of the Group and its ability to compete effectively with other companies depends amongst other things on its ability to obtain and maintain patents sufficiently broad in scope to provide protection for the Groups intellectual property rights against third parties and to exploit its products.
+The absence of any such patents may have a material adverse effect on the Groups ability to develop its business.
+The Group mitigates this risk by developing products where legal advice indicates patent protection would be available seeking patent protection for the Groups products maintaining confidentiality agreements regarding Group knowhow and technology and monitoring technological developments and the registration of patents by other parties.
+The commercial success of the Group also depends upon not infringing patents granted now or in the future to third parties who may have filed applications or who have obtained or may obtain patents relating to business processes which might inhibit the Groups ability to develop and exploit its own products.
+Foreign exchange risk The Group has transactional currency exposures as the majority of revenues and expenditure and certain borrowings are denominated in foreign currencies.
+Fluctuations in exchange rates between the Groups functional currency of Sterling and the currency of the overseas operations could adversely impact the financial results.
+In most cases the Group matches the currency receipts and expenditure of the overseas operations.
+The Group also endeavours to match the foreign currency assets of the foreign operations by funding through borrowings and loans denominated in the currency of the overseas operations and to negotiate currency protection in major contracts.
+Reimbursement levels There is no guarantee that the Group may be able to sell its products or services profitably if the reimbursement level from third party payers including government and private health insurers is unavailable or limited.
+Third party payers are increasingly attempting to contain health care costs through measures that could impact the Group including challenging the prices charged for health care products and services limiting both coverage and the amount of reimbursement for new diagnostics products and services and denying or limiting coverage for products that are approved by the regulatory agencies but are considered experimental by third party payers.
+The Group understands that due to third party dependency it is extremely difficult to eradicate this risk.
+However the Group manages this risk with constant dialogue and educating the third party payers on the Groups products and also developing new technologies in order to seek additional reimbursements.
+Financial reporting and disclosure Due to the nature of the Group there is a requirement to report accurate financial information in compliance with accounting standards and applicable legislation.
+This risk is mitigated through the Groups internal controls over the financial information and reporting overseen by the local financial heads and then reviewed by the central finance team including the Finance Director.
+The annual financial statements are also subject to audit by the Groups external auditors.
+Cyber security risk The Group uses computers extensively in its operations and has an online presence but does not trade online.
+It is at risk of attack through hacking or other methods.
+This risk is mitigated by the use of robust security measures staff training and backup systems.
+The Group also has specific insurance cover.
+Review of strategy and business model The Board of Directors judge the Companys financial performance by reference to the internal budget which it establishes at the beginning of each financial year.
+EKFs strategy is to create a world class IVD business through organic growth.
+IVD has a wide spectrum and within this spectrum we have chosen to concentrate on pointofcare and our existing central laboratory business.
+We have identified and acquired businesses in these areas with strong product lines and distribution networks which can benefit from better more professional management greater resources and from the synergistic benefits of being part of a larger group.
+We sell worldwide to over 100 countries.
+In many territories we sell through local distributors 16 Annual Report 2017 EKF Diagnostics Holdings plc 2.0 Corporate Governance however where appropriate we sell direct to end users which include hospitals laboratories and government agencies.
+Our distributors are supported by a network of regional sales managers and by product managers who are specialists in our product range.
+We manufacture the majority of the products we sell ourselves but also distribute a number of carefully chosen products on behalf of others.
+We have product support centres in the USA and Germany.
+The Group works mainly on the principle of selling value priced instrumentation which generates longterm revenue streams from the subsequent sale of consumables.
+The Group has an existing portfolio of technologies which produce revenues and will add technologies which are strategically appropriate to this portfolio should they become available and providing the additions make economic sense.
+Future outlook The Chairmans Statement on page 8 and the Chief Executives Review on page 9 give information on the future outlook of the Group including the main trends and factors likely to affect its future development.
+Key Performance Indicators KPIs The key performance indicators currently used by the Group are revenue gross margin adjusted EBITDA and cash resources.
+The Group is working to establish other key performance indicators including nonfinancial measures.
+KPIs are discussed in more detail in the Finance Directors review on pages 10 and 11.
+Environment
+The Directors consider that the nature of the Groups activities is not inherently detrimental to the environment.
+The Group is committed to minimising any effect on the environment caused by its operations.
+Employees
+The Group places value on the involvement of its employees and they are regularly briefed on the Groups activities.
+The Group closely monitors staff attrition rates which it seeks to keep at low levels and aims to structure staff compensation levels at competitive rates in order to attract and retain high calibre personnel.
+Disabled employees Applications for employment by disabled persons are always fully considered bearing in mind the specific aptitudes of the applicant involved.
+It is the policy of the Group that the training career development and promotion of disabled persons as far as possible be identical with that of other employees.
+Social community and human rights The Board recognises that the Group has a duty to be a good corporate citizen and to respect the laws and where appropriate the customs and culture of the territories in which it operates.
+The Group has donated product to selected appropriate charities which operate within its area and encourages staff to take part in charitable activities which are related to our business areas or customers.
+It contributes as far as is practicable to the local communities in which it operates and takes a responsible and positive approach to employment practices.
+The Groups Modern Slavery Act statement is published on our website.
+The Strategic Report was approved by the Board on 14 March 2018 and signed on its behalf by Richard Evans Finance Director and Chief Operating Officer EKF Diagnostics Holdings plc  Annual Report 2017 2.0 Corporate Governance Report of the Directors The Directors have pleasure in presenting this report together with the audited consolidated financial statements of EKF Diagnostics Holdings plc for the year ended 31 December 2017.
+Corporate details EKF Diagnostics Holdings public limited company is domiciled incorporated and registered in England and Wales with registration number .
+The registered office is Avon House 19 Stanwell Road Penarth Cardiff CF64 2EZ.
+Directors
+The Directors who held office during the year and as at the date of signing the financial statements were as follows Christopher Mills Julian Baines Richard Evans Adam Reynolds Carl Contadini The Company Secretary is Salim Hamir.
+Principal activities During the year the principal activities of the Group and Company were the development manufacture and supply of products into the invitro diagnostics IVD market place.
+Future developments and research and development activities are discussed in the Chairmans Statement on page 8 the Chief Executives Review on page 9 and the Finance Directors Review on pages 10 and 11.
+Dividends and share buy back There were no dividends paid or proposed by the Company in either year.
+During the year the Company obtained authorisation to acquire up to 15% of its Ordinary Shares in order to reduce the number of shares in issue.
+On 3 October 2017 the Company acquired 1000000 ordinary shares at a price of 24 pence per share from Harwood Capital LLP Harwood as investment manager to Oryx International Growth Fund Limited.
+Christopher Mills the Companys NonExecutive Chairman is a partner and Chief Investment Officer of Harwood and a director and shareholder in
+Going concern The Directors have considered the applicability of the going concern basis in the preparation of these financial statements.
+This included the review of internal budgets and financial results which show taking into account reasonably probable changes in financial performance that the Group should be able to operate within the level of its current funding arrangements.
+The restructuring and cost saving actions taken in late 2015 and early 2016 have allowed the Group to become cash generative in the second half of 2016 and in 2017.
+After making enquiries the Directors have a reasonable expectation that the Group has adequate resources to continue in operational existence for the foreseeable future.
+The Group therefore continues to adopt the going concern basis of preparation for its consolidated financial statements.
+Financial risk management Financial risk management is discussed in Note 3 of the financial statements.
+Employee policies Employee policies are discussed in the Strategic Report on pages 14 to 16.
+EKF Diagnostics Holdings plc 2.0 Corporate Governance Directors interests The interests in the share capital of the Company of those Directors serving at 31 December 2017 and as at the date of signing of these financial statements all of which are beneficial were as follows On 31 December 2017 Ordinary Shares of 1p each On 31 December 2016 Ordinary Shares of 1p each Christopher Mills 137000000 130000000 Julian Baines 1855288 1855288 Richard Evans 178842 178842 Adam Reynolds 3318613 3318613 Carl Contadini Mr Mills interest in the Companys shares is held through North Atlantic Smaller Companies Investment Trust PLC NAIT and Oryx International Growth Fund Limited Oryx.
+Harwood
+Capital LLP Harwood is investment manager and investment adviser to NAIT and Oryx respectively.
+Christopher Mills is a partner and Chief Investment Officer of Harwood.
+Christopher
+Mills is also a director of Oryx and NAIT.
+He holds 2.16 per cent. name as well as a further 46.44 per cent. of the shares in Oryx via his 25.06 per cent. in NAIT.
+On 20 March 2017 NAIT acquired 8000000 Ordinary shares and on 3 October 2017 Oryx sold 1000000 Ordinary shares which were purchased by the Company for cancellation.
+Carl Contadini holds no shares personally but acts as an Operational Advisor to Harwood which acts as investment manager and investment adviser to NAIT and Oryx respectively.
+Substantial shareholdings As at 14 March 2018 the following interests in 3% or more of the issued Ordinary Share capital had been notified to the Company
+Number of shares Percentage of issued share capital Mr Christopher Mills 137000000 29.94% Lombard Odier Asset Management Europe 49409204 10.80% Schroeder Investment Management 20025000 4.38% Hargreave Hale Investment Managers 19673193 4.30% Mr William Pippin 16189675 3.54% Statement of Directors responsibilities The directors are responsible for preparing the Annual Report and the financial statements in accordance with applicable law and regulation.
+Company law requires the directors to prepare financial statements for each financial year.
+Under that law the directors have prepared the group financial statements in accordance with International Financial Reporting Standards IFRSs as adopted by the European Union and parent company financial statements in accordance with International Financial Reporting Standards IFRSs as adopted by the European Union.
+Under company law the directors must not approve the financial statements unless they are satisfied that they give a true and fair view of the state of affairs of the group and parent company and of the profit or loss of the group and parent company for that period.
+In preparing the financial statements the directors are required to select suitable accounting policies and then apply them consistently state whether applicable IFRSs as adopted by the European Union have been followed for the group financial statements and IFRSs as adopted by the European Union have been followed for the company financial statements subject to any material departures disclosed and explained in the financial statements make judgements and accounting estimates that are reasonable and prudent and prepare the financial statements on the going concern basis unless it is inappropriate to presume that the group and parent company will continue in business.
+The directors are responsible for keeping adequate accounting records that are sufficient to show and explain the group and parent companys transactions and disclose with reasonable accuracy EKF Diagnostics Holdings plc  Annual Report 2017 2.0 Corporate Governance at any time the financial position of the group and parent company and enable them to ensure that the financial statements comply with the Companies Act 2006 and as regards the group financial statements Article 4 of the IAS Regulation.
+The directors are also responsible for safeguarding the assets of the group and parent company and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+The directors are responsible for the maintenance and integrity of the parent companys website.
+Legislation in the United Kingdom governing the preparation and dissemination of financial statements may differ from legislation in other jurisdictions.
+The directors consider that the annual report and accounts taken as a whole is fair balanced and understandable and provides the information necessary for shareholders to assess the group and parent companys performance business model and strategy.
+Each of the directors whose names and functions are listed in the Report of the Directors confirm that to the best of their knowledge the parent company financial statements which have been prepared in accordance with IFRSs as adopted by the European Union give a true and fair view of the assets liabilities financial position and loss of the company the group financial statements which have been prepared in accordance with IFRSs as adopted by the European Union give a true and fair view of the assets liabilities financial position and profit of the group and the Chairmans Statement Chief Executives Review and Finance Directors Review include a fair review of the development and performance of the business and the position of the group and parent company together with a description of the principal risks and uncertainties that it faces.
+Directors liability insurance The Company has entered into deeds of indemnity for the benefit of each Director of the Company in respect of liabilities to which they may become liable in their capacity as Director of the Company and of any Company in the Group.
+Those indemnities are qualifying third party indemnity provisions for the purposes of Section 234 of the Companies Act 2006 and have been in force during the whole of the financial year and up to the date of approval of the financial statements.
+Independent auditors PricewaterhouseCoopers LLP has expressed their willingness to continue in office as auditors and a resolution to reappoint them will be proposed at the forthcoming Annual General Meeting.
+Disclosure of information to the Auditors The Directors who hold office at the date of approval of this report confirm that so far as they are each aware there is no relevant audit information of which the Companys auditors are unaware and each Director has taken all the steps that they ought to have taken as a Director in order to make themselves aware of any relevant audit information and to establish that the Companys auditors are aware of that information.
+Corporate governance The Companys statement of corporate governance can be found in the Corporate Governance Statement on pages 20 to 22 of these financial statements.
+The Corporate Governance Statement
+Annual General Meeting The resolutions to be proposed at the forthcoming Annual General Meeting are set out in the formal notice of the meeting as set out on page 72.
+Recommendation
+The Board considers that the resolutions to be proposed at the Annual General Meeting are in the best interests of the Company and it is unanimously recommended that shareholders support these proposals as the Board intends to do in respect of their own holdings.
+The Report of the Directors was approved by the Board on 14th March 2018 and signed on its behalf by Richard Evans Finance Director and Chief Operating Officer 20 Annual Report 2017 EKF Diagnostics Holdings plc 2.0 Corporate Governance
+Corporate Governance Statement
+Compliance
+The Directors recognise the value of the principles of the UK Corporate Governance Code the
+Although as an AIM Company compliance with the Code is not required the Group seeks to apply the Code where practicable and appropriate for a business of its size.
+The following statement describes how the Group as at 31 December 2017 sought to address the principles underlying the Code.
+Board composition and responsibility The Board currently comprises two Executive Directors and three NonExecutive Directors.
+The
+Board notes that the Combined Code guidance recommends that at least half the Board should comprise independent NonExecutive Directors.
+The Board has determined that Adam Reynolds is independent in character and judgement and that there are no relationships or circumstances which could materially affect or interfere with the exercise of his independent judgement.
+The
+Board considers that Christopher Mills and Carl Contadini do not meet the criteria to be considered independent because of their relationships with Harwood NAIT and Oryx.
+The Board is satisfied with the balance between Executive and NonExecutive Directors which allows it to exercise objectivity in decision making and proper control of the Companys business.
+The Board considers its composition is appropriate in view of the size and requirements of the Groups business and the need to maintain a practical balance between executives and nonexecutives.
+Due to the structure of the Company it is considered that it is not appropriate to make any changes to the Board composition at present.
+There is a division of responsibilities between the NonExecutive Chairman who is responsible for the overall strategy of the Group and running the Board and the CEO who is responsible for implementing the strategy and day to day running of the Group.
+He is assisted by the Finance Director and Chief Operating Officer.
+All Directors are subject to election by shareholders at the first Annual General Meeting after their appointment and are subject to reelection at least every three years.
+NonExecutive Directors are appointed for a specific term of office which provides for their removal in certain circumstances including under section 168 of the Companies Act 2006.
+The Board does not automatically re nominate NonExecutive Directors for election by shareholders.
+The terms of appointment of the NonExecutive Directors can be obtained by request to the Company Secretary.
+The Boards primary objective is to focus on adding value to the assets of the Group by identifying and assessing business opportunities and ensuring that potential risks are identified monitored and controlled.
+Matters reserved for Board decisions include strategic longterm objectives and capital structure of major transactions.
+The implementation of Board decisions and day to day operations of the Group are delegated to Management.
+Board meetings 10 Board meetings were held during the year.
+The Directors attendance record during the year is as follows Christopher Mills NonExecutive Chairman 9 Julian Baines Chief Executive Officer 10 Richard Evans Chief Operating Officer and Finance Director 10 Adam Reynolds NonExecutive Director 10 Carl Contadini NonExecutive Director 3 Audit Committee This comprises two NonExecutive Directors Christopher Mills and Adam Reynolds Chairman.
+Adam Reynolds is the Senior Independent Director and has recent and relevant finance experience.
+The principal duties of the committee are to review the halfyearly and annual financial statements before their submission to the Board and to consider any matters raised by the auditors.
+The
+Committee also reviews the independence and objectivity of the auditors.
+The terms of reference of the Committee reflect current best practice including authority to Recommend the appointment reappointment and removal of the external auditors Ensure the objectivity and independence of the auditors including occasions when nonaudit services are provided and Ensure appropriate whistleblowing arrangements are in place.
+EKF Diagnostics Holdings plc  Annual Report 2017 2.0 Corporate Governance The NonExecutive Directors may seek information from any employee of the Group and obtain external professional advice at the expense of the Company if considered necessary.
+Due to the relatively low number of personnel employed within the Group the nature of the business and the current control and review systems in place the Board has decided not to establish a separate internal audit department.
+The committee met once formally during 2017.
+There were no significant matters communicated to the Committee by the Auditors and no interaction with the Financial Reporting Council.
+Remuneration Committee The Company has established a formal and transparent procedure for developing policy on executive remuneration and for fixing the remuneration packages of individual Directors.
+No
+Director is involved in deciding his own remuneration.
+The remuneration committee is made up of Christopher Mills Chairman and Adam Reynolds.
+The committee considers the employment and performance of individual Executive Directors and determines their terms of service and remuneration.
+It also has authority to grant options under the Companys Executive Share Option Scheme.
+The Committee met twice during 2017.
+Board appointments There is no formal Nominations Committee the appointment of new Directors being considered by the full Board.
+Internal control The Directors are responsible for ensuring that the Group maintains a system of internal control to provide them with reasonable assurance regarding the reliability of financial information used within the business and for publication and that the assets are safeguarded.
+There are inherent limitations in any system of internal control and accordingly even the most effective system can provide only reasonable but not absolute assurance with respect to the preparation of financial reporting and the safeguarding of assets.
+The Group in administering its business has put in place strict authorisation approval and control levels within which senior management operates.
+These controls reflect the Groups organisational structure and business objectives.
+The control system includes clear lines of accountability and covers all areas of the organisation.
+The Board operates procedures which include an appropriate control environment through the definition of the above organisation structure and authority levels and the identification of the major business risks.
+The Group has continued its project to enhance and formalise its internal controls including the establishment of a Risk Steering Committee.
+Internal financial reporting The Directors are responsible for establishing and maintaining the Groups system of internal reporting and as such have put in place a framework of controls to ensure that ongoing financial performance is measured in a timely and correct manner and that risks are identified as early as is practicably possible.
+There is a comprehensive budgeting system and monthly management accounts are prepared which compare actual results against both the budget and the previous year.
+They are reviewed and approved by the Board and revised forecasts are prepared on a regular basis.
+22 Annual Report 2017 EKF Diagnostics Holdings plc 2.0 Corporate Governance Relations with shareholders The Company reports to shareholders twice a year.
+The Company dispatches the notice of its Annual General Meeting together with a description of the items of special business at least 21 clear days before the meeting.
+Each substantially separate issue is the subject of a separate resolution and all shareholders have the opportunity to put questions to the Board at the Annual General
+The Chairs of the Audit and Remuneration Committees normally attend the Annual General Meeting and will answer questions which may be relevant to their work.
+The Chairman advises the meeting of the details of proxy votes cast on each of the individual resolutions after they have been voted on in the meeting.
+The Chairman and the NonExecutive Directors intend to maintain a good and continuing understanding of the objectives and views of the shareholders.
+Corporate social responsibility The Board recognises that the Group has a duty to be a good corporate citizen and is conscious that its business processes minimise harm to the environment that it contributes as far as is practicable to the local communities in which it operates and takes a responsible and positive approach to employment practices.
+With effect from the financial year to 31 December 2016 the Group became subject to the requirements of the Modern Slavery Act 2015.
+The Group has published the required statement on its website.
+The Corporate Governance Statement was approved by the Board on 14th March 2018 and signed on its behalf by Richard Evans Finance Director and COO EKF Diagnostics Holdings plc  Annual Report 2017 2.0 Corporate Governance Report of the Remuneration Committee Statement of compliance This report does not constitute a Directors Remuneration Report in accordance with the Directors Remuneration Regulations 2007 which do not apply to the Company as it is not fully listed.
+This report sets out the Group policy on Directors remuneration including emoluments benefits and other sharebased awards made to each Director.
+Policy on Executive Directors remuneration Remuneration packages are designed to motivate and retain Executive Directors to ensure the continued development of the Group and to reward them for enhancing value to shareholders.
+The main elements of the remuneration package for Executive Directors are basic salary or fees performancerelated bonuses benefits and share based incentives.
+Directors remuneration  Audited The remuneration of the Directors for the year ended 31 December 2017 is shown below
+Pension
+Benefits in kind
+Share option surrender Executive Directors Julian Baines 252 13 1tel319 Richard Evans 211 6 1tel559 589 NonExecutive Directors Christopher Mills    50  50 Carl Contadini    101  101 Adam Reynolds   4 50  54 Lurene Joseph Total fees and emoluments  1764 595 1 Lurene Josephs remuneration is shown up to the date of her resignation.
+EKF Diagnostics Holdings plc 2.0 Corporate Governance Directors share options and LongTerm Incentive Plan As at 31 December 2016 the following options to Directors of the Company existed under the Companys unapproved shareoption scheme and LongTerm Incentive Plan Option Holder Option price per Ordinary Share Number of Ordinary Shares under option Exercise period Julian Baines 15p 5127383 1 January 2014  31 December 2020 Richard Evans 20p 4260000 1 January 2014  31 December 2020 On 26 June 2017 these options were surrendered at the election of the holders in return for the payment of oneoff cash sums of 354000 to Mr Baines and 295000 to Mr Evans.
+On 2 June 2016 two Directors were granted a cash settled sharebased incentive award.
+During
+2017 both the maximum and minimum amounts payable to each Director were reduced by 0.2m.
+The awards vest if a controlling interest in the Company is acquired by a third party prior to 30 June 2019.
+In these circumstances a minimum amount of 0.3m is payable to each Director which increases by reference to the sale price achieved.
+The fair value of this award has been calculated at 3351000 using a modified form of a Black Scholes model.
+The fair value has been spread over the assumed vesting period with a charge of 969000 recognised in 2017.
+The key assumptions used in the model are disclosed in Note 30.
+Directors interests in the share capital of the Company are disclosed in the Directors Report on page 17.
+Approved by the Board on 14 March 2018 and signed on its behalf by Richard Evans Finance Director and COO EKF Diagnostics Holdings plc  Annual Report 2017 2.0 Corporate Governance Independent auditors report to the members of EKF Diagnostics Holdings plc Report on the audit of the financial statements
+In our opinion EKF Diagnostics Holdings plcs group financial statements and parent company financial statements the financial statements give a true and fair view of the state of the groups and of the parent companys affairs as at 31 December 2017 and of the groups profit and the groups and the parent companys cash flows for the year then ended have been properly prepared in accordance with IFRSs as adopted by the European Union and as regards the parent companys financial statements as applied in accordance with the provisions of the Companies Act 2006 and have been prepared in accordance with the requirements of the Companies Act 2006.
+We have audited the financial statements included within the Annual Report the Annual Report which comprise the Consolidated and Companys Statements of Financial Position as at 31 December 2017 the Consolidated Income Statement and Consolidated Statement of Comprehensive Income the Consolidated and Companys Statements of Cash Flows and the Consolidated and Companys Statements of Changes in Equity for the year then ended and the notes to the financial statements which include a description of the significant accounting policies.
+Basis for opinion We conducted our audit in accordance with International Standards on Auditing UK ISAs UK and applicable law.
+Our responsibilities under ISAs UK are further described in the Auditors responsibilities for the audit of the financial statements section of our report.
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+Independence
+We remained independent of the group in accordance with the ethical requirements that are relevant to our audit of the financial statements in the UK which includes the FRCs Ethical Standard as applicable to listed entities and we have fulfilled our other ethical responsibilities in accordance with these requirements.
+Our audit approach
+The scope of our audit As part of designing our audit we determined materiality and assessed the risks of material misstatement in the financial statements.
+In particular we looked at where the directors made subjective judgements for example in respect of significant accounting estimates that involved making assumptions and considering future events that are inherently uncertain.
+As in all of our audits we also addressed the risk of management override of internal controls including evaluating whether there was evidence of bias by the directors that represented a risk of material misstatement due to fraud.
+Key audit matters Key audit matters are those matters that in the auditors professional judgement were of most significance in the audit of the financial statements of the current period and include the most significant assessed risks of material misstatement whether or not due to fraud identified by the auditors including those which had the greatest effect on the overall audit strategy the allocation Overall group materiality 415000 based on 1% of revenue.
+Overall parent company materiality 394000 based on a component allocation of group materiality.
+We performed fullscope audit procedures in respect of the groups largest trading subsidiaries in the USA and in Germany as well as EKF Diagnostics Holdings plc in the UK.
+Our audit scope also included specified audit procedures in respect of Separation Technologies Inc. in the USA.
+Our audit procedures covered entities contributing 92% of the groups revenues for the year ended 31 December 2017.
+Goodwill and intangible asset impairment assessments Group and parent.
+Sharebased payment transactions Group and parent.
+26 Annual Report 2017 EKF Diagnostics Holdings plc 2.0 Corporate Governance of resources in the audit and directing the efforts of the engagement team.
+These matters and any comments we make on the results of our procedures thereon were addressed in the context of our audit of the financial statements as a whole and in forming our opinion thereon and we do not provide a separate opinion on these matters.
+This is not a complete list of all risks identified by our audit.
+Key audit matter How our audit addressed the key audit matter Goodwill and intangible asset impairment assessments Group and parent.
+At 31 December 2017 the Consolidated Statement of Financial Position includes 43.6m of intangible assets 2016 46.5m.
+In accordance with the requirements of IFRS management has performed impairment reviews in relation to the goodwill held in the groups cash generating units CGUs.
+The book values of the intangible assets and goodwill are supported by multipleyear profitability projections based on the budget for 2018.
+An impairment of 0.6m 2016 nil has been recognised in the year in respect of the closure of the groups operations in Poland during 2017 and as a result of the reassessment of the carrying value of development costs.
+Significant headroom exists in respect of the majority of the impairment reviews carried out other than in respect of DiaSpect where 2.4m of headroom exists 14% of the CGU carrying value.
+The impairment reviews include significant estimates and judgements in respect of future growth rates and cash flows the discount rate employed and profitability.
+We obtained the groups cash flow forecasts supporting its assessments and evaluated the appropriateness of key assumptions with a focus on DiaSpect as there is limited headroom in the impairment review for this CGU.
+We assessed the methodology used by management in performing the assessments and challenged and evaluated key inputs including the projected growth rates used both over the shortterm to 2021 and over the longerterm the discount rate used other key inputs including the applicable tax rate forecast capital expenditure and forecast margins.
+We also considered 2017 financial performance vs.
+2018.
+We performed a range of sensitivity analyses to assess the impact of alternative assumptions to those used by management.
+We concur with managements assertion that no further impairment charge is required in respect of goodwill and intangible assets but identified that if management is unable achieve planned results this could reasonably be expected to give rise to an impairment in the future.
+Management have disclosed the results of sensitivity analyses in Note 17 to the accounts.
+Sharebased payment transactions Group and parent.
+During 2016 two directors were awarded a cash settled sharebased incentive award which will see a payment made if the Company is acquired by a third party before 30 June 2019.
+The amount payable under the award varies depending on the acquisition price per share and is subject to a minimum amount payable.
+The awards have been accounted for in accordance with IFRS 2 as cashsettled share based payments and the value of the liability recognised as at 31 December 2017 is 1.72m 2016 0.75m.
+Management engaged an independent expert to value the sharebased awards and the movement in the fair value of the yearend liability has been recognised in the Consolidated Income Statement within the charge for sharebased payments.
+A number of assumptions have been made in valuing the awards including the expected date of an acquisition shareprice volatility and the premium expected to be paid for acquiring the Companys shares.
+Disclosure in respect of these awards is included in Note 30 to the Financial
+We obtained the valuation of the sharebased incentive awards and evaluated the independence and objectivity of managements expert.
+We gained an understanding of and evaluated the assumptions and methods that are significant to the managements experts work for their relevance and reasonableness.
+We challenged management in respect of the assumptions made including the expected exit date and expected shareprice volatility and concluded that the assumptions made by management are reasonable.
+We concluded that the work of managements expert is appropriate and concur with managements accounting for the awards.
+We have also evaluated the explanatory disclosures made in Note 30 to the Financial Statements.
+EKF Diagnostics Holdings plc  Annual Report 2017 2.0 Corporate Governance How we tailored the audit scope We tailored the scope of our audit to ensure that we performed enough work to be able to give an opinion on the financial statements as a whole taking into account the structure of the group and the parent company the accounting processes and controls and the industry in which they operate.
+The group has two main manufacturing centres in Germany and the USA in addition to the Head Office function based in the United Kingdom UK.
+The central finance and accounting team is located in the UK and is responsible for the financial reporting of EKF Diagnostics Holdings plc.
+Stanbio Laboratory Stanbio and EKF Diagnostics Holdings GmbH EKF Germany are assessed as financially significant components of the group given the significant revenue earned by the group in these entities.
+An audit of these entities financial information has been carried out.
+The audit of Stanbio was conducted by the group engagement team and component auditors were engaged to audit EKF Germany.
+Fullscope audit procedures were also performed in respect of DiaSpect Medical GmbH in Germany again conducted by the component audit team and the parent company EKF Diagnostics Holdings plc in the UK.
+The parent company audit was scoped in accordance with our parent company materiality.
+Our audit scope also included specified audit procedures in respect of Separation Technologies
+STI in the USA where we designed audit procedures to gain coverage over certain financial statement line items FSLIs.
+This work was performed by the group engagement team.
+Our audit addressed components making up 92% of the groups revenues for the year ended 31 December 2017.
+Where component auditors were engaged we adopted procedures to ensure we were sufficiently involved in their audits.
+This included discussions with component audit teams during the planning fieldwork and reporting phases the issuance of comprehensive audit instructions and a review of key working papers.
+Materiality
+The scope of our audit was influenced by our application of materiality.
+We set certain quantitative thresholds for materiality.
+These together with qualitative considerations helped us to determine the scope of our audit and the nature timing and extent of our audit procedures on the individual financial statement line items and disclosures and in evaluating the effect of misstatements both individually and in aggregate on the financial statements as a whole.
+Based on our professional judgement we determined materiality for the financial statements as a whole as follows Group financial statements Parent company financial statements Overall materiality 415000 394000 How we determined it 1% of group revenues for the year ended 31 December 2017.
+Limited to component allocation of group materiality.
+Rationale for benchmark applied Given the restructuring and refocusing of the business on its core pointofcare markets in recent years growth is being delivered through organic growth meaning revenues remain a key focus for management and the directors.
+Since the materiality we would have employed to this entity on a standalone basis was in excess of the component allocation materiality was capped at the component materiality allocation.
+28 Annual Report 2017 EKF Diagnostics Holdings plc 2.0 Corporate Governance For each component in the scope of our group audit we allocated a materiality that is less than our overall group materiality.
+The range of materiality allocated across components was between 87000 and 394000.
+We agreed with the Audit Committee that we would report to them misstatements identified during our audit above 21000 group audit and 19000 parent company audit as well as misstatements below those amounts that in our view warranted reporting for qualitative reasons.
+Conclusions relating to going concern We have nothing to report in respect of the following matters in relation to which ISAs UK require us to report to you when the directors use of the going concern basis of accounting in the preparation of the financial statements is not appropriate or the directors have not disclosed in the financial statements any identified material uncertainties that may cast significant doubt about the groups and parent companys ability to continue to adopt the going concern basis of accounting for a period of at least twelve months from the date when the financial statements are authorised for issue.
+However because not all future events or conditions can be predicted this statement is not a guarantee as to the groups and parent companys ability to continue as a going concern.
+Reporting on other information The other information comprises all of the information in the Annual Report other than the financial statements and our auditors report thereon.
+The directors are responsible for the other information.
+Our opinion on the financial statements does not cover the other information and accordingly we do not express an audit opinion or except to the extent otherwise explicitly stated in this report any form of assurance thereon.
+In connection with our audit of the financial statements our responsibility is to read the other information and in doing so consider whether the other information is materially inconsistent with the financial statements or our knowledge obtained in the audit or otherwise appears to be materially misstated.
+If we identify an apparent material inconsistency or material misstatement we are required to perform procedures to conclude whether there is a material misstatement of the financial statements or a material misstatement of the other information.
+If based on the work we have performed we conclude that there is a material misstatement of this other information we are required to report that fact.
+We have nothing to report based on these responsibilities.
+With respect to the Strategic Report and Report of the Directors we also considered whether the disclosures required by the UK Companies Act 2006 have been included.
+Based on the responsibilities described above and our work undertaken in the course of the audit ISAs UK require us also to report certain opinions and matters as described below.
+Strategic Report and Report of the Directors In our opinion based on the work undertaken in the course of the audit the information given in the Strategic Report and Report of the Directors for the year ended 31 December 2017 is consistent with the financial statements and has been prepared in accordance with applicable legal requirements.
+In light of the knowledge and understanding of the group and parent company and their environment obtained in the course of the audit we did not identify any material misstatements in the Strategic Report and Report of the Directors.
+EKF Diagnostics Holdings plc  Annual Report 2017 2.0 Corporate Governance Responsibilities for the financial statements and the audit Responsibilities of the directors for the financial statements As explained more fully in the Statement of Directors Responsibilities set out on page 18 the directors are responsible for the preparation of the financial statements in accordance with the applicable framework and for being satisfied that they give a true and fair view.
+The directors are also responsible for such internal control as they determine is necessary to enable the preparation of financial statements that are free from material misstatement whether due to fraud or error.
+In preparing the financial statements the directors are responsible for assessing the groups and the parent companys ability to continue as a going concern disclosing as applicable matters related to going concern and using the going concern basis of accounting unless the directors either intend to liquidate the group or the parent company or to cease operations or have no realistic alternative but to do so.
+Auditors responsibilities for the audit of the financial statements Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement whether due to fraud or error and to issue an auditors report that includes our opinion.
+Reasonable assurance is a high level of assurance but is not a guarantee that an audit conducted in accordance with ISAs UK will always detect a material misstatement when it exists.
+Misstatements can arise from fraud or error and are considered material if individually or in the aggregate they could reasonably be expected to influence the economic decisions of users taken on the basis of these financial statements.
+A further description of our responsibilities for the audit of the financial statements is located on the FRCs website at www. rc. iteauditorsresponsibilities.
+This description forms part of our auditors report.
+Use of this report This report including the opinions has been prepared for and only for the parent companys members as a body in accordance with Chapter 3 of Part 16 of the Companies Act 2006 and for no other purpose.
+We do not in giving these opinions accept or assume responsibility for any other purpose or to any other person to whom this report is shown or into whose hands it may come save where expressly agreed by our prior consent in writing.
+Other required reporting Companies Act 2006 exception reporting Under the Companies Act 2006 we are required to report to you if in our opinion we have not received all the information and explanations we require for our audit or adequate accounting records have not been kept by the parent company or returns adequate for our audit have not been received from branches not visited by us or certain disclosures of directors remuneration specified by law are not made or the parent company financial statements are not in agreement with the accounting records and returns.
+We have no exceptions to report arising from this responsibility.
+Jason Clarke Senior Statutory Auditor for and on behalf of PricewaterhouseCoopers LLP Chartered Accountants and Statutory Auditors
+14 March 2018 30 Annual Report 2017 EKF Diagnostics Holdings plc 3.0 Financial Statements Consolidated Income Statement
+Revenue 5 41584 38589 Cost of sales 6 18721 20267 Gross profit 22863 18322 Administrative expenses 6 18186 18734 Other income Operating profitloss 4729 327 Depreciation and amortisation 5 4623 4961 Sharebased payments 1514 973 Exceptional items 7 1562 532 EBITDA before exceptional items and sharebased payments 5 9304 6139 Finance income 12 53 37 Finance costs 12 475 713 Profitloss before income tax 4307 1003 Income tax chargecredit 13 1367 1172 Profit for the year 2940 169 Profitloss attributable to Owners of the parent 2715 18 Noncontrolling interest 225 187 2940 169 Pence Pence Earningsloss per Ordinary Share attributable to the owners of the parent during the year From continuing operations Diluted 14 0.58 0.00 The notes on pages 36 to 71 are an integral part of these consolidated financial statements.
+The Company has elected to take the exemption under section 408 of the Companies Act 2006 not to present the Parent Company income statement.
+The loss for the Parent Company for the year was 1741000 2016 loss of 5474000.
+EKF Diagnostics Holdings plc  Annual Report 2017 3.0 Financial Statements Consolidated Statement of Comprehensive Income
+Profit for the year 2940 169 Other comprehensive income Items that may be subsequently reclassified to profit or loss Currency translation differences 622 9343 Other comprehensive lossgain for the year 622 9343 Total comprehensive gain for the year 2318 9512 Attributable to Owners of the parent 2096 9198 Noncontrolling interests 222 314 Total comprehensive gain for the year 2318 9512 Items stated above are disclosed net of tax.
+The income tax relating to each component of other comprehensive income is disclosed in note 13.
+The Company has elected to take the exemption under section 408 of the Companies Act 2006 not to present the parent company income statement.
+The notes on pages 36 to 71 are an integral part of these consolidated financial statements.
+EKF Diagnostics Holdings plc 3.0 Financial Statements Consolidated and Companys Statements of Financial Position
+Group
+Group
+Company
+Company
+Assets
+Noncurrent assets Property plant and equipment 16 12121 12124 1460 1510 Intangible assets 17 43600 46503 538 538 Investments in subsidiaries 18   30521 30521 Investments 2tel152 Trade and other receivables 21   20894 22016 Deferred tax assets Total noncurrent assets 55907 59150 53599 55108 Current assets Inventories 22 5638 6025 Trade and other receivables 21 7396 9370 2569 6350 Deferred tax assets 27 13 13 Cash and cash equivalents 23 8203 7874 710 2567 Total current assets 21250 23282 3279 8917 Total assets 77157 82432 56878 64025 Equity attributable to owners of the parent Share capital 28 4576 4643 4576 4643 Share premium account 29  95393  95393 Other reserve Foreign currency reserves 32 4892 5609 Retained earnings 31 50394 45236 45403 45673 59970 60450 50046 54363 Noncontrolling interest Total equity 60498 60971 50046 54363
+Noncurrent liabilities Borrowings 25 872 1130 Deferred tax liabilities 27 3467 3751 Total noncurrent liabilities 4339 4881 Current liabilities Trade and other payables 24 9429 9401 5770 4828 Deferred consideration 26 1062 693 1062 693 Current income tax liabilities 1473 1160 Deferred tax liabilities 27 23 738 Borrowings 25 333 4588  4141 Total current liabilities 12320 16580 6832 9662 Total liabilities 16659 21461 6832 9662 Total equity and liabilities 77157 82432 56878 64025 The notes on pages 36 to 71 are an integral part of these financial statements.
+The financial statements were approved and authorised for issue by the Board on 14 March 2018 and signed on its behalf by Julian Baines Richard Evans
+Chief Executive Officer
+Finance Director and Chief Operating Officer EKF Diagnostics Holdings plc Registered no as at 31 December 2017 EKF Diagnostics Holdings plc  Annual Report 2017 3.0 Financial Statements Consolidated and Companys Statements of Cash Flows
+Group
+Group
+Company
+Company
+Cash flow from operating activities Cash generated by operations 35 10118 8816 4270 646 Interest paid 106 496 48 283 Income tax paidreceived 959 623 19 13 Net cash generated by operating activities 9053 8943 4203 350 Cash flow from investing activities Sale of investments  250  250 Purchase of property plant and equipment PPE 1361 1261 15 27 Purchase of intangibles 852 663 65 56 Proceeds from sale of PPE 35 128 211 Interest received 53 37 Net cash used ingenerated by investing activities 2032 1426 80 167 Cash flow from financing activities Proceeds from issuance of Ordinary Shares 28  4539  4539 Share based payments 1505  1505 Share buy back 241  241 New loans  5957  3500 Repayments on borrowings 4458 12555 4141 6000 Dividend payment to noncontrolling interest 215 54 Net cash used ingenerated by financing activities 6419 2113 5887 2039 Net increasedecrease in cash and cash equivalents 602 5404 1764 2556 Cash and cash equivalents at beginning of year 7874 2017 2567 11 Exchange lossesgains on cash and cash equivalents 273 453 93 Cash and cash equivalents at end of year 23 8203 7874 710 2567 for the year ended 31 December 2017 34 Annual Report 2017 EKF Diagnostics Holdings plc 3.0 Financial Statements
+Share capital
+Other
+Foreign currency reserve
+Total
+Non controlling interest
+At 1 January 2016 4221 91276 41 3607 45438 46493 261 46754 Comprehensive income Lossprofit for the year     18 18 187 169 Other comprehensive income Currency translation differences    9216  9216 127 9343 Total comprehensive income expense 9216 18 9198 314 9512 Transactions with owners Proceeds from shares issued 422 4117    4539  4539 Dividends to noncontrolling interest       54 54 Sharebased payments     220 220  220 Total contributions by and distributions to owners 422 4117   220 4759 54 4705 At 31 December 2016 and 1 January 2017 4643 95393 41 5609 45236 60450 521 60971 Comprehensive income Profit for the year     2715 2715 225 2940 Other comprehensive income Currency translation differences    717 98 619 3 622 Total comprehensive expense income 717 2813 2096 222 2318 Transactions with owners Share cancellation 67  67  3121 3121  3121 Capital reconstruction  95393   95393 Dividends to noncontrolling interest       215 215 Sharebased payments     545 545  545 Total contributions by and distributions to owners 67 95393 67  92817 2576 215 2791 At 31 December 2017 4576  108 4892 50394 59970 528 60498 Consolidated Statement of Changes in Equity EKF Diagnostics Holdings plc  Annual Report 2017 3.0 Financial Statements Companys Statement of Changes in Equity
+Share capital
+Other
+Retained earnings
+At 1 January 2016 4221 91276  40419 55078 Comprehensive income Loss for the year    5474 5474 Total comprehensive incomeexpense    5474 5474 Transactions with owners Proceeds from shares issued 422 4117   4539 Sharebased payments    220 220 Total contributions by and distributions to owners 422 4117  220 4759 At 31 December 2016 and 1 January 2017 4643 95393  45673 54363 Comprehensive income Loss for the year    1741 1741 Total comprehensive expense    1741 1741 Transactions with owners Share cancellation 67  67 3121 3121 Capital reconstruction  95393  95393 Sharebased payments    545 545 Total contributions by and distributions to owners 67 95393 67 92817 2576 At 31 December 2017 4576  67 45403 50046 36 Annual Report 2017 EKF Diagnostics Holdings plc 3.0 Financial Statements Notes to the Financial Statements General information EKF Diagnostics Holdings Plc is a company incorporated and domiciled in the United Kingdom.
+The Company is a public limited company which is listed on the AIM market of the London Stock
+The address of the registered office is Avon House 19 Stanwell Road Penarth Cardiff CF64 2EZ.
+The principal activity of the Group is the development manufacture and supply of products and services into the invitro diagnostic IVD market place.
+The Group has presence in the UK USA Germany Russia and China and sells throughout the world including Europe the Middle East the Americas Asia and Africa.
+The financial statements are presented in British Pounds Sterling the currency of the primary economic environment in which the Companys headquarters is operated.
+The Group comprises EKF Diagnostics Holdings plc and its subsidiary Companies as set out in note 18.
+The registered number of the Company is .
+Summary of significant accounting policies The principal accounting policies applied in the preparation of these consolidated financial statements are set out below.
+The policies have been consistently applied throughout all years presented unless otherwise stated.
+Basis of preparation The consolidated financial statements of EKF Diagnostics Holdings plc have been prepared in accordance with International Financial Reporting Standards as adopted by the European Union IFRSs IFRS IC interpretations and the Companies Act 2006 applicable to companies reporting under IFRS.
+Practice is continuing to evolve on the application and interpretations of IFRS.
+The consolidated financial statements have been prepared under the historical cost convention as modified by the revaluation of certain financial liabilities at fair value through profit and loss.
+The preparation of financial statements in conformity with IFRS requires the use of certain critical accounting estimates.
+It also requires management to exercise its judgement in the process of applying the Groups accounting policies.
+The areas involving a higher degree of judgement or complexity or areas where assumptions and estimates are significant to the consolidated financial statements are disclosed in note 4. a New standards amendments and interpretations adopted by the Group.
+The following standards have been adopted by the Group for the first time for the financial year beginning on or after 1 January 2017.
+They do not materially impact on the Group results Annual improvements 2010  2012 Annual improvements 2012  2014 Annual Improvements 2014  2016 Amendment to IAS 12 Recognition of Deferred Tax Assets for Unrealised Losses Amendment to IAS 7 Disclosure Initiative b New standards amendments and interpretations issued but not effective for the financial year beginning 1 January 2017 and not early adopted.
+A number of new standards and amendments to standards and interpretations are effective for annual periods beginning on or after 1 January 2018 and have not been applied in preparing these financial statements.
+None of these is expected to have a significant effect on the financial statements of the group or parent company except the following set out below IFRS 9 Financial instruments addresses the classification measurement and recognition of financial assets and financial liabilities.
+It replaces the guidance in IAS 39 that relates to the classification and measurement of financial instruments.
+IFRS 9 retains but simplifies the mixed measurement model and establishes three primary measurement categories for financial assets amortised cost fair value through other comprehensive income and fair value through profit or loss.
+The basis of classification depends on the entitys business model and the contractual cash flow characteristics of the financial asset.
+Investments in equity instruments are required to be measured at fair value through profit or loss with the irrevocable option at inception to present changes in fair value in other comprehensive income not recycling.
+An expected credit losses model replaces the incurred loss impairment for the year ended 31 December 2017 EKF Diagnostics Holdings plc  Annual Report 2017 3.0 Financial Statements model used in IAS 39.
+For financial liabilities there are no changes to classification and measurement except for the recognition of changes in own credit risk in other comprehensive income for liabilities designated at fair value through profit or loss.
+IFRS 9 is effective for accounting periods beginning on or after 1 January 2018.
+Early adoption is permitted.
+The group is working towards the implementation of IFRS 9 on 1 January 2018.
+It anticipates that the classification and measurement basis for its financial assets and liabilities will be largely unchanged by adoption of IFRS 9 and expects to take the accounting policy choice to continue to account for all hedges under IAS 39.
+The main impact of adopting IFRS 9 is likely to arise from the implementation of the expected loss model.
+No material impact on profit for future periods is expected.
+IFRS 15 Revenue from contracts with customers deals with revenue recognition and establishes principles for reporting useful information to users of financial statements about the nature amount timing and uncertainty of revenue and cash flows arising from an entitys contracts with customers.
+Revenue is recognised when a customer obtains control of a good or service and thus has the ability to direct the use and obtain the benefits from the good or service.
+Variable consideration is included in the transaction price if it is highly probable that there will be no significant reversal of the cumulative revenue recognised when the uncertainty is resolved.
+The standard replaces IAS 18 Revenue and IAS 11 Construction contracts and related interpretations.
+The standard is effective for annual periods beginning on or after 1 January 2018 and earlier application is permitted.
+The group is working towards the implementation of IFRS 15 on 1 January 2018 and has carried out a review of existing contractual arrangements as part of this process.
+The directors anticipate there will be no material impact.
+The profile of cash receipts is not affected by this standard.
+IFRS 16 Leases addresses the definition of a lease recognition and measurement of leases and it establishes principles for reporting useful information to users of financial statements about the leasing activities of both lessees and lessors.
+A key change arising from IFRS 16 is that most operating leases will be accounted for on balance sheet for lessees.
+The standard replaces IAS 17 Leases and related interpretations.
+The standard is effective for annual periods beginning on or after 1 January 2019 and earlier application is permitted subject to EU endorsement and the entity adopting IFRS 15 Revenue from contracts with customers at the same time.
+Based on existing operating leases under IAS 17 the directors estimate that if IFRS 16 were implemented on 1 January 2018 additional land and buildings of 480000 and vehicles and machinery of 128000 would be recognised together with an additional lease liability of 608000.
+In future periods the operating lease charge would be replaced by a depreciation charge that whilst lower over the life of the lease than the current operating lease charge is not expected to be materially different.
+The directors are in the process of reviewing contracts to identify any additional lease arrangements that would need to be recognised under IFRS 16.
+Going concern The Group meets its daytoday working capital requirements through the use of cash reserves and existing bank facilities.
+The Directors have considered the applicability of the going concern basis in the preparation of these financial statements.
+This included the review of internal budgets and financial results which show taking into account reasonably probable changes in financial performance that the Group should be able to operate within the level of its current funding arrangements.
+The restructuring and cost saving actions taken in late 2015 and early 2016 allowed the Group to become cash generative in the second half of 2016 and this has continued through 2017.
+As a result the Group has been able to significantly reduce its borrowings during the year.
+The Directors believe that the Company and the Group have adequate resources to continue in operation for the foreseeable future.
+For this reason they have adopted the going concern basis in the preparation of the financial statements.
+Basis of consolidation The consolidated financial statements incorporate the financial statements of the Company and its subsidiary undertakings.
+Subsidiaries are all entities over which the Group has the power to govern their financial and operating policies generally accompanying a shareholding of more than fifty per cent of the voting rights.
+The existence and effect of potential voting rights that are currently exercisable or convertible are considered when assessing whether the Group controls another entity.
+38 Annual Report 2017 EKF Diagnostics Holdings plc 3.0 Financial Statements Subsidiaries are fully consolidated from the date on which control is transferred to the Group.
+They are deconsolidated from the date that control ceases.
+The Group uses the acquisition method of accounting to account for business combinations.
+The consideration transferred for the acquisition of a subsidiary is the fair values of the assets transferred the liabilities incurred and the equity interests issued by the Group.
+The consideration transferred includes the fair value of any asset or liability resulting from a contingent consideration agreement.
+Acquisition related costs are expensed as incurred.
+Identifiable assets acquired and liabilities and contingent liabilities assumed in a business combination are measured initially at their fair values at the acquisition date.
+On an acquisition by acquisition basis the Group recognises any noncontrolling interest in the acquiree either at fair value or at the noncontrolling interests proportionate share of the acquirees net assets.
+The excess of the consideration transferred the amount of any noncontrolling interest in the acquiree and the acquisition date fair value of any previous equity interest in the acquiree over the fair value of the Groups share of the identifiable net assets acquired is recorded as goodwill.
+If
+Investments in subsidiaries are accounted for at cost less impairment.
+InterCompany transactions balances and unrealised gains on transactions between Group companies are eliminated.
+Unrealised losses are also eliminated.
+Accounting policies of subsidiaries have been changed where necessary to ensure consistency with the policies adopted by the Group.
+Foreign currency translation a Functional and presentational currency Items included in the financial statements of each of the Groups entities are measured using the currency of the primary economic environment in which the entity operates the functional currency.
+The consolidated financial statements are presented in British Pounds Sterling which is the Companys functional and presentational currency.
+Foreign currency transactions are translated into the functional currency using the exchange rates prevailing at the dates of the transactions where items are remeasured.
+Foreign exchange gains and losses resulting from the settlement of such transactions and from the translation at yearend exchange rates of monetary assets and liabilities denominated in foreign currencies are recognised in the income statement within administrative expenses.
+The results and financial position of all the Group entities none of which has the currency of a hyper inflationary economy that have a functional currency different from the presentational currency are translated into the presentational currency as follows assets and liabilities for each balance sheet presented are translated at the closing rate at the date of that balance sheet income and expenses for each income statement are translated at average exchange rates and all resulting exchange differences are recognised in other comprehensive income.
+On consolidation exchange differences arising from the translation of the net investment in foreign operations are taken to other comprehensive income.
+When a foreign operation is partially disposed of or sold exchange differences that were recorded in equity are recognised in the income statement as part of the gain or loss on sale.
+Goodwill and fair value adjustments arising on the acquisition of a foreign entity are treated as assets and liabilities of the foreign entity and translated at the closing rate.
+Segmental reporting Operating segments are reported in a manner consistent with the internal reporting provided to the chief operating decisionmaker.
+The chief operating decisionmaker who is responsible for allocating resources and assessing performance of the operating segments has been identified as the Executive Directors who make strategic decisions.
+Government grants Government grants receivable in connection with expenditure on property plant and equipment are accounted for as deferred income which is credited to the income statement over the expected useful economic life of the related assets on a basis consistent with the depreciation policy.
+Revenue grants for the reimbursement of costs charged to the income statement are credited to the Income Statement in the year in which the costs are incurred.
+EKF Diagnostics Holdings plc  Annual Report 2017 3.0 Financial Statements Property plant and equipment Property plant and equipment are stated at historical cost less accumulated depreciation and any provision for impairment.
+Historical cost includes expenditure that is directly attributable to the acquisition of the asset and bringing the asset to its working condition for its intended use.
+Subsequent costs are included in the assets carrying amount or recognised as a separate asset as appropriate only where it is probable that future economic benefits associated with the asset will flow to the Group and the cost of the asset can be measured reliably.
+The carrying amount of the replaced part is derecognised.
+All other repairs and maintenance are charged to the income statement during the financial period in which they are incurred.
+Any borrowing costs associated with qualifying property plant and equipment are capitalised and depreciated at the rate applicable to that asset category.
+Land is not depreciated.
+Depreciation on other assets is calculated using the straightline method or reducing balances method to allocate their cost to its residual values over their estimated useful lives as follows
+2%2.5% Fixtures and fittings 20%25% Plant and machinery 20%33.3% Motor vehicles 25% The assets residual values and useful economic lives are reviewed regularly and adjusted if appropriate at the end of each reporting period.
+An assets carrying value is written down immediately to its recoverable amount if the assets carrying amount is greater than its estimated recoverable amount.
+Gains and losses on the disposal of assets are determined by comparing the proceeds with the carrying amount and are recognised in administration expenses in the income statement.
+Intangible assets a Goodwill Goodwill represents the excess of the cost of an acquisition over the fair value of the Groups share of the net identifiable assets of the acquired subsidiary at the date of the acquisition.
+Goodwill on acquisitions of subsidiaries is included in intangible assets.
+Goodwill has an infinite useful life and is tested annually for impairment and carried at cost less accumulated impairment losses.
+Impairment losses on goodwill are not reversed.
+Gains and losses on the disposal of an entity include the carrying amount of goodwill relating to the entity sold.
+Goodwill is allocated to cashgenerating units for the purpose of impairment testing.
+The allocation is made to those cashgenerating units or groups of cashgenerating units that are expected to benefit from the business combination in which the goodwill arose identified according to operating segment.
+Separately acquired trademarks and licences are shown at historical cost.
+Trademarks and licences acquired in a business combination are recognised at fair value at the acquisition date.
+Trademarks and licences have a finite useful life and are carried at cost less accumulated amortisation.
+Amortisation is calculated using the straightline method to allocate the cost of trademarks and licences over their estimated useful lives of between 8 and 12 years and is charged to administrative expenses in the income statement.
+Contractual customer relationships acquired in a business combination are recognised at fair value at the acquisition date.
+The contractual customer relationships have a finite useful life and are carried at cost less accumulated amortisation.
+Amortisation is calculated using the straightline method over the expected life of the customer relationship of between 6 and 15 years and is charged to administrative expenses in the income statement.
+Trade secrets including technical knowhow operating procedures methods and processes acquired in a business combination are recognised at fair value at the acquisition date.
+Trade secrets have a finite useful life and are carried at cost less accumulated amortisation.
+Amortisation is calculated using the straightline method to allocate the cost of trade secrets over their estimated useful lives of between 6 and 15 years and is charged to administrative expenses in the income statement.
+40 Annual Report 2017 EKF Diagnostics Holdings plc 3.0 Financial Statements e Development costs Development costs acquired in a business combination are recognised at fair value at the acquisition date.
+Development costs have a finite useful life and are carried at cost less accumulated amortisation.
+Amortisation is calculated using the straightline method over their estimated useful lives of 15 years and is charged to administrative expenses in the income statement.
+Expenditure incurred on the development of new or substantially improved products or processes is capitalised provided that the related project satisfies the criteria for capitalisation including the projects technical feasibility and likely commercial benefit.
+All other research and development costs are expensed as incurred.
+Development costs are amortised over the estimated useful life of the products with which they are associated currently 4 to 5 years.
+Amortisation commences when a new product is in commercial production.
+The amortisation is charged to administrative expenses in the income statement.
+The estimated remaining useful lives of development costs are reviewed at least on an annual basis.
+The carrying value of capitalised development costs is reviewed for potential impairment at least annually and if a product becomes unviable and an impairment is identified the deferred development costs are immediately charged to the income statement.
+Impairment of nonfinancial assets Assets that have an indefinite life such as goodwill are not subject to amortisation and are tested annually for impairment.
+Assets that are subject to amortisation are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount may not be recoverable.
+An impairment loss is recognised for the amount by which the carrying amount exceeds its recoverable amount.
+The recoverable amount is the higher of an assets fair value less costs to sell and value in use.
+In assessing value in use the estimated future cash flows are discounted to their present value using a pretax discount rate that reflects current market assessments of the time value of money and the risks specific to the asset for which the estimates of future cash flows have not been adjusted.
+For the purposes of assessing impairment assets are grouped at the lowest levels for which there are separately identifiable cash flows.
+Impairment losses recognised for cashgenerating units to which goodwill has been allocated are credited initially to the carrying amount of goodwill.
+Any remaining impairment loss is charged pro rata to the other assets in the cashgenerating unit.
+Where an impairment loss subsequently reverses the carrying amount of the asset cashgenerating unit is increased to the revised estimate of its recoverable amount but so that the increased carrying amount does not exceed the carrying amount that would have been determined had no impairment loss been recognised for the asset cashgenerating unit in the prior period.
+A reversal of an impairment loss is recognised in the income statement immediately.
+If goodwill is impaired however no reversal of the impairment is recognised in the financial statements.
+Investments
+Investments where the Group does not have a controlling interest are initially recognised at cost.
+The carrying value is tested annually for impairment and an impairment loss is recognised for the amount by which the carrying amount exceeds its recoverable amount.
+Financial assets
+The Company classifies its financial assets in the following categories loans and receivables and availableforsale financial assets.
+The classification depends on the purpose for which the financial assets were acquired and management determines the classification of its financial assets at initial recognition.
+Loans and receivables are nonderivative financial assets with fixed or determinable payments that are not quoted in an active market.
+They are included in current assets except for maturities greater than 12 months after the balance sheet date.
+These are classified as noncurrent assets.
+The Companys loans and receivables comprise trade and other receivables and cash and cash equivalents in the balance sheet.
+Availableforsale assets are nonderivatives that are either designated in this category or not EKF Diagnostics Holdings plc  Annual Report 2017 3.0 Financial Statements classified as loans and receivables.
+They are included in noncurrent assets unless the investment matures or management intends to dispose of it within 12 months of the end of the reporting period.
+Recognition and measurement Regular purchases and sales of financial assets are recognised on the trade date  the date on which the Company commits to purchase the asset.
+Assets are initially recognised at fair value plus transaction costs.
+Financial assets are derecognised when the risk and rewards of ownership have been transferred.
+Loans and receivables are subsequently carried at amortised cost using the effective interest rate method.
+Availableforsale financial assets are subsequently carried at fair value.
+Gains and losses arising from changes in fair value are recognised in other comprehensive income until the asset is disposed at which time the cumulative gain or loss previously recognised in equity is included in the consolidated income statement for the period.
+If an availableforsale investment is determined to be impaired the cumulative loss previously recognised in equity is included in the income statement for the period.
+Inventories
+Inventories and work in progress are stated at the lower of cost and net realisable value.
+Cost is calculated on a first in and first out basis and includes raw materials direct labour other direct costs and attributable production overheads where appropriate.
+Net realisable value represents the estimated selling price less all estimated costs of completion and applicable selling costs.
+Where necessary provision is made for slowmoving and obsolete inventory.
+Inventory on consignment and their related obligations are recognised in current assets and payables respectively.
+Trade and other receivables Trade receivables are initially recognised at fair value being the original invoice amount and subsequently measured at amortised cost less provision for impairment.
+A provision for impairment is established when there is objective evidence that the Group will not be able to collect all amounts due according to the original terms of the receivable.
+Trade receivables that are less than three months past due are not considered impaired unless there are specific financial or commercial reasons that lead management to conclude that the customer will default.
+Older debts are considered to be impaired unless there is sufficient evidence to the contrary that they will be settled.
+The amount of the provision is the difference between the assets carrying value and the present value of the estimated future cash flows.
+The carrying amount of the asset is reduced through the use of an allowance account and the amount of the loss is recognised in the income statement within administrative expenses.
+When a trade receivable is uncollectible it is written off against the allowance account.
+Subsequent recoveries of amounts previously written off are credited against administrative expenses in the income statement.
+Cash and cash equivalents Cash and shortterm deposits in the balance sheet comprise cash at bank and in hand and short term deposits with an original maturity of less than three months reduced by overdrafts to the extent that there is a right of offset against other cash balances.
+For the purposes of the consolidated cash flow statement cash and cash equivalents consist of cash and shortterm deposits as defined above net of outstanding bank overdrafts where there is a right of offset.
+Share capital Ordinary Shares are classified as equity.
+Proceeds in excess of the nominal value of shares issued are allocated to the share premium account and are also classified as equity.
+Incremental costs directly attributable to the issue of new Ordinary Shares or options are deducted from the share premium account.
+Financial liabilities Debt is measured at fair value being net proceeds after deduction of directly attributable issue costs with subsequent measurement at amortised cost with the exception of deferred equity consideration which is categorised as a financial liability at fair value through profit and loss.
+Debt issue costs are recognised in the income statement over the expected term of such instruments at a constant rate on the carrying amount.
+Trade and other payables Trade payables are obligations to pay for goods or services that have been acquired in the ordinary 42 Annual Report 2017 EKF Diagnostics Holdings plc 3.0 Financial Statements course of business from suppliers.
+Accounts payable are classified as current liabilities if payment is due within one year or less or in the normal operating cycle of the business if longer.
+If not they are presented as noncurrent liabilities.
+Trade payables are recognised initially at fair value and subsequently measured at amortised cost using the effective interest method.
+Borrowings
+Borrowings are recognised initially at the fair value of proceeds received net of transaction costs incurred.
+Borrowings are subsequently carried at amortised cost.
+Borrowings are classified as current liabilities unless the Group has an unconditional right to defer settlement of the liability for at least 12 months after the balance sheet date.
+Borrowing costs are expensed in the consolidated Group income statement under the heading finance costs.
+Arrangement and facility fees together with bank charges are charged to the income statement under the heading administrative expenses.
+Current and deferred income tax The tax expense comprises current and deferred tax.
+Tax is recognised in the income statement except to the extent that it relates to items recognised in other comprehensive income where the associated tax is also recognised in other comprehensive income.
+The current income tax charge is calculated on the basis of the tax laws enacted or substantively enacted at the balance sheet date in the countries where the Company and its subsidiaries operate and generate taxable income.
+Management evaluates positions taken in tax returns with respect to situations in which applicable tax regulation is subject to interpretation and establishes provisions where appropriate on the basis of amounts expected to be paid to the tax authorities.
+Deferred tax is recognised using the liability method on all temporary differences at the balance sheet date between the tax bases of assets and liabilities and their carrying amounts for financial reporting purposes.
+Deferred tax liabilities are recognised in respect of all temporary differences except where the deferred tax liability arises from the initial recognition of goodwill in business combinations.
+Deferred tax assets are recognised for all deductible temporary differences carryforward of unused tax assets and tax losses to the extent that they are regarded as recoverable.
+They are regarded as recoverable where on the basis of available evidence there will be sufficient taxable profits against which the future reversal of the underlying temporary differences can be deducted.
+The carrying value of the amount of deferred tax assets is reviewed at each balance sheet date and reduced to the extent that it is no longer probable that sufficient taxable profit will be available to allow all or part of the tax asset to be utilised.
+Deferred tax assets and liabilities are measured at the tax rates that are expected to apply to the year when the asset is realised or the liability is settled based on the tax rates and tax laws that have been substantively enacted at the balance sheet date.
+Deferred income tax assets and liabilities are offset when there is a legally enforceable right to offset current tax assets against current tax liabilities and when the deferred income tax assets and liabilities relate to income taxes levied by the same taxation authority on either the taxable entity or different taxable entities where there is an intention to settle the balances on a net basis.
+Provisions
+Provisions for legal claims are recognised when the Group has a present legal or constructive obligation as a result of a past event and it is probable that an outflow of resources will be required to settle the obligation and the amount can be reliably measured.
+Leases
+Leases which transfer substantially all the risks and rewards of ownership of an asset are treated as a finance lease.
+Assets held under finance leases are capitalised at their fair value at the inception of the lease and depreciated over the estimated useful economic life of the asset or lease term if shorter.
+The finance charges are allocated to the income statement in proportion to the capital amount outstanding.
+All other leases are classified as operating leases.
+Operating lease rentals are charged to the income statement in equal annual amounts over the lease term.
+Deferred consideration Deferred consideration is recognised at fair value.
+Where the value of deferred consideration is EKF Diagnostics Holdings plc  Annual Report 2017 3.0 Financial Statements based on a future event management estimate the likelihood of the consideration becoming payable.
+Deferred consideration is discounted to take account of the time value of money at rates based on those used for the valuation of related intangible assets.
+Employee benefits a Pension obligations Group companies operate various pension schemes all of which are defined contribution plans. separate entity with the pension cost charged to the income statement as incurred.
+The Group has no further obligations once the contributions have been paid.
+The Group operates a number of equitysettled sharebased compensation plans under which the Group receives services from employees and others as consideration for equity instruments of the
+Equitysettled sharebased payments are measured at fair value at the date of grant and are expensed over the vesting period based on the number of instruments that are expected to vest.
+For plans where vesting conditions are based on share price targets the fair value at the date of grant reflects these conditions.
+Where applicable the Group recognises the impact of revisions to original estimates in the income statement with a corresponding adjustment to equity for equity settled schemes.
+Fair values are measured using appropriate valuation models taking into account the terms and conditions of the awards.
+When the sharebased payment awards are exercised the Company issues new shares.
+The proceeds received net of any directly attributable transaction costs are credited to share capital nominal value and share premium.
+The Group operates a cashsettled compensation plan for certain senior employees.
+Cashsettled sharebased payments are measured at fair value at each reporting date and are expensed over the expected vesting period.
+The fair value amount is recognised in liabilities.
+National insurance on share options To the extent that the share price at the balance sheet date is greater than the exercise price on options granted under unapproved sharebased payment compensation schemes provision for any National Insurance Contributions has been based on the prevailing rate of National Insurance.
+The provision is accrued over the performance period attaching to the award.
+Revenue recognition a Sale of goods Revenue for the sale of medical diagnostic instruments and reagents is measured at the fair value of the consideration received or receivable and represents the invoiced value for the sale of the goods net of sales taxes rebates and discounts.
+Revenue from the sale of goods is recognised when a Group Company has delivered products to the customer the customer has accepted delivery of the products and collectability of the related receivables is reasonably assured.
+Revenue for the sale of services is measured at the fair value of the consideration received or receivable and represents the invoiced value for the sale of the services net of sales taxes rebates and discounts.
+Revenue from the sale of services is recognised when a Group Company has completed the services and collectability of the related receivables is reasonably assured.
+Interest income is accrued on a time basis by reference to the principal outstanding and at the effective interest rate applicable which is the rate that exactly discounts estimated future cash receipts through the expected life of the financial asset to that assets net carrying amount.
+Royalty and licence income is recognised on an accruals basis in accordance with the substance of the relevant agreements.
+Dividend distribution Dividend distributions to the Companys shareholders are recognised as a liability in the Groups financial statements in the period in which the dividends are approved by the Companys shareholders.
+Interim dividends are recognised when paid.
+Other income Other income includes grant income and R and D tax credits passed through income where this is 44 Annual Report 2017 EKF Diagnostics Holdings plc 3.0 Financial Statements permitted by the relevant jurisdiction.
+Exceptional items These are items of an unusual or nonrecurring nature incurred by the Group and include transactional costs and one off items relating to business combinations such as acquisition expenses.
+Financial risk management Financial risk factors The Groups activities expose it to a variety of financial risks market risk foreign exchange risk and cash flow interest rate risk credit risk liquidity risk capital risk and fair value risk.
+The Groups overall risk management programme focuses on the unpredictability of the financial markets and seeks to minimise the potential adverse effects on the Groups financial performance.
+The Group does not use derivative financial instruments to hedge risk exposures.
+Risk management is carried out by the head office finance team.
+It evaluates and mitigates financial risks in close cooperation with the Groups operating units.
+The Board provides principles for overall risk management whilst the head office finance team provides specific policy guidance for the operating units in terms of managing foreign exchange risk credit risk and cash and liquidity management.
+The Groups presentational currency is sterling although it operates internationally and is exposed to foreign exchange risk arising from various currency exposures primarily between GBP USD the Euro and Rouble such that the Groups cash flows are affected by fluctuations in the rate of exchange between GBP and the aforementioned foreign currencies.
+This exposure is managed by a natural currency hedge as the Groups operating subsidiaries cost base is also denominated in USDs Euros and Roubles as the Group has subsidiary businesses located in the USA Germany and Russia.
+Management do not use derivative financial instruments to mitigate the impact of any residual foreign currency exposure not mitigated by the natural hedge within the business model.
+The
+Group does not speculate in foreign currencies and no operating Company is permitted to take unmatched positions in any foreign currency.
+Translation exposures that arise on converting the results of overseas subsidiaries are not hedged.
+Net assets held in foreign currencies are hedged wherever practical by matching borrowings in the same currency.
+The principal exchange rates used by the Group in translating overseas profits and net assets into GBP are set out in the table below.
+Rate compared to GBP
+Average rate Year end rate Year end rate As a guide to the sensitivity of the Groups results to movements in foreign currency exchange rates a one cent movement in the Euro and US Dollars to Sterling rate would impact annual earnings by approximately 45000 and 73000 respectively.
+The Group has interestbearing assets in the form of cash and cash equivalents and interest bearing liabilities which relate to borrowings and finance lease obligations in the Groups UK US and German subsidiaries.
+Interest rates on cash and cash equivalents are floating whilst interest rates on certain borrowings have been fixed and therefore expose the Group to fair value interest rate risk.
+The Group does not speculate on future changes in interest rates.
+Where overseas acquisitions are made it is the Groups policy to arrange any borrowings required in local currency.
+It is the Groups policy not to trade in financial instruments.
+The Group does not use interest rate swaps.
+EKF Diagnostics Holdings plc  Annual Report 2017 3.0 Financial Statements b Credit risk Credit risk is managed on a Group basis except for credit risk relating to accounts receivable balances.
+Each local subsidiary and operating business unit is responsible for managing and analysing the credit risk for each of their new clients before standard payment and delivery terms and conditions are offered.
+It is the Group policy to obtain deposits or require payment in advance from customers where possible particularly overseas customers.
+In addition if possible the Group will seek confirmed letters of credit for the balances due.
+Credit risk is managed at the operating business unit level and monitored at the Group level to ensure adherence to Group policies.
+If there is no independent rating local management assesses the credit quality of the customer taking into account its financial position past experience and other factors.
+Individual risk limits are set based on internal or external ratings in accordance with limits set by the Board.
+The utilisation of credit limits is regularly monitored.
+Where extended credit is granted this is agreed by the Finance
+Credit insurance is taken out where appropriate and cost effective.
+Credit risk also arises from cash and cash equivalents derivative financial instruments and deposits with banks and financial institutions as well as credit exposures to customers.
+Cash flow forecasting is performed in the individual operating entities of the Group and is aggregated by Group finance.
+Group finance monitors cash and cash flow forecasts and it is the Groups liquidity risk management policy to maintain sufficient cash and available funding through an adequate amount of cash and cash equivalents and committed credit facilities from its bankers.
+Due to the dynamic nature of the underlying businesses the head office finance team aims to maintain flexibility in funding by keeping sufficient cash and cash equivalents available to fund the requirements of the Group.
+The Groups policy in relation to the finance of its overseas operations requires that sufficient liquid funds be maintained in each of its territory subsidiaries to support short and mediumterm operational plans.
+Where necessary shortterm funding is provided by the holding company.
+In the UK the management of liquid funds in excess of operational needs are controlled centrally.
+Typically excess funds are placed as shortterm deposits to provide a balance between interest earnings and flexibility where the benefit outweighs the administrative cost.
+The table below analyses the Groups nonderivative financial liabilities into relevant maturity groupings based on the remaining period at the balance sheet date to the contractual maturity date.
+The amounts disclosed in the table are the contractual undiscounted cash flows.
+Less than one year
+1 and 2 years
+2 and 5 years More than 5 years
+At 31 December 2017 Borrowings inc.
+Deferred consideration 1062    1062 Trade and other payables 9429    9429 At 31 December 2016 Borrowings inc.
+Deferred consideration 693    693 Trade and other payables 9300    9300 d Capital risk management The Groups objectives when managing capital are to safeguard the ability to continue as a going concern in order to provide returns for shareholders and benefits for other stakeholders and to maintain an optimal capital structure to reduce the cost of capital.
+The Group monitors capital on the basis of the gearing ratio.
+This ratio is calculated as net debt divided by total capital.
+Net debt is calculated as total borrowings including current and non current borrowings as shown in the consolidated balance sheet less cash and cash equivalents.
+Total capital is the sum of net debt plus equity.
+The Group has no Level 1 2 or 3 classified financial assets as at 31 December 2017 2016 none.
+46 Annual Report 2017 EKF Diagnostics Holdings plc 3.0 Financial Statements Critical accounting estimates and judgements In the process of applying the Groups accounting policies management has made accounting judgements in the determination of the carrying value of certain assets and liabilities.
+Due to the inherent uncertainty involved in making assumptions and estimates actual outcomes will differ from those assumptions and estimates.
+The following judgements have the most significant effect on the amounts recognised in the financial statements.
+A dispute has arisen between EKFdiagnostic GmbH and a distributor involving disputed invoices from the distributor relating mainly to the period prior to the acquisition of the company by the
+The dispute is not covered by any outstanding warranty from the former owner.
+Earlier litigation in the UK has been settled in EKFs favour however litigation in Germany is continuing.
+Having taken legal advice the Directors believe that no settlement provision is required in relation to this dispute however an accrual for legal costs has been set.
+A dispute which had arisen with a second distributor in relation to issues with the registration of a product was settled during the year.
+The Group tests annually whether goodwill and other intangible assets have suffered any impairment in accordance with the accounting policy stated in note 2.
+The recoverable amounts of cashgenerating units have been determined based on valueinuse calculations.
+These calculations require the use of estimates as set out in note 17.
+A number of accounting estimates and judgements are incorporated within the calculation of the charge to the income statement in respect of sharebased payments.
+These are described in more detail in note 30.
+Segmental reporting Management has determined the Groups operating segments based on the monthly management reports presented to the Chief Operating Decision Maker CODM.
+The CODM is the Executive Directors and the monthly management reports are used by the Group to make strategic decisions and allocate resources.
+The principal activity of the Group is the design development manufacture and sale of diagnostic instruments reagents and certain ancillary products as well as central laboratory reagents.
+This activity takes place across various countries such as the USA Germany Russia and the United Kingdom and as such the Board considers the business primarily from a geographic perspective.
+Although not all the segments meet the quantitative thresholds required by IFRS 8 management has concluded that all segments should be maintained and reported.
+The reportable segments derive their revenue primarily from the manufacture and sale of medical diagnostic equipment.
+Other services include the servicing and distribution of third party company products under separate distribution agreements.
+Currently the key operating performance measures used by the CODM are Revenue and adjusted
+EKF Diagnostics Holdings plc  Annual Report 2017 3.0 Financial Statements Segmental reporting continued The segment information provided to the Board for the reportable segments for the year ended 31 December 2017 is as follows
+USA
+Russia
+Other
+Total
+Income statement Revenue 21006 22856 2742 4 Intersegment 5024 External revenue 15982 22856 2742 4 41584 Adjusted EBITDA 5883 7730 4995 9304 Exceptional items Note 7 Sharebased payments Note 30
+5676 7749 686
+Amortisation 26 7 3 Operating profitloss 2 19 5 6413 628 4507 4 7 29 Net finance costs Income tax 476 Retained profitloss 2623 Segment assets Operating assets 40959 24219 573 26363 92114 Intersegment assets 168   22992 23160 External operating assets 40791 24219 573 3371 68954
+3118 3376 994 715 8203 Total assets 43909 27595 1567 4086 77157 Segment liabilities Operating liabilities 13543 20467 132 4472 38614 Intersegment liabilities 8294 14990  124 23160 External operating liabilities 5249 5477 132 4596 15454
+1056   149 1205 Total liabilities 6305 5477 132 4745 16659 Other segmental information Noncurrent assets  PPE 6443 1461 12 121 Noncurrent assets  Intangibles 28461 13638 119 1382 43600 PPE  additions 1361 Intangible assets  additions 293 484 Adjusted EBITDA excludes exceptional items and sharebased payments.
+48 Annual Report 2017 EKF Diagnostics Holdings plc 3.0 Financial Statements Segmental reporting continued
+US
+Russia
+Other
+Total
+Income statement Revenue 19417 21199 2677 33 43326 Intersegment 4716 1 22 4737 External revenue 14701 21200 2677 11 38589 Adjusted EBITDA 3982 6136 Exceptional items Note 7 28 525  21 532 Share based payments Note 30    973 973 EBITDA 3954 5530 4634 Depreciation 711 405 27 66 1209 Amortisation 2124 1519 29 80 3752 Operating profitloss 543 5676 327 Net finance costs 41 155 29 Income tax 68 1245 126 15 1172 Retained profitloss 6200 169 Segment assets Operating assets 44703 30170 623 37570 113066 Intersegment assets 653 3870  33985 38508 External operating assets 44050 26300 623 3585 74558 Cash 2032 2192 959 2691 7874 Total assets Segment liabilities Operating liabilities 17359 27463 137 9290 54249 Intersegment liabilities 10490 22082  5934 38506 External operating liabilities 6869 5381 137 3356 15743 Borrowings 1191 195 4332 5718 Total liabilities 8060 5576 137 7688 21461 Other segmental information Noncurrent assets  PPE 6004 4538 71 1511 12124 Noncurrent assets  Intangibles 29680 15555 151 1117 46503 PPE additions 1261 Intangible assets  additions 285 308  70 663 Adjusted EBITDA excludes exceptional items and sharebased payments.
+Other primarily relates to the holding company and head office costs.
+Poland is included in Germany as a result of the closure of the Polish operations during the year.
+EKF Diagnostics Holdings plc  Annual Report 2017 3.0 Financial Statements Segmental reporting continued Disclosure of Group revenues by geographic location of customer is as follows
+United States of America 17174 15122 Rest of Americas 3195 3979 Europe Middle East and Africa EMEA Germany 6016 6082 United Kingdom 300 276 Rest of Europe 3423 2761 Russia 2743 2687 Middle East 2912 2870 Africa 1611 882 Asia and Rest of World China 915 929 Rest of Asia 3168 2922 New ZealandAustralia 127 79 Total revenue 41584 38589 No single external customer represented more than 10% of revenues in either 2017 or 2016.
+Expenses  analysis by nature Inventories consumed in cost of sales 7848 11388 Employee benefit expense note 10 17005 14636 Employee costs capitalised as intangible assets 364 267 Depreciation and amortisation 4623 4961 Exceptional items note 7 1562 532 Research and development expenses 2203 2039 Foreign exchange 239 481 Operating lease payments 480 477 Other expenses 6435 4754 Total cost of sales and administrative expenses 36907 39001 Included within the above expenses are exceptional items as set out in note 7.
+50 Annual Report 2017 EKF Diagnostics Holdings plc 3.0 Financial Statements Exceptional items Included within administrative expenses are exceptional items as shown below
+Warranty claim a 339 129 Business reorganisation costs b 183 661 Cancellation of shares c 1406 Exceptional items 1562 532 a.
+Estimated warranty claim in relation to the acquisition of EKFdiagnostic GmbH increased because of higher share price. b.
+Restructuring costs mainly redundancy and notice costs associated in 2017 with the closure of EKFs Polish facility and other restructuring activities. c.
+Fair value of shares released to EKF by former shareholders of Selah Genomics Inc. part of the consideration for the acquisition of Selah but held in escrow.
+These shares have subsequently been cancelled.
+Auditor remuneration During the year the Group including its overseas subsidiaries obtained the following services from the Companys auditor and its associates Fees payable to Companys auditor and its associates for the audit of the parent Company and consolidated financial statements Fees payable to the Companys auditor and its associates for other services The audit of Companys subsidiaries 69 64 Other services 23 19 Tax compliance services .
+Directors emoluments Aggregate emoluments 1745 577 Contribution to defined contribution pension scheme 19 18 1764 595 Retirement benefits are accruing to 2 2016 2 current directors under a defined contribution scheme.
+See further disclosures within the Remuneration Report on page 23.
+Employee benefit expense
+Group
+Company
+Company
+Wages and salaries 13304 11681 2177 1696 Social security costs 2019 1763 240 303 Share based payments granted to Directors and senior management Note 30 1514 973 1514 973 Pension costs  defined contribution plans Note 33 005 14636 3976 3019 Employee costs of 0.4m 2016 0.3m have been capitalised as part of development costs in the Group.
+EKF Diagnostics Holdings plc  Annual Report 2017 3.0 Financial Statements Monthly average number of people employed
+Number
+Group
+Number
+Company
+Number
+Company
+Number
+Monthly average number of people including Executive Directors employed was Administration Research and development Sales and marketing Manufacturing production and after sales 160 173 The total number of employees FTEs in the Group at 31 December 2017 was 296 2016 299 and in the Company was 17 2016 19.
+Finance income and costs Finance costs Bank borrowings 83 338 Other interest 23 158 Financial liabilities at fair value through profit or loss  lossesgains 369 208 Convertible debt  9 Finance costs 475 713 Finance income Interest income on cash and shortterm deposits 14 37 Other interest 39 Finance income 53 37 Net finance costs 422 676 52 Annual Report 2017 EKF Diagnostics Holdings plc 3.0 Financial Statements Income tax
+Current tax Current tax on profitloss for the year 2045 1602 Adjustments for prior periods 100 2219 Total current tax 1945 617 Deferred tax note 27 Origination and reversal of temporary differences 578 555 Total deferred tax 578 555 Income tax chargecredit 1367 1172 The Finance Act 2015 which was substantively enacted in 2015 included legislation to reduce the main rate of UK corporation tax to 19% from 1 April 2017 and the Finance Act 2016 which was substantively enacted in 2016 included legislation to reduce the main rate of UK corporation tax to 17% from 1 April 2020.
+The tax on the Groups profitloss before tax differs from the theoretical amount that would arise using the standard tax rate applicable to the profits of the consolidated entities as follows Profitloss before tax 4307 1003 Tax calculated at domestic tax rates applicable to UK standard rate of tax of 19.25% 2016 20% Tax effects of Expenses not deductible for tax purposes 31 390 Remeasurement of deferred tax  change in future tax rate 360 Income not subject to tax 267 Utilisation of losses carried forward group relief 178 63 Adjustment in respect of prior years 100 2219 Impact of different tax rates in other jurisdictions 634 428 Other movements 244 493 Tax chargecredit 1367 1172 There are no tax effects on the items in the statement of other comprehensive income.
+Earnings per share a Basic Basic earnings per share is calculated by dividing the profit attributable to owners of the parent by the weighted average number of Ordinary Shares in issue during the year.
+Profitloss attributable to owners of the parent 2715 18 Weighted average number of Ordinary Shares in issue 463098526 446042831 Basic profitloss per share 0.59 pence 0.00 pence EKF Diagnostics Holdings plc  Annual Report 2017 3.0 Financial Statements b Diluted Diluted earnings per share is calculated by adjusting the weighted average number of Ordinary Shares outstanding assuming conversion of all dilutive potential Ordinary Shares.
+The Company has two categories of dilutive potential ordinary shares equitybased longterm incentive plans and share options.
+The potential shares were not dilutive in 2016 as the Group made a loss per share.
+Profitloss attributable to owners of the parent 2715 18 Weighted average diluted number of Ordinary Shares 469343547 446042831 Diluted profitloss per share 0.58 pence 0.00 pence 2017 2016 Weighted average number of Ordinary Shares in issue 463098526 446042831 Adjustment for Assumed conversion of share awards 2201081 Assumed payment of equity deferred consideration 4043940 4043940 Weighted average number of Ordinary Shares including potentially dilutive shares 469343547 450086771
+There were no dividends paid or proposed by the Company in either year.
+The Boards policy is to enhance shareholder value mainly through the growth of the Group and through a programme of share buy backs.
+The Board will however consider the payment of dividends if and when appropriate.
+54 Annual Report 2017 EKF Diagnostics Holdings plc 3.0 Financial Statements Property plant and equipment
+Land and buildings Fixtures and fittings Plant and machinery
+Total
+Cost
+At 1 January 2016 7877 1080 8071 97 17125 Additions 261 Transfers 214 13 201 Exchange differences 1146 170 1349 49 2714 Disposals 31 232 1027 11 1301 At 31 December 2016 9829 1140 8688 142 19799 Accumulated depreciation At 1 January tel4976 32 6445 Charge for the year 209 Exchange differences 081 Disposals 31 144 876 9 1060 At 31 December 2016 1107 783 5710 75 7675 Net book value at 31 December 2016 8722 357 2978 67 12124
+At 1 January 2017 9829 1140 8688 142 19799 Additions 197 136 1006 22 1361 Exchange differences 265 39 243 2 63 Disposals 106 19 267 23 415 At 31 December 2017 9655 1218 9670 139 20682 Accumulated depreciation At 1 January 2017 1107 783 5710 75 7675 Charge for the year 160 Exchange differences 54 17 117  46 Disposals 61 19 226 14 320 At 31 December 2017 1270 928 6273 90 8561 Net book value at 31 December 2017 8385 290 3397 49 12121 Depreciation expense of 733000 2016 774000 has been charged to cost of sales and 427000 2016 435000 has been charged to administrative expenses.
+EKF Diagnostics Holdings plc  Annual Report 2017 3.0 Financial Statements Property plant and equipment continued
+Land and buildings
+Total
+Cost
+At 1 January 2016 1673 89 1762 Additions  27 27 Disposals  1 1 At 31 December 2016 1673 115 1788 Accumulated depreciation At 1 January Charge for the year 40 24 64 Disposals  1 1 At 31 December Net book value At 31 December 2016 1470 40 1510
+At 1 January 2017 1673 115 1788 Additions  15 15 At 31 December 2017 1673 130 1803 Accumulated depreciation At 1 January Charge for the year 40 25 65 At 31 December tel343 Net book value At 31 December 2017 1430 30 1460 The Companys freehold property is in Germany and occupied by its subsidiary undertaking EKF diagnostic GmbH.
+EKFdiagnostic GmbH is paying rental income of 13900 11880 per month to the parent Company.
+167000 148400 2016 167000 142700 was paid to the parent Company for the year.
+Plant and Machinery includes the following amounts where the Group is a lessee under a finance lease arrangement
+Cost  capitalised finance leases  37 Accumulated depreciation  3 Net book value  34 56 Annual Report 2017 EKF Diagnostics Holdings plc 3.0 Financial Statements Intangible assets
+Noncompete agreements
+Trademarks trade name and licences
+Trade secrets
+Total
+Cost
+At 1 January 2016 70 23718 2493 13815 16878 7782 64756 Additions   45   618 663 Exchange differences  3319 514 2561 1747 385 8526 At 31 December 2016 70 27037 3052 16376 18625 8785 73945 Accumulated amortisation At 1 January 2016 70 2082 1378 4555 8866 4878 21829 Exchange differences  14tel30 1861 Charge for the year   332 1418 1074 928 3752 At 31 December 2016 70 2228 1897 6817 10594 5836 27442 Net book value At 31 December 2016 24809 1155 9559 8031 2949 46503
+At 1 January 2017 70 27037 3052 16376 18625 8785 73945 Additions   135   717 852 Elimination 70     434 504 Exchange differences  38 18 655 362 142 207 At 31 December 2017  26999 3169 15721 18987 9210 74086 Accumulated amortisation At 1 January 2017 70 2228 1897 6817 10594 5836 27442 Exchange differences  42 4 246 161 124 85 Charge for the year   273 1310 917 356 2856 Elimination 70     434 504 Impairment  333    274 607 At 31 December 2017  2603 2174 7881 11672 6156 30486 Net book value At 31 December 2017 24396 995 7840 7315 3054 43600 Amortisation charge of 49000 2016 34000 has been charged to cost of sales and 2807000 2016 3718000 has been charged to administrative expenses in the income statement.
+EKF Diagnostics Holdings plc  Annual Report 2017 3.0 Financial Statements Goodwill is allocated to the Groups cashgenerating units CGUs identified according to geographic operating segment.
+An operating segmentlevel summary of the goodwill allocation is presented below.
+Germany 17602 17055 Poland  322 Russia 100 103 USA 6694 7329 Total 24396 24809 Germany includes EKFDiagnostic Senslab and DiaSpect while the USA includes Stanbio and STI.
+Goodwill is tested for impairment at the balance sheet date.
+The recoverable amount of goodwill at 31 December 2017 was assessed on the basis of value in use.
+The assessed value exceeded the carrying value and no impairment loss was recognised.
+The key assumptions in the calculation to assess value in use are future revenues and the ability to generate future cash flows.
+The most recent financial results and initial budgets approved by the Board for the next year were used and forecasts for a further four years followed by an extrapolation of expected cash flows at a constant growth rate for each unit and the calculation of a terminal value based upon the longer term growth rates set out below.
+The projected results were discounted at a rate which is a prudent evaluation of the pretax rate that reflects current market assessments of the time value of money and the risks specific to the cashgenerating units.
+The discount rates applied reflect a riskadjusted weighted average cost of capital.
+The key assumptions used in 2017 for the value in use calculations of cash generating units with significant goodwill are as follows
+Germany %
+Stanbio %
+Longerterm growth rate Discount rate The discount rate used is based on a common risk profile across the Group.
+The impairment assessments for EKF Germany Russia Stanbio and STI showed assessed values that exceeded the carrying values with significant headroom.
+For DiaSpect the impairment assessment has been carried out over a 5 year period with a terminal value based on the longterm growth rate.
+The Directors estimate that growth rates in the 5 year period from the DiaSpect products will be high because they are relatively new products that will bring market benefits.
+In Year 1 a growth rate of 7% has been used reflecting the current sales runrate followed by 20% for years 24 reflecting a combination of continuing instrumentation sales and increasing consumable volumes as the established instrument base increases in the market.
+The forecast growth rates then fall to 2% thereafter.
+The Directors believe that market benefits will allow the product to be sold at a margin in excess of other products sold by the Group.
+A one percentage point increase in the discount rate or a reduction in forecast revenue growth rates in year 24 to 14% would result in an impairment.
+The remaining average useful lives of the intangibles are as follows Trade name 26 years Customer relations 111 years Trade secrets 411 years Development costs 411 years The Company holds capitalised development costs with a cost and net value of 1876000 2016 1253000 and 538000 2016 538000 respectively.
+These are amortised over their useful life and an amortisation charge of 65000 2016 317000 has been recognised in the income statement in 2017.
+58 Annual Report 2017 EKF Diagnostics Holdings plc 3.0 Financial Statements Investments in subsidiaries Company Shares in Group undertakings At 1 January and 31 December 2017 30521 30521 Investments in Group undertakings are recorded at cost which is the fair value of the consideration paid less any impairment.
+The subsidiaries of EKF Diagnostics Holdings plc as at 31 December 2017 are as follows
+Incorporated registered and having its principal place of business in the United Kingdom with its registered office being Avon House 19 Stanwell Road Penarth Vale of Glamorgan CF64 2EZ.
+Incorporated in Sweden.
+The principal place of business is in Germany.
+The registered address is Lytta Gard 75593 Uppsala Sweden.
+Incorporated registered and having its principal place of business in Germany at Ebendorfer Chaussee 3 39179 Barleben Germany.
+Incorporated registered and having its principal place of business in Poland at ul.
+Kazimierza
+Wielkiego 58 32400 Mylenice Poland.
+Name of Company Note Proportion Held Class of Shareholding Nature of Business EKF Diagnostics Limited UK 1 100% Ordinary Head Office Quotient Diagnostics Limited 1 100% Ordinary Sale of diagnostic equipment 360 Genomics Limited 1 100% indirect Ordinary Sale of diagnostic equipment EKF Molecular Diagnostics Limited 1 100% Ordinary Manufacture and sale of diagnostic equipment DiaSpect Medical AB 2 100% Ordinary Head office and IP licencing DiaSpect Medical GmbH 3 100% Indirect Ordinary Manufacture and sale of diagnostic equipment and consumables EKFdiagnostic GmbH 3 100% Ordinary Manufacture and sale of diagnostic equipment and consumables Senslab GmbH 3 100% indirect Ordinary Manufacture and sale of diagnostic equipment and consumables EKF Diagnostyka Sp.
+4 100% indirect Ordinary Manufacture and sale of diagnostic equipment and consumables 000 EKF Diagnostika 5 60% indirect Ordinary Sale of diagnostic equipment EKF Diagnostics Inc 6 100% Ordinary Intermediate holding company Stanbio Laboratory LP 6 100% indirect Partnership Manufacture and sale of diagnostic equipment and consumables Separation Technology Inc 6 100% indirect Ordinary Manufacture and sale of diagnostic equipment and consumables 1261 N Main LP 6 100% indirect Partnership Dormant Stanlab Management LLC 6 100% indirect Ordinary Dormant 1261 N Main Management LLC 6 100% indirect Ordinary Dormant EKF POC LLC 6 100% indirect Ordinary Dormant Argutus Intellectual Property Limited 7 100% indirect Ordinary Dormant EKF Diagnostics Limited Ireland 7 100% Ordinary Manufacture and sale of diagnostic equipment EKF Diagnostics Shanghai Co.
+Ltd
+8 100% Ordinary Dormant EKF Diagnostics Holdings plc  Annual Report 2017 3.0 Financial Statements Incorporated registered and having its principal place of business in Russia at Moscow PO Box 30 District Severnoe Chertanovo House 2 building 207.
+Incorporated and registered or formed and having its principal place of business in the United States of America at 1261 North Main Street Boerne Texas USA 78006.
+Incorporated and registered in Ireland co Mazars Harcourt Centre Block 3 Harcourt Road Dublin 2.
+Its principal place of business is in the United Kingdom.
+Incorporated and registered in China Suite 1202 Jin Hong Qiao International Center Building I No.
+523 Loushanguan Road Changning District Shanghai P.
+Subsequent to 31 December 2017 Renalytix AI Inc.
+States of America.
+It is directly owned by the parent Company.
+All subsidiaries are included in the consolidation.
+The proportions of voting shares held by the parent Company do not differ from the proportion of Ordinary Shares held.
+All UK subsidiaries are exempt from the requirement to file audited financial statements by virtue of section 479A of the Companies Act 2006.
+As part of this process the Company has provided statutory guarantees to these subsidiaries.
+Financial instruments by category a Assets
+Group
+Company
+Company
+31 December Assets as per balance sheet Trade and other receivables excluding prepayments and corporation tax 7120 8481 23325 28286 Cash and cash equivalents 8203 7874 710 2567 Total 15323 16355 24035 30853 Receivables in the analysis above are all categorised as loans and receivables for the Group and Company.
+Group
+Group
+Company
+Company
+31 December Liabilities as per balance sheet Borrowings excluding finance lease liabilities 1205 5685  4141 Finance lease liabilities  33 Trade and other payables 9320 9300 5718 4776 Deferred consideration 1062 693 1062 693 Total 11587 15711 6780 9610 Liabilities in the analysis above are all categorised as other financial liabilities at amortised cost for the Group and Company with the exception of deferred equity consideration totalling 1062000 2016 693000 that is categorised as a financial liability at fair value through profit and loss.
+The Group is exposed to credit risk from its operating activities primarily for trade receivables and other receivables and from its financing activities including deposits with banks and financial institutions foreign exchange transactions and other financial instruments.
+The Groups maximum exposure to credit risk due to the failure of counterparties to perform their obligations as at 31 December 2017 and 31 December 2016 in relation to each class of recognised financial assets is the carrying amount of those assets as indicated in the accompanying balance sheets.
+60 Annual Report 2017 EKF Diagnostics Holdings plc 3.0 Financial Statements Trade receivables The credit quality of trade receivables that are neither past due nor impaired have been assessed based on historical information about the counterparty default rate.
+The Group does not hold any other receivable balances with customers whose past default has resulted in the recovery of the receivables balances.
+Cash at bank The credit quality of cash has been assessed by reference to external credit ratings based on reputable credit agencies longterm issuer ratings AA 1997 2929 Ratings lower than AA or unrated 6206 4945 Total 8203 7874
+Group and Company 1 January 152 402 Disposals  250 31 December 152 152 The investment consists of a 0.66% 2016 0.67% holding in Epinex Diagnostics Inc.
+Economix Inc. industry the value of which has been 100% impaired.
+Trade and other receivables
+Group
+Company
+Company
+Noncurrent
+Amounts owed by subsidiary undertakings   20894 22016
+Trade receivables 5476 5669 Less provision for impairment of trade receivables 285 69 Trade receivables  net 5191 5600 Prepayments Amounts owed by subsidiary undertakings   2374 6233 Corporation tax receivable 4 677 Other receivables 1929 2881 58 37 7396 9370 2569 6350 The Directors consider that the carrying amount of trade and other receivables approximates to their fair value.
+EKF Diagnostics Holdings plc  Annual Report 2017 3.0 Financial Statements As of 31 December 2017 trade receivables of 1286000 2016 818000 were past due but not impaired.
+These relate to a number of independent customers for whom there is no recent history of default.
+The ageing analysis of these trade receivables is as follows
+Group
+Company
+Company
+Up to 3 months 761 805 3 to 6 months 525 13 1286 818 As of 31 December 2017 trade receivables of 285000 2016 69000 were impaired and provided for.
+The ageing of these impaired receivables is as follows
+Group
+Company
+Company
+6 months to one year 285 69 Total 285 69 Movements on the provision for impairment of trade receivables are as follows
+Group
+Company
+Company
+At 1 January 69 5575 Provision for receivables impairment 221 2 Receivables written off during the year as uncollectible 4 5123 Unused amounts reversed  458 Exchange differences 1 73 At 31 December 285 69 The other classes within trade and other receivables do not contain impaired assets.
+The carrying amounts of the Groups trade and other receivables denominated in foreign currencies were as follows
+Group
+Company
+Company
+UK Sterling 195 295 195 6051 Euros 3763 5256 8304 4123 US dollar 3259 3226 14963 18192 Russian rouble 72 96 Polish zloty 107 497 7396 9370 23462 28366 62 Annual Report 2017 EKF Diagnostics Holdings plc 3.0 Financial Statements
+Group
+Group
+Company
+Company
+Raw materials 3763 3026 Work in progress 582 1019 Finished goods 1293 1980 5638 6025 The Directors are of the opinion that the replacement values of inventories are not materially different to the carrying values stated above.
+The carrying values above are stated net of impairment provisions of 2162000 2016 3237000.
+The cost of inventories recognised as expense and included in cost of sales amounted to 7848000 2016 11388000.
+The Company held no inventories at 31 December 2017 or at 31 December 2016 Cash and cash equivalents
+Group
+Company
+Company
+Cash at bank and in hand 8203 7874 710 2567 Cash and cash equivalents excluding bank overdrafts 8203 7874 710 2567 The Directors consider that the carrying amount of cash and cash equivalents approximates to their fair value.
+Trade and other payables
+Group
+Company
+Company
+Trade payables 1492 1198 123 145 Amounts due to subsidiary undertakings   3060 2983 Social security Other payables 1926 2193 1722 800 Accrued expenses and deferred income 5902 5909 813 848 9429 9401 5770 4828 EKF Diagnostics Holdings plc  Annual Report 2017 3.0 Financial Statements
+Group
+Group
+Company
+Company
+Noncurrent
+Bank borrowings 872 1130 872 1130
+Bank borrowings 184 4364  4141 Convertible loan 149 191 Finance lease liabilities  33 333 4588  4141 The maturity profile of borrowings was as follows
+Group
+Company
+Company
+Amounts falling due Within 1 year 333 4588  4141 Between 1 and 2 years 184 211 Between 2 and 5 years 550 610 More than 5 years 138 309 Total borrowings 1205 5718  4141 a Bank borrowings Bank borrowings mature in 2023 and bear an average fixed coupon of 2.5% annually 2016 2.81%.
+Bank borrowings are secured against certain assets of the Group.
+The Parent Company has also provided guarantees against those bank borrowings which are denominated in foreign currencies.
+The Euro denominated borrowings have covenants attached to them.
+The Group has been compliant with these covenants throughout the year.
+The bank borrowings are repayable by quarterly instalments.
+The Group is not exposed to interest rate changes or contractual repricing dates at the end of the reporting period as the borrowings are fixed in nature.
+The fair value of both current and noncurrent borrowings equals their carrying amount as the impact of discounting is not significant.
+64 Annual Report 2017 EKF Diagnostics Holdings plc 3.0 Financial Statements The carrying amounts of the Groups bank borrowings are denominated in the following currencies
+Group
+Company
+Company
+Euros 1056 1191 US Dollar  3803  3641 Total 1056 5494  4141 b Convertible loan In 2013 Andrew Webb loaned 200000 to EKF Molecular Diagnostics Limited in return for a convertible loan note.
+The note was redeemable on 31 December 2017 or convertible under certain circumstances on or before 30 November 2017 into shares representing 20% of the share capital of EKF Molecular Diagnostics Limited.
+The principal was split into a debt element and an equity element.
+The equity element is disclosed in Other Reserves.
+The note is denominated in sterling.
+In
+July 2017 it was agreed to make repayments of the principal of the debt up to a total of 102000.
+Mr Webb has waived any rights to interest or to conversion and been granted certain rights to participate in any future commercialisation of EKF Moleculars technology.
+Following the completion of payment of the 102000 payment of the remaining 98000 will either be waived or if agreed by both parties paid to Mr Webb as compensation for waiving his future commercialisation rights.
+Lease liabilities are effectively secured as the rights to the leased asset revert to the lessor in the event of default.
+Gross finance lease liabilities  minimum lease payments No later than 1 year  37 Future finance charges on finance leases  4 Present value of finance lease liabilities  33 The present value of finance lease liabilities is as follows No later than 1 year  33 Deferred consideration
+Group
+Company
+Company
+At 1 January 69telFair value adjustment 36telAt 31 December 1062 693 1062 693 The deferred consideration consists of 4043940 Ordinary Shares originally valued at 605000 to be issued as part of the consideration paid for the acquisition of EKFdiagnostic GmbH Germany.
+The value of the shares has been adjusted to its fair value at 31 December 2017 of 1062000.
+Whilst agreement has been reached in principle to conclude the position the contract amendment has not yet been signed.
+All of the outstanding balance is current.
+EKF Diagnostics Holdings plc  Annual Report 2017 3.0 Financial Statements Deferred income tax Deferred income tax assets and liabilities are offset when there is a legally enforceable right to offset current tax assets against current tax liabilities and when deferred income tax assets and liabilities relate to income taxes levied by the same taxation authority on either the taxable entity or different taxable entities where there is an intention to settle the balances on a net basis.
+The amounts concerned are as follows
+Deferred tax assets Deferred tax asset to be recovered within 12 months 13 13 Deferred tax asset to be recovered after more than 12 months 34 371 Deferred tax liabilities Deferred tax liability to be recovered after more than 12 months 3467 3751 Deferred tax liability to be recovered within 12 months 23 738 3490 4489 Deferred tax liabilities  net 3443 4105 The gross movement on the deferred income tax account is as follows At 1 January 4105 4003 Exchange differences 84 657 Income statement movement note 13 578 555 At 31 December 3443 4105 The movement in deferred income tax assets and liabilities during the year without taking into consideration the offsetting of balances within the same tax jurisdiction is as follows Deferred tax liabilities Accelerated tax depreciation
+At 1 January 2016 4390 4390 Credited to the income statement 569 569 Exchange differences 668 668 At 31 December 2016 4489 4489 At 1 January 2017 4489 4489 Credited to the income statement 915 915 Exchange differences 85 85 At 31 December 2017 3489 3489 66 Annual Report 2017 EKF Diagnostics Holdings plc 3.0 Financial Statements Deferred tax assets Tax losses
+Total
+At 1 January 2016 47 340 387 Charged to the income statement 45 31 14 Exchange differences 11  11 At 31 December 2016 13 371 384 At 1 January 2017 13 371 384 Charged to the income statement  337 337 At 31 December 2017 13 34 47 Deferred income tax assets are recognised to the extent that the realisation of the related tax benefit through future taxable profits is probable.
+The Group did not recognise deferred income tax assets of 1173000 2016 6374000 mainly in respect of tax losses amounting to 6092000 2016 33109000 primarily arising in the UK entities that can be carried forward against future taxable income as the likely timing of recovery is considered too remote.
+Company
+Deferred tax assets Deferred tax asset to be recovered after more than 12 months 34 371 Deferred tax 34 371 Share capital Group and Company Number of Shares Share capital At 1 January 2017 464262781 4643 Cancellation of Ordinary shares 6708145 67 31 December 2017 457554636 4576 On 3 October 2017 the Company acquired 1000000 Ordinary shares at a price of 24p per share.
+On 20 October 2017 the Company acquired 5630032 Ordinary shares which were previously held in escrow at a fair value of 24p per share.
+On 3 November 2017 the Company cancelled 6630032 Ordinary shares.
+On 22 December 2017 the Company acquired and cancelled 78113 Ordinary shares.
+Share premium account Group and Company Share premium account At 1 January 2017 95393 Cancellation of Share premium account 95393 31 December 2017 Cancellation of the Companys share premium account was approved by shareholders on 27 July 2017 and by the court on 6 September 2017.
+The amount has been credited to a distributable reserve.
+EKF Diagnostics Holdings plc  Annual Report 2017 3.0 Financial Statements Share options and sharebased payments The share options and share incentive schemes in existence were as follows a Longterm Incentive Plans LTIP
+At 1 January 2017 10254766 Cancelled 10254766 At 31 December 2017 On 26 June 2017 the remaining options which had an exercise price of 15p per share were cancelled at the election of the option holders in return for an average cash payment of approximately 6.7 pence per option share.
+2017 2016
+Exercise price per share
+Number
+Av.
+Exercise price per share
+Number
+At 1 January 0.197 13510000 0.254 10510000 Granted   0.15 6600000 Cancelled 0.179 11360000 Expired 0.349 900000 0.278 3600000 At 31 December 0.252 1250000 0.197 13510000 On 26 June 2017 options over a total of 11360000 shares which had exercise prices of between 15p and 37.625p per share were cancelled at the election of the option holders in return for an average cash payment of approximately 7.1 pence per option share.
+The remaining unapproved share options include the following 650000 options were issued on 7 July 2013 to senior employees at an exercise price of 27.25p per share.
+These options are exercisable from the third anniversary of grant with a maximum term of 10 years.
+These options have vested.
+100000 options were issued on 21 January 2014 to senior employees at an exercise price of 37.625p per share.
+These options are exercisable from the third anniversary of grant with a maximum term of 10 years.
+These options vested during the year.
+500000 options were issued to a third party on 17 May 2015 at an exercise price of 20p.
+The shares will vest from 6 April 2016 subject to certain contractual obligations which have subsequently been completed and to the Companys midmarket closing share price attaining 35p or higher.
+The maximum term is 10 years from grant.
+All share option awards are equity settled.
+Out of the 1250000 2016 13510000 outstanding options 750000 2016 5110000 were exercisable at 31 December 2017.
+68 Annual Report 2017 EKF Diagnostics Holdings plc 3.0 Financial Statements Share options outstanding at the end of the year have the following expiry date and exercise prices 2017 2016 Expiry Date Exercise price per share
+Number
+Exercise price per share
+Number
+16.06.2021   0.200 4260000 28.09.2021   0.252 200000 07.07.2023 0.2725 650000 0.2725 650000 21.01.2024 0.37625 100000 0.37625 1300000 06.04.2025 0.200 500000 0.200 500000 12.09.2026   0.150 6600000 1250000 13510000 On 2 June 2016 two Directors were granted a cash settled sharebased incentive award.
+The awards vest if a controlling interest in the Company is acquired by a third party prior to 30 June 2019.
+In these circumstances a minimum amount of 0.3m is payable to each Director which increases by reference to any sale price achieved.
+The fair value of this award has been calculated at 3351000 2016 2100000 using a modified form of a Black Scholes model.
+The key assumptions in the model included expected volatility of 39% 2016 60.2% a risk free rate of 0.39% 2016 0.03% and an assumed acquisition premium and option life.
+The increase in the liability is largely due to the increase in share price over the period.
+969000 2016 753000 has been recognised as an expense in administrative expenses in the current year and 1722000 31 December 2016 753000 is shown as a liability on the balance sheet at 31 December 2017 within trade and other payables.
+The remainder of the charge to the income statement is made up of charges relating to equity settled sharebased payments relating to share options.
+Retained earnings
+Company
+At 1 January 2016 45438 40419 Loss for the year 18 5474 Sharebased payment 220 220 At 31 December 2016 45236 45673 At 1 January 2017 45236 45673 Profit loss for the year 2715 492 Shares cancelled 3121 3121 Capital reconstruction 95393 95393 Sharebased payment 545 545 Currency translation differences 98 1249 At 31 December 2017 50394 45403 EKF Diagnostics Holdings plc  Annual Report 2017 3.0 Financial Statements Other reserves
+Foreign currency reserve
+Total
+At 1 January 2016 3607 41 3566 Currency translation differences 9216  9216 At 31 December 2016 5609 41 5650 At 1 January 2017 5609 41 5650 Shares cancelled  67 67 Currency translation differences 717  717 At 31 December 2017 4892 108 5000 In return for a payment of 200000 Andrew Webb was granted a loan note convertible into equity in EKF Molecular Diagnostics Limited.
+The equity element has been included in Other Reserves.
+The debt element is included in borrowings.
+Retirement benefit obligations Pension benefits The Company operates defined contribution pension schemes the assets of which are held separately from those of the Company in independently administered funds.
+The pension cost for the year represents contributions made by the Company to the funds and amounted to 168000 2016 219000.
+Commitments a Capital commitments The Group has contracted 166000 2016 nil capital expenditure at the end of the reporting period that had not yet been incurred.
+The Group leases various offices and manufacturing buildings under noncancellable operating lease agreements.
+The lease terms are between one and five years.
+The Group also leases various office equipment and assets under noncancellable operating lease agreements.
+The lease terms are between one and five years.
+The future aggregate minimum lease payments under noncancellable operating leases are as follows Land and buildings
+Group
+No later than 1 year Later than 1 year and no later than 5 years Later than 5 years 58 Total 51tel70 Annual Report 2017 EKF Diagnostics Holdings plc 3.0 Financial Statements Cash generated by operations Group Company Profitloss before tax 4307 1003 1385 5492 Adjustments for Depreciation 1160 1209 65 64 Amortisation 3463 3752 65 317 Warranty claim 339 129 Loss on disposal of fixed assets 33 30 Restructure of operations  360 Sharebased payments 1510 220 1510 220 Escrow cancellation 1371  1371 Fair value adjustment 36tel Foreign exchange 233 481 93 5221 Bad debt written down   374 8717 Net finance costsincome 53 468 1031 1366 Changes in working capital Inventories 306 2767 Trade and other receivables 1535 1127 5608 2679 Trade and other payables 1075 2300 27 520 Net cash generated by operations 10118 8816 4270 646 In the statement of cash flows proceeds from the sale of property plant and equipment comprise
+Net book value 95 241 Profitloss on disposal of property plant and equipment 33 30 Proceeds from disposal of property plant and equipment 128 211 Noncash transactions The principal noncash transactions are movements on deferred consideration provisions the fair value adjustment relating to the deferred equity consideration in respect of EKF Germany the warranty claim and release of accruals no longer required.
+Related Party Disclosures
+Christopher Mills controls 29% of the Companys share capital through North Atlantic Smaller Companies Investment Trust PLC NAIT and Oryx International Growth Fund Limited Oryx.
+Harwood Capital LLP Harwood is investment manager and investment adviser to NAIT and Oryx respectively.
+Christopher Mills is a partner and Chief Investment Officer of Harwood.
+Christopher
+Mills is also a director of Oryx and NAIT.
+He holds 2.16 per cent. name as well as a further 46.44 per cent. of the shares in Oryx via his 25.06 per cent. in NAIT.
+The Group was invoiced 18000 2016 18000 by J and K Cardiff Limited for property rent.
+Julian
+Baines is a Director of J and K Cardiff Limited.
+Carl Contadini acts as an Operational Advisor to Harwood which acts as investment manager and investment adviser to NAIT and Oryx respectively.
+EKF Diagnostics Holdings plc  Annual Report 2017 3.0 Financial Statements Directors emoluments are set out in the Remuneration Committee report and in note 9.
+Other related party transactions Sergey Kots who is Chief Executive of OOO EKF Diagnostika EKF Russia owns 20% of the subsidiarys share capital.
+During the year EKF Russia invoiced 594000 2016 656000 to OOO Laboratory Diagnostic Systems a company of which Mr Kots brother is a director.
+Key management compensation Key management compensation for the year was as follows Salaries and other shortterm employee benefits 1745 577 Sharebased payments 969 753 Employer contribution to pension scheme 19 18 2733 1348 Key management includes the Directors of the Company only.
+The Company During the year the Company invoiced management charges of 3141000 2016 2268000 and interest of 1079000 2016 1649000 to its subsidiary companies.
+It purchased goods and services from subsidiaries totalling 169000 2016 120000.
+At 31 December 2017 the Company was owed 23268000 2016 28249000 by its subsidiaries and owed 3060000 2016 2983000 to other subsidiaries.
+72 Annual Report 2017 EKF Diagnostics Holdings plc 4.0 Additional information NOTICE OF ANNUAL GENERAL MEETING NOTICE IS HEREBY GIVEN that the Annual General Meeting Meeting of EKF Diagnostics Holdings plc Company will be held at the offices of Harwood Capital LLP 6 Stratton Street Mayfair London W1J 8LD on 8 May 2018 at 11.00 a.
+Ordinary Resolutions To receive and adopt the statement of accounts for the year ended 31 December 2017 together with the reports of the Directors and the auditors thereon.
+To reelect Richard Evans who retires by rotation as a Director.
+To reappoint Messrs PricewaterhouseCoopers LLP as auditors to act as such until the conclusion of the next General Meeting of the Company at which the requirements of section 437 of the Companies Act 2006 are complied with and to authorise the Directors of the Company to fix their remuneration.
+That in substitution for any existing such authority the Directors be and are hereby generally and unconditionally authorised pursuant to section 551 of the Companies Act 2006 the 2006 Act to allot Relevant Securities of the Company up to a maximum nominal amount of 62500 in pursuance of the exercise of outstanding share options granted by the Company but for no other purpose ii up to an aggregate nominal amount of 457554.64 in addition to the authorities conferred in subparagraphs i above representing approximately 10% of the Companys Issued Share Capital such authorities unless previously renewed revoked or varied to expire at the conclusion of the next Annual General Meeting of the Company to be held in 2019 save that the Company may before such expiry make an offer or agreement which would or might require Relevant Securities to be allotted after such expiry and the directors may allot Relevant Securities in pursuance of such an offer or agreement as if the authority conferred hereby had not expired.
+Special Resolutions That subject to the passing of the above Resolution the Directors be given the general power to allot equity securities as defined in section 560 of the 2006 Act pursuant to the authority conferred by the Resolution above as if section  of the 2006 Act did not apply to any such allotments provided that this power shall be limited to i the allotment of equity securities on the exercise of the share options granted by the
+Company may before such power expires make an offer or enter into an agreement which would or might require equity securities to be allotted after such power expires and the Directors may allot equity securities in pursuance of any such offer or agreement notwithstanding that the power conferred by this resolution has expired.
+That the Company be and is generally and unconditionally authorised for the purposes of section  of the Companies Act 2006 the Act to make one or more market purchases within the meaning of section  of the Act on the London Stock Exchange of ordinary shares of 0.01 each in the capital of the Company Ordinary Shares provided that EKF Diagnostics Holdings PLC Company EKF Diagnostics Holdings plc  Annual Report 2017 4.0 Additional information the maximum aggregate number of Ordinary Shares authorised to be purchased is 68633195 representing approximately 15 per cent. be more than 5 per cent.
+Share as derived from The London Stock Exchange Daily Official List for the five business days immediately preceding the date on which the Ordinary Share is purchased iv unless previously renewed varied or revoked the authority conferred shall expire at the conclusion of the Companys next annual general meeting or 30 June 2019 if earlier and v the Company may make a contract or contracts to purchase Ordinary Shares under the authority conferred prior to the expiry of such authority which will or may be executed wholly or partly after the expiry of such authority and may make a purchase of Ordinary Shares in pursuance of any such contract or contracts.
+Registered Office Avon House 19 Stanwell Road
+CF64 2EZ 14 March 2018 BY ORDER OF THE BOARD Salim Hamir Company Secretary 74 Annual Report 2017 EKF Diagnostics Holdings plc 4.0 Additional information
+The Company specifies that only those members registered on the Companys register of members at close of business on 4 May 2018 or if this general meeting is adjourned at close of business on the day two days prior to the adjourned meeting shall be entitled to attend and vote at the General Meeting.
+If you are a member of the Company at the time set out in note 1 above you are entitled to appoint a proxy to exercise all or any of your rights to attend speak and vote at the General Meeting and you should have received a Proxy Form with this notice.
+You can only appoint a proxy using the procedures set out in these notes and the notes to the Proxy Form.
+A proxy does not need to be a member of the Company but must attend the General Meeting to represent you.
+Details of how to appoint the chairman of the General Meeting or another person as your proxy using the Proxy Form are set out in the notes to the Proxy Form.
+If you wish your proxy to speak on your behalf at the General Meeting you will need to appoint your own choice of proxy not the chairman and give your instructions directly to them.
+You may appoint more than one proxy provided each proxy is appointed to exercise rights attached to different shares.
+You may not appoint more than one proxy to exercise rights attached to any one share.
+To appoint more than one proxy please contact the Companys registrars at the address set out in note 5.
+The notes to the Proxy Form explain how to direct your proxy how to vote on each resolution or withhold their vote.
+To appoint a proxy using the Proxy Form the Proxy Form must be a completed and signed b sent or delivered to Link Asset Services The Registry 34 Beckenham Road Kent BR3 4TU and received by Link Asset Services at the address provided in paragraph 5b above no later than 11.00 a. on 4 May 2018.
+In the case of a member which is a company the Proxy Form must be executed under its common seal or signed on its behalf by an officer of the company or an attorney for the company.
+Any power of attorney or any other authority under which the Proxy Form is signed or a duly certified copy of such power or authority must be included with the Proxy Form.
+In the case of joint holders where more than one of the joint holders purports to appoint a proxy only the appointment submitted by the most senior holder will be accepted.
+Seniority is determined by the order in which the names of the joint holders appear in the Companys register of members in respect of the joint holding the firstnamed being the most senior.
+To change your proxy instructions simply submit a new proxy appointment using the methods set out above.
+Note that the cutoff time for receipt of proxy appointments see above also apply in relation to amended instructions any amended proxy appointment received after the relevant cutoff time will be disregarded.
+Where you have appointed a proxy using the hardcopy proxy form and would like to change the instructions using another hardcopy proxy form please contact Link Asset Services at the address noted in note 5 above.
+If you submit more than one valid proxy appointment the appointment received last before the latest time for the receipt of proxies will take precedence.
+In order to revoke a proxy instruction you will need to inform the Company by sending a signed hard copy notice clearly stating your intention to revoke your proxy appointment to Link Asset Services at PXS 34 Beckenham Road Kent BR3 4TU.
+In the case of a member which is a company the revocation notice must be executed under its common seal or signed on its behalf by an officer of the company or an attorney for the company.
+Any power of attorney or any other authority under which the revocation notice is signed or a duly certified copy of such power or authority must be included with the revocation notice.
+The revocation notice must be received by Link Asset Services no later than 11.00 a.
+2018.
+If you attempt to revoke your proxy appointment but the revocation is received after the time specified then subject to the paragraph directly below your proxy appointment will remain valid.
+Appointment of a proxy does not preclude you from attending the general meeting and voting in person.
+If you have appointed a proxy and attend the general meeting in person your proxy appointment will automatically be terminated.
+A corporation which is a member can appoint one or more corporate representatives who may exercise on its behalf all its powers as a member provided that no more than one corporate representative exercises power over the same share.
+Voting on all resolutions will be conducted by way of a poll rather than on a show of hands.
+As at 5.00 p.
+Companys issued share capital comprised 457554636 Ordinary Shares of 1p each.
+Each ordinary share carries the right to one vote at a general meeting of the Company and therefore the total number of voting rights in the Company as at 5.00 p. immediately prior to the date of posting of this notice is 457554636.
+EKF Diagnostics Holdings plc  Annual Report 2017 4.0 Additional information Company information
+Christopher Mills NonExecutive Chairman Julian Baines MBE Chief Executive Officer Richard Evans Chief Operating Officer and Finance Director Carl Contadini NonExecutive Director Adam Reynolds NonExecutive Director Company Secretary Salim Hamir Registered office and Head office Avon House 19 Stanwell Road
+Cardiff
+CF64 2EZ Place of incorporation England and Wales Company number Independent Auditors PricewaterhouseCoopers LLP Chartered Accountants and Statutory Auditors One Kingsway
+CF10 3PW Nominated Advisor and Broker N1 Singer 1 Bartholomew Lane London EC2N 2AX Solicitors to the Company Berry Smith LLP Haywood House Dumfries Place
+CF10 3GA
+Link Asset Services The Registry 34 Beckenham Road
+Kent
+BR3 4TU If you have a query regarding your shareholding please call from inside the UKtel calls cost 12p per minute plus network extras or from outside the UK 44tel or email email Financial public relations Walbrook PR Limited 4 Lombard Street
+EC3V 9HD Investor relations email email EKF Diagnostics Holdings plc Avon House 19 Stanwell Road

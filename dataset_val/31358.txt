@@ -1,0 +1,1279 @@
+Annual Report for the year ended 31 December 2017 Stock code DSG
+Dillistone Group Plc Annual Report and Accounts for the year ended 31 December 2017 DILLISTONE GROUP PLC  Annual Report and Accounts 2017 We provide software and services to recruitment firms and recruiting teams within major corporations.
+Across our subsidiaries we work with over 2000 firms in over 60 countries.
+Our three divisions are Dillistone Systems Voyager Software and
+Dillistone Systems specialises in the supply of software and services into executive level recruitment teams.
+Voyager Softwares clientele are primarily involved in contingent recruitment including permanent placement contract placement and the provision of temporary staff.
+GatedTalent was established in 2017 to provide a network allowing executives to share information with selected executive recruiters in a GDPR compliant manner.
+WELCOME TO THE
+ANNUAL REPORT 2017 Dillistone Group Plc is a global leader in the supply of technology solutions and services to the recruitment industry worldwide.
+Read further within the report Look out for the following icon throughout this report
+1 The component elements of recurring revenues are detailed in note 3.
+Adjusted operating profit is statutory operating profit before acquisition costs related intangible amortisation movements in contingent consideration and other oneoff costs.
+See note 2.
+Adjusted basic EPS is computed from statutory profits after tax adjusted to exclude the posttax effect of acquisition costs related intangible amortisation movements in contingent consideration and other oneoff costs.
+See note 10.
+Contents
+Overview
+Highlights 01 Timeline 02 Strategic Report Dillistone Group at a glance 04
+Chairmans Statement 06
+CEOs Review 08
+Financial Review 13
+Governance
+Board of Directors 16 Corporate Governance Report 18 Report to the Shareholders on Directors Remuneration 20 Directors Report 22 Financial Statements Independent Auditors Report to the members of Dillistone Group Plc 24 Consolidated Statement of Comprehensive Income 29 Consolidated Statement of Changes in Equity 30 Company Statement of Changes in Equity 31 Consolidated and Company Statements of Financial Position 32 Consolidated Cash Flow Statement 33 Company Cash Flow Statement 34 Notes to the Financial Statements 35 Directors and Advisers IBC site 01 GOVERNANCE FINANCIAL
+STRATEGIC
+REPORT
+Commenting on the results and prospects Mike Love NonExecutive Chairman said The current trading performance of the Group is positive with orders for both Dillistone Systems and Voyager Software ahead of the same period in 2017  with the former more than 25% up on the same period in 2017 and the latter having one of the best quarters for new business orders in its history.
+Our GatedTalent product launched in October 2017 has been very well received with a growth trajectory that we believe will lead to it becoming the dominant product in its market space within a year.
+Recurring revenues for 2017 were at record levels and despite the ongoing investment in product development cash reserves have held up well.
+Overall despite the evident pressure on new licence sales in 2017 and the loss for the year of 0.071m going into 2018 the Group believes that it is now in a stronger position in its core markets than in recent years.
+This confidence in the future allows us to recommend a final dividend of 0.5p and we anticipate reporting further positive progress as the year progresses.
+OVERVIEW
+Record level of recurring revenues of 7.474m up 6% from 2016 with total revenue down 4% to 9.582m Recurring revenues representing 78% of Group revenue covering 97% of Group administration expenses before acquisition related and oneoff costs GatedTalent launched in October 2017 and which made an operating loss of 0.439m Adjusted operating profit fell to 0.309m 2016 1.463m before acquisition intangible write offs and an adjustment for the loss of a contract in our Voyager division which totalled 0.823m pretax Loss for the year of 0.071m 2016 profit 0.526m Adjusted basic EPS of 3.08p 2016 7.10p A final dividend of 0.5p per share recommended 2016 2.8p Cash funds at 31 December 2017 of 1.390m 2016 1.537m with borrowings of 0.391m 2016 0.158m New GatedTalent platform grows rapidly with more than 160 contracted search firm clients by 26 April 2018 and first revenues in 2018 Executive membership on the GatedTalent platform is both senior and diverse with CEO Managing Director and General Manager being most frequently referenced current position and members registered from 75 countries.
+Read more on Group Performance on pages 08 to 14
+Visit our investor relations website at site for further information about Dillistone Group Plc.
+HIGHLIGHTS
+Recurring revenues 6%tel
+Revenue analysis
+Non recurring 3rd Party 78% 18% 4% DILLISTONE GROUP PLC  Annual Report and Accounts 2017
+The original FileFinder software was developed by David Dillistone himself a retained search consultant.
+While it was initially created for in house use David soon realised that there was a market for it beyond his own firm and so he created David Dillistone Systems.
+By the late 1990s David had retired and the business  now renamed as Dillistone Systems  was owned by Custom Business Systems CBS.
+CBS invested heavily in the firm and by the end of the decade offices had been established on three continents.
+In 2003 the current management team took part in a management buyout of the business.
+The dawn of the internet meant that it became far easier to sell the FileFinder system internationally and as a result Dillistone Systems grew rapidly.
+In March 2011 FileFinder 10 was released after over two years of development.
+In September 2011 the Group made its first acquisition Voyager Software.
+In 2008 a decision was taken to significantly increase RandD expenditure and the development of the next generation of FileFinder began.
+In 2006 the Group floated on the AIM market of the London Stock Exchange DSG.
+In September 2012 Voyager Infinity was launched after three years of development.
+In July 2013 the Group made its second acquisition FCP Internet.
+In October 2014 the Group acquired ISV Software.
+2014 saw the release of FileFinder Anywhere a market leading product suited to mobile working.
+Voyager software division launched ISV Online and the first of a suite of mobile apps.
+Voyager Software division  launch of cloud hosted version of Infinity launch of integration of ISV FastPath and Infinity and launch of version 6 of Evolve.
+GatedTalent was established in 2017 to provide a network allowing executives to share information with selected executive recruiters in a GDPR compliant manner.
+1983 site 03
+REPORT
+Dillistone Group at a Glance 4
+Chairmans Statement 6
+CEOs Review 8 Financial Review 13 DILLISTONE GROUP PLC  Annual Report and Accounts 2017 DILLISTONE GROUP AT A GLANCE Dillistone Systems division Dillistone Systems is a leading global supplier of technology and services to executive search firms and to inhouse search teams at major corporations and notforprofit organisations.
+The Divisions principal product is the FileFinder Anywhere suite which is typically delivered from the cloud via a range of apps.
+The Division is headquartered in the UK but has offices in the United States Australia and Germany and serves clients in more than 60 countries generating more revenue from outside the UK than from its home market.
+It employs around 60 people.
+Dillistone Systems division Products FileFinder is designed specifically for the executive recruiting market with FileFinder Anywhere being the latest generation of the suite.
+FileFinder
+Anywhere is available in two formsEssentials and Premium.
+FileFinder is an executive search database CRM system research tool report writer and project management solution all rolled into one.
+It is designed to support every element of the search process.
+The product is unique in its market in that it is available to purchase or to rent and can be accessed via a Desktop App a full Browser App a Mobile App or through Microsoft Outlook desktop or web versions.
+It features exclusive integration with the GatedTalent platform allowing users to search the GatedTalent database and send GDPR related privacy notices without leaving the product.
+GatedTalent division GatedTalent was established in 2017 to provide a network allowing executives to share information with executive recruiters in a GDPR compliant manner.
+Our launch partners include a number of globally recognised search firms and the expectation is that these firms will invite around 3 million of the worlds most senior executives to join the platform.
+PRODUCTS
+GatedTalent is a private network allowing executives to share confidential data with executive recruiters.
+The product benefits from exclusive integration with the FileFinder Anywhere CRM developed by the Dillistone Systems division.
+Dillistone Group Plc is a global leader in the supply of technology solutions and services to the recruitment industry.
+Operating across 60 countries working with over 2000 firms we are made up of 3 divisions.
+STRATEGIC
+REPORT site 05 GOVERNANCE FINANCIAL
+Voyager Software division Voyager Software itself became a part of the Dillistone Group in September 2011.
+It has always provided endtoend recruitment solutions to the recruitment sector typically those working on a contingency basis and continues to do so to this day.
+In September 2012 Voyager Software launched its latest generation of recruitment solutions with its Infinity product.
+Infinity is designed to improve the performance and efficiency of recruitment businesses specialising in permanent contract and temporary roles.
+With automation at its heart it meets the demands of flexibility and functionality required by these recruitment firms.
+Alongside Voyager Softwares VDQ product for pure fast paced temporary agencies and MidOffice the payandbill solution for the back office the business covers the whole contingency recruitment space.
+In 2013 the Group acquired FCP Internet suppliers of the evolve SaaS product and this has subsequently been integrated into the Voyager Software Division.
+In October 2014 a further acquisition ISV Software  a supplier of skills testing and training services was also incorporated into the
+Today the Voyager Software Divisions products are used in over 20 different countries by many thousands of users in differentsized recruitment businesses.
+The Division has offices in the UK and Australia and employs around 60 people.
+Voyager Software division Products Voyager front office Voyager Infinity manages the work of recruiters working to fill permanent and longerterm contract temporary vacancies delivering measurable performance efficiencies and audit trails.
+Voyager Infinity SaaS has all of the great features of Infinity available as a managed service on the Azure Cloud with affordable setup and affordable monthly cost.
+Voyager Infinity Connect Mobile App is the new super easytouse mobile app for recruiters on the go.
+The app available in both iOS Apple and Android Google stores allows the user to quickly and easily look up contacts from their Voyager Infinity SaaS database and all communication is logged against the database in real time.
+Voyager VDQ is designed for fastpaced blue and white collar temporary placement agencies that have to quickly assemble transient or ad hoc teams to serve highly volatile and urgent labour requirements.
+Through FCP Internet the Division also provides its evolve solution. types of recruitment business.
+It is delivered only as a SaaS product.
+Voyager mid and back office Voyager MidOffice is a flexible Pay and Bill solution which automates the processing of large volumes of timesheets and payments to numerous clients and candidates.
+Voyager Bureau enables bureaus to subcontract backoffice operations for multiple client recruitment companies on a single platform.
+Skills testing and training ISV delivers preemployment skills testing and training tools to recruitment businesses and corporates.
+In late 2016 ISV launched ISV Online incorporating all the best elements from its original testing platform
+OVERVIEW DILLISTONE GROUP PLC  Annual Report and Accounts 2017 Dr Mike Love NonExecutive Chairman the Group has accelerated its acquisition intangibles amortisation by 0.459m taking total amortisation to 0.838m 2016 0.379m.
+The Board has raised 0.400m from the Directors and PDMRs person discharging managerial responsibilities in the form of a convertible loan note to provide continued funding for GatedTalent. price of 71.6p.
+The loan note has a 3year duration but with various rights for early conversion or repayment.
+Dividends
+In view of the fund raising carried out to develop GatedTalent we did not pay an interim dividend.
+However we propose paying a final dividend of 0.5p 2016 2.8p subject to Shareholder approval.
+The dividend will be payable on 13 July 2018 to Shareholders on the register on 15 June 2018.
+Shares will trade ex dividend from 14 June 2018.
+Future dividends will depend on Group performance.
+Staff
+Our staff are fundamental to our success.
+It is through their efforts commitment and determination that we continue to be a leading technology provider in the sectors we serve.
+On behalf of the Board I would like to take this opportunity to thank all of our staff for their individual and collective contributions during 2017 and for the huge effort demonstrated during the early months of 2018 supporting our GDPR related projects.
+Outlook
+Both our Dillistone Systems and Voyager Software divisions have enjoyed strong demand for our products and services during the first quarter of 2018.
+The Board is delighted to note that while Voyager revenues will clearly be impacted by the previously announced loss of a legacy contract Q1 2018 saw one of its best ever quarters in terms of new contract wins.
+After a slow January orders for Dillistone Systems FileFinder product improved significantly in February and March and ended the quarter more than 25% up on the same period in 2017.
+Many of these orders were driven by demand for our GatedTalent product which features exclusive integration with FileFinder Anywhere.
+In our 27 February announcement we revealed that we had achieved the milestone of 100 clients for our GatedTalent service.
+We continue to see strong demand for the platform with more than 160 firms having now signed contracts.
+The division has now generated its first subscription revenue.
+Long term revenue growth from the GatedTalent platform will be derived from interactions with executives who register with the service and create a profile.
+Executives join to be On the radar of our executive recruiter clients.
+They may register directly at site or via an invitation from a Search firm  these invitations are typically sent as part of an executive recruiters GDPR compliancy process.
+The platform is working well and as expected and the throughput on the GatedTalent platform is growing month on month and is expected to accelerate rapidly over the period to the end of July.
+The number of profiles is also growing and is also expected to increase quickly over the coming months.
+Having originally anticipated that our clients would send around 1 million invitations our current belief is that the number of invitations will be around 3 million.
+The majority of our clients are expected to leave mailing of compliancy messages as late as legally possible and despite the thousands of messages already sent we believe that the vast majority of our clients will not send messages before May with a number of firms likely to complete the process in June or even July.
+We are seeing significant variances in invitation conversion rates between clients.
+Some firms are seeing in excess of 8% of invitations leading to Profiles others are seeing a fraction of 1% converting.
+What is apparent from the Profiles that have been created so far however is that our executive talent pool will be both senior and diverse.
+Currently the three most common Job Titles for our Executives are CEO Managing Director and General
+We have onboarded profiles from executives in 75 countries.
+A heatmap with further information on profile data is available at sitemetrics.
+The Group has paid dividends throughout its time as a public company and having ended the year with cash of 1.390m the Board is pleased to be in a position to pay a dividend of 0.5p per share.
+Dr Mike Love NonExecutive Chairman 26 April 2018
+CHAIRMANS STATEMENT
+For the year ended 31 December 2017 2017 was an exciting year for the Dillistone Group with the launch of GatedTalent site on 9 October 2017 at the World Executive Search Congress.
+Our business has traditionally been involved in the supply of technology to the recruiting and associated sectors.
+GatedTalent is a private network  a tool which allows executives to share information with trusted recruiters.
+It is a first for our Group and has the potential to transform the nature of the Groups underlying business model from software to data.
+More generally trading across the Group was challenging in 2017 although we did see some improvement in operational performance in the second half of the year  despite the increasing costs associated with GatedTalent.
+Overall
+Group revenue fell 4% to 9.582m of which recurring revenue grew 6% to 7.474m.
+Adjusted operating profit dropped significantly to 0.309m in part due to the investment made in GatedTalent and in part due to a decline in new licence sales.
+Excluding our GatedTalent investment the Group remained cash generative across this year.
+As anticipated in our Interim statement a SaaS contract with a major client expired in early 2018.
+This contract with a client using a legacy product acquired as a result of an acquisition made several years ago was worth in the region of 600000 per annum in contribution terms to the Group.
+Consequently site 07 site 07 What is GatedTalent Imagine a private database of the worlds global executives.
+Imagine if this database included detailed private information on those executives including biographical aspirational and often compensation data.
+Imagine if the database was curated by the executives themselves in a manner that made it entirely GDPR friendly.
+Imagine if the information provided by the executive was enhanced by detailed company data.
+And imagine that database offered seamless twoway integration with the leading executive search CRM.
+And  one more thing.
+Imagine this database was huge.
+And global.
+Thats what GatedTalent is.
+How does it work Virtually any executive recruiter storing information covered by the GDPR will need to go through a process of confirming and proving that their data is legal.
+As part of this process they will typically make contact with huge numbers of executives they store in their databases.
+GatedTalent will manage this process and then optionally will invite the executive to create a detailed  but private  profile which will be shared only with recruiters that the executive has chosen to trust.
+Recruiters using the platform will earn credits for any executives who they introduce and who go on to create a profile  those credits may be used to search the anonymised database of unconnected executives and make connection requests to executives who are currently not known to the firm.
+How is this different to LinkedIn or Xing LinkedIn and Xing are both social networks.
+Any information uploaded to these platforms is essentially publicly available.
+That means that many of the most senior executives do not use these networks  and they wouldnt dream of sharing private data such as compensation on an open platform.
+With GatedTalent search firms make connection requests and executives say YES or NO.
+Its as simple as that.
+Executives control who sees some all or none of their data.
+How is it different to other online services that are designed to allow executives to network with recruiters Over the course of 2018 our executive search firm clients will invite around 3 million executives to join the platform.
+The largest comparable product  the AESCs Bluesteps  has about 115000 profiles within it despite having been in existence for around a decade.
+We are confident that within a year our data pool will be close to or larger and more up to date than Bluesteps.
+It will then continue to grow because  for the thousands of FileFinder users worldwide  the database will be fully integrated with everything they do.
+Our users will find executives in the platform and so executives will want to be in the platform.
+Furthermore  unlike most products in this space  well never charge the executives.
+We dont believe that the worlds most senior executives need to pay to interact with search firms.
+WHAT IT DOES AND HOW IT WORKS DILLISTONE GROUP PLC  Annual Report and Accounts 2017
+CHIEF EXECUTIVE OFFICERS REVIEW
+For the year ended 31 December 2017 Dillistone Systems division is expected to benefit particularly from the launch of GatedTalent which targets the same market as FileFinder and is tightly integrated.
+Jason Starr Chief Executive Dillistone Group Plc is a global leader in the supply of solutions and services to the recruitment sector worldwide.
+Strategy and objectives The Groups strategy is to grow the business both organically and through acquisition.
+This strategy is made possible through our commitment to product development which ensures that the business continues to command a leading role in all of the markets in which it operates.
+Our acquisition strategy typically entails consideration of businesses offering products that would further increase market share in the Groups core markets legacy applications where clients could be transferred to our modern suite of products or complementary applications which may be crosssold to clients of the Group.
+The Groups objectives are principally to ensure our products meet the needs of the recruitment sector through continual investment and development be a leading player in all of the markets we serve develop our staff delivering progressive career development increase our profitability and deliver increased shareholder value year on year in conjunction with a progressive dividend policy.
+Divisional revenue
+Non recurring 47% 53% Key Performance Indicators KPIs The Board and management use absolute figures to monitor the performance of the business using the following financial KPIs
+FY2016
+Measure used by management Metnot met Total revenues 9582 9963 year on year growth not met Recurring revenues 7474 7027 year on year growth met Non recurring revenues 1644 2370 year on year growth not met Adjusted profit before tax 303 1 458 year on year growth not met Cash 1390 1 537 sufficient cash resources maintained met Adjusted profit before tax is statutory profit before acquisition costs related intangible amortisation movements in contingent consideration and other oneoff costs.
+See note 2 and note 5.
+Where KPIs are not being met the Board considers ways in which performance could be improved.
+In addition the Board monitors order levels and employee numbers as well as performance against budget.
+CHIEF EXECUTIVE OFFICERS REVIEW
+For the year ended 31 December 2017 Our business model The business is split into three Divisions.
+Dillistone Systems and Voyager Software are our established businesses with GatedTalent launched in the second half of 2017.
+Dillistone Systems specialises in the supply of software and services into executivelevel recruitment teams.
+Voyager Softwares clientele are primarily involved in contingent recruitment including permanent placement contract placement and the provision of temporary staff.
+GatedTalent is a private network of executives accessed by executive recruiters.
+This Division generates revenue based on a combination of recruiter subscription and transaction fees for connecting with executives.
+There is a close relationship between GatedTalent and Dillistone Systems.
+The majority of our products are commercialised through one or more of the following An upfront licence fee plus a recurring support fee Software as a Service SaaS subscription basis or A hybrid model incorporating an upfront payment and recurring support and cloud hosting fees.
+There is a continuing move away from the upfront license model towards our cloud delivery services.
+The business operates out of four countries the UK Germany the US and Australia.
+As well as supplying and supporting our software we also host the software for a proportion of our clients.
+This is done through data centres in Europe the Americas Singapore and Australia.
+In 2000 rms across 60 countries our clients are situated across the entire recruitment landscape.
+They say that we provide them with Stability exibility and functionality Easy access to their data Rapid deployment Ongoing development ensures upgrade path for clients Our large client base means that we do not depend on a small number of clients.
+We generate revenue typically through three pricing mechanisms Upfront licence fee plus recurring support fee Software as a Service SaaS subscription basis Hybrid model incorporating upfront payment and recurring support and hosting fees Short and long term value for our clients Short and long term value for our shareholders THAT PROVIDE Global thought leaders Ofces in UK Germany USA and Australia Data centres in Europe USA Brazil Singapore and Australia Around 120 staff Our suite of innovative recruitment software is packaged with an endtoend service Additional services include training data translation support services and running conferences Our data centres enable us to offer optional hosting Our IP human and physical capabilities Products and services WE UTILISE TO DELIVER
+REPORT
+GOVERNANCE FINANCIAL
+OVERVIEW DILLISTONE GROUP PLC  Annual Report and Accounts 2017
+CHIEF EXECUTIVE OFFICERS REVIEW
+For the year ended 31 December 2017 continued Group review of the business 2017 saw recurring revenues grow 6% to 7.474m 2016 7.027m reflecting the increasing adoption of our SaaS offering.
+Nonrecurring revenues decreased to 1.644m 2016 2.370m.
+As a result overall revenues decreased by 4% to 9.582m 2016 9.963m with recurring revenues representing 78% of Group revenues 2016 71%.
+Costs have increased in part due to GatedTalent which made an operating loss of 0.439m and which was in development for all of 2017.
+We saw our first revenue from GatedTalent in Q1 of 2018 although as anticipated revenue in the first half will not be significant and the Division will be loss making in 2018.
+Adjusted EBITDA fell to 1.409m 2016 Adjusted operating profit fell to 0.309m 2016 1.463m and pretax profits before acquisition related items and oneoff adjustments reduced to 0.303m 2016 There was an operating loss for the year of 0.514m 2016 profit 0.412m and loss for the year of 0.071m 2016profit Cash at the year end was 1.390m 2016 1.537m.
+Adjusted EBITDA is adjusted operating profit with depreciation and amortisation added back.
+See note 3.
+Divisional Reviews Dillistone Systems The Dillistone Systems division is primarily focused on providing technology solutions to the executive search market via our range of FileFinder applications.
+This client group is made up of both executive search firms and executive search teams in major organisations.
+Dillistone Systems head office is in London and it has offices in the US Germany and Australia.
+The Division accounts for 47% 2016 49% of the Groups revenue and it saw revenue fall 6% to 4.548m 2016 4.858m.
+The Division is expected to benefit particularly from the launch of GatedTalent which targets the same market as FileFinder and is tightly integrated.
+Earnings before interest tax depreciation and amortisation EBITDA fell to 0.778m 2016 1.434m as sales fell and costs increased.
+Total amortisation and depreciation charge was 0.589m 2016 1.229m.
+In 2016 we reviewed our amortisation policy for capitalised development costs to bring it more into line with industry practice by writing off all such costs over five years rather than a range of five to ten years and the impact of this on the Dillistone division was an increase to the 2016 charge by 0.600m.
+Operating profit for 2017 was 0.189m 2016 0.205m.
+Voyager Software Voyager Software is a provider of technology products targeted at the entire recruitment landscape from front office to back office and bureaus and includes both recruitment management systems and preemployment skills testing technology.
+In 2017 the Voyager Software division accounted for 53% 2016 51% of Group revenues.
+The Divisions revenues decreased by 1% to 5.034m 2016 5.105m.
+EBITDA increased by 10% to 1.200m 2016 Amortisation and depreciation increased to 0.511m 2016 0.461m.
+Divisional operating profit increased 9% to 0.689m 2016 0.632m.
+2017 saw some major developments in the Division including Development of TempNinja  A new mobile companion app allowing candidates to view and accept temporary jobs update their availability and chat directly with recruiters using Voyagers popular VDQ and Infinity SaaS solution.
+Additional functionality released in Infinity including Infinity SaaS including enhanced support for the temporary recruitment sector and Power BI reporting.
+A wellreceived industry wide education programme around the forthcoming GDPR legislation being recognised as an industry leader.
+Enhancements and new content for ISV.
+Online including tests around the GDPR.
+GatedTalent
+GatedTalent was established in 2017 to provide a network allowing executives to share information with selected executive recruiters in a GDPR compliant manner.
+The GatedTalent product was under development throughout 2017 and therefore did not generate revenue.
+GatedTalent is the most exciting product we have developed in recent years.
+The platform is free to executives.
+Revenue will be generated from executive recruiters through subscriptions to the platform and through charges for connection requests made through the platform.
+The platform is now live with clients using it compliance messages being sent and profiles being created.
+Subscription revenue is now being generated.
+We expect that GatedTalent will manage the process of sending around 3 million such messages during the course of 2018.
+We believe that the vast majority of our clients will not send messages before May 2018 with a number of firms likely to complete the process in June or even July.
+The Division is effectively a startup business within the Group and is expected to be loss making in 2018 although we do anticipate that it will have a direct and positive impact on the performance of our Dillistone Systems business starting in 2018.
+During 2017 GatedTalent incurred an operating loss of 0.439m and development expenditure of 0.391m was capitalised.
+The Board is confident that all three Divisions have strong futures.
+Financial risk management The Groups operations expose it to a number of risks that include the effect of changes in interest rates credit foreign currency exchange rates and liquidity.
+The Group does not trade in financial instruments.
+Further details in relation to these risks are shown in note 25.
+Interest rate risk The Group is exposed to interest rate risk through its floating rate overdraft and through its management of retained cash.
+The Group monitors its exposure to interest rate risk when borrowing and investing its cash resources.
+Credit risk The Group has a large customer base in excess of 2000 customers and is not dependent on a small number of customers.
+Accordingly the Group does not believe it is exposed to significant credit risk.
+In addition it only places money with banks with strong credit ratings.
+Exchange risk The Group is exposed to translation and transaction foreign exchange risk.
+The Groups foreign operations primarily trade in their own currencies reducing the transaction risk.
+As a result the main foreign exchange transactional exposure arises when repatriating profits.
+The Group only seeks to remit cash when required in the UK and it usually has some flexibility on timing of such appropriations to minimise any exchange losses.
+The Group is however exposed to translation risks on net assets held.
+Liquidity risk Although the Group has some borrowings it maintains positive cash resources and has sufficient available funds for its operations and planned expansion of its existing activities.
+CHIEF EXECUTIVE OFFICERS REVIEW
+For the year ended 31 December 2017 continued Principal risks and uncertainties There are a number of risks and uncertainties which could have an impact on the Groups long term performance and cause actual results to differ materially from expected and historical results.
+The Directors seek to identify material risks and put in place policies and procedures to mitigate any exposure.
+The table of risks that follows gives details of the principal risks and the approach being taken to manage them.
+Risk Potential adverse impact Mitigation Economic risk The recruitment industry has a reputation for being vulnerable to the cyclical nature of the economy.
+This can impact significantly on nonrecurring revenue and to a lesser extent recurring revenue.
+The Company operates globally and so is not reliant on one economy.
+It enjoys a high percentage of recurring revenues.
+Acquisitions have increased the exposure to the UK economy.
+Future acquisitions may be overseas.
+In a downturn there may be a reduction in new permanent hires which may be replaced by temporary hires.
+The temporary recruitment market is potentially anti cyclical.
+The Groups products support both permanent and temporary hires.
+Innovation and new products help maintain opportunities for the business worldwide.
+New product risk All technology suppliers need to develop new products and applications and there is always a risk that new products may lead to issues.
+This could damage the Groups reputation and result in loss of new orders and therefore reduce revenue growth.
+It could also result in claims against the Group.
+The cost and time frame for developing and releasing new products could be a bigger drain on resource than built into budgets and forecasts.
+Products are tested prelaunch and launch and implementation strategies developed to minimise risks.
+The development plan is regularly reviewed by management and the Board.
+Agile project methodology so stakeholders have regular visibility and influence on what is being developed.
+Product Manager added in 2018 for Dillistone Systems to help ensure product is fit for purpose.
+Additional UX User Experience Resource to be added to help deliver software that meets the needs of clients in 2018.
+Attrition of customer base Failure to attract new customers or the loss of existing customers may have a detrimental effect on the Groups ability to generate revenues.
+Actively manage existing customer relationships through account management structures and promptly dealing with issues.
+The Group continues to invest in new products with new features being added.
+Competitor activity The market for recruitment software is extremely fragmented with a large number of small suppliers operating in all of the Groups geographical markets.
+Very few of these suppliers have the necessary financial technical and marketing resources to be able to develop their competitive position.
+However the competition may intensify through consolidation or new entrants to the market.
+Some competitors offer a broader product range enabling them to compete across the whole of the sector.
+The businesses can easily lose market share if its products are not well regarded either from being out of date or buggy.
+Some firms may try to compete on price particularly if the market deteriorates.
+The Group has strong customer relationships and uses account management to keep in touch with clients.
+The Group continues to invest in its product development and 2017 saw the continued development of temp functionality to Infinity TempNinja and the continued development of ISV Online.
+The Group continues to innovate and provide solutions to client needs.
+There is a focus on fixing bugs and issues as they arise to ensure the user experience is good.
+Pricing strategies are reviewed on a regular basis.
+If successful GatedTalent will provide a competitive advantage to FileFinder.
+Close integration with FileFinder is likely to lead to a sustained competitive advantage for our executive search CRM platform.
+The Group continues to look into developing new products and additional features to more readily compete.
+STRATEGIC
+REPORT
+GOVERNANCE FINANCIAL
+OVERVIEW DILLISTONE GROUP PLC  Annual Report and Accounts 2017
+CHIEF EXECUTIVE OFFICERS REVIEW
+For the year ended 31 December 2017 continued Risk Potential adverse impact Mitigation Business continuity risks associated with information systems operational failure data security and cyber security risks A failure of systems or failure of hosting facilities leading to loss of customer confidence in the Group being able to deliver their requirements.
+Loss or corruption of data held on behalf of customers which could have a detrimental effect on their confidence in data security processes and could cause financial loss.
+External attacks on servers could result in lost or corrupted data and loss of reputation.
+Each division is reliant on data centres.
+Work ongoing to move data centres to the cloud through Amazon and Azure.
+Plans are regularly reviewed on how to improve data centre management as the business grows worldwide.
+Data backups occur at least daily and the necessary test carried out on a regular basis to ensure data can be restored.
+Penetration testing helps minimise the risk of attacks.
+Regular review of Group wide infrastructure to improve cyber defences locally and at data centres.
+Employee engagement and retention Capability to meet the demands of the markets in which the Group operates and competes effectively with other IT suppliers is largely dependent on the skills experience and performance of staff.
+Failure to attract or retain high calibre employees could seriously impede future growth and present performance.
+Reliability on small group of people especially in parts of the business.
+To retain staff the Group operates competitive remuneration packages.
+Appraisals are carried out which also consider individuals personal development.
+Cross training being carried out where possible.
+Ability to finance acquisitions and new development The Group wants to grow either by acquisition or through development of its own products.
+This requires that it will have the ability to fund such expansion either via borrowing or placement or through the availability of its own cash resources.
+Ongoing discussions with investors and potential investors to build a following in Dillistone.
+Management capacity Size of business means that management tends to be stretched and under resourced.
+As the business grows there may be insufficient support to ensure that the growth is effectively managed and integrated.
+In 2018 we anticipate a further strengthening of product development management capability and review of divisional structures.
+Foreign exchange volatility The Group has substantial operations in both the UK and overseas.
+Profits are exposed to variations in exchange rates thereby impacting on reported profits.
+There is usually some element of natural hedge in the currencies although if sterling strengthens against all currencies it can have a negative impact on results.
+Brexit Potential economic uncertainty could lead to a reduction in orders in the short to medium term impacting adversely on the Groups results.
+Clearly any changes brought about by Brexit are likely to be implemented in the lead up to the exit date which might introduce changes to the UKEU trading arrangements.
+This may impact where recruiting individuals with European languages requirement.
+It may increase the time and difficulty in recruiting skilled employees.
+Clients usually choose best in class and already buy from global firms.
+The Group continues to monitor implications and is continually reviewing its products and pricing to ensure it stays competitive.
+We deal with visa requirements for some staff already.
+Data protection legislation Ensure that all Group products comply with international data protection legislation and demonstrate to clients that they do.
+Work being carried out to ensure data is secure and protected at appropriate levels.
+Senior member of executive team has GDPR practitioner certificate.
+Appropriate internal committee established.
+Numerous webinars held for clients and prospects on the impact of GDPR.
+Ability to source new talent The Group is reliant on specialist skills especially in Development and Dev Ops and it may not be possible to recruit resources locally.
+Look more broadly at where staff are based or use of outsourcing.
+CHIEF EXECUTIVE OFFICERS REVIEW
+For the year ended 31 December 2017 continued
+FINANCIAL REVIEW
+For the year ended 31 December 2017 The Group finished the year with cash funds of 1.390m 2016 1.537m bank borrowings of nil 2016 0.158m and a convertible loan of 0.391m after taking into account the equity adjustment.
+Julie Pomeroy Finance Director Total revenues decreased by 4% to 9.582m 2016 9.963m with recurring revenues increasing by 6% to 7.474m 2016 7.027m while nonrecurring revenues decreased to 1.644m 2016 Third party resell revenue amounted to 0.464m in the period 2016 0.566m.
+Cost of sales increased by 4% to 1.536m 2016 1.478m mainly due to continued investment in cloud based hosting facilities through Azure and Amazon.
+Administrative costs excluding acquisition related items depreciation and amortisation rose 10% to 6.637m 2016 6.052m.
+In part this was due to the investment in GatedTalent which made an operating loss 0.439m.
+Total depreciation and amortisation decreased to 1.100m 2016 1.690m following the oneoff adjustment of 0.720m in 2016 relating to the review of its amortisation policy for capitalised development costs.
+Acquisition related administrative costs totalled 0.823m 2016 0.331m and were in respect of the amortisation of intangibles arising on the Voyager FCP and ISV acquisitions and movement in the estimation of contingent consideration.
+The current year figure also includes an acceleration of the acquisition intangibles amortisation as a result of the loss of a major contract in that business as disclosed in note 13.
+Finance cost includes 0.005m 2016 0.015m relating to the unwinding of the discount in respect of the contingent consideration.
+Recurring revenues covered 97% of administrative expenses before acquisition related and oneoff costs 2016 100%.
+Excluding depreciation and amortisation of our own internal development the administrative costs are covered 113% 2016 116% by recurring revenues.
+The Group benefitted from a tax credit in 2017 of 0.454m 2016 credit 0.134m.
+The 2017 credit reflects the significant RandD tax credits available to all three divisions and the assumption that any tax losses will be surrendered for the RandD tax credit payment.
+It has also been impacted by the reduction in tax rate to 19.25% 2016 20% as well as the impact of the oneoff adjustment in respect of amortisation of development costs and adjustments to prior year computations.
+These benefits are partially offset by the higher rates of corporation tax that are payable overseas.
+The acquisition related items tax credit reflects the reduction in deferred tax that arises as amortisation is charged in the profit and loss account.
+Profit for the year before acquisition related and other oneoff items amounted to 0.606m 2016 1.395m.
+The 2017 adjusted profits benefitted from a tax credit of 0.303m 2016 tax credit of 0.063m.
+The loss for the year after acquisition related items and other oneoff items was 0.071m 2016 profit Basic earnings per share EPS fell to 0.36p 2016 2.68p.
+Fully diluted EPS fell to 0.36p 2016 2.62p.
+Adjusted basic EPS fell to 3.08p 2016 7.10p.
+Capital expenditure The Group invested 1.506m in property plant and equipment and product development during the year 2016 1.126m.
+This expenditure included 1.358m 2016 1.056m spent on capitalised development related costs.
+Millions Profitloss after tax
+REPORT
+GOVERNANCE FINANCIAL
+OVERVIEW DILLISTONE GROUP PLC  Annual Report and Accounts 2017
+FINANCIAL REVIEW
+For the year ended 31 December 2017 continuedtelteltelteltel Millions Pence Pence Adjusted EBITDA Adjusted basic EPS Basic EPS Trade and other payables As with previous years the trade and other payables includes deferred income ie income which has been billed in advance but is not recognised as income at that time.
+This principally relates to support SaaS and cloud hosting renewals which are billed in 2017 but are in respect of services to be delivered in 2018.
+Contractual income of this type is recognised monthly over the period to which it relates.
+It also includes deposits taken for work which has not yet been completed as such income is only recognised when the work is substantially complete or the client software goes live.
+Also included in trade and other payables is 0.146m 2016 0.375m in respect of contingent consideration.
+At the end of 2017 there was one tranche of contingent consideration payable in respect of ISV relating to the revenue in the nine month period to 30 September 2017 and this was paid in February 2018.
+Cash
+The Group finished the year with cash funds of 1.390m 2016 1.537m bank borrowings of nil 2016 0.158m and a convertible loan of 0.391m after taking into account the equity adjustment.
+This is after capital expenditure of 1.506m the final payment to the vendors of ISV of 0.219m and dividend payments of On behalf of the Board Julie Pomeroy Finance Director 26 April 2018 The Strategic Report is signed on behalf of the Board by Jason Starr Chief Executive 26 April 2018 site 15
+Board of Directors 16 Corporate Governance Report 18 Report to the Shareholders on Directors Remuneration 20 Directors Report 22 DILLISTONE GROUP PLC  Annual Report and Accounts 2017 BOARD OF DIRECTORS For the year ended 31 December 2017 Mike Love has a PhD in Theoretical Physics and over 40 years experience in the software industry.
+He is currently nonexecutive chairman of SciSys plc also an AIM quoted company and director and chairman at Redcliffe Precision Ltd.
+He was group managing director of SciSys from 1986 to 2003 during which time he led a management buyout of the business and floated it on AIM in 1997.
+He is a previous member of the AIM Advisory Group of the London Stock Exchange.
+Jason Starr joined Dillistone Systems in 1994.
+He became Marketing Manager in 1996 before becoming Managing Director of the UK business in 1998.
+Following the MBO Jason became Managing Director of Dillistone Systems Ltd and subsequently became Group
+Chief Executive Officer.
+Jason is a Director of all three Divisions and has an executive role with both Dillistone Systems and GatedTalent.
+Jason was appointed a nonexecutive director of AIM listed PCIPAL PLC from 1 January 2017.
+Jason has a BA Honours Business Studies degree from the London Guildhall University.
+Rory Howard has a BA Honours in Business Administration and is a PRINCE2 practitioner.
+Rory started his career with the Dixons Stores Group and from 1991 to 1994 he worked in the systems and control department as a technical support analyst working on their EPOS systems data reporting and security.
+He then joined JATO Dynamics Ltd a software company specialising in the automotive research market as a database analyst developing databases for pricing models for the large automotive manufacturers.
+In 1998 he joined Dillistone Systems Limited as a project manager and the following year became the Global Projects Manager tasked with restructuring all implementations and data migrations procedures and operations.
+In 2003 Rory became Operations Director of Dillistone Systems Limited and a member of the Board.
+Alex graduated from Swansea University in 1995 with a degree in
+In 1995 Alex joined Mallinckrodt Veterinary working in quality control.
+In 1997 he moved to Responseability a company that manages aspects of the recruitment process for clients starting in administration before progressing into an account management role.
+Alex started at Dillistone in 1999 in a trainingconsultancy position prior to becoming the UK and then Global Projects Manager being ultimately responsible for the implementation of all products and services to both new and existing clients.
+Alex joined the Board of Dillistone Systems Limited in January 2005 and the Group Board in February 2006.
+Alex is a Director of both Dillistone Systems and GatedTalent and sits on the Group Board with an overall responsibility for Product
+MIKE LOVE
+CHAIRMAN
+JASON STARR CHIEF EXECUTIVE RORY HOWARD
+DIRECTOR
+ALEX JAMES
+DEVELOPMENT
+DIRECTOR site 17 GOVERNANCE FINANCIAL
+STRATEGIC
+REPORT
+Alistair started his career at Richmond Theatre in 1994 working in both the marketing department and box office.
+In 1997 he joined The Football Association initially in a ticketing administration role before progressing to a management role.
+Alistair then began working at the Shaw Theatre as Box Office Manager.
+He joined Dillistone Systems in 2003.
+He was initially appointed to the UK and then Global Support Manager role with responsibility for all aspects of support services.
+He was promoted to the Dillistone Systems Limited Board in 2006 and joined the Group Board in January 2011.
+Alistair became Managing Director of Dillistone Systems in October 2017 previously being the Director of Support Services.
+A career in the passenger transport industry saw Giles lead an MBO in 1991 forming Blazefield Holdings Limited a business operating bus networks principally across Yorkshire and Lancashire.
+This company was sold to Transdev in 2006.
+In 1997 he was appointed chief executive of Prism Rail PLC having been one of that companys founders and held that position until its sale to National Express in 2000.
+Prism Rail operated four of the UKs passenger rail franchises with a turnover of 500 million per annum.
+Giles is currently managing director  Bus UK and Ireland for First Group Plc.
+Giles served as chairman of the Association of Train Operating Companies in 19992000 and as chairman of The Confederation of Passenger Transport UK.
+Audit Committee Remuneration Committee COMMITTEE ICONS Julie is an experienced finance director of quoted and private companies.
+She graduated with an honours degree in Physics from Birmingham University and is a Chartered Accountant and Chartered
+She also holds tax and treasury qualifications.
+Julie was group finance director of Carter and Carter Group plc until October 2005 having joined in 2002 to help grow and float the business.
+She had previously been chief financial officer of Weston Medical Group plc and prior to this Julie worked at East Midlands Electricity plc as director of corporate finance.
+She was finance director of AIM quoted Biofutures International plc until July 2010.
+Julie is also a non executive director of Nottingham University Hospitals NHS Trust.
+JULIE POMEROY
+DIRECTOR
+GILES FEARNLEY
+DIRECTOR
+ALISTAIR MILNE MD  DILLISTONE
+OVERVIEW DILLISTONE GROUP PLC  Annual Report and Accounts 2017 CORPORATE GOVERNANCE REPORT For the year ended 31 December 2017 Dillistone Group Plc the Company is committed to maintaining high standards of corporate governance.
+The Company does not comply with the provisions of the UK Corporate Governance Code the Code in its entirety and it is not required to do so.
+However the Board recognises the importance of sound corporate governance and will take appropriate measures to ensure that the Company complies with the main provision of the Code as far as practicable and to the extent appropriate given the Companys size assets liabilities and other relevant information.
+The summary below further describes the Companys approach to corporate governance.
+Leadership
+The Board comprises a NonExecutive Chairman one Independent NonExecutive Director and five Executive Directors.
+All Directors are obliged to submit themselves for reelection at least every three years.
+The Chairman and NonExecutive Director are considered to be independent of management and free from any business or other relationship which could materially interfere with the exercise of their independent judgement.
+Giles
+Fearnley is the current Senior Independent Director and his shareholding of approximately 2.3% is not considered by the Board to change his independence.
+Effectiveness
+To enable the Board to discharge its duties all Directors have full and timely access to all relevant information.
+They are also able to take independent professional advice as appropriate.
+The Board has two committees Audit Committee The Audit Committee comprises the Chairman and the NonExecutive Director and usually meets twice during the year.
+The Finance Director Group Chief Executive Officer CEO and external Auditor attend by invitation.
+The Audit Committee makes recommendations to the Board on issues surrounding the appointment resignation or removal of auditors and their remuneration.
+It discusses and agrees the scope of the audit with the external Auditor before the audit.
+The Audit Committee reviews external audit activities monitors compliance with statutory requirements for financial reporting and reviews the halfyear and annual accounts before they are presented to the Board for approval.
+It is also required to review the effectiveness of the Groups internal control systems to review the Groups statement on internal control systems prior to endorsement by the Board and to consider from time to time the need for a risk assessment of the Groups internal control systems.
+Remuneration Committee The Remuneration Committee comprises the Chairman the NonExecutive Director and by invitation the Group CEO and the Company
+It is responsible for recommending to the Board the contract terms remuneration and other benefits for Executive Directors including the performancerelated bonus scheme and participation in the Groups longterm share option schemes.
+The Board has not delegated a Nomination Committee the whole Board is involved in the appointment of any new director.
+The Board does not currently undertake an evaluation of its own performance or that of its committees.
+Accountability
+The Board meets at least four times each year and has adopted a formal schedule of matters specifically reserved for decision by it thus ensuring that it exercises control over appropriate strategic financial operational and compliance issues.
+At these meetings the Board reviews trading performance ensures adequate financing sets and monitors strategy examines investment and acquisition opportunities and discusses reports to
+Internal controls The Board has overall responsibility for the Groups system of internal controls.
+However such a system is designed to manage rather than eliminate the risk of failure to achieve business objectives and can only provide reasonable and not absolute assurance against material misstatement.
+In order to discharge that responsibility in a manner which ensures compliance with laws and regulations and promotes effective and efficient operations the Directors have established an organisation structure with clear operating procedures lines of responsibility and delegated authority.
+There is an established framework of internal controls set out and approved by the executive management.
+The more important elements of this framework are as follows Management structure The Board has overall responsibility for the Group and each Executive Director has been given responsibility for specific aspects of the Groups affairs.
+Corporate accounting and procedures Responsibility levels are communicated throughout the Group as part of the corporate communication procedure.
+Accounting delegation of authority and authorisation levels segregation of duties and other control procedures together with the general ethos of the Group are included in these communications and standardised accounting policies are in place reflecting this policy.
+Quality and integrity of personnel The integrity and competence of personnel is ensured through high recruitment standards and subsequent training courses.
+Quality personnel are seen as an essential part of the control environment and the ethical standards expected are communicated through senior members of staff.
+Budgetary process Each year the Board approves the annual budget which includes an assessment of key assumptions underlying it.
+Performance is monitored and relevant action taken throughout the year by monthly reporting to the Board of updated forecasts together with information on key risk areas.
+Internal monitoring The Audit Committee considers and determines relevant action in respect of any control issues raised by the
+Given the size of the Group and the close daytoday control exercised by the Executive Directors and senior management no formal financial internal audit department is considered necessary.
+The Operations Director is responsible for maintaining registrations and quality related certifications and defining and agreeing the procedures standards and practices to be followed in all nonfinancial aspects of the Groups business.
+Risk management
+The Board formally reviews the risk register at least annually and the consideration of risks and in particular the identification of new risks are an agenda item at each Board meeting.
+Relationship with Company Auditor The Auditor has ready access to the chairman of the Audit Committee and the Audit Committee meets at least annually with the Auditor without any member of the executive being present.
+Remuneration
+The objective of the Groups remuneration policy is to attract motivate and retain high quality individuals who will contribute significantly to shareholder value.
+The Remuneration Committee decides on the remuneration of the Directors and other senior management which comprises a basic salary benefits bonus scheme share options and longerterm incentive plan.
+No Director is involved in deciding his or her own remuneration.
+Relations with Shareholders The Group seeks to maintain good communications with Shareholders.
+The Executive Directors make presentations to institutional Shareholders covering the interim and full year results.
+The Group despatches the notice of Annual General Meetings AGM with an explanatory circular describing items of special business at least 21 working days before the meeting.
+All Shareholders have the opportunity formally or informally to ask questions at the Companys AGM and the Chairman typically makes a statement on current trading conditions at that meeting.
+The Chairman of the Audit and Remuneration Committees attends the AGM and will answer questions that may be relevant to the remit of those committees.
+At each AGM the Chairman advises Shareholders of the proxy voting details on each of the resolutions which are dealt with on a show of hands.
+In addition webinars are made following certain announcements as well as ad hoc meetings giving Shareholders and other interested parties the opportunity to interact with members of the Board.
+Auditor
+A resolution authorising the Directors to set the remuneration of the Auditor will be put to Shareholders at the forthcoming AGM.
+GOVERNANCE FINANCIAL
+STRATEGIC
+REPORT
+OVERVIEW DILLISTONE GROUP PLC  Annual Report and Accounts 2017 REPORT TO THE SHAREHOLDERS ON DIRECTORS REMUNERATION For the year ended 31 December 2017 Service contracts The Boards policy is that service contracts of Executive Directors should provide for termination by the Group on one years notice.
+The service contracts of each of the current Executive Directors provide for such a period of notice.
+The independent NonExecutive Directors have letters of appointment providing fixed threeyear service periods which may be terminated by giving six months notice.
+NonExecutive Directors remuneration The fees for the Chairman and independent NonExecutive Director are determined by the Board.
+The Chairman and the NonExecutive Director are not involved in any discussions or decisions about their own remuneration.
+The Chairman and independent NonExecutive Director do not receive bonuses or pension contributions and are not entitled to participate in any of the Groups share schemes.
+They are entitled to be reimbursed the reasonable expenses incurred by them in carrying out their duties as Directors of the Company.
+Executive Directors remuneration The remuneration package of the Executive Directors includes the following elements Basic salary Salaries are normally reviewed annually taking into account inflation and salaries paid to directors of comparable companies.
+Pay reviews also take into account Group and personal performance.
+The Board as a whole decides the remuneration of the Chairman and the NonExecutive Director.
+Performance related pay scheme There are two performance related pay schemes for Executive Directors.
+The first is an annual bonus scheme which is based upon the achievement of certain profit and commercial targets for the Group as appropriate.
+The Executive Directors bonus charged in the 2017 financial year is 17000 2016 35000 including Employers National Insurance.
+The second scheme is a longterm incentive plan linked to growth in earnings per share over a three year period.
+At the discretion of the Remuneration Committee Executive Directors are either granted share options at the ruling midmarket price at the time of the grant or a pure cash bonus fixed as a percentage of salary.
+The awards are subject to meeting challenging EPS growth targets.
+Annual awards are made under this scheme.
+Where options are awarded the value of the award is calculated using a BlackScholes model see note 23 for further details.
+The awards made in the period are included in the LTIP tables below.
+Directors remuneration Details of the remuneration of the Directors for the financial year are set out below
+Annual Bonus
+Benefits
+Executive Directors R Howard A D James 93 3 8  104 106 J P Pomeroy A Milne 94 3 7  104 105 NonExecutive Directors M D Love 35   35 34 G R Fearnley 13    Salary is calculated after deducting salary sacrifice payments which totalled 40000.
+Includes salary sacrifice payments which totalled 40000.
+Long term incentive payments made in the period are not included in the above figures but are detailed below.
+LTIP award  % of salary arrangement Maximum payout awarded in period Paid in the year including Employers NI Total value of salary based LTIP awards carried at 31 December 2017 Total value of all salary based LTIP awards carried at 31 December 2016 J S Starr 74  8 10 R Howard 40  4 5 Awards accrued over the period that they relate to and the valuation takes into account the likelihood of performance conditions being met.
+LTIP award  share options Number of options granted under LTIP scheme in year Total Number of options granted under LTIP scheme at 31 December 2017 Total Number of options granted under LTIP scheme at 31 December 2016 A D James 170000 330830 160830 J P Pomeroy 170000 330134 160134 A Milne 170000 327659 157659 510000 988623 478623 The Options granted in the year were at a price of 58p and carry the same performance conditions as the LTIP cash bonus awards.
+No options were exercised in the year.
+Directors interests The interests of the Directors including family interests in the share capital of the Company at the year end are set out below Ordinary shares of 5p each At 31 December 2017 At 31 December 2016 J S Starr 3577591 3577591 R Howard 3300000 3300000 A D James 112744 112744 M D Love 989754 989754 G R Fearnley 453435 453435 A Milne 59109 59109 J P Pomeroy 63733 63733 The Dillistone Group Plc also issued an 8.15% convertible loan note in which the Directors participated.
+Their holdings are as follows 8.15% convertible loan notes At 31 December 2017 J S Starr 24250 R Howard 24250 A D James 1000 M D Love 250000 G R Fearnley 75000 J P Pomeroy 10000 The Loan Notes carry an interest coupon of 8.15% pa over their maximum term of 36 months with a conversion price of 71.6p per new Dillistone ordinary share.
+The interest payments are payable quarterly in arrears and will be satisfied through the issue of further new ordinary shares or in cash at the individual Directors election.
+In addition the following Directors had total share options including the options granted under the LTIP scheme above and options granted under the sharesave scheme.
+Options over ordinary shares of 5p each At 31 December 2017 At 31 December 2016 A D James 330830 160830 J P Pomeroy 341657 164761 A Milne 332286 162286 1004773 487877 GOVERNANCE FINANCIAL
+STRATEGIC
+REPORT
+OVERVIEW DILLISTONE GROUP PLC  Annual Report and Accounts 2017 DIRECTORS REPORT For the year ended 31 December 2017 The Directors present their report and financial statements for the year ended 31 December 2017.
+Results and dividends The consolidated statement of comprehensive income for the year is set out on page 29.
+A final dividend of 0.5p 2016 2.8p will be paid subject to Shareholder approval on 13 July.
+Directors
+The following Directors have held office since 1 January 2017 M D Love  NonExecutive Chairman J S Starr R Howard A D James J P Pomeroy G R Fearnley  NonExecutive Director A Milne The interests of the Directors including family interests in the share capital of the Company are listed on page 21.
+Jason Starr and Alex James are proposed for reelection at the forthcoming AGM.
+Both have a service contract with a one year notice period.
+Mike Love has been a NonExecutive Director for over nine years and therefore will offer himself for reelection annually.
+Financial risk management Details of the Groups financial risk management are set out in the Strategic Report section.
+Directors and officers insurance The Group maintains insurance cover for all Directors and officers of Group companies against liabilities which may be incurred by them while acting as Directors and officers.
+Future developments The Directors consider that the continued investment in product and market development will allow the business to grow organically in its core markets.
+The combination of organic growth along with strategic acquisitions will support the expected growth as outlined in the Chairmans Statement and the Strategic Report.
+Research and development activities The Group continues its development programme of software for the recruitment market including the research and development of new products and enhancement to existing products.
+The Directors consider the investment in research and development to be fundamental to the success of the business in the future.
+Post balance sheet events There are no post balance sheet events to report.
+Overseas branch operations The Group has a branch operating in Germany.
+Details of all subsidiaries and their locations are detailed in note 15.
+Annual General Meeting The Companys Annual General Meeting will be held at 50 Leman St London E1 8HQ on 26 June 2018 at 1030 am.
+The Notice convening the Annual General Meeting and an explanation of the business to be put to the meeting is contained in the separate document to Shareholders which accompanies this report.
+Auditor
+A resolution proposing the reappointment of BDO LLP as Auditor to the Group and Company will be put to the forthcoming Annual General
+Directors responsibilities The Directors are responsible for preparing the Directors Report and the financial statements in accordance with applicable law and regulations.
+Company law requires the Directors to prepare financial statements for each financial year.
+The
+Directors are also required to prepare financial statements in accordance with the rules of the London Stock Exchange for companies trading on the Alternative Investment Market.
+The
+Directors have elected under company law to prepare the Group and Companys financial statements in accordance with International Financial Reporting Standards as adopted by the European Union IFRSs.
+Under company law the Directors must not approve the financial statements unless they are satisfied that they give a true and fair view of the state of affairs and profit or loss of the Group and Company for that period.
+In preparing the Group and Company financial statements the Directors are required to select suitable accounting policies and then apply them consistently make judgements and accounting estimates that are reasonable and prudent state whether they have been prepared in accordance with IFRSs adopted by the EU prepare the financial statements on the going concern basis unless it is inappropriate to presume that the Group and the Company will continue in business.
+The Directors are responsible for keeping adequate accounting records that are sufficient to show and explain the Companys transactions and disclose with reasonable accuracy at any time the financial position of the Company and enable them to ensure that the financial statements comply with the Companies Act 2006.
+They are also responsible for safeguarding the assets of the Company and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+Website publication The Directors are responsible for ensuring the Annual Report and the financial statements are made available on a website.
+Financial statements are published on the Companys website in accordance with legislation in the United Kingdom governing the preparation and dissemination of financial statements which may vary from legislation in other jurisdictions.
+The maintenance and integrity of the Companys website is the responsibility of the Directors.
+The Directors responsibility also extends to the ongoing integrity of the financial statements contained therein.
+The Directors confirm that so far as each Director is aware there is no relevant audit information of which the Companys Auditor is unaware and the Directors have taken all steps that they ought to have taken as Directors to make themselves aware of any relevant audit information and to establish that the Auditor is aware of that information.
+On behalf of the Board J P Pomeroy Company Secretary 26 April 2018 FINANCIAL
+Independent Auditors Report to the members of Dillistone Group Plc 24 Consolidated Statement of Comprehensive Income 29 Consolidated Statement of Changes in Equity 30 Company Statement of Changes in Equity 31 Consolidated and Company Statements of Financial Position 32 Consolidated Cash Flow Statement 33 Company Cash Flow Statement 34 Notes to the Financial Statements 35 Directors and Advisers IBC DILLISTONE GROUP PLC  Annual Report and Accounts 2017
+Independent Auditors Report
+For the year ended 31 December 2017
+We have audited the financial statements of Dillistone Group Plc the parent company and its subsidiaries the group for the year ended 31 December 2017 which comprise the consolidated statement of comprehensive income the consolidated and company statement of changes in equity the consolidated and company statement of financial position the consolidated and company cash flow statement and notes to the financial statements including a summary of significant accounting policies.
+The financial reporting framework that has been applied in the preparation of the financial statements is applicable law and International Financial Reporting Standards IFRSs as adopted by the European Union and as regards the parent company financial statements as applied in accordance with the provisions of the Companies Act 2006.
+In our opinion the financial statements give a true and fair view of the state of the groups and of the parent companys affairs as at 31 December 2017 and of the groups loss for the year then ended the group financial statements have been properly prepared in accordance with IFRSs as adopted by the European Union the parent company financial statements have been properly prepared in accordance with IFRSs as adopted by the European Union and as applied in accordance with the provisions of the Companies Act 2006 and the financial statements have been prepared in accordance with the requirements of the Companies Act 2006.
+Basis for opinion We conducted our audit in accordance with International Standards on Auditing UK ISAs UK and applicable law.
+Our responsibilities under those standards are further described in the Auditors responsibilities for the audit of the financial statements section of our report.
+We are independent of the group in accordance with the ethical requirements that are relevant to our audit of the financial statements in the UK including the FRCs Ethical Standard as applied to listed entities and we have fulfilled our other ethical responsibilities in accordance with these requirements.
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+Conclusions relating to going concern We have nothing to report in respect of the following matters in relation to which the ISAs UK require us to report to you where the directors use of the going concern basis of accounting in the preparation of the financial statements is not appropriate or the directors have not disclosed in the financial statements any identified material uncertainties that may cast significant doubt about the groups or the parent companys ability to continue to adopt the going concern basis of accounting for a period of at least twelve months from the date when the financial statements are authorised for issue.
+Overview
+Materiality
+Audit scope Areas of focus Group materiality was 143000 2016 150000 which represents 1.50% 2016 1.50% of total revenue.
+Component materiality and other considerations are detailed in the materiality section below.
+We identified five centrally controlled components either those operations required to have individual audit opinions issued under the Companies Act 2006 or those that contributed greater than 15% of group revenue which in our view required an audit of their complete financial information.
+Further review procedures were performed on both centrally and foreign controlled operations in the US by the group audit team at the groups head office.
+BDO network component auditors were engaged to perform specific audit procedures on the operations located in Australia.
+We have identified and reported on two key audit matters including Capitalised Development and Revenue Recognition as detailed below.
+STRATEGIC
+REPORT
+FINANCIAL
+STATEMENTS
+Key audit matters Key audit matters are those matters that in our professional judgement were of most significance in our audit of the financial statements of the current period and include the most significant assessed risks of material misstatement whether or not due to fraud we identified including those which had the greatest effect on the overall audit strategy the allocation of resources in the audit and directing the efforts of the engagement team.
+These matters were addressed in the context of our audit of the financial statements as a whole and in forming our opinion thereon and we do not provide a separate opinion on these matters.
+Key audit matter Description of key audit matter Our response
+Recognition of internally developed intangible assets was considered to be a key audit matter given the involvement of significant judgement including Determining the distinction between research and development costs and Determining the value of salary costs relating to members not in the development team to be capitalised.
+Management have also utilised significant judgement in assessing the technological and commercial feasibility of the projects.
+As described in note 1.12 the group capitalises costs incurred on product development relating to the design and development of new or enhanced products.
+Details of the products concerned are given in the Dillistone Group at a Glance section of the annual report on pages 04 and 05.
+Our audit procedures involved Making enquiries of Heads of Development within the group to understand procedures performed to capitalise internally generated intangible assets.
+Reviewing all project summary reports for all ongoing and completed projects during the year for which costs were capitalised.
+Consideration of managements assessment of technical feasibility.
+Where appropriate confirmation of the existence of an active market through consideration of sales activity.
+For a sample of capitalised payroll costs obtained and reviewed employment contracts and timecards.
+Recognition of revenue The groups revenue recognition policy can be found in note 1.4 to the financial statements.
+We consider a significant risk of material misstatement to arise from the recognition of revenue around the year end.
+Further the offering of bonus schemes and incentive plans increases the risk that sales may be overstated due to fraud.
+Therefore the key audit matter is the existence of revenue around the year end including the recognition of the correct apportionment of revenue in the year and the related amount deferred at the year end.
+We tested that consistent revenue recognition procedures have been adopted during the year by reviewing a selection of contracts tracing the satisfaction of performance obligations cash receipts and revenue postings into the income statement.
+We performed testing over all material revenue streams including Applying predictive analytical testing procedures for contract revenue earned during the year and investigated all movements that were not consistent with independent expectations set.
+All inputs used to set those expectations were tested substantively.
+Verifying a sample of bespoke and nonrecurring orders received in the year reconciling to underlying agreements cash receipt and appropriate trigger events for revenue recognition.
+Selecting a sample of entries deferred at year end tracing these back to the cash receipt and expected delivery of performance obligations.
+Reviewing a sample of revenue items posted either side of year end to confirm revenue cutoff procedures have been correctly applied.
+OVERVIEW GOVERNANCE DILLISTONE GROUP PLC  Annual Report and Accounts 2017
+Independent Auditors Report continued
+For the year ended 31 December 2017 Our application of materiality We apply the concept of materiality in performing our audit and evaluating the effect of misstatements.
+We consider materiality to be the magnitude by which misstatements including omissions could influence the economic decisions of reasonable users that are taken on the basis of the financial statements.
+In order to reduce to an appropriately low level the probability that any misstatements exceed materiality we use a lower materiality performance materiality to determine the extent of testing needed.
+Importantly misstatements below these levels will not necessarily be evaluated as immaterial as we also take account of the nature of identified misstatements and the particular circumstances of their occurrence when evaluating their effect on the financial statements as a whole.
+We agreed with the audit committee that we would report to the committee all individual audit differences identified during the course of our audit in excess of 7150 2016 7500.
+We also agreed to report differences below these thresholds that in our view warranted reporting on qualitative grounds.
+Overall group materiality 143000 2016 150000 Basis for determining 1.50% of total group revenue 2016 1.50% Rationale for benchmark applied The ability of the group to generate continued and new sources of revenue is imperative for management to conclude on the market feasibility of software projects and the ability to capitalised costs in accordance with IAS Furthermore as a significant driver of profit revenue growth impacts the achievement of key performance indicators resulting in bonus schemes and incentive plans offered by the group.
+Parent company materiality 108000 2016 120000 Dillistone Group Plc Consolidated Revenue Dillistone Group Plc Group Materiality Highest Component
+Audit Committee Reporting Threshold Component materiality Component materiality is established when performing audits on complete financial information of subsidiaries within the group where the subsidiary is considered significant to the group.
+We determined component materiality as follows Range of component materiality 3% to 93% 2016 2% to 80% of group materiality site 27 An overview of the scope of our audit Our group audit was scoped by obtaining an understanding of the group and its environment including the groups system of internal control and assessing the risks of material misstatement in the financial statements at the group level.
+In determining the scope of our audit we considered the level of work to be performed at each component in order to ensure sufficient assurance was gained to allow us to express an opinion on the financial statements of the Group as a whole.
+We tailored the extent of the work to be performed at each component either by us as the group audit team or component auditors within the BDO International network based on our assessment of the risk of material misstatement at each component.
+We identified five centrally controlled components as significant and have audited these for group reporting purposes.
+The group audit team centrally performed the audit of 82% 2016 85% of group revenue and 95% 2016 89% of total assets using the materiality levels set out above.
+For two of the components not considered significant the component auditors performed specific scope procedures based on their relative size risks in the business and our knowledge of those entities appropriate to respond to the risk of material misstatement.
+Review and specific scope procedures were performed by the group audit team on the remaining three reporting components not considered significant to the group.
+Revenue
+4% 14% 82%
+USA
+AUS
+Profit after tax 7% 18% 83%
+USA
+AUS
+Total assets 1% 4% 95%
+USA
+AUS
+Other information The directors are responsible for the other information.
+The other information comprises the information included in the annual report other than the financial statements and our auditors report thereon.
+Our opinion on the financial statements does not cover the other information and except to the extent otherwise explicitly stated in our report we do not express any form of assurance conclusion thereon.
+In connection with our audit of the financial statements our responsibility is to read the other information and in doing so consider whether the other information is materially inconsistent with the financial statements or our knowledge obtained in the audit or otherwise appears to be materially misstated.
+If we identify such material inconsistencies or apparent material misstatements we are required to determine whether there is a material misstatement in the financial statements or a material misstatement of the other information.
+If based on the work we have performed we conclude that there is a material misstatement of this other information we are required to report that fact.
+We have nothing to report in this regard.
+Opinions on other matters prescribed by the Companies Act 2006 In our opinion based on the work undertaken in the course of the audit the information given in the strategic report and the directors report for the financial year for which the financial statements are prepared is consistent with the financial statements and the strategic report and the directors report have been prepared in accordance with applicable legal requirements.
+STRATEGIC
+REPORT
+FINANCIAL
+STATEMENTS
+OVERVIEW GOVERNANCE DILLISTONE GROUP PLC  Annual Report and Accounts 2017
+Independent Auditors Report continued
+For the year ended 31 December 2017 Matters on which we are required to report by exception In the light of the knowledge and understanding of the group and the parent company and its environment obtained in the course of the audit we have not identified material misstatements in the strategic report or the directors report.
+We have nothing to report in respect of the following matters in relation to which the Companies Act 2006 requires us to report to you if in our opinion adequate accounting records have not been kept by the parent company or returns adequate for our audit have not been received from branches not visited by us or the parent company financial statements are not in agreement with the accounting records and returns or certain disclosures of directors remuneration specified by law are not made or we have not received all the information and explanations we require for our audit.
+Responsibilities of directors As explained more fully in the directors responsibilities statement set out on page 22 the directors are responsible for the preparation of the financial statements and for being satisfied that they give a true and fair view and for such internal control as the directors determine is necessary to enable the preparation of financial statements that are free from material misstatement whether due to fraud or error.
+In preparing the financial statements the directors are responsible for assessing the groups and the parent companys ability to continue as a going concern disclosing as applicable matters related to going concern and using the going concern basis of accounting unless the directors either intend to liquidate the group or the parent company or to cease operations or have no realistic alternative but to do so.
+Auditors responsibilities for the audit of the financial statements This report is made solely to the companys members as a body in accordance with Chapter 3 of Part 16 of the Companies Act 2006.
+Our audit work has been undertaken so that we might state to the companys members those matters we are required to state to them in an auditors report and for no other purpose.
+To the fullest extent permitted by law we do not accept or assume responsibility to anyone other than the company and the companys members as a body for our audit work for this report or for the opinions we have formed.
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement whether due to fraud or error and to issue an auditors report that includes our opinion.
+Reasonable assurance is a high level of assurance but is not a guarantee that an audit conducted in accordance with ISAs UK will always detect a material misstatement when it exists.
+Misstatements can arise from fraud or error and are considered material if individually or in the aggregate they could reasonably be expected to influence the economic decisions of users taken on the basis of these financial statements.
+A further description of our responsibilities for the audit of the financial statements is located on the Financial Reporting Councils website at www. rc. iteauditorsresponsibilities.
+This description forms part of our auditors report.
+David Butcher Senior Statutory Auditor For and on behalf of BDO LLP statutory auditor
+26 April 2018 BDO LLP is a limited liability partnership registered in England and Wales with registered number OC.
+Consolidated Statement of Comprehensive Income For the year ended 31 December 2017
+Revenue 3 9582 9963 Cost of sales 1536 1478 Gross profit 8046 8485 Administrative expenses 8560 8073 Operating lossprofit 6 514 412 Adjusted operating profit before acquisition related and oneoff items 2 309 1463 Acquisition related and oneoff items 5 823 1051 Operating lossprofit 514 412 Financial income 8 1 3 Financial cost 8 12 23 Lossprofit before tax 525 392 Tax income 9 454 134 Lossprofit for the year 71 526 Other comprehensive income Items that will be reclassified subsequently to profit and loss Currency translation differences 24 16 Total comprehensive income for the year 95 542 Earnings per share Basic 10 0.36p 2.68p Diluted 10 0.36p 2.62p The notes on pages 35 to 60 are an integral part of these consolidated financial statements.
+STRATEGIC
+REPORT
+FINANCIAL
+STATEMENTS
+OVERVIEW GOVERNANCE DILLISTONE GROUP PLC  Annual Report and Accounts 2017 Consolidated Statement of Changes in Equity For the year ended 31 December 2017
+Share premium
+Retained earnings
+Share option
+Total
+Balance at 31 December 2015 983 1631 365 4008  71 101 7159 Comprehensive income Profit for the year ended 31 December 2016    526    526 Other comprehensive income Exchange differences on translation of overseas operations       16 16 Total comprehensive income    526   16 542 Transactions with owners Share option charge    2  14  16 Dividends paid    811    811 Total transactions with owners    809  14  795 Balance at 31 December 2016 983 1631 365 3725  85 117 6906 Comprehensive income Loss for the year ended 31 December 2017    71    71 Other comprehensive income Exchange differences on translation of overseas operations       24 24 Total comprehensive income    71   24 95 Transactions with owners Share option charges    4  16  20 Issue of convertible loan note     14   14 Dividends paid    551    551 Total transactions with owners    547 14 16  517 Balance at 31 December 2017 983 1631 365 3294 The notes on pages 35 to 60 are an integral part of these consolidated financial statements.
+Company Statement of Changes in Equity For the year ended 31 December 2017
+Share premium
+Convertible loan reserve
+Share option
+Balance at 31 December 2015 983 1631 365  1577 71 4627 Comprehensive income Total comprehensive income for the year ended 31 December 2016     1057  1057 Transactions with owners Share option charge     2 14 16 Dividends paid     811  811 Total transactions with owners     809 14 795 Balance at 31 December 2016 983 1631 365  1825 85 4889 Comprehensive income Total comprehensive income for the year ended 31 December 2017     1311  1311 Transactions with owners Share option charge     4 16 20 Issue of convertible loan    14   14 Dividends paid     551  551 Total transactions with owners    14 547 16 517 Balance at 31 December 2017 983 1631 365 14 2589 101 5683 The notes on pages 35 to 60 are an integral part of these consolidated financial statements.
+STRATEGIC
+REPORT
+FINANCIAL
+STATEMENTS
+OVERVIEW GOVERNANCE DILLISTONE GROUP PLC  Annual Report and Accounts 2017 Consolidated and Company Statements of Financial Position As at 31 December 2017 Group Company
+ASSETS
+Noncurrent assets Goodwill 12 3415 3415 Other intangible assets 13 4881 5263 Property plant and equipment 14 164 215 Investments 15   7602 7601 8460 8893 7602 7601 Current assets Inventories 16 3 5 Trade and other receivables 17 1677 2196 934 349 Cash and cash equivalents 19 1390 1537 99 43 3070 3738 1033 392 Total assets 11530 12631 8635 7993 EQUITY AND LIABILITIES Equity attributable to owners of the parent Share capital 2tel983 Share premium 1631 1631 1631 1631 Merger reserve 36telConvertible loan reserve 14  14 Retained earnings 3107 3725 2589 1825 Share option reserve Translation reserve 93 117 Total equity 6294 6906 5683 4889
+Noncurrent liabilities Trade and other payables Borrowings 20 386  386 Deferred tax liability 9 668 784 Current liabilities Trade and other payables 18 4335 4599 2549 2931
+Current tax payable 170 169 Total liabilities 5236 5725 2952 3104 Total liabilities and equity 11530 12631 8635 7993 The profit for the financial year for the parent Company was 1311000 2016 1057000.
+The notes on pages 35 to 60 are an integral part of these consolidated financial statements.
+The financial statements were approved by the Board of Directors and authorised for issue on 26 April 2018.
+They were signed on its behalf by J P Pomeroy
+Company Registration No.
+Consolidated Cash Flow Statement As at 31 December 2017 Operating activities Lossprofit before tax 525 392 Adjustment for Financial income 1 3 Financial cost 12 23 Depreciation and amortisation 1938 2069 Share option expense 20 16 Foreign exchange adjustments arising from operations 12 31 Operating cash flows before movement in working capital 1432 2528 Increase  decrease in receivables 573 487 Decrease in inventories 2 11 Increase  decrease in payables 123 62 Taxation refundedpaid 12 24 Net cash generated from operating activities 1872 2138 Investing activities Interest received 1 3 Financial cost 7 8 Purchases of property plant and equipment 55 70 Investment in development costs 1439 1056 Contingent and deferred consideration paid 219 212 Net cash used in investing activities 1719 1343 Financing activities Net proceeds from convertible loan note 400 Bank loan repayments made 158 167 Dividends paid 551 811 Net cash used in financing activities 309 978 Net decrease in cash and cash equivalents 156 324 Cash and cash equivalents at beginning of year 1537 1595 Effect of foreign exchange rate changes 9 125 Cash and cash equivalents at end of year 1390 1537 The notes on pages 35 to 60 are an integral part of these consolidated financial statements.
+STRATEGIC
+REPORT
+FINANCIAL
+STATEMENTS
+OVERVIEW GOVERNANCE DILLISTONE GROUP PLC  Annual Report and Accounts 2017 Company Cash Flow Statement For the year ended 31 December 2017 Operating activities Profit before tax 1311 1057 Adjustment for Financial cost 12 23 Share option expense 20 16 Operating cash flows before movements in working capital 1343 1096 Increase in receivables 583 4 Decreaseincrease in payables 168 90 Net cash generated from operating activities 592 1182 Investing activities Financial cost 7 8 Acquisition of subsidiaries 1 Contingent consideration paid 219 212 Net cash used in investing activities 227 220 Financing activities Net proceeds from convertible loan note 400 Bank loan repayments made 158 167 Dividends paid 551 811 Net cash used in financing activities 309 978 Net increasedecrease in cash and cash equivalents 56 16 Cash and cash equivalents at beginning of year 43 59 Cash and cash equivalents at end of year 99 43 The notes on pages 35 to 60 are an integral part of these consolidated financial statements.
+Notes to the Financial Statements For the year ended 31 December 2017 Dillistone Group Plc the Company is a company incorporated in England and Wales.
+The financial statements are presented in thousand Pounds
+The principal activities have been detailed in the Strategic Report and the registered office is 50 Leman St London E1 8HQ.
+The Group financial statements consolidate those of the Company and its subsidiaries together referred to as the Group.
+The parent company financial statements present information about the Company as a separate entity and not about its Group.
+Both the Group financial statements and the Company financial statements have been prepared and approved by the Directors in accordance with International Financial Reporting Standards IFRS as adopted by the European Union EU IFRIC Interpretations and the Companies Act 2006 applicable to companies reporting under IFRS.
+In publishing the Company financial statements here together with the Group financial statements the Company has taken advantage of the exemption in s408 of the Companies Act 2006 not to present its individual income statement and related notes in these financial statements.
+Accounting policies 1.1 Basis of accounting The consolidated financial statements have been prepared using the significant accounting policies and measurement bases summarised below Significant estimates In the application of the Groups accounting policies the Directors are required to make estimates and assumptions about the carrying amounts of assets and liabilities that are not readily apparent from other sources.
+The estimates and associated assumptions are based on historical experience and other factors that are considered to be relevant.
+Actual results may differ from these estimates.
+The estimates and underlying assumptions are reviewed on an ongoing basis.
+Revisions to accounting estimates are recognised in the period in which the estimate is revised if the revision affects only that period or in the period of the revision and future periods if the revision affects both current and future periods.
+The key areas are summarised below Capitalisation and amortisation of internal development expenditure Management exercises judgement in establishing both the technical feasibility of completing an intangible asset which can be used internally or sold and the degree of certainty that a market exists for the asset or its output for the generation of future economic benefits.
+In addition amortisation rates are based on estimates of the useful economic lives and residual values of the assets involved.
+The assessment of these useful economic lives is made by projecting the economic lifecycle of the asset which is subject to alteration as a result of product development and innovation.
+Amortisation rates are changed where economic lives are reassessed and technically obsolete items written off where necessary.
+The carrying value of capitalised development is reviewed for impairment indicators at each accounting period end.
+See note 13.
+In addition management use a best estimate to determine the amount of Directors costs that are capitalised.
+Impairment of goodwill other intangible assets and investments There are a number of assumptions management has considered in performing impairment reviews of goodwill other intangible assets and investments which include an estimate of the future cash flows expected to arise from the cash generating unit and a suitable discount rate in order to calculate the recoverable amount.
+See notes 12 13 and 15.
+Valuation of assets and liabilities Management has made a number of assumptions with regards to the models used to value assets and liabilities at the statement of financial position date.
+Valuation techniques commonly used by market practitioners are applied.
+In respect of the provision for bad and doubtful receivables and credit note provisions management has made relevant judgements based on discussions with the account managers as regards the recoverability of trade receivables.
+See note 17.
+Valuation of separately identifiable intangible assets As detailed in note 1.8 separately identifiable intangible assets are identified and amortised over a defined period.
+The Directors use acknowledged approaches eg relief from royalty method capital asset pricing model excess earnings valuation method but these are reliant upon certain judgements and assumptions which they determine are reasonable by reference to companies in similar industries.
+Valuation of sharebased payments The estimation of sharebased payment costs requires the selection of an appropriate valuation model and consideration as to the inputs necessary for the valuation model chosen.
+The Group has made estimates as to the volatility of its own shares the probable life of options granted leaver rates and the time of exercise of those options.
+The model used by the Group is a BlackScholes valuation model.
+Further details are shown in note 23.
+Judgements in applying the Groups accounting policies In the process of applying the Groups accounting policies management makes various judgements that can significantly affect the amounts recognised in the financial statements.
+The critical judgements are considered to be the following
+REPORT
+FINANCIAL
+STATEMENTS
+OVERVIEW GOVERNANCE DILLISTONE GROUP PLC  Annual Report and Accounts 2017 Notes to the Financial Statements continued For the year ended 31 December 2017 Accounting policies continued Customers practical acceptance of licence software As detailed in note 1.4 perpetual licence fee revenues are recognised on practical acceptance of the software.
+The Group uses the live date as the basis of determining the timing of customer practical acceptance thereby reducing the judgement required to ascertain the timing of licence revenue recognition.
+Capitalisation of internal development expenditure Management exercises judgement in establishing both the technical feasibility of completing an intangible asset which can be used internally or sold and the degree of certainty that a market exists for the asset or its output for the generation of future economic benefits.
+See Capitalisation and amortisation of internal development expenditure in Significant estimates above for further details.
+The accounting policies set out below have unless otherwise stated been applied consistently by the Group to all periods presented in these financial statements.
+1.2 Going concern The Groups business activities and financial position together with the factors likely to affect its future development performance and position are set out in the CEOs Review and Financial Review on pages 8 to 14.
+In addition note 25 to the financial statements includes the Companys objectives policies and processes for managing its capital its financial risk management objectives details of its financial instruments and its exposures to credit risk and liquidity risk.
+The Group prepare budgets and cashflow forecasts to ensure that the Group can meet its liabilities as they fall due.
+The Group has considerable financial resources together with well established relationships with a number of customers and suppliers across different geographic areas.
+In addition a substantial proportion of its revenue is recurring.
+As a consequence the Directors believe that the Company is well placed to manage its business risks successfully despite the current uncertain economic outlook.
+The Directors have a reasonable expectation that the Company has adequate resources to continue in operational existence for at least 12 months from the date of approval of these financial statements.
+Thus they continue to adopt the going concern basis of accounting in preparing the annual financial statements.
+1.3 Basis of consolidation The Group financial statements consolidate those of the parent company and all of its subsidiaries as of 31 December 2017.
+The parent controls a subsidiary if it is exposed or has rights to variable returns from its involvement with the subsidiary and has the ability to affect those returns through its power over the subsidiary.
+All subsidiaries have a reporting date of 31 December.
+All transactions and balances between Group companies are eliminated on consolidation including unrealised gains and losses on transactions between Group companies.
+Where unrealised losses on intragroup asset sales are reversed on consolidation the underlying asset is also tested for impairment from a Group perspective.
+Amounts reported in the financial statements of subsidiaries have been adjusted where necessary to ensure consistency with the accounting policies adopted by the Group.
+Profit or loss and other comprehensive income of subsidiaries acquired or disposed of during the year are recognised from the effective date of acquisition or up to the effective date of disposal as applicable.
+1.4 Revenue
+Revenue to be recognised is the fair value of the total amount receivable by the Group for supplies of licences and services.
+VAT or similar local taxes and trade discounts are excluded.
+Licencing excluding Software as a Service SaaS The Group licenses software under licence agreements.
+Perpetual licence fee revenues are recognised on practical acceptance of the software when all obligations have been substantially completed.
+This is when the customer has accepted the product ie the live date the risks and rewards of ownership have been transferred it is probable that the economic benefits of the transaction will flow to the Group all costs and revenue in relation to the transaction can reliably be measured and the Group has no further managerial involvement over the goods to the degree usually associated with ownership.
+To the extent that payments have been received in advance for licences where practical acceptance has not yet been reached these amounts are recognised as deferred income.
+Professional services including installation and training The Group provides professional services which include installation consulting data translation and training.
+Such revenues are recognised as the services are completed or where they are part of the sale and installation of software they are typically recognised when the obligations under the contract are complete.
+To the extent that payments have been received in advance for such services these amounts are recognised as deferred income.
+Accounting policies continued Product support hosting and SaaS Revenues from support hosting or SaaS agreements are recognised over the period to which they relate but only after practical acceptance of the software as defined above has been received.
+The contractual arrangements normally separate out and apportion a value to each deliverable and this value is an approximation of the fair value of the deliverable.
+Where revenue is invoiced in advance for such services the amount in advance is included in deferred revenue and released over the period to which the service relates.
+Third party revenues The Group sells predominantly as principal software developed by other organisations together with services that are bought in from third parties.
+Sales of third party software are recognised in the period in which the sale occurs.
+Services are recognised in the period in which they are provided.
+Tokens
+The Group sells tokens to access certain services within the business.
+Tokens are normally bought in bundles and can be used over time.
+Tokens have a fixed expiry period after which the customer has no legally enforceable right to claim on the tokens and hence all risks and rewards have been transferred and performance obligations have been fulfilled.
+Revenue is recognised on use or on expiry of the tokens.
+1.5 Share based payments The Company operates a share based payment scheme.
+It is an equity settled sharebased compensation plan share options for remuneration of its employees.
+All employee services received in exchange for the grant of any sharebased compensation are measured at their fair values.
+These are determined by reference to the share option awarded.
+Their value is appraised at the grant date and excludes the impact of any nonmarket vesting conditions e. profitability or sales growth targets.
+All equitysettled sharebased compensation is ultimately recognised as an expense in the profit or loss with a corresponding credit to share based payment reserve net of deferred tax where applicable.
+If vesting periods or other vesting conditions apply the expense is allocated over the vesting period based on the best available estimate of the number of shares options expected to vest.
+Non market vesting conditions are included in assumptions about the number of options that are expected to become exercisable.
+Estimates are subsequently revised if there is any indication that the number of share options expected to vest differs from previous estimates.
+No adjustment to expenses recognised in prior periods is made if fewer share options ultimately are exercised than originally estimated.
+Upon exercise of share options the proceeds received net of any directly attributable transaction costs up to the nominal value of the shares issued are reallocated to share capital with any excess being recorded as additional share premium.
+1.6 Long term incentive plan LTIP  capped cash bonus The LTIP awards can be share based or cash based.
+The cash awards are based on a capped cash bonus with performance conditions related to the growth in earnings per share of the Group.
+These awards automatically mature following the publication of the Annual Report of the Company three years after the period to which the grant relates.
+The liability is accrued and recognised in the statement of comprehensive income.
+1.7 Long term incentive plan LTIP  share option based award The LTIP awards can be share based or cash based.
+The number of share option granted under these awards are based on a percentage of salary with performance conditions related to the growth in earnings per share of the Group.
+These awards can be exercised between three and ten years after the date of the grant.
+This element is accrued and recognised in the statement of comprehensive income.
+1.8 Business combinations The Group applies the acquisition method in accounting for business combinations.
+The consideration transferred by the Group to obtain control of a subsidiary is calculated as the sum of the acquisitiondate fair values of assets transferred liabilities incurred and the equity interests issued by the Group which includes the fair value of any asset or liability arising from a contingent consideration arrangement.
+Acquisition costs are expensed as incurred.
+The Group recognises identifiable assets acquired and liabilities assumed in a business combination regardless of whether they have been previously recognised in the acquirees financial statements prior to the acquisition.
+Assets acquired and liabilities assumed are generally measured at their acquisitiondate fair values.
+Goodwill is stated after separate recognition of identifiable intangible assets.
+It is calculated as the excess of the sum of a fair value of consideration transferred the recognised amount of any noncontrolling interest in the acquiree and c acquisitiondate fair value of any existing equity interest in the acquiree over the acquisitiondate fair values of identifiable net assets.
+If the fair values of identifiable net assets exceed the sum calculated above the excess amount ie gain on a bargain purchase is recognised in profit or loss immediately.
+Where contingent consideration relates to the results spread over different accounting periods the fair value of such consideration is recalculated at each year end and any adjustment is recognised in profit or loss immediately.
+STRATEGIC
+REPORT
+FINANCIAL
+STATEMENTS
+OVERVIEW GOVERNANCE DILLISTONE GROUP PLC  Annual Report and Accounts 2017 Notes to the Financial Statements continued For the year ended 31 December 2017 Accounting policies continued 1.9 Adjusted operating profit Adjusted operating profit excludes acquisition costs and related intangible amortisation and movements in contingent consideration and other oneoff costs which can include as an example the additional amortisation charge required in reestimating the useful economic life of an intangible asset.
+1.10 Impairment testing of goodwill other intangible assets and property plant and equipment For impairment assessment purposes assets are grouped at the lowest levels for which there are largely independent cash inflows cash generating units.
+As a result some assets are tested individually for impairment and some are tested at cash generating unit level.
+Goodwill is allocated to those cash generating units that are expected to benefit from synergies of the related business combination and represent the lowest level within the Group at which management monitors goodwill.
+Cash generating units to which goodwill has been allocated are tested for impairment at least annually.
+All other individual assets or cash generating units are tested for impairment whenever events or changes in circumstances indicate that the carrying amount may not be recoverable.
+An impairment loss is recognised for the amount by which the assets or cash generating units carrying amount exceeds its recoverable amount which is the higher of fair value less costs to sell and valueinuse.
+To determine the valueinuse management estimates expected future cash flows from each cash generating unit and determines a suitable interest rate in order to calculate the present value of those cash flows.
+The data used for impairment testing procedures are directly linked to the Groups latest approved budget adjusted as necessary to exclude the effects of future reorganisations and asset enhancements.
+Discount factors are determined individually for each cash generating unit and reflect managements assessment of respective risk profiles such as market and assetspecific risks factors.
+Impairment losses for cash generating units reduce first the carrying amount of any goodwill allocated to that cash generating unit.
+Any remaining impairment loss is charged pro rata to the other assets in the cash generating unit.
+With the exception of goodwill all assets are subsequently reassessed for indications that an impairment loss previously recognised may no longer exist.
+An impairment charge is reversed if the cash generating units recoverable amount exceeds its carrying amount.
+1.11 Segment reporting Operating segments are reported in a manner consistent with the internal reporting provided to the chief operating decisionmaker.
+The chief operating decisionmaker who is responsible for allocating resources and assessing performance of the operating segments has been identified as the Board of
+1.12 Intangible assets Internal development costs Costs incurred on product development relating to the design and development of new or enhanced products are capitalised as intangible assets when it is reasonably certain that the development will provide economic benefits considering its commercial and technological feasibility and the resources available for the completion and marketing of the development and where the costs can be measured reliably.
+The expenditures capitalised are the direct labour costs and subcontractor costs which are managed and controlled centrally.
+Product development costs previously recognised as an expense are not recognised as an asset in a subsequent period.
+Capitalised product development expenditure is amortised over its useful life of five years with amortisation commencing in the month of costs being incurred.
+Maintenance costs are expensed.
+Amortisation of new products commences once a product is available for use.
+Capitalised product development expenditure is subject to regular impairment reviews and is stated at cost less any accumulated impairment losses.
+Any impairment taken during the year is shown under administrative expenses on the statement of comprehensive income.
+Development costs that do not meet the requirements for capitalisation are written off to profit and loss as incurred.
+In accordance with IAS 38 no research costs are capitalised to the balance sheet but are expensed as incurred.
+Purchased Software Software acquired externally is capitalised when it is expected to have ongoing use within the business.
+Capitalised expenditure includes both the purchase price and any costs directly associated with bringing the software into use.
+Amortisation is charged over the useful economic life of the software typically 3 to 5 years beginning when it is capable of being used by the business.
+Acquired as part of a business combination In accordance with IFRS 3 Business Combinations an intangible asset acquired in a business combination is deemed to have a cost to the Group of its fair value at the acquisition date.
+The fair value of the intangible asset reflects market expectations about the probability that the future economic benefits embodied in the asset will flow to the Group.
+Where an intangible asset might be separable but only together with a related tangible or intangible asset the Group of assets is recognised as a single asset separately from goodwill where the individual fair values of the assets in the Group are not reliably measurable.
+Where the individual fair values of the complementary assets are reliably measurable the Group recognises them as a single asset provided the individual assets have similar useful lives.
+Accounting policies continued Subsequent to initial recognition intangible assets are reported at cost less accumulated amortisation and accumulated impairment losses.
+Amortisation is provided to write off the cost of each intangible asset over its useful economic life as follows Intangible assets Estimated life Brand and IP 15 years Acquired developed technology 611.25 years Contractual customer relationships 1.25 years Noncontractual customer relationships 610.25 years The useful economic life of intangible assets are reviewed annually.
+The Group has reviewed its useful economic life in respect of non contractual relationships following the loss of a major contract in one part of the business.
+See note 13.
+1.13 Property plant and equipment Property plant and equipment are stated at cost less accumulated depreciation.
+Depreciation on these assets is provided at rates estimated to write off the cost less estimated residual value of each asset over its expected useful life as follows Leasehold land and buildings the lower of 5 years or the remaining lease period Office and computer equipment 35 years straight line Fixtures fittings and equipment 45 years straight line 1.14 Financial assets The Group classifies its financial assets under the definitions provided in International Accounting Standard 39 IAS 39 Financial Instruments Recognition and Measurement depending on the purpose for which the financial assets were acquired.
+Management determines the classification of its financial assets at initial recognition.
+Management considers that the Groups financial assets fall under the loans and receivables category.
+Loans and receivables are nonderivative financial assets with fixed or determined payments that are not quoted in an active market.
+They are included in current assets except for maturities greater than 12 months after the statement of financial position date which are classified as noncurrent assets.
+The Groups loans and receivables comprise trade receivables intercompany trading balances in relation to Company accounts and cash and cash equivalents.
+Trade receivables are recognised initially at fair value and subsequently measured at amortised cost using the effective interest rate method less any provision for impairment.
+Receivables are considered for impairment when they are past due or when other objective evidence is received that a specific counterparty may default.
+Receivables that are not considered to be individually impaired are reviewed for impairment in groups.
+The impairment loss estimate is then based on recent historical counterparty default rates and current economic conditions.
+Derecognition of financial assets occurs when the rights to receive cash flows from the investments expire or are transferred and substantially all of the risks and rewards of ownership have been transferred.
+An assessment for impairment is undertaken at least at each statement of financial position date whether or not there is objective evidence that a financial asset or a group of financial assets is impaired.
+1.15 Financial liabilities Other financial liabilities are classified under the definitions provided in IAS 39 either as financial liabilities at fair value through profit or loss or financial liabilities measured at amortised cost.
+Management considers that the Groups other financial liabilities fall under the financial liabilities measured at amortised cost category other than contingent consideration which is measured at fair value and movements in fair value are recognised in the profit or loss.
+The Groups other financial liabilities measured at amortised cost comprise trade payables intercompany trading balances in relation to Company accounts bank loans and accruals.
+Trade and other payables are recognised initially at fair value and subsequently measured at amortised cost using the effective interest method.
+1.16 Convertible loan notes The proceeds received on issue of the Groups convertible loan note are allocated into their liability and equity components.
+The amount initially attributed to the debt component equals the discounted cash flows using a market rate of interest that would be payable on a similar debt instrument that does not include an option to convert.
+Subsequently the debt component is accounted for as a financial liability measured at amortised cost until extinguished on conversion or maturity of the loan note.
+The remainder of the proceeds is allocated to the conversion option and is recognised in the Convertible loan note reserve within Shareholders equity net of income tax effects.
+STRATEGIC
+REPORT
+FINANCIAL
+STATEMENTS
+OVERVIEW GOVERNANCE DILLISTONE GROUP PLC  Annual Report and Accounts 2017 Notes to the Financial Statements continued For the year ended 31 December 2017 Accounting policies continued 1.17 Investments Investments in subsidiary companies are included at cost in the accounts of the Company less any amount written off in respect of any impairment in value.
+1.18 Leases Leases taken by the Group are assessed individually as to whether they are finance leases or operating leases.
+Leases are classified as finance leases whenever the terms of the lease transfer substantially all the risks and rewards of ownership to the lessee.
+All other leases are classified as operating leases.
+Operating lease rental payments are recognised as an expense in the income statement on a straightline basis over the lease term.
+The benefit of lease incentives is spread over the term of the lease.
+1.19 Inventories Inventories are stated at the lower of cost and net realisable value.
+Cost includes all directly attributable expenses.
+Costs of ordinarily interchangeable items are assigned using the first in first out cost formula.
+Net realisable value is the estimated selling price in the ordinary course of business less any applicable selling expenses.
+1.20 Cash and cash equivalents Cash and cash equivalents includes cash in hand deposits held at call with banks and other shortterm highly liquid investments with original maturities of three months or less and which are subject to an insignificant risk of changes in value.
+1.21 Equity Equity comprises the following Share capital represents the nominal value of equity shares.
+Share premium represents the excess over nominal value of the fair value of consideration received for equity shares net of expenses of the share issue.
+Merger reserve is used where more than 90% of the shares in a subsidiary are acquired and the consideration includes the issue of new shares by the Company thereby attracting merger relief under the Companies Act 2006.
+Convertible loan note reserve represents the equity element arising on the issue of a loan note with rights to an equity conversion.
+Share option reserve represents equitysettled sharebased employee and nonemployee remuneration until such share options are exercised.
+Retained earnings represents retained profits and losses.
+Translation reserve represents translation differences arising on the consolidation of investments in overseas subsidiaries.
+1.22 Foreign currency translation The consolidated financial statements are presented in Sterling which is also the functional currency of the parent Company.
+Monetary assets and liabilities denominated in foreign currencies are translated into functional currency at the rates of exchange ruling at the statement of financial position date.
+Transactions in foreign currencies are recorded at the rate ruling at the date of the transaction.
+All differences are taken to profit and loss.
+On consolidation the assets and liabilities of the Groups overseas subsidiaries are translated from their functional currency to Sterling at exchange rates prevailing on the statement of financial position date.
+Income and expenses have been translated from their functional currency into Sterling at the average rate for each month over the reporting period.
+Exchange differences are chargedcredited to other comprehensive income and recognised in the currency translation reserve in equity.
+On disposal of a foreign entity the deferred cumulative amount recognised in equity relating to that particular foreign operation is recognised in the income statement.
+Accounting policies continued 1.23 Income taxes Current income tax assets and liabilities comprise those obligations to fiscal authorities in the countries in which the Group carries out its operations.
+They are calculated according to the tax rates and tax laws applicable to the fiscal period and the country to which they relate.
+Tax expense recognised in profit or loss comprises the sum of deferred tax and current tax not recognised in other comprehensive income or directly in equity.
+Deferred income taxes are calculated using the liability method on temporary differences.
+This involves the comparison of the carrying amount of assets and liabilities in the consolidated financial statements with their respective tax bases.
+However deferred tax is not provided on the initial recognition of goodwill or on the initial recognition of an asset or liability unless the related transaction is a business combination or affects tax or accounting profit.
+Deferred tax on temporary differences associated with investments in subsidiaries is not provided if reversal of these temporary differences can be controlled by the Group and it is probable that reversal will not occur in the foreseeable future.
+Deferred tax liabilities are always provided for in full.
+Deferred tax assets are recognised to the extent that it is probable that future taxable profits will be available against which the temporary differences can be utilised.
+Deferred tax assets and liabilities are calculated at tax rates that are expected to apply to their respective period of realisation provided they are enacted or substantively enacted at the statement of financial position date.
+Tax expense recognised in profit or loss comprises the sum of deferred tax and current tax not recognised in other comprehensive income or directly in equity.
+1.24 Defined contribution pension scheme The pension costs charged in profit or loss represent the contributions payable by the Group during the year.
+1.25 New accounting standards to update No new standards amendments or interpretations effective for the first time for the financial year beginning on or after 1 January 2017 have had a material impact on the Group or parent Company.
+The following standards have been issued by the IASB and have been adopted by the EU but not adopted early by the Group Standard Key requirements Effective date as adopted by the EU IFRS 9 Financial Instruments 1 January 2018 IFRS 15 Revenue from contracts with customers 1 January 2018 IFRS 16 Leases 1 January 2019 IFRS 9  Financial instruments This standard comes into effect for accounting periods beginning on or after 1 January 2018.
+Given the nature of the financial assets and liabilities of the Group and the parent Company the key areas for consideration are trade receivables and intercompany receivables with the introduction of expected credit loss calculations.
+Given the work performed thus far no material valuation impact is anticipated.
+IFRS 15  Revenue from customer contracts This standard comes into effect for accounting periods beginning on or after 1 January 2018.
+The standard applies a single fivestep model based on the principle of transfer of promised goods and services performance obligations to the customer.
+Revenue is recognised upon satisfaction of these performance obligations.
+Having carried out a detailed assessment of the types of contracts the Group has with its customers it is expected that the new standard will have a material impact on reported revenue due to the change in the timing of revenue recognition.
+The Group expects to use the retrospective approach when adopting the standard.
+With respect to IFRS 15 implementation the most significant ways that Dillistone generates income from its customers are as follows Software as a Service SaaS subscriptions  the customer pays a regular fixed amount for the right to access both software and related support service.
+Revenue is currently recognised over the life of the subscription which is unchanged under IFRS 15 Outright licences  the customer pays a oneoff amount to purchase a licence conferring a perpetual right to use a version of the software.
+Currently revenue is recognised at the point control passes to the customer i. live date.
+Under IFRS 15 licences sold with elective support contracts are separate performance obligations and continue to be recognised at a point in time.
+However licences sold with mandatory support contracts consist of one performance obligation with revenue recognition matching the support contract Product support  the customer pays a regular fixed amount for the right to access technical support services and the right to future software upgrades.
+Support subscriptions can be mandatory or elective depending on the software version purchased.
+Performance obligations under support contracts are satisfied over the subscription life thus revenue is recognised over time under IFRS 15 as it is currently
+REPORT
+FINANCIAL
+STATEMENTS
+OVERVIEW GOVERNANCE DILLISTONE GROUP PLC  Annual Report and Accounts 2017 Notes to the Financial Statements continued For the year ended 31 December 2017 Accounting policies continued Installation services  the customer pays a fee for the software to be installed with revenue currently recognised when the installation is complete.
+This will continue to be the case under IFRS 15 for most installations which are not complex and could be completed by a third party.
+For complex installations these combine with the licence to form one performance obligation and revenue recognition consequently matches the licence Training  the customer pays a fee to be trained in using the software.
+Training revenue is recognised under the existing standard when delivered.
+Under IFRS 15 this will continue to be the case for most training as it is not essential to using the software.
+However for training that is essential training combines with the licence as one performance obligation with revenue recognition following the licence.
+On the basis of the work performed thus far the Group considers there to be no material adjustments to revenue arising from complex installations and essential training.
+The material impact on reported revenue arises from the combination of outright licence sales and mandatory support contracts into one performance obligation.
+This revenue will move from being recognised at a point in time to over time being the expected life of the support contract.
+We have taken the portfolio approach with respect to these contracts and have estimated an expected life of 5 years for them which we intend to review on a periodic basis.
+Our work to date estimates an increase to 2017 revenue in the range of 0.1  0.3 million and the change to retained earnings at 1 January 2017 to be a reduction in the range of 1.0  1.5 million.
+These calculations imply deferred income to be recognised in future periods in the range of 0.9  1.2 million.
+There will also be a corresponding tax deduction in respect of this adjustment in 2018.
+IFRS 15 is not expected to have an impact on the parent Company.
+IFRS 16  Leases This standard comes into effect for accounting periods beginning on or after 1 January 2019.
+The standard requires almost all leases to be recorded in the statement of financial position.
+This requires recognition of a rightofuse asset and lease liability.
+The lease liability is measured as the present value of the future lease payments discounted at the interest rate implicit in the lease if determinable or otherwise at the lessees incremental borrowing rate.
+The asset is measured as equivalent to the lease liability adjusted for other costs including initial direct costs or obligations under the lease such as restoration costs.
+The asset is subsequently depreciated on a straight line basis to the expected maturity date of the lease.
+The liability is increased by interest and reduced by the lease payments made.
+The impact of this standard is currently being assessed.
+See note 22 for detail on operating lease payment commitments.
+Reconciliation of adjusted operating profits to consolidated statement of comprehensive income
+Adjusted operating profits
+Adjusted operating profits
+Revenue 9582  9582 9963  9963 Cost of sales 1536  1536 1478  1478 Gross profit 8046  8046 8485  8485 Administrative expenses 7737 823 8560 7022 1051 8073 Operating profitloss 309 823 514 1463 1051 412 Financial income 1  1 3  3 Financial cost 7 5 12 8 15 23 Profitloss before tax 303 828 525 1458 1066 392 Tax incomeexpense 303 151 454 63 197 134 Profitloss for the year 606 677 71 1395 869 526 Other comprehensive income net of tax Currency translation differences 24  24 16  16 Total comprehensive income for the year net of tax 582 677 95 1411 869 542 Earnings per share Diluted 10 3.08p 0.36p 6.95p 2.62p see accounts note 5 site 43 Segment reporting The Board principally monitors the Groups operations in terms of results of the three divisions Dillistone Systems Voyager Software and GatedTalent.
+Segment results reflect management charges made or received.
+Divisional segments For the year ended 31 December 2017
+Voyager
+GatedTalent
+Central
+Total
+Segment revenue 4548 5034   9582 Segment EBITDA 778 1200 439 130 1409 Depreciation and amortisation expense 589 511   1100 Segment result 189 689 439 130 309 Acquisition related amortisation    838 838 Acquisition related income    15 15 Operating profitloss 189 689 439 953 514 Financial income 1   1 Loan interest   7 7 Acquisition related interest expenses   5 5 Loss before tax 525 Income tax income 454 Loss for the year 71 Additions of noncurrent assets 608 502 396  1506 For the year ended 31 December 2016
+Voyager
+Central
+Total
+Segment revenue 4858 5105  9963 Segment EBITDA 1434 1093 94 2433 Depreciation and amortisation expense 1229 461  1690 Segment result 205 632 94 743 Acquisition related amortisation   379 379 Acquisition related income   48 48 Operating profitloss 205 632 425 412 Financial income 3   3 Loan interest   8 8 Acquisition related interest expenses   15 15 Profit before tax 392 Income tax income 134 Profit after tax 526 Additions of noncurrent assets 600 527  1127
+REPORT
+FINANCIAL
+STATEMENTS
+OVERVIEW GOVERNANCE DILLISTONE GROUP PLC  Annual Report and Accounts 2017 Notes to the Financial Statements continued For the year ended 31 December 2017 Segment reporting continued Products and services The following table provides an analysis of the Groups revenue by products and services
+Recurring income 7474 7027 Nonrecurring income 1644 2370 Third party revenues 464 566 9582 9963 Recurring income includes all support services SaaS and hosting income.
+Nonrecurring income includes sales of new licences and income derived from installing those licences including training installation and data translation.
+Third party revenues arise from the sale of third party software.
+It is not possible to allocate assets and additions between recurring nonrecurring income and third party revenue.
+No customer represented more than 10% of revenue of the Group.
+Geographical analysis The following table provides an analysis of the Groups revenue by geographic market.
+The Board does not review the business from a geographical performance viewpoint and this analysis is provided for information only.
+Revenue
+UK 6782 7142 Europe 1041 1047 US 1341 1388 Australia 418 386 9582 9963 Noncurrent assets by geographical location UK 8453 8886 US 5 6 Australia 2 1 8460 8893 Acquisition related and other oneoff items Included within administrative expenses Estimated change in fair value of contingent consideration note 24 15 48 Amortisation of acquisition intangibles 379 379 Acceleration of amortisation of acquisition intangibles 459 Additional amortisation on change of estimated useful life of platform technology note 13  720 823 1051 Included within financial cost Unwinding of discount on contingent consideration note 8 5 15 828 1066 site 45 Operating profit Operating profit is stated after charging Depreciation 105 113 Amortisation 1833 1956 Realised net gainloss on foreign exchange transactions 7 10 Research costs expensed 13 Operating lease rentals  land and buildings 234 288 Money purchase pension contributions 319 301 Fees receivable by the Group auditors Audit of financial statements 22 18 Other services Audit of accounts of subsidiary of the Company 78 56 Taxation compliance services 18 18 Tax advisory services 6
+The average number of employees was
+Number
+Operations 111 112 Management 13 13 Employee numbers 124 125 Their aggregate remuneration including Directors remuneration comprised Wages and salaries 5255 5004 Social security costs 528 527 Pension costs 319 301 Share based payments 20 16 LTIP share based 1 LTIP non share based 3 1 6120 5847 The aggregate remuneration includes salary cost totalling 1168000 2016 1045000 that has been capitalised in intangible assets.
+Key management of the Group are the Directors and the divisional directors of Dillistone Systems and Voyager Software.
+Remuneration of key management was as follows Wages and salaries 936 898 Social security costs 116 101 Pension costs 107 108 Share based payments charged 2 2 LTIP share based 1 LTIP non share based 3 1 1159 1108 The Companys only employees are the Directors.
+Details of Directors emoluments share options and pension entitlements are given in the Report to the Shareholders on Directors Remuneration on pages 20 to 21.
+STRATEGIC
+REPORT
+FINANCIAL
+STATEMENTS
+OVERVIEW GOVERNANCE DILLISTONE GROUP PLC  Annual Report and Accounts 2017 Notes to the Financial Statements continued For the year ended 31 December 2017 Financial income and cost Interest receivable 1 3 Finance cost on bank loan 2 8 Finance cost on convertible loan 5 Unwinding of discount on contingent consideration 5 15 Tax income  expense Current tax 100 178 Prior year adjustment  current tax 238 91 Total current tax 338 87 Deferred tax 36 100 Prior year adjustment  deferred tax 1 50 Deferred tax re acquisition intangibles 151 68 Prior year adjustment  deferred tax re acquisition intangibles  3 Total deferred tax 116 221 Tax income  expense for the year 454 134 Factors affecting the tax charge for the year Lossprofit before tax 525 392 UK rate of taxation 19.25% 20% Profit before tax multiplied by the UK rate of taxation 101 78 Effects of Overseas tax rates 1 31 Impact of deferred tax not provided 18 13 Enhanced RandD relief 209 169 Disallowed expenses 32 31 Rate differences re current tax and deferred tax 6 26 Rate difference between CT rate and rate of RandD repayment rate 38 Prior year adjustments 239 144 Tax income  expense 454 134 Deferred tax liability provided in the financial statements is as follows Group Company
+Internally generated intangible and fixed assets 341 26 315 Provisions  9 9 Acquisition intangibles 327 151 478 Tax incomeexpense continued Group Company
+Internally generated intangible and fixed assets 315 152 467 Provisions 9 1 10 Acquisition intangibles 478 71 549 784 222 1006 The UK corporation tax rate fell in April 2017 to 19% from 20% and accordingly the rate for the year is 19.25%.
+Deferred tax is provided in relation to the UK at rates of between 17% to 19% depending on when reversals are expected to occur.
+The tax credit is impacted by the higher rates of corporation tax payable in the US offset by the RandD tax credits available to Dillistone Systems division Voyager Software division and GatedTalent division.
+It has also been assumed that where there are tax losses arising as a result of RandD tax credits they will be surrendered for a tax repayment at the HMRC stated rate of 14.5%.
+The release of prior year provisions relates in part to the agreement of the prior years tax positions of UK and US companies together with the formation of a tax group in Australia allowing surrender of losses between companies in the same jurisdiction and the utilisation of tax losses not previously recognised.
+The Group has gross tax losses and temporary timing differences of 205000 2016 369000 for which no deferred tax asset has been recognised as the timing of their utilisation is uncertain.
+Earnings per share Using adjusted operating profit 2017 Using adjusted operating profit 2016 Profitloss attributable to ordinary shareholders note 2 606000 71000 1395000 526000 Weighted average number of shares 19668021 19668021 19668021 19668021 Basic earnings per share 3.08 pence 0.36 pence 7.10 pence 2.68 pence Weighted average number of shares after dilution 19676018 19668021 20082096 20082096 Fully diluted earnings per share 3.08 pence 0.36 pence 6.95 pence 2.62 pence Reconciliation of basic to diluted average number of shares 2017 2016 Weighted average number of shares basic 19668021 19668021 Effect of dilutive potential ordinary shares  employee share plans 7997 414075 Weighted average number of shares after dilution 19676018 20082096 There are 1270732 2016 638257 share options not included in the above calculations.
+The impact of the convertible loan notes in the period is not dilutive and therefore does not impact the calculation of the fully diluted earnings per share.
+Profit for the financial year As permitted by section 408 of the Companies Act 2006 the parent companys profit and loss account has not been included in these financial statements.
+The profit for the financial year for the parent Company was 1311000 2016 1057000 and has been approved by the Directors.
+This is stated after charging Fees paid to the Companys auditors Audit of financial statements 22 18 Taxation compliance services 3 3 Tax advisory services 6
+REPORT
+FINANCIAL
+STATEMENTS
+OVERVIEW GOVERNANCE DILLISTONE GROUP PLC  Annual Report and Accounts 2017 Notes to the Financial Statements continued For the year ended 31 December 2017
+Group
+Goodwill
+Cost
+At 1 January 2016 3415
+At 31 December 2016 3415
+At 31 December 2017 3415 Carrying amount At 31 December 2017 3415 At 31 December 2016 3415 At the year end date an impairment test has been undertaken by comparing the recoverable amount of the cash generating units listed below CGU to which the goodwill has been allocated against the carrying value of those CGUs.
+The recoverable amount of the cash generating unit is based on valueinuse calculations.
+These calculations use cash flow projections covering a three year period based on financial budgets and a calculation of the terminal value for the period following these formal projections.
+The key assumptions used for valueinuse calculations are those regarding growth rates increases in costs and discount rates.
+The discount rate is reviewed annually to take into account the current market assessment of the time value of money and the risks specific to the cash generating units and rates used by comparable companies.
+The pretax discount rate used to calculate valueinuse is in a range of 12% to 15.5% 2016 12% to 19.4%.
+Growth rates for forecasts take into account historic experience and current market trends.
+Costs are reviewed and increased for inflation and other cost pressures.
+The long term growth rate used for the terminal value calculation was 2.5% 2016 1.75% for all CGUs.
+The allocation of goodwill across the CGUs is as follows
+Addition
+Impairment
+Closing
+Dillistone Division 494   494 Voyager and FCP consolidated 2251   2251 3415   3415
+A decrease in the cashflow by 10% would result in an impairment of 365000 for the Voyager and FCP consolidated and an increase in the discount rate to 16.5% would require an impairment of 249000.
+For ISV the discount rate would need to increase to over 23% or cash flows would need to fall by over 35% to reduce the headroom to nil.
+Cashflows in respect of Dillistone goodwill would need to reduce by over 80% or the discount rate to increase to over 87% to reduce the headroom to nil.
+Other intangible assets
+Development costs
+Acquisition intangibles
+Cost
+At 1 January 2016 5565 25 4172 9762 Additions 1047 9  1056 At 31 December 2016 6612 34 4172 10818 Additions 1358 93  1451 At 31 December 2017 7970 127 4172 12269
+At 1 January 2016 2478  1121 3599 Charge for the year 1576 1 379 1956 At 31 December 2016 4054 1 1500 5555 Charge for the year 991 4 838 1833 At 31 December 2017 5045 5 2338 7388 Carrying amount At 31 December 2017 2925 122 1834 4881 At 31 December 2016 2558 33 2672 5263 site 49 Other intangible assets continued Acquisition intangibles can be summarised as follows
+Developed technology
+Contractual and noncontractual relationship
+NBV
+At 1 January tel522 1795 2672 Amortisation 13 53 41 731 838 At 31 December tel481 1064 1834 Intangible assets under development are reviewed each reporting period for impairment prior to amortisation.
+Forecasts of future revenue are prepared and these are discounted and compared to the carrying value.
+Sensitivities are carried out including applying differing growth and attrition rates as well as alternative discounts rates.
+The Group has reviewed its useful economic life in respect of non contractual relationships following the loss of a major contract in one part of the business.
+The revised useful economic life was reduced to 6 years from 10 years and resulted in additional amortisation in the period of 459000.
+Purchased software is reviewed for impairment based on its continued use within the business.
+In 2016 the change in the estimate of the useful economic life of platform technology resulted in a oneoff increase to the amortisation charge for the year of 720000.
+The Company has no intangible assets.
+Property plant and equipment
+Land and buildings Office and computer equipment
+Motor vehicles
+Cost
+At 1 January tel152  1096 Currency impact  16 3  19 Additions  57 13  70 Disposals  1   1 At 31 December tel168  1184 Currency impact  6 1  7 Additions  47 8  55 Reclassify  10 10 Disposals  20   20 At 31 December tel165  1212
+At 1 January  839 Currency impact  15 3  18 Charge for the year 38 71 4  113 Eliminated on disposal  1   1 At 31 December  969 Currency impact  6 1  7 Charge for the year 38 62 5  105 Eliminated on disposal  19   19 At 31 December tel154  1048 Carrying amount At 31 December  164 At 31 December  215 The Company has no property plant and equipment.
+STRATEGIC
+REPORT
+FINANCIAL
+STATEMENTS
+OVERVIEW GOVERNANCE DILLISTONE GROUP PLC  Annual Report and Accounts 2017 Notes to the Financial Statements continued For the year ended 31 December 2017 Noncurrent asset investments
+Cost
+Investments in subsidiaries At 1 January 2016 7599 Additions 2 At 31 December 2016 7601 Additions 1 At 31 December 2017 7602 The addition in the year related to the formation of GatedTalent.
+The 2016 addition related to the transfer of FCP Internet Limited from FCP Internet Holdings Limited to Dillistone Group Plc.
+Investments are reviewed when evidence exists that their may be a loss in value or in certain circumstances where dividends are paid by the subsidiary.
+In 2017 following the loss of a major contract the VoyagerFCP investment has been reviewed as has the ISV investment following a dividend payment.
+The recoverable amount of the cash generating unit is based on valueinuse calculations Forecasts of future cash generation are prepared and these are discounted and compared to the carrying value of the investment.
+These calculations use cash flow projections covering a three year period based on financial budgets and a calculation of the terminal value for the period following these formal projections.
+The key assumptions used in these calculations are those regarding growth rates increases in costs and discount rates.
+The pretax discount rate used was 15.5%.
+Growth rates for forecasts take into account historic experience and current market trends.
+Costs are reviewed and increased for inflation and other cost pressures.
+The long term growth rate used for the terminal value calculation was 2.5%.
+The calculations for VoyagerFCP showed that no impairment was required.
+If cashflows reduced by more than 7% or the discount rate increased to 16.5% an impairment would be required.
+No impairment loss was required for ISV and cashflows would need to reduce by 37% or the discount rate to increase to more than 23% before impairment was considered necessary.
+The Company has the following subsidiary undertakings Name Principal activity Holding of ordinary shares Registered Dillistone Systems Limited Sale of computer software and related support services 100% England and Wales Dillistone Systems Australia Pty Limited Sale of computer software and related support services 100% indirect Australia Dillistone Systems US Inc Sale of computer software and related support services 100% USA FCP Internet Limited Provision of software services and related consultancy services 100% England and Wales FCP Internet Holdings Limited Dormant holding company 100% England and Wales GatedTalent Limited Provision of software services 100% England and Wales ISV Software Limited Provision of software services and related consultancy services 100% England and Wales Woodcote Software Limited Dormant company 100% England and Wales Voyager Software Limited Sale of computer software and related support services 100% England and Wales Voyager Software Australia Pty Limited Sale of computer software and related support services 100% indirect Australia The registered addresses of related undertakings are as follows Company Registered Address Dillistone Group Plc 50 Leman St London E1 8HQ Dillistone Systems Limited 50 Leman St London E1 8HQ Dillistone Systems Australia Pty Limited Suite 3 Level 3 245 Castlereagh Street Sydney NSW 2000 Australia Dillistone Systems US Inc 50 Harrison Street Suite 201A Hoboken NJ 07030 USA FCP Internet Limited 50 Leman St London E1 8HQ FCP Internet Holdings Limited 50 Leman St London E1 8HQ GatedTalent Limited 50 Leman St London E1 8HQ ISV Software Limited 50 Leman St London E1 8HQ Woodcote Software Limited 50 Leman St London E1 8HQ Voyager Software Limited 12 Cedarwood Crockford Lane Chineham Business Park Basingstoke RG24 8WD Voyager Software Australia Pty Limited Suite 3 Level 3 245 Castlereagh Street Sydney NSW 2000 Australia site 51
+Group Company Licences for resale 3 5 Trade and other receivables Group Company Trade receivables  net 1377 1787 Group receivables   915 329 Other current assets 37 37 Prepayments and accrued income 677 2196 934 349 The carrying value of trade receivables is considered a reasonable approximation of fair value.
+All of the receivables have been reviewed for indicators of impairment.
+The movement in the provision for bad debt is shown below At start of year 97 88 Movement in the year 51 9 At the year end 148 97 The ageing profile of trade receivables as at the year end is as follows
+Past due date 1205 1491 3160 days overdue 54 121 More than 60 days overdue 118 175 Total 1377 1787 The bad debt provision is in respect of debt more than 30 days overdue.
+The Company has no bad debt provision against intercompany receivables.
+Trade and other payables Group Company Current liabilities Trade payables Group payables   2135 2376 Deferred income 2589 2850 Accruals 93telContingent consideration 14tel4335 4599 2549 2931 Noncurrent liabilities Cash settled LTIP Contingent consideration is valued at fair value.
+Further details of the contingent consideration are given in note 24.
+STRATEGIC
+REPORT
+FINANCIAL
+STATEMENTS
+OVERVIEW GOVERNANCE DILLISTONE GROUP PLC  Annual Report and Accounts 2017 Notes to the Financial Statements continued For the year ended 31 December 2017 Cash and cash equivalents Group Company Cash balances available on demand 1390 1537 99 43
+Group Company Current bank borrowings  158  158 Current loan note borrowings 5  5 Non current loan note borrowings 386  386 Total borrowings 39telThe Directors consider that the fair value of borrowings approximates to the carrying value except for the convertible loan note.
+In 2017 the Company raised 400000 from Directors and other PDMRs via a convertible loan note.
+The loan notes carry an interest coupon of 8.15% pa over their maximum term of 36 months with a conversion price of 71.6p per new Dillistone ordinary share.
+The interest payments are payable quarterly in arrears and will be satisfied through the issue of further new ordinary shares or in cash at the individual loan note holders election.
+Various rights are built into the agreement for early repayment or conversion.
+Based on other outline loan offers around the time of the fund raising a 10% rate has been used as the borrowing rate without conversion.
+This rate has been used in the calculation of the equity adjustment required in respect of this loan which totals 14000.
+The borrowings consisted of a bank loan repayable over 3 years from HSBC Bank plc secured by a fixed and floating charge over the assets of the Group and is supported by a cross guarantee between the Company and the Groups principal subsidiaries.
+The loan was to provide part funding for the acquisition of ISV.
+The loan carries interest at 2.75% over UK base rate.
+This loan was repaid in 2017.
+The loan included an option for early repayment at any time during the 3 year period.
+An early repayment fee of 1% of the amount prepaid must be made if the option is exercised.
+Management has reviewed the term of the prepayment option and deemed it to be closely related to the underlying debt instrument and hence it has not been separated from the host instrument.
+Reconciliation of liabilities arising from financing activities
+Non cash changes  equity adjustment
+Long term borrowings Bank Loan 158 158 Convertible loan note  400 14 386
+Non cash changes  equity adjustment
+Long term borrowings Bank Loan 325 167  158 Share capital Allotted called up and fully paid Ordinary shares of 5p each 983 983 No share options were exercised in the period 2017 nil.
+Number
+Number
+Shares issued and fully paid Beginning of the year 19668021 19668021 Shares issued on exercise of options Shares issued and fully paid 19668021 19668021 Operating lease arrangements The Group leases offices under noncancellable operating lease agreements.
+At 31 December 2017 the Group had future total commitments under noncancellable operating leases as follows Commitments payable 295 559 Within one year 158 262 Between two and five years 137 296 The Company has no operating leases.
+Share options Share based payments There are three share option schemes in operation an Enterprise Management Incentive Scheme the EMI Scheme which complies with the requirements of HMRC a scheme which has not been approved by HMRC the Unapproved Scheme and a Share Save Scheme SAYE Scheme.
+The terms and conditions of the EMI and Unapproved schemes are the same.
+If the options remain unexercised after a period of 10 years from the date of grant the options expire.
+Options are normally forfeited if the employee leaves the Company before the options become available to exercise which would normally be three years after grant.
+Performance conditions are associated with the LTIP options granted on 14 July 2015 29 June 2016 and 9 November 2017.
+The Company launched its first SAYE scheme in 2016 with a second issue in 2017.
+Under this scheme discounts of up to 20% can be offered.
+The scheme has a linked savings contract of 3 years.
+There were three grants of options in 2017.
+The weighted average share price of all grants in 2017 was 57.28p.
+The fair values of the services received in exchange for share based payments were calculated using a BlackScholes pricing model.
+The inputs into the model were as follows Date of grant
+Share price on issue date
+Expected volatility
+Leaver rate over vesting period
+Expected dividend yield 9 November 2017 LTIPEMI 845000 58p 58p 30% 3.3 years 0% 1.00% 2.0% 9 November 2017 EMI 90000 58p 58p 30% 3.3 years 10% 1.00% 2.0% 9 November 2017 Sharesave 131713 58p 52.2p 30% 3.3 years 10% 1.00% 2.0% Expected volatility takes into account historic volatility of the share price and its current trend.
+STRATEGIC
+REPORT
+FINANCIAL
+STATEMENTS
+OVERVIEW GOVERNANCE DILLISTONE GROUP PLC  Annual Report and Accounts 2017 Notes to the Financial Statements continued For the year ended 31 December 2017 Share options continued There were two grants of options in 2016.
+The weighted average share price of all grants in 2016 was 78.34p.
+The fair values of the services received in exchange for share based payments were calculated using a BlackScholes pricing model.
+The inputs into the model were as follows Date of grant
+Share price on issue date
+Expected volatility
+Leaver rate over vesting period
+Expected dividend yield 29 June 2016 LTIPEMI 441500 78.50p 78.50p 30% 3.3 years 0% 1.00% 5.0% 14 October 2016 Sharesave 127094 86.50p 77.80p 30% 3.3 years 10% 1.00% 5.0% Details of the number of share options and the weighted average exercise price WAEP outstanding during the year are as follows 2017 2016 No of options WAEP No of options WAEP Outstanding at the beginning of year 1364351 89.15 832496 93.86 Granted during the year 1066713 57.28 568594 78.34 Exercised during the year Forfeited during the year 63619 90.55 36739 28.69 Outstanding at the end of the year 2367445 74.75 1364351 89.15 Exercisable at the year end 384500 88.76 204500 81.11 Adjusted for the 2 for 1 bonus issue where appropriate The Companys midmarket share price on 29 December 2017 was 65.5p.
+The average mid market share price in 2017 was 71.26p.
+The fair value of all options granted is shown as an employee expense with a corresponding increase in equity.
+The employee expense is recognised equally over the time from grant until vesting of the option.
+The expense charged takes into account the likelihood of performance targets being met.
+The employee expense for the year was 20000 2016 16000.
+Share options remaining in the schemes are as follows Scheme type Date of grant
+Lapse date
+Exercise price p Unapproved 14012011 14012014 13012021 30000 58.33 EMI 21092011 21092014 20092021 87500 77.00 Unapproved 21092011 21092014 20092021 16000 77.00 EMI 08072013 08072016 07072023 17000 79.50 EMI 25112013 25112016 24112023 20000 115.00 Unapproved 08122014 08122017 07122024 10000 97.00 EMI 08122014 08122017 07122024 204000 97.00 EMI 03022015 03022018 02022025 58500 90.50 EMI 14072015 14072018 13072025 306257 108.5 EMI 29062016 29062019 28062026 441500 78.50 Sharesave 14102016 01112019 30042020 109975 77.80 EMI LTIP 09112017 09112020 08112027 845000 58.00 EMI 09112017 09112020 08112027 90000 58.00 Sharesave 09112017 01122020 3152021 131713 52.20 The weighted average remaining contractual life of options at 31 December 2017 was 7.8 years 2016 7.6 years.
+LTIP
+LTIP awards under the long term incentive plan take the form of a cash bonus of up to onethird annual salary or the grant of share options with appropriate performance conditions in place.
+In 2017 the charge in respect of the LTIP schemes which are share based and require separate disclosure under IFRS 2 was 10000.
+Contingent consideration payable in respect of acquisitions In September 2014 the Group acquired the entire share capital of ISV.
+As part of the acquisition the vendors are entitled to contingent consideration based on revenue over the period to 30 September 2017.
+A payment of 219000 was made in 2017.
+In the 2017 financial statements the amount payable under the contingent consideration was decreased by 15000 and this has been credited to the profit and loss.
+This contingent consideration has been discounted at 3.48% and the discount charged to profit and loss in 2017 totalled 5000 2016 15000.
+At the year end the Group had a liability for contingent consideration made up as follows 30% of net revenues in the nine month period to 30 September 2017 less 25000 calculated at 146000.
+Financial instruments The Group uses various financial instruments these include cash bank deposits bank loans and various items such as trade receivables and trade payables that arise directly from its operations.
+The main purpose of these financial instruments is to provide finance for the Groups operations.
+The Groups finance department maintains liquidity manages relations with the Groups bankers identifies and manages foreign exchange risk and controls Group treasury operations.
+Treasury dealings such as investments and foreign exchange are conducted only to support underlying business transactions.
+Consequently the Group does not undertake speculative foreign exchange dealings for which there is no underlying exposure.
+The Groups policies for management of the financial risks to which it is exposed are outlined below.
+The Group is exposed to interest rate risk on its floating rate borrowings and its financial assets.
+The interest rate profile of the Groups financial assets at 31 December 2017 was At 31 December 2017 Group Company Non interest bearing financial assets
+Non interest bearing financial assets
+Trade and other receivables current assets 1414  915 Cash and cash equivalents  1390  99 Total 1414 1390 915 99 The interest rate profile of the Groups financial assets at 31 December 2016 was At 31 December 2016 Group Company Non interest bearing financial assets
+Non interest bearing financial assets
+Trade and other receivables current assets 1824  329 Cash and cash equivalents  1537  42 Total 1824 1537 329 42
+REPORT
+FINANCIAL
+STATEMENTS
+OVERVIEW GOVERNANCE DILLISTONE GROUP PLC  Annual Report and Accounts 2017 Notes to the Financial Statements continued For the year ended 31 December 2017 Financial instruments continued The table below shows the Groups financial liabilities split by those bearing interest at floating rates or fixed rates and those that are non interest bearing.
+At 31 December 2017 Group Company Non interest bearing financial assets
+Non interest bearing financial assets
+Trade and other payables current liabilities 1196  2382 Trade and other payables noncurrent liabilities 12  12 Borrowings  convertible loan note  391  391 Contingent consideration current liabilities 146  146 1354 391 2540 391 At 31 December 2016 Group Company Non interest bearing financial assets
+Non interest bearing financial assets
+Trade and other payables current liabilities 925  2550 Trade and other payables noncurrent liabilities 15  15 Bank borrowings  158  158 Contingent consideration current liabilities 375  375 1315 158 2940 158 The bench marks for interest rates on floating rate financial assets and financial liabilities are bank base rates for the currencies in which the assets are held.
+Sensitivities of movements in interest rates have been considered by Directors and reasonably possible movements in interest rates are not considered to have a material impact on future Group profits or equity.
+The Groups principal financial assets are cash and cash equivalents and trade and other receivables.
+Credit risk is the risk of financial loss to the Group if a customer or counterparty to a financial instrument fails to meet its contractual obligations and arises principally from the Groups receivables from customers and monies on deposit with financial institutions.
+Historically the cash collection profile has been very good.
+Debt ageing and collections are monitored on a regular basis and for new customers deposits are usually required.
+Some of the unimpaired trade receivables are past due as at the reporting date.
+Information on financial assets past due but not impaired are included in note 17.
+The credit risk on liquid funds is limited because the counterparties are banks with high credit ratings assigned by international credit rating agencies.
+The Group has no significant concentration of credit risk.
+The Groups maximum exposure to credit risk at the reporting date is represented by the carrying value of financial assets as follows Group Company Trade and other receivables current assets 1414 1824 915 329 Cash and cash equivalents 1390 1537 99 42 Total 2804 3361 1014 371 site 57 Financial instruments continued iii Liquidity risk Liquidity risk is the risk that the Group will not be able to meet its financial obligations as they fall due.
+The Groups approach to managing liquidity is to ensure it has sufficient liquidity to meet its liabilities when due.
+As at 31 December 2017 the Group and Companys financial liabilities excluding deferred income payroll taxes VAT and similar taxes have contractual cashflows as summarised below
+31 December 2017
+1 year 12 years 25 years Trade and other payables current liabilities 1196 1196 Contingent consideration current liabilities 146 146 Trade and other payables noncurrent liabilities 12   12 Borrowings 400   400 1754 1342  412 31 December 2016
+1 year 12 years 25 years Trade and other payables current liabilities 925 925 Contingent consideration current liabilities 375 375 Trade and other payables noncurrent liabilities 15   15 Bank borrowings 158 158 1473 1458  15
+31 December 2017
+1 year 12 years 25 years Trade and other payables current liabilities 2382 2382 Contingent consideration current liabilities 146 146 Trade and other payables noncurrent liabilities 12   12 Borrowings 400   400 2940 2528  412 31 December 2016
+1 year 12 years 25 years Trade and other payables current liabilities 2550 2550 Contingent consideration current liabilities 375 375 Trade and other payables noncurrent liabilities 15   15 Bank borrowings 158 158 3098 3083  15 The Group would normally expect that sufficient cash is generated in the operating cycle to meet contractual cash flows as disclosed above.
+In addition the Group has significant cash balances as at the year end to minimise any liquidity risk.
+STRATEGIC
+REPORT
+FINANCIAL
+STATEMENTS
+OVERVIEW GOVERNANCE DILLISTONE GROUP PLC  Annual Report and Accounts 2017 Notes to the Financial Statements continued For the year ended 31 December 2017 Financial instruments continued iv Foreign currency risk The Group is exposed to foreign currency risk on sales and purchases which are denominated in a currency other than Sterling.
+Exposures to currency exchange rates are primarily denominated in US Dollars  Australian Dollars AUD and Euros .
+The Group does not use derivatives to hedge translation exposures arising on the consolidation of its overseas operations.
+The Group aims to manage foreign exchange risk at a local level by matching the currency in which revenue is generated and expenses are incurred.
+At the year end the Group had assets totalling 1837000 and liabilities totalling 443000 denominated in Euros 2016 assets totalling 1307000 and liabilities totalling 547000 assets totalling 1655000 and liabilities totalling 997000 denominated in US Dollars 2016 assets totalling 1729000 and liabilities totalling 1119000 and assets totalling 441000 and liabilities totalling 447000 denominated in Australian Dollars 2016 assets totalling 445000 and liabilities totalling 403000.
+If each of the exchange rates strengthened by 5% the impact on the statement of comprehensive income would be as follows
+Euros 31 20 US Dollars 6 7 Australian Dollars 2 1 At the year end the Company had liabilities totalling 115000 denominated in Euros 2016 liabilities totalling 115000 assets totalling 257000 denominated in US Dollars 2016 assets totalling 281000 and assets totalling 36000 denominated in Australian Dollars 2016 assets totalling 27000.
+For the Company a 5% increase in the value of each of the above currencies would have resulted in an impact on the income statement as follows
+Euros 6 6 US Dollars 12 15 Australian Dollars Capital risk management The Groups objectives when managing capital are to safeguard the entitys ability to continue as a going concern so that it can continue to provide returns for Shareholders and benefits for other stakeholders.
+The Group sets the amount of capital in proportion to risk.
+The Group manages the capital structure and makes adjustments to it in the light of changes in economic conditions and the risk characteristics of the underlying assets.
+In order to maintain or adjust the capital structure the Group may adjust the amount of dividends paid to Shareholders return capital to Shareholders issue new shares sell assets or take on bank debt.
+The decision to take on some element of debt gives the Group additional flexibility in its capital structure and enables it to lower its cost of capital.
+The Group considers its capital to include share capital share premium merger reserve translation reserve convertible loan note reserve share option reserve retained earnings and net cash.
+Net cash comprises borrowings less cash and cash equivalents.
+Note
+Total borrowings 19 391 158 Less cash or cash equivalents 1390 1537 Net cash 999 1379 Total equity 6294 6906 Total capital gearing ratio 0% 0% site 59 Financial instruments continued Summary of financial assets and liabilities by category The carrying amounts of the financial assets and liabilities as recognised at the statement of financial position date of the years under review may also be categorised as follows Group Company Loans and receivables Cash and cash equivalents 1390 1537 99 42 Trade and other receivables 1414 1824 915 329 2804 3361 1014 371 Financial liabilities held at amortised cost Trade and other payables 1208 940 2394 2594 Borrowings 39telFinancial liabilities held at fair value Contingent consideration 14tel1745 1473 2931 3127 Financial assets and financial liabilities measured at fair value in the statement of financial position are grouped into three Levels of a fair value hierarchy.
+The three Levels are defined based on the observability of significant inputs to the measurement as follows Level 1 quoted prices unadjusted in active markets for identical assets or liabilities Level 2 inputs other than quoted prices included within Level 1 that are observable for the asset or liability either directly or indirectly Level 3 unobservable inputs for the asset or liability.
+The following table shows the Levels within the hierarchy of financial assets and liabilities measured at fair value on a recurring basis at 31 December 2017 and 31 December 2016 Level 2 Level 3 Contingent consideration 146 375 The Groups finance team performs valuations of financial items for financial reporting purposes including Level 3 fair values in consultation with third party valuation specialists for complex valuations.
+Valuation techniques are selected based on the characteristics of each instrument with the overall objective of maximising the use of marketbased information.
+The finance team reports directly to the Group Finance Director and to the audit committee.
+The valuation techniques used for instruments categorised in Level 2 and 3 are described below Contingent consideration 2017  Level 2 2016  Level 3 The fair value of contingent consideration relates to the acquisition of ISV Software and is estimated using a present value technique.
+The contingent consideration at 31 December 2017 level 2 of 146000 is included at fair value which has been calculated as payable based on the revenues of ISV Software to 30 September 2017.
+The contingent consideration at 31 December 2016 level 3 of 375000 is included at fair value which is mainly based on actual budget or forecast revenues prepared by the finance team.
+The contingent consideration in respect of 2016 is discounted.
+The discount rate used to discount the contingent consideration at 31 December 2016 is 3.48% and is based on an after tax estimate of the Groups current borrowing rate.
+The reconciliation of the carrying amounts of financial instruments classified within Level 3 is as follows At start of the year 375 620 Paid in the year  212 Movement in fair value recognised in profit or loss under finance costs  15 Movement in fair value recognised in profit or loss under administrative expenses  48 Reclassified to Level 2 375 At the year end  375
+REPORT
+FINANCIAL
+STATEMENTS
+OVERVIEW GOVERNANCE DILLISTONE GROUP PLC  Annual Report and Accounts 2017 Notes to the Financial Statements continued For the year ended 31 December 2017
+No individual Shareholder or Shareholders acting in concert hold more than 50% of voting shares and accordingly there is not considered to be an ultimate controlling party.
+Related party transactions
+The Directors received dividends paid by the Company of 240000 2016 353000.
+Details of earnings of key management is included in note 7.
+Such remuneration includes a divisional directors spouse who is employed as a software engineer.
+The amounts outstanding at the year end due to key management was 30000 2016 40000 excluding Employers NI and related to estimated bonus payments payable in relation to 2017.
+In addition Dr Loves fees of 35000 are paid to Pond Associates LLP a business owned by him.
+The balance outstanding payable to Dr Love at the year end was 27000 2016 9000.
+The Directors and certain key management participated in the issue of convertible loan notes in 2017 as follows Mike Love 250000 Giles Fearnley 75000 Jason Starr 24250 Rory Howard 24250 Julie Pomeroy 10000 Alex James 1000 Simon Warburton 8000 Paul Mather 7500
+The Company has a related party relationship with its subsidiaries its Directors and other employees of the Company with management responsibility.
+During the year the Company received a management charge of nil 2016 56000 and a dividend of nil from its subsidiary company Dillistone Systems US Inc 2016 81000.
+At the year end Dillistone Systems US Inc owed 257000 2016 owed 281000 to the Company.
+During the current year Dillistone Systems Limited paid a dividend of nil 2016 1000000 to Dillistone Group Plc and a management charge of 306000 2016 296000.
+At the year end Dillistone Systems Limited was owed 752000 2016 458000.
+The Company received a management charge during the year from Dillistone Systems Australia Pty Limited of nil 2016 17000 and at the year end was owed 36000 2016 27000.
+Voyager Software paid a management charge of 144000 2016 144000 and owed the Company 187000 at the year end 2016 201000.
+FCP Internet Limited paid a management charge of 84000 2016 84000 and a dividend of 1000000 2016 nil and was owed by the Company 754000 at the year end 2016 owed by the Company 1293000.
+A management charge of 60000 2016 60000 was received from ISV Software together with a dividend of 400000 2016 nil and at the year end the Company owed ISV 208000 2016 414000.
+GatedTalent Limited paid a management charge of 86000 2016 nil and owed the Company 373000 at the year end 2016 nil.
+FCP Internet Holdings Limited was owed by the Company 2000 at the year end 2016 owed by the Company 2000.
+Woodcote Software Limited owed the Company 13000 2016 13000.
+Management charges payable by Group members to Dillistone Group Plc relate to management support provided directly to them.
+Dividends
+The dividends paid in 2017 and 2016 were 551000 2.8p per share and 811000 4.125p per share.
+A final dividend in respect of the year ended 31 December 2017 of 0.5p per share will be paid on 13 July 2018.
+These financial statements do not reflect this dividend.
+Directors
+M D Love  NonExecutive Chairman G R Fearnley  NonExecutive Director J S Starr  Chief Executive R Howard  Operations Director A D James  Product Development Director J P Pomeroy  Group Finance Director A F Milne  MD  Dillistone Systems
+J P Pomeroy Company number Registered office 50 Leman St
+E1 8HQ Independent auditor BDO LLP 55 Baker Street
+W1U 7EU Principal bankers HSBC Bank Plc Basingstoke Commercial Centre 8 London Street
+RG21 7NU
+Blake Morgan LLP Apex Plaza Forbury Road Reading RG1 1AX Nominated adviser WH Ireland Limited 24 Martin Lane
+EC4R 0DR
+WH Ireland Limited 24 Martin Lane
+EC4R 0DR
+Link Assets Services The Registry 34 Beckenham Road
+Kent BR3 4TU DIRECTORS AND ADVISERS
+REPORT
+FINANCIAL
+STATEMENTS
+OVERVIEW GOVERNANCE 50 Leman Street

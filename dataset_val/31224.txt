@@ -1,0 +1,1122 @@
+GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 Annual Report and Accounts
+GROWTH
+THROUGH
+INNOVATION GAN is a leading businessto business provider of enterprise online gaming software operational support services and online game content development services to the casino industry.
+GAN has developed the GameSTACK Internet Gaming System or IGS which we license to online and landbased gaming operators as a turnkey technology solution for both regulated real money regulated gaming and Simulated Gaming online.
+The GameSTACK IGS developed in London under a UK Gambling Commission licence is certified to some of the highest technical standards currently required by gaming regulators.
+Expanding beyond platform technology services GAN has built up a highly skilled managed services team to provide strategic direction creative design programming implementation and customer services to our real money regulated gaming and Simulated Gaming partners around the world.
+CONTENTS
+STRATEGIC REPORT
+GAN at a Glance Market Review
+Chairmans Statement
+10 Chief Executive Officers Review
+12 Core Business Offerings 18 Financial and Operational Review 20 Principal Risks and Uncertainties 22 Corporate Social Responsibility
+23 Corporate Governance Statement
+24 Board of Directors 26 Directors Report 28 Directors Responsibilities FINANCIAL STATEMENTS
+Independent Auditors Report
+Consolidated Statement of Comprehensive Income Consolidated Statement of Financial Position Consolidated Statement of Changes in Equity Consolidated Statement of Cash Flows Company Statement of Financial Position Company Statement of Changes in Equity Company Statement of Cash Flows Notes to the Financial
+Financial overview Net revenue of 9.1m 2016 7.8m an increase of 17% on 2016 Clean EBITDA profit of 0.5m 2016 loss of 0.9m Loss before tax of 4.2m 2016 5.2m and loss before tax per share of 0.05 2016 0.06 Loss after tax of 3.5m 2016 3.8m Launched Simulated Gaming in the US for five new US casino clients 2016 three Signed two new US casino clients for real money regulated gaming in New Jersey and European markets Continued delivery of Betfairsite reliant on GANs Internet gaming platform content and supporting services Continued investment in US infrastructure licensing offices and people Cash and cash equivalents at the end of the year of 2.7m 2016 3.2m Net assets at the end of the year of 7.6m 2016 10.9m Raised gross proceeds from share placings of 4.4m in 2016 and an additional 2.0m in April 2017 through a 9% unsecured convertible loan note Award of a full Casino Service Industry Enterprise in New Jersey issued by the New Jersey Division of Gaming Enforcement following a multiyear licensing process Post period end preparations underway for GAN to launch Parx Casino in Pennsylvania for Internet gaming with the Pennsylvanian Internet gaming market anticipated to commence in H2 2018 The Company monitors its financing on an ongoing basis and post period end having noted in particular the regulatory developments in respect of real money Internet gaming in the US is currently considering options to enable it to respond to the opportunity that it considers these developments represent Strategic and operational developments TOTAL NUMBER OF US CASINO PROPERTIES OPERATING SIMULATED GAMING ONLINE IN RELIANCE ON GAN Clean EBITDA is a nonGAAP company specific measure and excludes interest tax depreciation amortisation sharebased payment expenses certain non cash transactions and other items which the directors consider reflects the underlying performance of the business and excludes non recurring and significant non cash items Net revenue Clean EBITDA profitloss Loss after tax Loss before tax Cash and cash equivalents Net assets Raised gross proceeds from share placings STRATEGIC REPORT 9.1mtel 2.7mtel 0.5mtel 7.6mtel 5.6m 5.2m 4.2mtel 0.0mtel 2016 2017 FINANCIAL STATEMENTS
+STRATEGIC REPORT GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 1 GAN AT A GLANCE GAN is strategically positioned to deliver casino partners with an endtoend iGaming ecosystem supporting Simulated Gaming social play as well as real money Regulated Gaming online.
+As an innovator in platform design and deployment in markets around the world GAN has the technical and regulatory knowhow to give our partners firstmover advantage.
+Our enterprise Technology platform The GameSTACK IGS is a highly evolved enterprise software platform developed over 16 years and capable of deploying real money regulated gaming either online or onproperty inside casinos virtual creditsbased Simulated Gaming and diverse forms of monetised casual gaming.
+Unique in the B2B iGaming landscape this single enterprise software system is capable of providing these three relevant gaming business models to major casino operators worldwide.
+In the context of real money Regulated Gaming the GameSTACK IGS is technically compliant with some of the most challenging regulatory environments in the world including Italy the United Kingdom Alderney and New Jersey giving our current and potential partners comfort that GAN can seamlessly deliver their business online.
+Operating a softwareasaservice SaaS model GAN continually maintains develops and upgrades the single evergreen GameSTACK enterprise software platform capable of being deployed anywhere in the world.
+Continual software development delivers sustained upgrades to clients enterprise marketing tools business intelligence systems gaming portfolio and a wide range of other technical features which clients receive and benefit from automatically as well as delivering custom development to clients required to differentiate each clients gaming product experience.
+By year end 2017 GAN operated seven instances of GameSTACK deployed inside data centres located in Nevada New Jersey Pennsylvania Maryland Oklahoma Alderney and Italy.
+Our partners and clients
+The GAN family of partners represents leading US Internet gaming groups both online and offline.
+In the US we have grown our client base to include 13 largescale bricks and mortar operators and one dedicated online partner which contracted with GAN for our ability to deliver real money Internet gaming and social gaming from the same core technology stack as well as provide dedicated services pre and postproduct launch.
+Today the GAN family of partners represents tens of thousands of slot machine units on their floors and millions of dedicated loyalty club card holding players within their databases.
+With the continued success of Simulated Gaming and real money gaming key performance indicators GAN was able to launch partnerships with Station Casinos out of Las Vegas The Chickasaw Nation of Oklahoma Turning Stone Resort of New York and Ocean Resort Casino in Atlantic City formerly known as Revel Casino.
+Content partners In addition to securing material partnerships in the US casino landscape GAN has assembled a wide range of relationships with collaborating casino equipment manufacturers seeking to bring their machinebased slot games online and distribute them across the US and into selected regulated markets internationally.
+With over eight years of experience in bringing bestinclass manufacturers from the offline space into the online space GAN has become a preferred partner in the development of gaming intellectual property IP for online play.
+Third party Beyond content GAN has brought together worldleading service providers spanning payment processing prepaid card services age and identity verification and fraud detection.
+GAN enjoys a strong positive reputation for technical competence and the category partners which support the GameSTACK IGS as a turnkey ecosystem are critical to that success.
+The wideranging capability of GANs technical development and operations team together with the underlying technical capability of the enterprise software platform has enabled us to secure and develop relationships within gaming around the globe.
+What we do IN THE US WE HAVE GROWN OUR CLIENT BASE TO INCLUDE 13 LARGE SCALE BRICKS AND MORTAR OPERATORS STRATEGIC REPORT 2 GAN PLC ANNUAL REPORT AND ACCOUNTS Global footprint
+In our forth full year in the US market GAN continued to serve billion dollar enterprises realigning our global support structure to continue to better serve our clients and innovating on operatorcentric platform design.
+GANs primary growth market is the US.
+With the largest base of casinos loyalty engaged patrons and casino gamecentric audiences GAN is well positioned to be a leading player in the US B2B space.
+Bulgaria
+GANs development team continued to expand in Bulgaria in 2017 within our Sofia citycentre campus.
+Our expanding team of highly qualified developers and assurance team members provide support for our growing client base.
+Where we are Our history GANs early roots were in the development of skill and table games which were deployed for the real money marketplace.
+Our evolution into being an awardwinning platform and services provider has been an epic journey.
+Service evolution
+GAN extended its market position in Italy growing gross gaming income from 21.8m in 2016 to 31.8m in 2017 an increase of 46% yearonyear.
+Our Italian content delivery services business continues to be a strong revenue driver for GAN.
+Australia
+GAN continues to support our consortium of five landbased gaming club operators in Queensland Australia bringing Simulated Gaming to Australia prior to future regulation of real money Internet gaming.
+United Kingdom Headquartered in central London the team of gaming experts engineers and management is equipped to be very responsive to the demands of current and newly regulated markets.
+GAN partnerships footprint Los Angeles 4.
+St Louis 7.
+New Jersey 10.
+New York City
+Las Vegas 5.
+Detroit 8.
+Philadelphia 11.
+Rochester
+Oklahoma
+Providence 9.
+Maryland
+Atlantic City FINANCIAL STATEMENTS
+STRATEGIC REPORT GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 3 MARKET REVIEW Real money regulated intraState Internet gaming in the US remains focused on New Jerseys fastgrowing market and the new Pennsylvania market which in October 2017 ended the fouryear wait for incremental US States to legalise Internet gaming.
+Simulated Gaming continued to mature as the marketleading model adopted by major US casinos in advance of and in addition to regulated real money Internet gaming.
+Regulated US Internet gaming In 2017 there were approximately 940 landbased casinos in the US located in 39
+The aggregate economic benefit to the US economy directly related to gaming is estimated to be over 240bn.
+In contrast only three US States permitted Internet gaming of which the State of New Jersey accounted for 246m  the overwhelming majority of US Internet gaming in 2017.
+2017 was New Jerseys fourth full year of Internet gaming and that States Internet gaming market grew more than 24% year onyear compared with New Jerseys seven landbased casinos that together saw static retail gaming revenues in the same period of 2.4bn.
+Accordingly New Jerseys 246m in Internet gaming revenues represented 10% of New Jersey landbased gaming revenues generated in the same year.
+By way of reminder in 2013 the first three US States regulated intraState real money Internet gaming permitted within their States borders Nevada pop.
+3m Delaware pop.
+1m and New Jersey pop.
+9m.
+In October 2017 Pennsylvania pop.
+12.8m passed legislation legalising Internet gaming ending a fouryear wait for another US State to regulate Internet gaming.
+In several other US States legislation designed to regulate Internet gaming continued through the complicated legislative process in 2017.
+There are six US States actively considering regulation of intraState Internet gaming West Virginia Illinois Connecticut New York Massachusetts and Michigan.
+The next State to regulate is generally believed by industry observers to be the State of Michigan pop.
+9.9m which has a substantial existing landbased casino industry comprising three commercial casinos in Detroit and several Native American casinos.
+Michigan made significant progress towards regulation of Internet gaming through the course of 2017 with a comprehensive bill appearing in the Michigan House of Representatives for active voting on various proposed amendments in Spring of 2018.
+If this legislation is enacted in the future residents of Michigan will be permitted to play casino games online for real money in a similar manner to both New Jersey and Pennsylvania.
+70bn AGGREGATE GAMING REVENUES GENERATED IN THE RETAIL CHANNEL BY NEARLY 1000 BRICKS AND MORTAR CASINOS IN 40 STATES IN OCTOBER 2017 PENNSYLVANIA ENDED THE WAIT FOR ANOTHER US STATE TO REGULATE INTERNET GAMING STRATEGIC REPORT 4 GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 Simulated Gaming  now a market leading product highmargin revenue stream generated online from existing customer database attracts new customer demographics reactivates longterm lapsed customers improves frequency of customers visitation to the casino and increases gaming revenue generated inside the casino from existing customers.
+Social casino gaming In the meantime for the 900 US casinos which do not sit within those four regulated US States or those six US States actively considering regulation an alternative Internet gaming business model is required.
+Social casino gaming is the obvious alternative market where enduser consumers buy time online for the entertainment value of playing casino games without receiving the opportunity to win real money.
+The top three countries for social casino gaming are the US Canada and Australia where in all cases real money Internet gaming is not permitted nationwide.
+The global social casino gaming market reached 4bn in 2017 with 3bn generated from USresident players.
+GANs Simulated Gaming enterprise solution is specifically designed for US casino operators seeking to enter the social casino gaming market.
+In the absence of real money regulated Internet gaming social casino gaming has emerged as an alternative business model serving the latent demand for a highquality Internet gaming experience.
+Traditional casino operators that wish to participate in the social casino market generally have three options for market entry build their own technology acquire an existing social casino operator or adopt an enterprise software solution from a third party provider such as GAN.
+GROWTH IN ONLINE PURCHASES FOR SIMULATED
+SIMULATED GAMING PLAYER DAYS REPRESENT AN INCREASE OF 33% FROM 2016 NUMBER OF SIMULATED GAMING CUSTOMERS LIVE AT YEAR END.
+FIVE NEW CUSTOMERS LAUNCHED IN H1 51% Market conditions Through the course of 2017 GAN enjoyed significant momentum in launching new major casino operators as clients including the Chickasaw Nation Red Rock Resorts and Turning Stone as well as acquiring and launching Ocean Resort Casino formerly Revel Casino as a client of Simulated
+TM in advance of launching real money Internet gaming.
+With three of the five partnerships launched being largescale multiproperty enterprises GAN continues to be positioned as a leading platform for casino operators seeking to move online.
+FINANCIAL STATEMENTS
+STRATEGIC REPORT GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 5 REALISING
+IN THE US
+MARKET
+Real money regulated intraState Internet gaming in the US remains focused on New Jerseys fastgrowing market.
+Despite Pennsylvania restarting the Internet gaming regulatory cycle Simulated Gaming continues to mature as the marketleading model to be adopted by major US casinos in advance of and in addition to regulated real money Internet gaming.
+STRATEGIC REPORT 6 GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 Our investment in the US market has led to the Group being recognised as a leading B2B supplier of Internet gaming enterprise of SaaS solutions to the US landbased casino industry and we believe significant shareholder value will develop going forwards as New Jerseys Regulated Gaming market continues to grow Pennsylvanias Internet gaming market commences and Simulated Gaming continues to be adopted by a portfolio of larger US casino operator clients.
+Seamus McGill Chairman QandA with a US stakeholder Alec Driscoll the Interactive Director of American Casino and Entertainment Properties LLC ACEP in 2017 spoke to GAN about the uplift of onproperty visitation experienced in their locals casino properties in Nevada throughout 2016 and the majority of 2017.
+Q.
+What was the principal financial benefit to ACEP in operating Simulated Gaming
+A.
+The incremental share of our customers wallet online was valuable but of more value was the significant level of engagement by our highervalue customers of bricks and mortar gaming who increased their visitation to our locals casino properties in Nevada as a result of engaging with GANs Simulated
+TM online experience.
+Q.
+What factors influenced your decision to work with GAN
+GAN was the only firm that had material traction across the country and was the only solution that we reviewed that had a full suite of front end games accompanied with back office business processes GAN had the only full solution out there and arguably remains so for social casino gaming.
+THE AVERAGE DAILY THEORETICAL VALUE OF CUSTOMERS PLAYING ONLINE EACH DAY THEY VISITED THE CASINO PROPERTY THE AVERAGE INCREASE TO VISIT AND PLAY WITHIN THE CASINO PROPERTY WITHIN 120 DAYS OF THE CASINOS CUSTOMERS ENGAGING ONLINE WITH SIMULATED GAMING
+FINANCIAL STATEMENTS
+STRATEGIC REPORT GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 7 CHAIRMANS STATEMENT A culture of innovation Dear shareholders During the course of 2017 the Group expanded its market share in the US our key geographic market by launching additional US landbased casinos as clients of either virtual currency based Simulated Gaming intraState basis.
+In April 2017 the Group announced that it had successfully issued its first convertible loan note as a public company raising gross proceeds of 2.0m in loan capital to continue expansion of real money regulated gaming and Simulated Gaming opportunities in the US and for working capital and general business development purposes.
+As has been widely reported regulated real money Internet gaming in New Jersey has been growing strongly.
+Our Group has executed well in delivering operationally for Paddy Power Betfair plc in New Jersey earning a welldeserved reputation in the US for technical competence reflecting the reputation already hard earned in Europes toughest regulated Internet gaming markets.
+This reputation has translated into additional business secured in February 2017 for GAN in New Jersey with a major landbased New Jersey operator Ocean Resort Casino formerly known as Revel Casino nominating GAN as the future platform for regulated real money Internet gaming commencing in 2018.
+GAN has become synonymous for quality and commitment to delivering the right solution for bricks and mortar US casino operators to move their retail business online.
+NUMBER OF CASINO PROPERTIES LOCATED COAST TOCOAST ACROSS THE US OWNED BY GANS US CLIENTS Pennsylvania surprised the industry by legislating for major gaming expansion in Autumn 2017 including the regulation of real money Internet gaming which will now commence in Pennsylvania in 2018.
+The Group has long served the largest single casino operator in Pennsylvania Parx Casino and looks forward to launching its real money Internet gaming business subject to licensing.
+Your Board of directors believes there is a significant opportunity for Simulated Gaming in the US.
+It has outperformed initial expectations and has become the centrepiece of the Groups growth strategy.
+We commercially launched five US casino clients throughout the year.
+Outside the US the Group extended its services agreement with a consortium of landbased gaming clubs in Queensland Australia as clients of Simulated Gaming which is a market sharing many regulatory similarities to the US when it comes to Internet gaming.
+We are excited about the prospects for Simulated Gaming and the performance we have achieved since its initial launch together with the increasingly compelling business case that Simulated Gaming suitably integrated with landbased casino operators loyalty programmes greatly supports our clients core business of onproperty real money gaming.
+We are also confident in the longterm potential for real money regulated gaming and Pennsylvanias recent adoption STRATEGIC REPORT 8 GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 SHAREHOLDER VALUE IS EXPECTED TO DEVELOP WITH THE GROWTH OF US REGULATED GAMING MARKETS of legislation enabling Internet gaming may prove to be a significant catalyst for restarting the US regulatory cycle.
+Our consistent progress in 2017 with our core products of Simulated Gaming and regulated gaming in sustainable markets in what was a year of continued investment for GAN as we developed both our real money regulated gaming and Simulated Gaming offering would not have been possible without the dedicated and talented staff employed by the Group in London Sofia and throughout the
+I thank them for their continued efforts and believe the Group has become established as a major Internet gaming technology infrastructure and services provider to landbased casinos in the US consistent with the strategy set out during the Groups Initial Public Offering completed in November 2013.
+After a multiyear period of necessary investment GAN has now established itself as a significant and highly credible Internet gaming technology provider to the US casino industry.
+Seamus McGill Chairman NUMBER OF CUSTOMER VISITS ONLINE IN THE US IN 2017 8m After four years building our US market position we are satisfied the Group is now recognised as a leading provider of enterpriselevel online solutions to the landbased gaming industry in the US and believe significant shareholder value will develop going forwards as New Jerseys regulated gaming market continues to grow Simulated Gaming continues to be adopted by a portfolio of larger US casino operator clients and Pennsylvanias Internet gaming market commences.
+SEAMUS MCGILL
+28 MARCH 2018 FINANCIAL STATEMENTS
+STRATEGIC REPORT GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 9 CHIEF EXECUTIVE OFFICERS REVIEW Focused on growing recurring revenues Dear shareholders
+GAN is successfully established as a leading provider of enterpriselevel Internet gaming technology solutions to major US casino operators securing significant US market share.
+2017 was our fourth year of continued and necessary substantial investment opening the Group to major commercial opportunities including Ocean Resort Casino our second client for real money regulated gaming in New Jersey and The Chickasaw Nation for Simulated Gamingsite both expected to deliver shareholder value future years.
+Substantial continued investment has been made in the US operational structure to develop the Groups US presence in both the real money regulated gaming and Simulated Gaming markets.
+In the UK and Bulgaria further substantial investment has been made in the Groups software technology and its capability to deliver both Simulated Gaming and real money regulated gaming to US casino operators integrated with the US casino operators existing landbased loyalty programme.
+IntraState regulation of real money Internet gaming restarted with Pennsylvania passing legislation in October 2017 to permit Internet gaming nearly four years after New Jerseys Internet gaming market commenced.
+Legislative actions also occurred in several other US States in 2017 which suggests the StatebyState regulation of Internet gaming may progress further in the US during the course of 2018.
+In the meantime Simulated Gaming continued to materially outperform initial expectations and is positioned for significant profitable growth in 2018.
+During the year the Group launched Simulated Gaming for five major US casinos located in the States of New York New Jersey Oklahoma and Nevada and signed an additional landmark deal with Ocean Resort Casino a major casino property in Atlantic City formerly known as Revel Casino which is expected to reopen as a casino in 2018 with a simultaneous launch of GANs Internet casino integrated with the onproperty rewards programme in reliance on GANs USpatented convergence iBridge Framework.
+A multiyear extension for Simulated Gaming was agreed during the year with a consortium of casino operators in Queensland Australia which have been operating Simulated Gaming focused on Australia since 2015.
+GAN and its clients stand to benefit from potential regulation of real money Internet gaming which since September 2017 became effectively prohibited as Australian gaming legislation was updated to criminalise the longstanding activities of offshore Internet gaming operators.
+While other international opportunities are being developed the Groups strategic focus remained firmly on the US market throughout 2017 emphasised by the relocation of selected key personnel from the UK to the US in order to better support the Groups activity in its key geographic market.
+In New Jersey the Group delivered strongly for Betfairsite as a leading Internet casino operator in New Jerseys regulated Internet gaming market.
+I would like to take this opportunity to thank staff at GAN the regulators at the New Jersey Division of Gaming Enforcement the management of Betfairs New Jersey operations and the operational management of Golden Nugget Atlantic City for all their support during 2017.
+GANs enterpriselevel technology platform for Internet gaming is a scarce asset managed by a team of experienced specialists managing one of a handful of fastgrowing real money regulated gaming businesses in New Jersey.
+Real money regulated gaming in New Jersey has proved materially different in both general practice and specialist technical requirements when compared with European markets.
+This positions GAN to capture significant market share in any incremental US intraState markets which may regulate Internet gaming over time including Pennsylvania New York and Michigan.
+Navigating GAN back to positive clean EBITDA in 2017 after a multiyear investment cycle has proved to be a marathon of shared achievement of which directors employees and shareholders can all be proud.
+REAL MONEY iGAMING DEPOSITS PROCESSED IN 2017 STRATEGIC REPORT 10 GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 GAN IS WELL POSITIONED TO CAPTURE SIGNIFICANT MARKET SHARE IN ANY INCREMENTAL US INTRASTATE MARKETS During the year the Group achieved strong financial growth in recurring net revenues derived from the US and the regulated Italian market driven primarily by Simulated Gaming nationwide across the US and from regulated real money Internet gaming in both New Jersey and Italy.
+Overall net revenue grew by 17% to 9.1m 2016 7.8m.
+Strategy
+Expansion in the US remains a continuing strategic priority for the Group with requisite increases in US infrastructure centred on Las Vegas comprising principally human resource and licensing investment in relevant US States including New Jersey and Pennsylvania.
+Aligned with the significant growth experienced in New Jerseys real money Internet gaming market the Group increased its focus on real money Internet gaming product development enhancements and optimisations while continuing to roll out additional new clients and product features for Simulated Gaming.
+The continued contribution of Simulated Gaming to our net revenue growth in 2017 supports the Groups internal focus on the US in delivering both real money Internet gaming and Simulated Gaming to as many major US casino properties as possible.
+Furthermore the Group has received indications from collaborating clients that GANs unique Simulated Gaming platform has materially increased patrons visitation onproperty reactivated significant numbers of longterm inactive patrons and generally proved highly supportive of onproperty real money landbased gaming.
+The Group continues to pursue further Internet gaming platform sales discussions with casino equipment manufacturers in order to enable landbased casino slot manufacturers to manage the distribution of their content online.
+The slow pace of incremental regulation of Internet gaming in the US has materially contributed to ongoing delays in securing an Internet gaming platform sale and with the recommencement of the regulatory cycle it appears possible that demand for a system sale may return over time.
+Investment in the Groups technical capability in key areas such as back office mobile and convergence with landbased casino management systems continued throughout 2017 with significant continued growth of the Groups mobile gaming portfolio in both HTML5 and native iOS and Android applications.
+In Europe the Group extended its market position in Italy with new clients integrated including Intralot Italia together with new content portfolios delivered via the Groups technical platform.
+Italy remains a crucial market for GAN as a comprehensively regulated Internet gaming market exhibiting continued organic growth throughout 2017 as a result of the regulation of Internet casino slots gaming in 2013.
+Products
+The Groups back office system iSight Back Office received continuing upgrades released throughout 2017 delivering a stateoftheart back office player management capability with unique convergence features designed to complement a landbased casinos existing gaming operations.
+The productrelated capabilities of Simulated Gaming took major strides in 2017 with a focus on monetisation of players and the introduction of gaming activity accelerants designed to extend player lifetimes increase frequency of purchases and drive increased visitation to the US casino operators land based properties.
+Social gaming features including daily bonusing wheels leaderboards real time competition slot tournaments and experience points all launched in 2017 resulting in a significant increase in both monetisation and stickiness.
+Expansion in the US remains a continuing strategic priority for the Group.
+Dermot Smurfit Chief Executive Officer
+In 2017 the Groups research and development function developed a comprehensive machine learning framework for delivering predictive analytics to clients for both real money Internet gaming and Simulated
+Analytics form a critical support for marketers in identifying highvalue customers and maximising lifetime values and these capabilities have greatly enhanced the analytics tools already available within iSight Back Office as well as the efficiency of marketers using these tools daily to drive their respective businesses.
+Marketing and support services Throughout 2017 the Group continued to invest in establishing a wide range of secondary and tertiary services for US landbased casino clients designed to support the landbased casino operator in managing customers and growing through external user acquisition marketing and internal crosssell marketing to existing patron databases and onproperty traffic.
+Marketing and support services remain a crucial component of the Groups service portfolio ensuring any landbased casino operator can costeffectively launch a turnkey managed Internet gaming service and grow an online community extending beyond its existing audience of casino patrons.
+DERMOT SMURFIT
+CHIEF EXECUTIVE OFFICER
+28 MARCH 2018 FINANCIAL STATEMENTS
+STRATEGIC REPORT GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 11 CORE BUSINESS OFFERINGS GameSTACK IGS Winner of eGaming Reviews peerjuried Casino Platform Supplier of the Year 2015 and 2016 and Freeplay Gaming Supplier of the Year 2016 and 2017.
+GANs GameSTACK IGS technology and complementary SaaS structure is designed to support casino operators content providers and bestinclass online service providers in a symbiotic manner.
+GAN continually works to maintain and grow this ecosystem to provide the ultimate online casino experience  social or real money gaming  to our partners and subsequent players around the world.
+TECHNOLOGY
+GameSTACK IGS the ultimate turnkey technology platform giving casinos real time control of promotions messaging analytics and all other facets of online operations.
+CONTENT DISTRIBUTION Once configured for online play GAN distributes these titles for our content partners in social and real money online gaming markets around the world.
+CONTENT DEVELOPMENT GAN redevelops content configuring games for desktop and mobile play for global suppliers of games such as Everi Incredible Technologies KONAMI and more.
+GAN creates customer content for our partners as well.
+MANAGED SERVICES From regulatory relations to strategy to execution to enduser customer services GAN can support any operation in launching and running its online business.
+Intimately tied in with a casinos overarching player communications team GANs managed services help support social and real money gaming as integral parts of the operation.
+STRATEGIC REPORT 12 GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 GameSTACK IGS is a turnkey platform comprising proprietary enterprise level software hardware and integrated components such as iSight Back Office SENSE3 Mobile iBridge Framework and third party technologies.
+GANs open platform has undergone significant technical developments in the last three years providing our partners be they operators content providers or other services providers  with a technical ecosystem that has been awarded by EGRs North America peerjuried Casino Platform Supplier of the Year in both 2015 and 2016 and Freeplay Gaming Supplier of the Year in 2016 and 2017.
+With the iSight Back Office management tool casino operators have complete control over their content selection player communications website layout process automation and real time analytics.
+The ongoing investment in platform features and functionalities is core to our business.
+A nimble platform ensures ease of integration for new content operatorfriendly third party tools and turnkey daytoday operations.
+Driving players to an operators Simulated Gaming or real money Internet gaming website or application requires not only great technology but great content as well.
+GAN has been working with worldleading suppliers for over seven years to bring their content online.
+GANs content partners trust us with their IP as we configure games originally built for the offline world to play in the online worlds of desktop and mobile.
+With innovative tools for B2B casino operations GAN has invested in growing our global managed services team to support operators as they move online.
+Based between London Las Vegas and Sofia our inhouse managed services team members support initial configurations and ongoing operations of our partners via the GameSTACK platform  spanning loyalty marketing automations reporting access and various other protocols.
+Additionally our managed services team members respond to questions from players related to daytoday operations on behalf of our operator partners.
+In a highly regulated industry probity is paramount.
+GAN is licensed in various jurisdictions around the world and appreciates the role of regulation in the real money online space.
+GANs clean probity record enabled us to gain entry into the New Jersey market in 2013 and receive our full Casino Service Industry Enterprise licence in 2017 while many other Europeanbased platform providers hesitated to attempt market entry.
+REGULATORY RELATIONS Licensed in numerous jurisdictions in the US and abroad GAN operates at the highest levels of probity to ensure successful longterm operations for all involved.
+USER EXPERIENCE From gaming content virtual floor layouts to player messaging to loyalty GAN carefully curates an exciting user experience endtoend.
+We work with worldleading content providers to bring their IP online monitor and adapt to trends in online gaming experiences and make the journey for the player engaging day after day.
+FINANCIAL STATEMENTS
+STRATEGIC REPORT GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 13 CORE BUSINESS OFFERINGS REAL MONEY GAMING In the US the standard European rulebook for Internet gaming was replaced with a brand new set of requirements tools and capabilities.
+Very few companies in the global gaming industry have the experience capability and track record in the US that GAN offers to clients representing significant shareholder value.
+When a US casino needs to move online there is a very small group of potential technology vendors available to serve their needs and an even smaller subset of companies which are B2B only and fully licensed for US Internet gaming.
+GAN is one of those very few companies and the Companys technical systems operational knowhow and proven track record of excellence represent a substantial competitive barrier to entry together with the Companys strategic US Patent governing the allimportant linkage of an Internet gaming account with an onproperty rewards account.
+These are some of the reasons driving Ocean Resort Casinos choice to nominate GAN as their partner for Internet gaming in early 2017 leveraging the Companys proven successful track record in delivering material market share in New Jersey for one of the worlds largest Internet sports betting and gaming companies Paddy Power
+Ocean Resort Casino becomes GANs second client in New Jersey and the Companys first landbased casino in New Jersey as well as the 14th US casino operator to license the Companys strategic US Patent in order to link their onproperty rewards programme to their forthcoming GANpowered online gaming experience.
+In 2017 GAN focused internal resources on delivering optimisations to real money US Internet gaming geolocation tracking Know YourCustomer KYC processes and its marketleading US payments platform in order to deliver arguably the most efficient Internet traffic funnel to Paddy Power Betfair in the US and increase the efficiency of its substantial marketing investments.
+This focus on optimisations combined with a substantial commitment to delivering more games gaming features and excellence in technical operations has further developed GANs position in the fastgrowing Internet gaming market of New Jersey.
+Real money Internet gaming expertise lies at the centre of GANs professional approach to deliver enterprise gaming solutions to clients in the US and throughout 2017 this increased in importance as Pennsylvanias rapid regulation in AutumnFall 2017 signalled the re commencement of the US regulatory cycle for Internet gaming.
+GAN IS ONE OF VERY FEW COMPANIES WITH A B2B AND FULLYLICENCED US OFFERING US STATES
+REGULATION
+OF INTRASTATE INTERNET GAMING STRATEGIC REPORT 14 GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 CORE BUSINESS OFFERINGS SIMULATED GAMING
+Launched in 2014 Simulated Gaming accelerated in 2017 with the launch of multiple major casino operators in diverse new regional gaming markets.
+Simulated Gaming remains one of the most exciting business opportunities available to GAN and its clients.
+Simulated Gaming is a deliberate service name for GANs B2B social casino solution custom designed for US casino operators seeking to bring their retail brand online and create a new Internet gaming experience delivered as an amenity to their patrons and leveraging their onproperty rewards programme.
+Furthermore by launching Simulated Gaming GANs clients have the ability to engage with new demographics of potential customers with a view to engaging them online first and over time presenting those online customers with a range of incentives to bring them to their retail casino.
+No B2B vendor of social casino gaming in the US has more experience than GAN in supporting this macro business objective shared by all the Companys clients of Simulated Gaming.
+GAN pioneered the Simulated Gaming model in January 2014 and has accumulated an extraordinary depth of knowledge on US casino patrons their gaming proclivities and behaviours and how best to drive them from the online to retail channels.
+From a technical perspective Simulated Gaming sits within and is powered by the same technology that enables clients to launch a real money Internet gaming experience.
+In fact many of the new gaming features are developed by GAN first for Simulated Gaming trialled online optimised and subsequently made available for clients using GANs same technology to power their real money Internet gaming business.
+This illustrates the conjoined nature of Simulated Gaming with real money Internet gaming and how GANs focus on Simulated Gaming also benefits clients of real money Internet gaming.
+GANS US PATENT ENABLES THE ALLIMPORTANT LINKAGE OF AN INTERNET GAMING ACCOUNT WITH AN ONPROPERTY REWARDS ACCOUNT AMERICANS SIGNED UP ONLINE USING GAN NUMBER OF SUCCESSIVE QUARTERS WITH GROWTH IN ACTIVE PLAYER DAYS FINANCIAL STATEMENTS
+STRATEGIC REPORT GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 15 LEADERS
+PIONEERS
+GameSTACK IGS the ultimate turnkey technology platform giving casinos real time control of promotions messaging analytics and all other facets of online operations.
+GANs open platform has undergone significant technical developments in the last three years providing our operators content or other services providers with a truly bestinclass technical ecosystem awarded by EGRs North America peer juried Casino Platform Supplier of the Year in both 2015 and 2016 and Freeplay Gaming Supplier of the Year in 2016 and 2017.
+STRATEGIC REPORT 16 GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 QandA with a GAN technologist 2018 is a big year for data security with the EU General Data Protection Regulation increased ISO27001 requirements and new regulation pending in US online gaming.
+Programme Director Michael Endres explains how GAN stays ahead of regulation while delivering sites for new partners and new products to all of GANs partners.
+Q.
+How does GAN personalise the player experience with the increasing restrictions on information
+For some time GANs data systems and internal processes have locked down information with auditing capabilities to monitor and report on anything suspect.
+Alongside this we are developing our integrations and services to be as anonymous as possible externally with no single identifying datum from GAN.
+Q.
+What is GANs strategy for product delivery
+We approach it through a clear strategy.
+We have automated code change deployment added eventtriggered player interactions and built a new mailer service.
+The strategy agnostic technology custom styling.
+APPS IN APP STORES GAMES AVAILABLE IN NEW JERSEY FINANCIAL STATEMENTS
+STRATEGIC REPORT GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 17 FINANCIAL AND OPERATIONAL REVIEW Growth and investment
+Revenue has continued to grow in 2017 alongside which the Group has further developed its programme of necessary investment and development for the future.
+The Group has made further inroads into the US market executing against our strategy to broaden our geographic footprint through the addition of casino operators in key States in advance of regulation.
+In Italy the Group continues to strengthen its market position through the distribution of additional content and fullyear revenues from clients launched in the prior period.
+The Group has built upon its significant coasttocoast presence in the US market in order to drive additional growth.
+The Group entered 2017 with nine Casino operators in the US and Australia and added a further five operators in the first half of the year.
+Launches of Winstar World Resort and Casino MGMs The Borgata Oneida Nations Turning Stone Casino Ocean Resort Casino and Station Casinos brings the total number of Simulated
+TM clients operational entering 2018 to The US market remains the core strategic market for the Group as it seeks to continue to drive adoption from landbased casinos to the online digital market.
+Revenues from the US market continue to be a substantial proportion of the business and now account for 57% of total Group revenues.
+The Group remains focused on generating recurring revenue growth in both of its primary markets the US and Italy.
+Recurring revenues accounted for 82% of total net revenue.
+In addition to the US market growth the Group has benefited from continued recurring revenue growth in the regulated market of Italy where the launch of an additional operator and the fullyear contribution of two new operators launched in the prior period has continued to drive revenue growth.
+Net revenues from the Italian market have grown and now represent over 31% of total net revenue.
+The Group continued to invest heavily in the underlying IGS and product capability to meet the ongoing market demand and ensure that it continues to be in position to capitalise on the immediate Simulated Gaming opportunity in the US market.
+The Group has continued to rationalise its cost base through the opening of a new technical development office in Bulgaria.
+The introduction of additional technical resource in a lowercost location has enabled the Group to continue to enhance its delivery capability while reducing the underlying cost structure over time.
+The Group reports gross income of 41.1m a 30% increase from 2016.
+Net revenue for the year was 9.1m compared with 7.8m in the same period last year an increase of 17%.
+Clean EBITDA profit of 0.5m compares positively with a Clean EBITDA loss in 2016 of 0.9m and a loss before taxation of 4.2m compares with a loss before taxation in the prior period of 5.2m.
+The loss after taxation of 3.5m reflects the expectation of a successful claim for research and development tax of This expectation is based on successful claims in respect of prior years including 1.0m received in 2017 in relation to 2016.
+The
+2017 value is lower due to lower development costs associated with the transition to Bulgaria.
+The Group ended the year with a cash balance of 2.7m compared with 3.2m for the year ended 31 December 2016 and net assets at 31 December 2017 of 7.6m compared with 10.9m in the previous year.
+On 28 April 2017 the Group announced that it had raised gross proceeds of 2.0m through the successful placing of a 9% unsecured convertible loan note issue.
+An expanding customer base and client offering alongside robust cost control has ensured the Group capitalised on its investment producing strong yearonyear increases in net revenue and Clean EBITDA in 2017.
+RMG  GAME AND PLATFORM REVENUE 14% SIMGAM  REVENUE SHARE AND OTHER REVENUE 42% SIMGAM  GAME AND PLATFORM REVENUE 3% RMG  REVENUE SHARE AND OTHER REVENUE 41% NET REVENUE STRATEGIC REPORT 18 GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 The Group continued to invest heavily in the underlying IGS and product capability to position itself for future growth.
+Revenue
+Gross income from gaming operations and services increased by 30% to 41.1m in 2017.
+Gross income is a nonGAAP company specific measure that gives an indication of the extent of the transactions that have passed through the Groups systems.
+Net revenue for the year of 9.1m has increased by 17% and is 1.3m higher than the net revenue generated in the previous year of 7.8m.
+Real money gaming RMG revenues have increased by 0.3m with the associated development fees reduced by 0.3m and revenue share increased by 0.6m.
+For
+Simulated Gaming
+SIMGAM development fees again reduced yearonyear by 0.3m while revenue share increased by 1.3m 54% resulting in an overall 31% increase in this segment.
+The increase in revenue share has been driven by the regulated gaming markets in New Jersey and Italy and by Simulated Gaming where the company now has 13 casinos operational of which five launched in H1 2017.
+Expenses
+Distribution costs include royalties payable to third parties direct marketing expenditure and the direct costs of operating the hardware platforms deployed across the business which in total increased from 7.4m to 8.0m for the year ended 31 December 2017.
+The increase is due primarily to increased royalties payable to providers of third party games content in Europe for real money gaming and in the US for Simulated Gaming.
+Administration expenses include the costs of personnel and related expenditure for the London Nevada and Sofia offices.
+The Group reports total administrative expenses for the year ended 31 December 2017 of 5.5m 0.1m less than those incurred in 2016.
+This is despite foreign exchange losses of 0.2m contributing to costs as a result of the weakening of the US Dollar during the year.
+Clean EBITDA Clean EBITDA is a nonGAAP company specific measure and excludes interest tax depreciation amortisation sharebased payment expense and other items which the directors consider reflects the underlying performance of the business and excludes nonrecurring and significant non cash items as disclosed in note 6 to the financial statements.
+The directors regard Clean EBITDA as a reliable measure of profits that is not unduly subjective.
+Clean EBITDA profit of 0.5m in 2017 compares with a clean EBITDA loss of 0.9m in 2016 reflecting the impact of continued investment in the underlying delivery and product capability.
+Cash flow The cash balance at 31 December 2017 was 2.7m compared with 3.2m in 2016 a reduction of 0.5m.
+During the year the Group has continued to invest in the underlying IGS deployment and product capability.
+The
+Group raised gross proceeds of 2.0m through a convertible loan note issue which together with operating cash inflow of 1.2m partially offset expenditure of 3.5m in incremental investment in intangible fixed assets that related principally to the capitalisation of internal development time and related overheads.
+Excluding the impact of additional capital raised by the Group cash outflow has decreased from 5m in 2016 to 2m in 2017.
+Key performance indicators The directors regard Clean EBITDA as a reliable measure of profits and the Groups key performance indicators are set out above.
+The Board also monitors clientrelated key performance indicators including the number of active players revenue by client average revenue per daily active user and number of daily active users for both Simulated Gaming and real money Internet gaming business segment profitability and geographic split of turnover.
+Key performance indicators Gross income from gaming operations and services 41075 31675 Net revenue 9120 7803 Clean EBITDA 454 932 Loss before taxation 4216 5199 Loss after taxation 3478 3759 Net assets 7579 10940 Cash and equivalents 2746 3179 FINANCIAL STATEMENTS
+STRATEGIC REPORT GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 19 PRINCIPAL RISKS AND UNCERTAINTIES The risks outlined below are those risks and uncertainties that the Board considers material to the Group.
+They are not presented in any order of priority.
+There may be other risks that are either currently unknown or considered by the Board to be immaterial which could adversely affect the Groups business results of operation or financial condition.
+Risk category Description Mitigation LEGAL AND REGULATORY RISKS Loss of licences The Group holds a number of licences for its activities from regulators.
+The loss of all or any of these licences may adversely impact on the revenues andor reputation of the Group.
+The Group has established a compliance team whose role is to develop relationships with regulators monitor the regulatory environment closely and ensure continuation of all necessary licences and permits to allow the Group to continue its business.
+Changes in regulations Laws regulations and taxation in the gambling sector are complex inconsistent and evolving.
+The Group licenses its products to operators in the online gaming industry whose ability to operate in any jurisdiction may be impacted by changes in regulations or failure to obtain any necessary licenses.
+In addition there can be no guarantee that a jurisdiction will not change its licencing requirements nor that revenue streams that currently do not require a licence will continue without additional regulations or additional taxation or that further States will regulate online real money gaming.
+As an established regulated supplier to the online gambling sector the Group is vigilant over legal and regulatory issues that may apply to its activities not only in those jurisdictions where the Group is located but also where its licensees are operating using GAN software and services.
+In addition the Group has diversified its risk by obtaining multiple licences in the UK Alderney and New Jersey in the US.
+New licensing requirements In newly regulated markets new licensing regimes may impose licensing conditions such as the requirement to locate significant technical infrastructure within the relevant territory or establish real time data interfaces with the regulator that present operational challenges or may stop the licensee from being able to offer the full range of the Groups products.
+The Group closely monitors developments in jurisdictions seeking to introduce or change regulations.
+The Group works to establish close relationships and actively participates in groups such as the Remote Gambling Association to help shape new licensing regulations.
+ADEQUACY OF FUNDING
+The Group has historically been loss making with negative cash flows and this trend continued in to 2017 albeit on an improved basis.
+Failure to improve trading in the medium term would raise doubts as to the adequacy of funding liquidity and ultimately the Groups ability to continue as a going concern.
+The Group has reduced its cost base in 2016 and 2017 and generated net cash flows from operating activities.
+The Board has stress tested future cash flows to ensure operational growth and delivery are not compromised.
+The Board routinely monitors risks that could materially and adversely affect the Groups ability to achieve strategic goals financial condition and results of operations.
+The Board is supported by senior management personnel who collectively play a key role in risk management and regularly report to the Board.
+STRATEGIC REPORT 20 GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 Risk category Description Mitigation THE MARKETPLACE
+The online gambling market is highly competitive.
+Failure to compete effectively may result in loss of licensees and also the inability to attract new licensees.
+The Group closely monitors competition and continues to invest significant resources to improve its technology products and services.
+In addition the Group has a diversified geographic base which spreads the competitive risk.
+TECHNOLOGY
+Dependence on technology The Groups operations are highly dependent on technology and advanced information systems and there is a risk that such technology or systems could fail.
+The Group may be adversely affected by activities such as system intrusions denial of service attacks virus spreading and phishing.
+The Group has in place data recovery and systems recovery procedures security measures and business continuity plans in the event of failure or disruption or damage to the Groups technology or systems.
+CUSTOMERS
+Fraud
+The Group experiences fraudulent activity on customer accounts in the form of deposits from stolen credit cards and debit cards.
+These amounts are written off as a loss to the business.
+The Group has a compliance team whose role is to monitor transactions for signs of fraudulent activity and to carry out KYC procedures.
+Reports from the Management Information System are used by the compliance team to monitor possible fraudulent activities.
+The Group sources multiple payment providers to mitigate for risk of losing any single funding channel.
+Risk of reliance on major licensees The Group operates a revenue share model with its licensees meaning results can be impacted by loss of licencees poor performance of its licensees or by its licensees choosing to withdraw from a particular market.
+The Group has continued to diversify its licensee base by developing its business in stable regulated markets and also by the expansion of its Simulated Gaming product in the US and Australian markets.
+EMPLOYEES
+Reliance on key personnel The Groups future success depends on the continued service of senior management and key technical personnel the retention of whom cannot be guaranteed.
+The Group has a performance evaluation system to identify key talent and ensure that key personnel are appropriately rewarded and incentivised.
+This is through a mixture of annual bonuses and longterm incentives such as share options.
+Risk of cash outflow from contractual arrangements There is a risk of cash outflow from certain contractual arrangements with new customers The Group closely monitors all current and future operational projects to ensure appropriate budgets and controls are in place so these arrangements do not impact on the delivery of other Group activities.
+On behalf of the Board DERMOT SMURFIT
+CHIEF EXECUTIVE OFFICER
+28 MARCH 2018 FINANCIAL STATEMENTS
+STRATEGIC REPORT GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 21 CORPORATE SOCIAL RESPONSIBILITY Approach towards stakeholders OUR TEAMS ARE EXTENSIVELY TRAINED IN THE AREA OF RESPONSIBLE GAMING The Group has an open honest and responsible approach towards its stakeholders which include its employees suppliers customers investors and the wider community.
+Responsible gaming As both a direct to consumer and B2B provider of games of skill and chance in regulated markets we have placed our responsible gaming policies and tools at the core of our vision to provide industryleading entertainment in a socially responsible fashion.
+We also in conjunction with our partners provide robust age verification processes to ensure that no minors can access our games.
+Regulation
+GAN plc is licensed and regulated by the UK Gambling Commission the Alderney Gambling Control Commission the Amministrazione autonoma dei monopoli di Stato Autonomous Administration of State Monopolies in Italy and the New Jersey Division of Gaming Enforcement.
+We are also approved by GamCare which is a leading UK charity advising and assisting those with a gambling problem.
+All of the organisations above have different requirements and regulations and the Group is proud that we exceed these in all areas of responsible gaming.
+All of our games are certified and tested by GLI Gaming Laboratories International and NMi Metrology and Gaming Ltd both of which are leading industry providers for online gaming testing and certification.
+Money laundering GAN provides a range of proprietary and third party tools to our partners to identify and monitor fraud and money laundering.
+Our inhouse analytics software monitors all deposit and withdrawal attempts as well as all gameplay.
+Our system has the ability to notify staff members of any suspicious transactions or gameplay and automatically suspend any account which has been involved in such activity.
+Our system also actively monitors all skill games to ensure no user can gain an unfair advantage by using bots or automated gameplay systems.
+We also provide third party tools from leading payment processors such as Worldpay CAMS Vantiv and LexisNexis in order to perform verification checks on the source of all monies on our networks.
+Employees
+The Group is committed to maintaining a working environment in which diversity and equality of opportunity are actively promoted and all unlawful discrimination is not tolerated.
+The Group values diversity and to that end recognises the educational and business benefits of diversity amongst its employees applicants and other people with whom we have dealings.
+We are committed to ensuring employees are treated fairly and are not subjected to unfair or unlawful discrimination.
+Software and reporting Responsible gaming and player protection lie at the heart of our software.
+Our
+This coupled with sophisticated reporting and analytics allows our partners to identify potentially compulsive behaviour and take the required action to ensure the protection of any vulnerable players.
+Our teams are extensively trained in the area of responsible gaming.
+Our team members are trained to effectively and sympathetically assist any player displaying signs of gambling addiction and guide them in the correct direction to seek assistance.
+Environment
+The Group has a relatively low environmental impact by virtue of the fact that it is an online business.
+We engage in office recycling for a wide range of materials to reduce the amount of waste sent to landfill.
+We also offer a cycle to work scheme to our employees to help reduce the local congestion and pollution as well as to improve employees health through physical exercise.
+In addition we provide a significant contribution towards employees gym membership.
+The strategic report on pages 1 to 22 is approved by the Board of directors and signed on its behalf by DERMOT SMURFIT
+CHIEF EXECUTIVE OFFICER
+28 March 2018 STRATEGIC REPORT 22 GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 CORPORATE GOVERNANCE STATEMENT Leadership and effectiveness As an AIM listed Group GAN plc is not required to follow the provisions of the UK Corporate Governance Code the Code.
+However the Board recognises the importance and value of good corporate governance procedures and accordingly has selected those elements of the Code that it considers relevant and appropriate to the Group given its size and structure.
+The Board The Board comprises four directors including one executive director and three non executive directors including the Chairman.
+The Board meets regularly to consider strategy performance and the framework of internal controls.
+The Board of directors comprises a mix of the necessary skills knowledge and experience required to provide leadership control and oversight of the management of GAN plc and to contribute to the development and implementation of strategy.
+In particular the Board comprises a group of directors with diverse backgrounds within the technology and related sectors in both public and private companies which combine to provide the Board with the resources and expertise to drive the continuing development of the Group and advance its commercial objectives.
+The directors have established an audit committee a remuneration committee and a nomination committee with formally delegated roles and responsibilities.
+Each of the committees currently comprises three nonexecutive directors and meets at least once each year.
+Committees
+The audit committee is responsible for ensuring that the financial performance of the Group is properly reported on and monitored and meeting the auditors and reviewing the reports from the auditors relating to accounts and internal control systems.
+It meets at least once a year with the auditors without executive directors present.
+The audit committee comprises Roger Kendrick Seamus McGill and Michael Smurfit Jr.
+Roger Kendrick.
+Roger Kendrick is deemed to have recent and relevant financial experience and is the audit committee financial expert.
+The remuneration committee reviews the performance of the executive director and sets and reviews the scale and structure of his remuneration.
+The committee also reviews the basis of the executive directors remuneration and the terms of his service agreements with due regard to the interests of shareholders.
+In determining the remuneration of executive directors the remuneration committee will seek to enable the Group to attract and retain staff of the highest calibre.
+The remuneration committee will also make recommendations to the Board concerning the allocation of share options to employees.
+No director is permitted to participate in discussions or decisions concerning his own remuneration.
+The remuneration committee comprises Seamus McGill Roger Kendrick and Michael Smurfit Jr. and is chaired by Seamus McGill.
+The nomination committee is responsible for reviewing the size structure and composition of the Board succession planning the appointment of replacement andor additional directors and making the appropriate recommendations to the Board.
+It meets at least once a year with the auditors without executive directors present.
+The nomination committee comprises Michael Smurfit Jr.
+Seamus McGill and Roger Kendrick and is chaired by Michael Smurfit Jr.
+Internal control The Group has adopted a share dealing code in conformity with the requirements of Rule 21 of the AIM Rules and ESM Rules and will take steps to ensure compliance by the Board and the Groups employees with the terms of the Code.
+The Bribery Act 2010 which came into force in the UK on 1 July 2011 prescribes criminal offences for individuals and businesses relating to the payment of bribes and in certain cases a failure to prevent the payment of bribes.
+The
+Group has therefore established procedures designed to ensure that no member of the Group engages in conduct for which a prosecution under the Bribery Act 2010 may result.
+Although not required to follow the provisions of the UK Corporate Governance Code the Board recognises the importance and value of good corporate governance procedures.
+GOVERNANCE
+FINANCIAL STATEMENTS
+STRATEGIC REPORT GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 23 BOARD OF DIRECTORS
+Seamus McGill Nonexecutive Chairman Seamus joined the Board of GAN in April 2015.
+He has 20 years experience in the gaming and technology industries and most recently was President of JOINGO a mobile software company in San Jose California with overall responsibility for company growth and financial performance.
+Prior to JOINGO Seamus spent five years at Aristocrat Technologies the second largest manufacturer of slot machines and gaming solutions in the world.
+At Aristocrat he was Chief Operating Officer of the Americas with responsibility for the North American Canadian and Latin American markets.
+Prior to Aristocrat he held senior positions at Cyberview Technology WMS Gaming Inc. and Mikohn Gaming Corporation.
+Michael Smurfit Jr.
+Nonexecutive director Michael joined the Board of GAN in June 2008.
+He is Chief Executive of SF Investments a privately held company that manages worldwide investments on behalf of the Smurfit family.
+Michael is a director of a number of companies including Inflection Biosciences and The K Club Limited.
+He previously held a number of senior positions within the Jefferson Smurfit Group both in Europe and the US.
+Dermot Smurfit
+Chief Executive Officer
+Dermot joined GAN in 2002.
+He previously worked in the European Investment Banking team of SoundView Technology Group.
+He has operational and management experience in online gaming through his experience with GAN together with MandA strategic advisory and private equity financing experience in the gaming technology industry.
+Dermot is a qualified nonpractising UK lawyer specialised in corporate finance.
+His education encompasses an LLB in Law from Exeter University the Legal Practice Course from the University of Law UK and the Investment and Corporate Finance advisory qualification from the UKs Financial Conduct Authority.
+Roger Kendrick Nonexecutive director Roger joined the Board of GAN in June 2008.
+He is an entrepreneur and an experienced nonexecutive director representing both private equity investors and personal investments.
+Roger has a track record of investing in numerous highgrowth companies including gaming and Internet businesses and has significant experience of acquisitions and disposals.
+He has a BA in Business Finance and an MSc MBA from London Business School.
+GOVERNANCE
+24 GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 Senior Management Simon Knock Chief Information Officer Simon joined GAN in September 2010 as Technical Director bringing over ten years of Internet gambling industry experience.
+Prior to GAN he held various technology development and management roles with UK operator William Hill and operations roles with Canadian online gaming software developer CryptoLogic Inc.
+Simon has a software engineering background originally developing UK Government revenue systems and private sector logistics products.
+Giuseppe Gardali Commercial Operations Director Giuseppe joined GAN in August 2008 to write his Diploma thesis Strategies for Entering International Markets  Applicable to the Gambling Industry.
+His versatile profile allowed him to become Italy Country Manager Global Operations Director and finally to be included in GANs management team in 2016 as Commercial Operations
+Prior to GAN Giuseppe gained business experience in companies such as DaimlerChrysler and Siemens carrying out projects interlinked with his studies in Germany respectively in Business Administration and Engineering as well as Associated Engineering in communication systems.
+Matt Stafford Vice President Client Services Matt joined GANs London headquarters in January 2014 as Technical Compliance
+Over time his role at GAN expanded to include Licensing Risk Management Compliance Auditing and AntiMoney Laundering Reporting functions.
+In January 2018 he relocated to GANs Las Vegas office for a new role overseeing Client Services for North America.
+Prior to joining GAN Matt had worked for five years as a Business Development Manager for Internet gaming at GLI Gaming Laboratories International in both Europe and North America after nearly four years with IGTs MegaJackpots group in Reno Nevada.
+Karen Ashcroft Head of Finance Karen joined GAN in November 2017 from FTSE 250 company Euromoney Institutional Investor PLC where she was Group Financial
+Prior to this she spent five years as Regional Financial Controller in a highgrowth technology environment at Markit now IHS Markit and has also worked in finance roles in telecoms and Internet advertising companies.
+Karen is a Chartered Accountant and began her career at Ernst and Young in New Zealand.
+FINANCIAL STATEMENTS
+STRATEGIC REPORT GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 25 DIRECTORS REPORT The directors submit their report and the financial statements of GAN plc for the year ended 31 December 2017.
+Principal activities The activity of the Group divides into two principal areas the provision and development of real money gaming software and the supply of Internet gaming systems to the online industry and the provision and development of Simulated Gaming software and underlying systems to existing casino operators in both the US and other significant international markets.
+Results and dividends The result for the Company and the Group for the year ended 31 December 2017 show total net revenue of 9.1m 2016 7.8m and a net loss after tax of 3.5m 2016 loss of 3.8m.
+The Board does not recommend the payment of a dividend for 2017 2016 nil.
+The Groups consolidated financial statements are set out on pages 32 to 60.
+For a more detailed review of the Groups results see the Chief Executive Officers report and the strategic report.
+Please refer to note 23 to the financial statements for more information on post balance sheet events.
+Please refer to the Chief Executive Officers report for an overview of the Groups future developments.
+Please refer to note 2.9 to the financial statements for more details on financial instruments and note 3 for details on the exposure to credit liquidity cash flow and other financial risks.
+Annual General Meeting The Annual General Meeting of the Company will be held on 1 June 2018.
+Notice of this meeting will be sent under separate cover.
+Directors
+The following directors have held office since 1 January 2017 Dermot S Smurfit Desmond Glass Resigned 10 October 2017 Michael Smurfit Jr.
+Roger Kendrick Seamus McGill David OReilly Resigned 15 March 2017 Details of share options granted during the current and prior years to directors are as follows Share options Date of grant Exercise price Date first exercisable Expiry date Dermot Smurfit 750000 29.10.2010 22p 29.10.2011 28.03.2018 Dermot Smurfit 200000 28.03.2012 22p 28.03.2013 28.03.2018 David OReilly 75000 01.08.2013 60p 01.08.2015 01.08.2020 Michael Smurfit 50000 01.08.2013 60p 01.08.2015 01.08.2020 Roger Kendrick 50000 01.08.2013 60p 01.08.2015 01.08.2020 Desmond Glass 150000 01.08.2013 60p 01.08.2015 01.08.2020 Desmond Glass 171000 15.08.2014 135p 15.04.2015 15.08.2019 Dermot Smurfit 171000 15.08.2014 135p 15.04.2015 15.08.2019 Desmond Glass 130000 10.03.2015 50p 10.03.2016 10.03.2020 Dermot Smurfit 125000 10.03.2015 50p 10.03.2016 10.03.2020 Dermot Smurfit 100000 18.07.2016 31.5p 18.07.2017 18.07.2021 Desmond Glass 100000 18.07.2016 31.5p 18.07.2017 18.07.2021 Dermot Smurfit 1846000 17.07.2017 25p 17.07.2018 17.07.2027 Seamus McGill 200000 28.08.2017 20.5p 28.08.2018 28.08.2027 Roger Kendrick 100000 24.08.2017 20.5p 24.08.2018 24.08.2027 Michael Smurfit 100000 24.08.2017 20.5p 24.08.2018 24.08.2027
+26 GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 Significant shareholdings As of 31 December 2017 the Company had been advised of the following significant shareholders
+No. of ordinary shares % Sir Michael Smurfit Sr.
+12073725 17.2% Mr Dermot Stopford Smurfit 9113447 13.0% Mr Andrew Black 5480860 7.8% Mr Anthony Smurfit 5403840 7.7% Mr Dermot F Desmond 4710288 6.7% Odey Asset Management 2880000 4.1% Roger Kendrick 2513821 3.6% David Capital Partners 2301098 3.3% Manchester Capital Management 2186180 3.1% Pageant Holdings 2135000 3.0% Third party indemnity provision for directors Qualifying third party indemnity provision is in place for the benefit of all directors of the Company.
+Research and development The Group maintains its level of investments in software development activities.
+In the opinion of the directors continuity of investment in this area is essential to strengthen the Groups market position and for future growth.
+Going concern The Groups business activities together with the factors likely to affect its future performance and position are set out in the Chairmans Chief Executive Officers and strategic reports.
+Notes 3 and 15 to the financial statements set out the Groups financial risk management policies and its exposure to credit risk and liquidity risk.
+The directors have assessed the financial risks facing the business and compared this risk assessment to the net current assets position and dividend policy.
+The directors have also reviewed relationships with key suppliers and software providers and are satisfied that the appropriate contracts and contingency plans are in place.
+The directors have prepared forecasts to assess whether the Group has adequate resources for the foreseeable future.
+The directors consider that the Group has adequate resources to continue in operational existence for the foreseeable future.
+For this reason they continue to adopt the going concern basis in preparing the consolidated financial statements.
+Statement as to disclosure of information to the auditor The directors who were in office on the date of approval of these financial statements have confirmed that as far as they are aware there is no relevant audit information of which the auditor is unaware.
+Each of the directors has confirmed that they have taken all the steps that they ought to have taken as a director in order to make themselves aware of any relevant audit information and to establish that it has been communicated to the auditor.
+Auditor
+A resolution to reappoint BDO LLP as the Groups auditors will be submitted to the Board at the Annual General Meeting.
+On behalf of the Board DERMOT SMURFIT
+CHIEF EXECUTIVE OFFICER
+28 March 2018 FINANCIAL STATEMENTS
+STRATEGIC REPORT GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 27 DIRECTORS RESPONSIBILITIES in the preparation of financial statements The directors are responsible for preparing the annual report and the financial statements in accordance with applicable law and regulations.
+Company law requires the directors to prepare financial statements for each financial year.
+Under that law the directors have elected to prepare the Group and parent Company financial statements in accordance with applicable law and International Financial Reporting Standards IFRSs as adopted by the European Union.
+Under company law the directors must not approve the financial statements unless they are satisfied that they give a true and fair view of the state of affairs of the Group and Company and of the profit or loss of the Group for that period.
+The directors are also required to prepare financial statements in accordance with the rules of the London Stock Exchange for companies trading securities on the Alternative Investment Market AIM.
+In preparing these financial statements the directors are required to select suitable accounting policies and then apply them consistently make judgements and accounting estimates that are reasonable and prudent state whether they have been prepared in accordance with IFRSs as adopted by the European Union subject to any material departures disclosed and explained in the financial statements and prepare the financial statements on the going concern basis unless it is inappropriate to presume that the Group and Company will continue in business.
+The directors are responsible for keeping adequate accounting records that are sufficient to show and explain the Group and Companys transactions and disclose with reasonable accuracy at any time the financial position of the Group and Company and enable them to ensure that the financial statements comply with the requirements of the Companies Act 2006.
+They are also responsible for safeguarding the assets of the Group and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+Website publication The directors are responsible for ensuring the annual report and the financial statements are made available on a website.
+Financial statements are published on the Groups website in accordance with legislation in the United Kingdom governing the preparation and dissemination of financial statements which may vary from legislation in other jurisdictions.
+The maintenance and integrity of the Groups website is the responsibility of the directors.
+The directors responsibility also extends to the ongoing integrity of the financial statements contained therein.
+GOVERNANCE
+28 GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 Opinion We have audited the financial statements of GAN plc the parent company and its subsidiaries the group for the year ended 31 December 2017 which comprise the Consolidated Statement of Comprehensive Income the Consolidated and Company Statement of Financial Position the Consolidated and Company Statement of Changes in Equity the Consolidated and Company Statement of Cash Flows and notes to the financial statements including a summary of significant accounting policies.
+The financial reporting framework that has been applied in the preparation of the financial statements is applicable law and International Financial Reporting Standards IFRSs as adopted by the European Union and as regards the parent company financial statements as applied in accordance with the provisions of the Companies Act 2006.
+In our opinion the financial statements give a true and fair view of the state of the groups and of the parent companys affairs as at 31 December 2017 and of the groups loss for the year then ended the group financial statements have been properly prepared in accordance with IFRSs as adopted by the European Union the parent company financial statements have been properly prepared in accordance with IFRSs as adopted by the European Union and as applied in accordance with the provisions of the Companies Act 2006 and the financial statements have been prepared in accordance with the requirements of the Companies Act 2006.
+Use of our report This report is made solely to the parent companys members as a body in accordance with Chapter 3 of Part 16 of the Companies Act 2006.
+Our audit work has been undertaken so that we might state to the parent companys members those matters we are required to state to them in an auditors report and for no other purpose.
+To the fullest extent permitted by law we do not accept or assume responsibility to anyone other than the parent company and the parent companys members as a body for our audit work for this report or for the opinions we have formed.
+Basis for opinion We conducted our audit in accordance with International Standards on Auditing UK ISAs UK and applicable law.
+Our responsibilities under those standards are further described in the Auditors responsibilities for the audit of the financial statements section of our report.
+We are independent of the group and the parent company in accordance with the ethical requirements that are relevant to our audit of the financial statements in the UK including the FRCs Ethical Standard as applied to listed entities and we have fulfilled our other ethical responsibilities in accordance with these requirements.
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+Conclusions relating to going concern We have nothing to report in respect of the following matters in relation to which the ISAs UK require us to report to you where the directors use of the going concern basis of accounting in the preparation of the financial statements is not appropriate or the directors have not disclosed in the financial statements any identified material uncertainties that may cast significant doubt about the groups or the parent companys ability to continue to adopt the going concern basis of accounting for a period of at least twelve months from the date when the financial statements are authorised for issue.
+Key audit matters Key audit matters are those matters that in our professional judgment were of most significance in our audit of the financial statements of the current period and include the most significant assessed risks of material misstatement whether or not due to fraud we identified including those which had the greatest effect on the overall audit strategy the allocation of resources in the audit and directing the efforts of the engagement team.
+These matters were addressed in the context of our audit of the financial statements as a whole and in forming our opinion thereon and we do not provide a separate opinion on these matters.
+Revenue recognition with reference to note 2 Key audit matter The group has a number of revenue streams.
+The details of the accounting policies applied during the period are given in note 2 to the financial statements.
+Management make certain judgements around revenue recognition and the treatment of contractual arrangements for revenue streams entered into.
+There is a potential risk that revenue is recorded incorrectly from a timing perspective including in respect of the allocation of revenue between performance objectivesor that it is inappropriately recognised on a gross versus net basis.
+Our response We assessed the design and implementation of the controls over the groups revenue cycles.
+We assessed whether the revenue recognition policies adopted by the group comply with IFRS and Industry standards.
+We tested revenue through substantive procedures.
+This included agreement to underlying source data and the use of IT audit data analytic techniques to underpin our substantive testing of certain revenue streams.
+We reviewed a sample of key contracts entered into during the year to assess whether the revenue had been recognised in accordance with the groups accounting policy and to assess the critical estimates and judgements in particular in respect of the allocation of revenue between performance objectives and whether any other terms within the contract had any material accounting or disclosure implications.
+Impairment of capitalised development costs and other intangibles with reference to note 10 Key audit matter In accordance with IAS 36 the group monitors the carrying value of development costs and other intangibles for indications of impairment.
+The group performs annual impairment reviews where there are indicators of impairment and for capitalised development costs relating to projects not launched as at the year end.
+Impairment reviews require significant judgement from management and are based on assumptions in respect of future profitability.
+If the carrying value of these assets exceeds their recoverable amount there is a risk of material misstatement.
+INDEPENDENT AUDITORS REPORT
+FINANCIAL STATEMENTS
+STRATEGIC REPORT GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 29 INDEPENDENT AUDITORS REPORT CONTINUED to the members of GAN plc Our response We considered whether there were any indications of impairment in respect of intangible assets.
+The audit team challenged the appropriateness of the key assumptions used in the discounted cash flow models prepared by management and applied sensitivities to assess the potential impairment of goodwill and those assets where indications of impairment were present.
+Our
+We considered the appropriateness of the related disclosures provided in the group financial statements.
+Capitalisation of development costs and other intangibles with reference to note 10 Key audit matter The group has material expenditure on the internal development of intangible software assets.
+Such expenditure should only be capitalised when it qualifies under the specified criteria of IAS 38 and as such this is an area of judgement.
+For internally generated intangible assets capitalised cost should meet the following criteria Technical feasibility Intention to complete and usesell Ability to usesell Probable future economic benefits Technical financial and other resources to complete Accurately identify and measure expenditure Our response We assessed the design and implementation of the controls over the groups capitalisation cycles.
+We assessed whether the capitalisation policies adopted by the group comply with IFRS and Industry standards.
+The audit team tested a sample of costs capitalised in the year to ensure they met the criteria of IAS 38 including agreement of the costs to source documentation.
+Going Concern with reference to note 2 Key audit matter Given the growth phase of the business and the risks as noted on page 20 there is an inherent risk in respect of liquidity.
+The group has a history of periodically raising cash through equity and debt issues to fund the growth of the business and raised 2m in the current year as set out in note 14.
+For the year ended 31 December 2017 as shown on the cash flow statement on page 35 the group had used 2.3m 2016 5.1m in the operations and investing activities before financing.
+As at the year end the group had cash of The Directors responsibilities include the requirement to prepare the financial statements on the going concern basis unless it is inappropriate to presume that the group and the Parent Company will continue in business for a period of at least 12 months from the date the financial statements are signed.
+In order to meet this assessment the directors are required to prepare cashflow forecasts to determine if the group has sufficient existing cash resources or whether further funds will need to be raised.
+As with any cash flow forecasts there is an inherent risk in the accuracy of the forecasts and in respect of the delivery against these projections.
+For these reasons we considered going concern to be a key audit matter.
+The directors disclosures in respect to going concern are set out in note 2.
+Our response The forecasts have been prepared on two bases one being that there is a further equity fundraise in the forecast period and one excluding any further fundraising.
+Our work has included checking the calculations in the forecasts and challenging the key assumptions used by the directors in the cash flow forecasts and the sensitivities applied to those cash flow forecasts in coming to their conclusion.
+We have considered the disclosures both within note 2 to the financial statements and within the directors report in respect of Going concern.
+As noted within the Going Concern section of our report above we have nothing to report in respect of the specific matters which the ISAs require us to report to you on.
+Our application of materiality We apply the concept of materiality both in planning and performing our audit and in evaluating the effect of misstatements.
+For planning we consider materiality to be the magnitude by which misstatements including omissions could influence the economic decisions of reasonable users that are taken on the basis of the financial statements.
+In order to reduce to an appropriately low level the probability that any misstatements exceed materiality we use a lower materiality level performance materiality to determine the extent of testing needed.
+Importantly
+Level of materiality applied and rationale We consider Net Revenue to be the most appropriate performance measure for the basis of materiality in respect of the audit of the group.
+Using this benchmark we set materiality at 127k 2016 100k being 1.4% 2016 1.5% of Net Revenue.
+Materiality in respect of the audit of the Parent Company has been set at 121k 2016 95k using a benchmark of 1.4% of Net Revenue limited to 95% of group materiality 2016 1.5% of Net Revenue limited to 95% of group materiality.
+We consider Net Revenue to be the most appropriate measure for the basis of materiality as the Parent Company is the key trading entity in the group.
+Performance materiality was set at 67% of materiality for both the group and parent company audits.
+In setting the level of performance materiality we considered a number of factors including the expected total value of known and likely misstatements based on past experience and other factors and managements attitude towards proposed adjustments.
+Component materiality We set materiality for each component of the group other than the parent company at 50% of materiality to account for the aggregation risk.
+Agreement with the Audit Committee We agreed with the Audit Committee that we would report to the Committee all audit differences individually in excess of 4k 2016 4k.
+We also agreed to report differences below this threshold that in our view warranted reporting on qualitative grounds.
+FINANCIAL STATEMENTS 30 GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 An overview of the scope of our audit Our group audit was scoped by obtaining an understanding of the group and its environment including the groups system of internal control and assessing the risks of material misstatement in the financial statements at the group level.
+In determining the scope of our audit we considered the level of work to be performed at each component in order to ensure sufficient assurance was gained to allow us to express an opinion on the financial statements of the group as a whole.
+The group consists of 4 components all of which were subject to a full audit by the group audit team.
+We tailored the extent of the work to be performed on each component which was performed by the group audit team based on our assessment of the risk of material misstatement at each component.
+We obtained an understanding of the entitylevel controls of the group as a whole which assisted us in identifying and assessing risks of material misstatement due to fraud or error as well as assisting us in determining the most appropriate audit strategy.
+Other information The directors are responsible for the other information.
+The other information comprises the information included in the annual report other than the financial statements and our auditors report thereon.
+Our opinion on the financial statements does not cover the other information and except to the extent otherwise explicitly stated in our report we do not express any form of assurance conclusion thereon.
+In connection with our audit of the financial statements our responsibility is to read the other information and in doing so consider whether the other information is materially inconsistent with the financial statements or our knowledge obtained in the audit or otherwise appears to be materially misstated.
+If we identify such material inconsistencies or apparent material misstatements we are required to determine whether there is a material misstatement in the financial statements or a material misstatement of the other information.
+If based on the work we have performed we conclude that there is a material misstatement of this other information we are required to report that fact.
+We have nothing to report in this regard.
+Opinions on other matters prescribed by the Companies Act 2006 In our opinion based on the work undertaken in the course of the audit the information given in the strategic report and the directors report for the financial year for which the financial statements are prepared is consistent with the financial statements and the strategic report and the directors report have been prepared in accordance with applicable legal requirements.
+Matters on which we are required to report by exception In the light of the knowledge and understanding of the group and the parent company and its environment obtained in the course of the audit we have not identified material misstatements in the strategic report or the directors report.
+We have nothing to report in respect of the following matters in relation to which the Companies Act 2006 requires us to report to you if in our opinion adequate accounting records have not been kept by the parent company or returns adequate for our audit have not been received from branches not visited by us or the parent company financial statements are not in agreement with the accounting records and returns or certain disclosures of directors remuneration specified by law are not made or we have not received all the information and explanations we require for our audit.
+Responsibilities of directors As explained more fully in the directors responsibilities statement set out on page 28 the directors are responsible for the preparation of the financial statements and for being satisfied that they give a true and fair view and for such internal control as the directors determine is necessary to enable the preparation of financial statements that are free from material misstatement whether due to fraud or error.
+In preparing the financial statements the directors are responsible for assessing the groups and the parent companys ability to continue as a going concern disclosing as applicable matters related to going concern and using the going concern basis of accounting unless the directors either intend to liquidate the group or the parent company or to cease operations or have no realistic alternative but to do so.
+Auditors responsibilities for the audit of the financial statements Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement whether due to fraud or error and to issue an auditors report that includes our opinion.
+Reasonable assurance is a high level of assurance but is not a guarantee that an audit conducted in accordance with ISAs UK will always detect a material misstatement when it exists.
+Misstatements can arise from fraud or error and are considered material if individually or in the aggregate they could reasonably be expected to influence the economic decisions of users taken on the basis of these financial statements A further description of our responsibilities for the audit of the financial statements is located on the Financial Reporting Councils website at www. rc. iteauditorsresponsibilities.
+This description forms part of our auditors report.
+DOMINIC STAMMERS SENIOR STATUTORY AUDITOR For and on behalf of BDO LLP Statutory Auditor London UK 28 March 2018 BDO LLP is a limited liability partnership registered in England and Wales with registered number OC.
+FINANCIAL STATEMENTS
+STRATEGIC REPORT GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 31 Notes Year ended 31 December Year ended 31 December CONTINUING OPERATIONS Gross income from gaming operations and services 2.3 41075 31675 NET REVENUES 4 9120 7803 Distribution costs 7996 7423 Administrative expenses 5526 5600 Profit on sale of intangible assets 303 Total operating costs 13219 13023 Clean EBITDA 454 932 Depreciation 11 379 375 Amortisation of intangible assets 10 3851 3203 Impairment of intangible assets 10 168 411 Exceptional costs 6 341 142 Profit on sale of intangible assets 10 303 Employee share based payment charge 610 117 157 OPERATING LOSS 6 4099 5220 Net finance costsincome 8 117 21 LOSS BEFORE TAXATION 4216 5199 Tax credit 9 738 1440 LOSS FOR THE YEAR ATTRIBUTABLE TO OWNERS OF THE PARENT AND TOTAL COMPREHENSIVE INCOME FOR THE YEAR 3478 3759 EARNINGS PER SHARE ATTRIBUTABLE TO OWNERS OF THE PARENT DURING THE YEAR Basic pence 18 4.96 5.81 Diluted pence 18 4.96 5.81 Clean EBITDA is a non GAAP company specific measure and excludes interest tax depreciation amortisation share based payment expenses certain non cash transactions and other items which the directors consider to be nonrecurring and one time in nature.
+Where not explicitly mentioned EBITDA refers to EBITDA from continuing operations.
+Gross income from operations and services is a non GAAP company specific measure and is defined in note 2.3.
+CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME for the year ended 31 December 2017 FINANCIAL STATEMENTS 32 GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 CONSOLIDATED STATEMENT OF FINANCIAL POSITION for the year ended 31 December 2017
+At
+31 December
+31 December NON CURRENT ASSETS Intangible assets 10 5871 6433 Property plant and equipment 11 374 479 Lease deposits 12  170 6245 7082 CURRENT ASSETS Trade and other receivables 12 2874 2834 Research and development tax credit receivable 9 795 1061 Lease deposits 12 192 Cash and cash equivalents 13 2746 3179 6607 7074 TOTAL ASSETS 12852 14156 CURRENT LIABILITIES Trade and other payables 14 3061 2995 TOTAL CURRENT LIABILITIES 3061 2995 NONCURRENT LIABILITIES Loan notes 14 2001 Other payables 14 211 221 TOTAL NONCURRENT LIABILITIES 2212 221 EQUITY ATTRIBUTABLE TO EQUITY HOLDERS OF PARENT Share capital 16 701 701 Share premium account 18809 18809 Retained deficit 11931 8570 7579 10940 TOTAL EQUITY AND LIABILITIES 12852 14156 The financial statements on pages 32 to 60 were approved and authorised for issue by the Board of Directors on 28th March 2018 and were signed on its behalf by DERMOT SMURFIT
+CHIEF EXECUTIVE OFFICER
+FINANCIAL STATEMENTS
+STRATEGIC REPORT GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 33 CONSOLIDATED STATEMENT OF CHANGES IN EQUITY for the year ended 31 December 2017
+Share premium
+Total equity AT 31 DECEMBER 2015 560 14592 4968 10184 Loss and total comprehensive income for the year   3759 3759 Employee share based payment charge   157 157 Issue of equity share capital 141 4217  4358 AT 31 DECEMBER 2016 701 18809 8570 10940 Loss and total comprehensive income for the year   3478 3478 Employee share based payment charge   117 117 AT 31 DECEMBER 2017 701 18809 11931 7579 The following describes the nature and purpose of each reserve within equity Share capital Represents the nominal value of shares allotted called up and fully paid Share premium Represents the amount subscribed for share capital in excess of nominal value Retained earnings Represents the cumulative net gains and losses recognised in the consolidated statement of comprehensive income FINANCIAL STATEMENTS 34 GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 CONSOLIDATED STATEMENT OF CASH FLOWS for the year ended 31 December 2017
+Year ended 31 December Year ended 31 December CASH FLOW FROM OPERATING ACTIVITIES Loss for the year after taxation 3478 3759 Adjustments for Amortisation of intangible assets 10 3851 3203 Impairment of intangibles 10 168 412 Depreciation of property plant and equipment 11 379 375 Loss on disposal of fixed asset 11  77 Profit on disposal of intangible fixed asset 10 303 Share based payment expense 17 117 157 Tax credit 9 738 1440 Finance income 8 117 21 Foreign exchange 87 408 OPERATING CASH FLOW BEFORE MOVEMENT IN WORKING CAPITAL AND TAXATION 200 1404 DecreaseIncrease in trade and other receivables 62 566 IncreaseDecrease in trade and other payables 277 236 Taxation 1004 1471 NET CASH OUTFLOW FROM OPERATING ACTIVITIES 865 735 CASH FLOW FROM INVESTING ACTIVITIES Interest received 5 21 Sale of intangible fixed assets 303 Purchase of intangible assets 10 3457 4480 Purchases of property plant and equipment 11 63 46 NET CASH USED IN INVESTING ACTIVITIES 3212 4505 CASH FLOW FROM FINANCING ACTIVITIES Proceeds on issue of shares 16  4358 Issue of convertible loan notes 14 2001 NET CASH GENERATED FROM FINANCING ACTIVITIES 2001 4358 NET DECREASE IN CASH AND CASH EQUIVALENTS 346 882 Cash and cash equivalents at beginning of year 13 3179 3779 Effect of foreign exchange rate changes 87 282 CASH AND CASH EQUIVALENTS AT END OF YEAR 13 2746 3179 FINANCIAL STATEMENTS
+STRATEGIC REPORT GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 35 COMPANY STATEMENT OF FINANCIAL POSITION for the year ended 31 December 2017
+At
+31 December
+31 December NON CURRENT ASSETS Intangible assets 10 5872 6424 Property plant and equipment 11 149 440 Lease deposits 12  170 6021 7034 CURRENT ASSETS Trade and other receivables 12 3345 3473 Research and development tax credit receivable 9 795 1062 Lease deposits 12 170 Cash and cash equivalents 13 1408 2817 5718 7352 TOTAL ASSETS 11739 14386 CURRENT LIABILITIES Trade and other payables 14 2933 2883 TOTAL CURRENT LIABILITIES 2933 2883 NONCURRENT LIABILITIES Loan notes 14 2001 Other payables 14 211 221 TOTAL NONCURRENT LIABILITIES 2212 221 EQUITY ATTRIBUTABLE TO EQUITY HOLDERS OF PARENT Share capital 16 701 701 Share premium account 18809 18809 Retained deficitearnings 12916 8228 6594 11282 TOTAL EQUITY AND LIABILITIES 11739 14386 The Company has taken advantage of the exemption allowed under section 408 of the Companies Act 2006 and has not presented its own profit and loss account in these financial statements.
+The Group loss for the year includes a loss after tax of 4804951 2016 loss of 3657000 which is dealt with in the financial statements of the parent Company.
+The financial statements on pages 32 to 60 were approved and authorised for issue by the Board of Directors on 28th March 2018 and were signed on its behalf by DERMOT SMURFIT
+CHIEF EXECUTIVE OFFICER
+FINANCIAL STATEMENTS 36 GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 COMPANY STATEMENT OF CHANGES IN EQUITY for the year ended 31 December 2017
+Share premium
+Total equity AT 31 DECEMBER 2015 560 14592 4728 10424 Loss and total comprehensive income for the year   3657 3657 Employee share based payment charge   157 157 Issue of equity share capital 141 4217  4358 AT 31 DECEMBER 2016 701 18809 8228 11282 Loss and total comprehensive income for the year   4805 4805 Employee share based payment charge   117 117 AT 31 DECEMBER 2017 701 18809 12916 6.594 The following describes the nature and purpose of each reserve within equity Share capital Represents the nominal value of shares allotted called up and fully paid Share premium Represents the amount subscribed for share capital in excess of nominal value Retained earnings Represents the cumulative net gains and losses recognised in the consolidated statement of comprehensive income FINANCIAL STATEMENTS
+STRATEGIC REPORT GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 37 COMPANY STATEMENT OF CASH FLOWS for the year ended 31 December 2017
+Year ended 31 December Year ended 31 December CASH FLOW FROM OPERATING ACTIVITIES Loss for the year after taxation 4805 3657 Adjustments for Amortisation of intangible assets 10 3896 3185 Impairment of intangibles assets 10 168 412 Depreciation of property plant and equipment 11 369 352 ProfitLoss on disposal of fixed asset 11  77 ProfitLoss on disposal of intangible fixed asset 10 303 Share based payment expense 17 117 157 Tax credit 9 795 1440 Finance income 8 5 21 Foreign exchange 68 395 OPERATING CASH FLOW BEFORE MOVEMENT IN WORKING CAPITAL AND TAXATION 1290 1332 DecreaseIncrease in trade and other receivables 128 638 IncreaseDecrease in trade and other payables 164 118 Taxation 1061 1471 NET CASH OUTFLOWS FROM OPERATING ACTIVITIES 63 617 CASH FLOW FROM INVESTING ACTIVITIES Interest received 5 21 Sale of intangible fixed assets 303 Purchase of intangible assets 10 3511 4480 Purchases of property plant and equipment 11 107 21 NET CASH USED IN INVESTING ACTIVITIES 3310 4480 CASH FLOW FROM FINANCING ACTIVITIES Proceeds on issue of shares 16  4359 Issue of convertible loan notes 14 2001 NET CASH GENERATED FROM FINANCING ACTIVITIES 2001 4359 NET DECREASE IN CASH AND CASH EQUIVALENTS 1246 738 Cash and cash equivalents at beginning of year 13 2818 3286 Effect of foreign exchange rate changes 164 270 CASH AND CASH EQUIVALENTS AT END OF YEAR 13 1408 2818 FINANCIAL STATEMENTS 38 GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 NOTES TO THE FINANCIAL STATEMENTS for the year ended 31 December 2017 Basis of preparation The financial statements have been prepared in accordance with International Financial Reporting Standards International Accounting Standards and interpretations collectively IFRS issued by the International Accounting Standards Board IASB as adopted by the European Union adopted IFRSs.
+Going concern The directors consider that the Group has adequate resources to continue in operational existence for the foreseeable future.
+For this reason they continue to adopt the going concern basis in preparing the consolidated financial statements.
+The directors have assessed the financial risks facing the business and compared this risk assessment to the net current assets position and dividend policy.
+The directors have also reviewed relationships with key customers and software providers and are satisfied that the appropriate contracts and contingency plans are in place.
+The directors have prepared forecasts to assess whether the Group has adequate resources for the foreseeable future.
+Adoption of new and revised standards In the current year the Group has adopted all of the new and revised standards and interpretations issued by the IASB and the International Financial Reporting Interpretations Committee IFRIC of the IASB as they have been adopted by the European Union that are relevant to its operations and effective for accounting years beginning from 1 January 2017.
+None of the new standards adopted had a material impact on the financial statements of the Group.
+New accounting standards in issue but not yet effective New standards amendments to standards and interpretations have been issued but are not effective and in some cases had not yet been adopted by the EU for the financial year beginning 1 January 2017.
+The following new standards and amendments have been reviewed by the Directors IFRS 15 Revenue from Contracts with Customers  is effective for periods beginning on or after 1 January 2018.
+The standard establishes a principles based approach for revenue recognition and is based on the concept of recognising revenue for obligations only when they are satisfied and the control of goods or services is transferred.
+Management has performed an assessment of the impact of IFRS 15 at a contract level and does not expect any material impact on the timing of revenue recognition for revenue share as a result of adopting this standard.
+Management is finalising its review of development revenues which in 2017 comprised 20% of net revenues.
+IFRS 9 Financial Instruments  adopting IFRS 9 will impact receivables provisioning as it moves from an incurred to an expected loss model.
+The Groups largest exposure is trade receivables which had a gross value of 2005k at 31 December 2017 where the new model could impact the timing and value of provision recognition.
+Management does not expect any material impact from implementation of the new standard.
+IFRS 16 Leases  was issued on 13 January 2016 and is effective for periods beginning on or after 1 January 2019.
+The standard represents a significant change in the accounting and reporting of leases for lessees as it provides a single lessee accounting model.
+As such it requires lessees to recognise assets and liabilities for all leases unless the underlying asset has a low value or the lease term is 12 months or less.
+The standard may also require the capitalisation of a lease element of contracts held by the Group which under the existing accounting standard would not be considered a lease.
+On adoption lease agreements will give rise to both a right of use asset and a lease liability for future lease payments.
+Depreciation of the right of use asset will be recognised in the income statement on a straightline basis with interest recognised on the lease liability.
+This will result in a change to the profile of the net charge taken to the income statement over the life of the lease.
+These charges will replace the lease costs currently charged to the income statement.
+The Group continues to assess the full impact of IFRS 16 however the impact will greatly depend on the facts and circumstances at the time of adoption.
+It is therefore not yet practical to provide a reliable estimate of the financial impact on the Groups consolidated results.
+FINANCIAL STATEMENTS
+STRATEGIC REPORT GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 39 2.
+Summary of significant accounting policies The principal accounting policies adopted are set out below.
+2.1 Basis of consolidation Where the Company has control over an investee it is classified as a subsidiary.
+The Company controls an investee if all three of the following elements are present power over the investee exposure to variable returns from investee and the ability of the investor to use its power to affect those variable returns.
+Control is reassessed whenever facts and circumstances indicate that there may be a change in any of these elements of control.
+Defacto control exists in situations where the Company has the practical ability to direct the relevant activities of the investee without holding the majority of the voting rights.
+In determining whether defacto control exists the Company considers all relevant facts and circumstances including the size of the Companys voting rights relative to both the size and dispersion of other parties who hold voting rights substantive potential voting rights held by the Company and by other parties other contractual arrangements and historical patterns in voting attendance.
+The consolidated financial statements present the results of the Company and its subsidiaries the Group as if they formed a single entity.
+Intercompany transactions and balances between Group companies are therefore eliminated in full.
+The consolidated financial statements incorporate the results of business combinations using the acquisition method.
+In the statement of financial position the acquirees identifiable assets liabilities and contingent liabilities are initially recognised at their fair values at the acquisition date.
+The results of acquired operations are included in the consolidated statement of comprehensive income from the date on which control is obtained.
+They are deconsolidated from the date on which control ceases.
+Foreign currencies a Functional and presentational currency Items included in the financial statements are measured using the currency of the primary economic environment in which the Company operates the functional currency which is UK Pound Sterling .
+The financial statements are presented in UK Pound Sterling  which is the Groups presentational currency.
+Foreign currency transactions are translated into the functional currency using the exchange rates prevailing at the dates of the transactions.
+Foreign exchange gains and losses resulting from the settlement of such transactions and from the translation at year end exchange rates of monetary assets and liabilities denominated in foreign currencies are recognised in net profit or loss in the statement of comprehensive income.
+Nonmonetary items carried at fair value that are denominated in foreign currencies are translated at the rates prevailing at the date when the fair value was determined.
+On consolidation the results of overseas operations are translated at rates approximating to those ruling when the transactions took place.
+All assets and liabilities of overseas operations including goodwill arising on the acquisition of those operations are translated at the rate ruling at the reporting date.
+Exchange differences arising on translating the opening net assets at opening rate and the results of overseas operations at actual rate are recognised in other comprehensive income and accumulated in the foreign exchange reserve.
+Exchange differences recognised in profit or loss in Group entities separate financial statements on the translation of longterm monetary items forming part of the Groups net investment in the overseas operation concerned are reclassified to other comprehensive income and accumulated in the foreign exchange reserve on consolidation.
+On disposal of a foreign operation the cumulative exchange differences recognised in the foreign exchange reserve relating to that operation up to the date of disposal are transferred to the consolidated statement of comprehensive income as part of the profit or loss on disposal.
+NOTES TO THE FINANCIAL STATEMENTS CONTINUED for the year ended 31 December 2017 FINANCIAL STATEMENTS 40 GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 2.
+Summary of significant accounting policies continued 2.2 Revenue recognition Net revenues comprise amounts earned from B2C and B2B activities.
+B2B activities include revenues derived from the use of the Groups intellectual property in online gaming activities and revenues derived from the game and platform development and related services.
+All revenues relate to the supply of services.
+Net revenue from business to consumer B2C activities represents the net house win commission charged or tournament entry fees where the player has concluded his or her participation in a tournament.
+Net revenue is recognised in the accounting years in which the gaming transactions occur and is measured at the fair value of the consideration received or receivable net of certain promotion bonuses and customer incentives.
+Revenue share and other services Net revenue receivable from business to business B2B activities in respect of revenue share and other services comprises a percentage of the revenue generated by the contracting party from use of the Groups IP in online gaming activities and from fees charged for services rendered.
+Net revenue is recognised in the accounting years in which the gaming transactions occur or the services are rendered.
+Game website and platform development Net revenue receivable from B2B activities in respect of game and platform development comprises fees earned from development of games for customers for use on GANs platforms and from the sale of platform software website and related services.
+Revenue in respect of game development the sale of platform software and related hardware is recognised when certification for the game has been obtained or delivery has occurred and the fee is fixed contractual or determinable and collectability is probable.
+Services revenue principally relates to implementation services.
+Such services are generally separable from the other elements of arrangements.
+Revenue for such services is recognised over the period of the delivery of these services.
+Where an element of the fee is contingent on the successful delivery of the implementation project the revenue is not recognised until such time that it is probable that the requirements under that specific contract will be met.
+Simulated Gaming Net revenue in respect of Simulated Gaming is recognised upon completion of purchase.
+Simulated Gaming involves customers purchasing virtual credits at fixed price levels in order to experience established casino games in an online environment.
+Players are unable to monetise their virtual balances and revenues are recognised at the point of purchase and are nonrefundable.
+2.3 Gross income from gaming operations and services In order to provide further information to readers of the financial statements and in particular to give an indication of the extent of transactions that have passed through the Groups systems the statement of comprehensive income discloses gross income from gaming operations and services arising through the use of the Groups IP in online gaming activities which represents the total income of the Group together with that derived by its contracting parties where the Group supplies its software directly to the online operator.
+This line item does not represent the Groups revenue for the purposes of IFRS income recognition.
+2.4 Distribution costs Distribution costs represent the costs of delivering the service to the customer and primarily consist of technology infrastructure promotional and advertising together with gaming and regulatory testing all of which are recognised on an accruals basis and depreciation and amortisation.
+2.5 Administrative expenses Sales and administrative expenses consist primarily of staff costs corporate and professional expenses all of which are recognised on an accruals basis and impairment charges.
+Exceptional items are disclosed separately in the financial statements where it is necessary to do so to provide further understanding of the financial performance of the Group.
+They are material items of income or expense that have been shown separately due to the significance of their nature or amount.
+FINANCIAL STATEMENTS
+STRATEGIC REPORT GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 41 2.
+Summary of significant accounting policies continued 2.6 Intangible assets Externally acquired intangible assets Externally acquired intangible assets are initially recognised at cost and subsequently amortised on a straight line basis over their useful economic lives.
+The significant intangibles recognised by the Group with their useful economic lives are as follows Licences and trademarks Shorter of licence term or 10 years Brand assets 3 years Internally generated intangible assets development costs Expenditure incurred on development activities including the Groups software development and related overheads is capitalised only where the expenditure will lead to new or substantially improved products the products are technically and commercially feasible and the Group has sufficient resources to complete development.
+Capitalised development costs are amortised over the years the Group expects to benefit from selling the products developed which is typically three to five years.
+The amortisation expense is included within the distribution cost line in the consolidated statement of comprehensive income.
+Development expenditure not satisfying the above criteria and expenditure on the research phase of internal projects are recognised in the consolidated statement of comprehensive income as incurred.
+Subsequent expenditure on capitalised intangible assets is capitalised only where it clearly increases the economic benefits to be derived from the asset to which it relates.
+All other expenditure including that incurred in order to maintain an intangible assets current level of performance is expensed as incurred.
+2.7 Property plant and equipment Depreciation is calculated to write off the cost of fixed assets on a straight line basis over the expected useful lives of the assets concerned.
+The principal annual rates used for this purpose are Fixtures fittings equipment and leasehold improvements 2033% straight line Subsequent expenditures are included in the assets carrying amount or recognised as a separate asset as appropriate only when it is probable that future economic benefits will flow to the Group and the cost of the item can be measured reliably.
+All repairs and maintenance are charged to the consolidated statement of comprehensive income during the financial period in which they are incurred.
+Gains and losses on disposals are determined by comparing proceeds with carrying amount and are included in the consolidated statement of comprehensive income.
+2.8 Impairment of property plant and equipment and intangible assets At each statement of financial position date the Group reviews the carrying amounts of its tangible and intangible assets to determine whether there is any indication that those assets have suffered an impairment loss.
+If any such indication exists the recoverable amount of the asset is estimated in order to determine the extent of the impairment loss if any.
+Where the asset does not generate cash flows that are independent from other assets the Group estimates the recoverable amount of the cash generating unit to which the asset belongs.
+Recoverable amount is the higher of fair value less disposal costs and value in use.
+In assessing value in use the estimated future cash flows are discounted to their present value using a pre tax discount rate that reflects current market assessments of the time value of money and the risks specific to the asset for which the estimates of future cash flows have not been adjusted.
+If the recoverable amount of an asset or cash generating unit is estimated to be less than its carrying amount the carrying amount of the asset cash generating unit is reduced to its recoverable amount.
+An impairment loss is recognised as an expense immediately.
+2.9 Financial instruments Financial assets and financial liabilities are recognised on the Groups statement of financial position when the Group becomes party to the contractual provisions of the instrument.
+Financial assets are de recognised when the contractual rights to the cash flows from the financial asset expire or when the contractual rights to those assets are transferred.
+Financial liabilities are de recognised when the obligation specified in the contract is discharged cancelled or expires.
+Trade and other receivables Trade and other receivables are recognised initially at fair value and subsequently measured at amortised cost using the effective interest method less provision for impairment.
+Impairment provisions are recognised when there is objective evidence such as significant financial difficulties on the part of the counterparty or default or significant delay in payment that the Group will be unable to collect all of the amounts due under the net carrying amount and the present value of the future expected cash flows associated with the impaired receivable.
+For trade receivables which are reported net such provisions are recorded in a separate allowance account with the loss being recognised within administrative expenses in the statement of comprehensive income.
+On confirmation that the trade receivable will not be collectable the gross carrying value of the asset is written off against the associated provision.
+NOTES TO THE FINANCIAL STATEMENTS CONTINUED for the year ended 31 December 2017 FINANCIAL STATEMENTS 42 GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 2.
+Summary of significant accounting policies continued Cash and cash equivalents Cash and cash equivalents comprise cash on hand demand deposits and other short term highly liquid investments that have maturities of three months or less from inception are readily convertible to a known amount of cash and are subject to an insignificant risk of changes in value.
+Classification of shares as debt or equity instruments Financial instruments issued by the Group are classified as equity only to the extent that they do not meet the definition of a financial liability.
+An equity instrument is a contract that evidences a residual interest in assets or an entity after deducting all of its liabilities.
+Accordingly a financial instrument is treated as equity if there is no contractual obligation to deliver cash or other financial assets or to exchange financial assets or liabilities on terms that may be unfavourable and the instrument is a non derivative that contains no contractual obligation to deliver a variable number of shares or is a derivative that will be settled only by the Company exchanging a fixed amount of cash or other assets for a fixed number of the Companys own equity instruments.
+Equity instruments issued by the Group are recorded at the time the proceeds are received net of direct issue costs.
+Trade and other payables Trade payables are initially measured at their fair value and are subsequently measured at their amortised cost using the effective interest rate method this method allocates interest expense over the relevant period by applying the effective interest rate to the carrying amount of the liability.
+2.10 Current and deferred tax Taxation represents the sum of the tax currently payable and deferred tax.
+Current tax The tax currently payable is based on taxable profit for the year.
+Taxable profit differs from net profit reported in the statement of comprehensive income because it excludes items of income or expense that are taxable or deductible in other years and it further excludes items that are never taxable or deductible.
+The Groups liability for current tax is calculated using tax rates that have been enacted or substantively enacted by the statement of financial position date.
+Research and development tax Research and development taxation relief is recognised once management considers it probable that any amount claimable will be received.
+Deferred tax Deferred tax is the tax expected to be payable or recoverable on differences between the carrying amounts of assets and liabilities in the financial information and the corresponding tax bases used in the computation of taxable profit and is accounted for using the balance sheet liability method.
+Deferred tax assets are recognised to the extent that it is probable that taxable profits will be available against which deductible temporary differences can be utilised.
+Deferred tax is calculated at the tax rates that are expected to apply to the period when the asset is realised or the liability is settled based upon tax rates that have been enacted or substantively enacted by the statement of financial position date.
+Deferred tax is charged or credited in the statement of comprehensive income except when it relates to items credited or charged directly to equity in which case the deferred tax is also dealt with in equity.
+The carrying amount of deferred tax assets is reviewed at each statement of financial position date and reduced to the extent that it is no longer probable that sufficient taxable profits will be available to allow all or part of the asset to be recovered.
+Deferred tax is measured using tax rates that have been enacted or substantially enacted by the statement of financial position date and are expected to apply when the related deferred tax asset or liability is realised or settled.
+2.11 Operating leases All leases held by the Group are operating leases and as such are charged to the statement of comprehensive income on a straight line basis over the lease term.
+Rent free periods or other incentives received for entering into a lease are accounted for over the lease term so as to spread the benefit received.
+Operating lease costs relating to rent are apportioned on a per head basis and where this headcount is capitalised cost is capitalised in line with the Groups capitalisation policy.
+2.12 Share based payments The Group issues equity settled share based payments to certain employees including directors.
+Equity settled share based payments are measured at fair value at the date of grant and expensed on a straight line basis over the vesting period based upon the Groups estimate of equity instruments that will eventually vest along with a corresponding increase in equity.
+At each statement of financial position date the Group revises its estimate of the number of equity instruments expected to vest as a result of the effect of non market based vesting conditions.
+The impact of the revision of the original estimates if any is recognised in profit or loss such that the cumulative expense reflects the revised estimate with a corresponding adjustment to equity reserves.
+The fair value of share options is determined using a Black Scholes model taking into consideration managements best estimate of the expected life of the option and the estimated number of shares that will eventually vest.
+The expected life used in the model has been adjusted based on managements best estimate for the effects of non transferability exercise restrictions and behavioural considerations.
+Where existing share options are modified the increase in fair value is spread over the remaining vesting period.
+Where options are reissued post vesting period with a new vesting period the total fair value of the reissue is spread over the new vesting period.
+FINANCIAL STATEMENTS
+STRATEGIC REPORT GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 43 3.
+Financial risk management see also note 15 3.1 Financial risk factors The Groups activities expose it to a variety of financial risks market risk credit risk and liquidity risk.
+The Groups overall risk management programme focuses on the unpredictability of financial markets and seeks to minimise potential adverse effects on the Groups financial performance.
+Risk management is carried out by management under policies approved by the Board of directors.
+Management identifies and evaluates financial risks in close co operation with the Groups operating segments.
+The Board provides principles for overall risk management as well as policies covering specific areas such as interest rate risk non derivative financial instruments and investment of excess liquidity.
+3.2 Market risk Market risk is the risk of loss that may arise from changes in market factors such as interest rates and foreign exchange rates.
+3.3 Contractual risk In the ordinary course of business the Group contracts with various parties.
+These contracts may include performance obligations indemnities and contractual commitments.
+Management monitors the performance of the Group and any relevant counterparties against such contractual conditions to mitigate the risk of material adverse non compliance.
+3.4 Credit risk Credit risk is the financial loss to the Group if a customer or counterparty to financial instruments fails to meet its contractual obligation.
+Credit risk arises from the Groups cash and cash equivalents and receivables balances.
+3.5 Liquidity risk Liquidity risk is the risk that the Group will not be able to meet its financial obligations as they fall due.
+This risk relates to the Groups prudent liquidity risk management and implies maintaining sufficient cash.
+Management monitors rolling forecasts of the Groups liquidity and cash and cash equivalents on the basis of expected cash flow.
+3.6 Capital risk management The Groups capital structure is comprised entirely of the share capital and accumulated reserves.
+The Groups objective when managing capital is to maintain adequate financial flexibility to preserve its ability to meet financial obligations both current and long term.
+The capital structure of the Group is managed and adjusted to reflect changes in economic conditions.
+The Group funds its expenditures on commitments from existing cash and cash equivalent balances.
+There are no externally imposed capital requirements.
+Financing decisions are made by the Board of Directors based on forecasts of the expected timing and level of capital and operating expenditure required to meet the Groups commitments and development plans.
+3.7 Fair value estimation The carrying values less impairment provision of trade and other receivables and payables are assumed to approximate their fair values because of the short term nature of such assets and the effect of discounting liabilities is negligible.
+3.8 Critical accounting estimates and judgements The preparation of consolidated financial statements under IFRSs as adopted by the EU requires the Group to make estimates and judgements that affect the application of policies and reported amounts.
+Estimates and judgements are continually evaluated and are based on historical experience and other factors including expectations of future events that are believed to be reasonable under the circumstances.
+Actual results may differ from these estimates.
+Reference is made in this note to accounting policies which cover areas that the directors consider require estimates and assumptions which have a significant risk of causing a material adjustment to the carrying amount of assets and liabilities within the next financial year.
+These policies together with references to the related notes to the financial statements can be found below
+Revenue recognition 4 Capitalisation and impairment of internally generated intangible assets 10 Taxation 9 NOTES TO THE FINANCIAL STATEMENTS CONTINUED for the year ended 31 December 2017 FINANCIAL STATEMENTS 44 GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 3.
+Financial risk management see also note 15 continued Revenue recognition The Group applies judgement in determining whether it acts as principal or agent where it provides services through its B2B operations.
+In making these judgements the Group gives consideration to the contractual terms of each arrangement and consequently which party has the primary responsibility for providing the services and is exposed to the majority of the risks and rewards associated with providing the services.
+Game development and the sale of platform software are recognised when the Group has met its contractual obligations which is typically on customer acceptance or upon receipt of certification.
+Simulated Gaming revenues are recognised when a player deposits into the gaming system and not on gameplay.
+Further detail on this can be found in note 2.2.
+Capitalisation and impairment of internally generated intangible assets The Group reviews expenditure incurred on development activities and assesses whether the expenditure meets the capitalisation criteria set out in IAS 38 and note 2.6.
+The Group specifically considers if additional expenditure on projects relates to maintenance or new development projects.
+The Group tests annually whether its assets have suffered any impairment.
+Further details of the Groups accounting policy in relation to impairment are disclosed in note 2.8.
+The application of the policy requires the use of accounting estimates and judgements in determining the recoverable amount of cashgenerating units to which the intangible assets are associated.
+The recoverable amount is represented by the fair value or value in use.
+Value in use is calculated using estimated cash flow projections from financial budgets discounted by selecting an appropriate rate for each cashgenerating unit.
+The Group has recognised oneoff revenue amounting to 758k 2016 nil for the development of Overseas Internet Casino.
+This was delivered in H2 2017 and available in regulated European markets.
+The Group believes that this treatment is consistent with accounting standards and revenue recognition policies and is consistent with the standalone selling price of the transaction.
+This development also represents a separate and distinct performance obligation to any ongoing contractual obligations as referenced in note 3.8.
+Taxation
+Deferred tax assets are recognised to the extent that it is probable future taxable profits will be available against which the temporary differences can be utilised.
+The key area of judgement is therefore an assessment of whether it is probable that there will be suitable taxable profits against which any deferred tax assets can be utilised.
+Further details of deferred tax assets recognised are disclosed in note 9.
+Research and development tax relief is recognised as an asset once it is considered that there is sufficient assurance that any amount claimable will be received.
+The key judgement therefore arises in respect of the likelihood of a claim being successful when a claim has been quantified but has not been received.
+In making this judgement the Group considers the nature of the claim and in particular the track record of success of previous claims.
+Net revenue Year ended 31 December Year ended 31
+RMG
+Game website and platform development 1300 1631 Revenue share and other revenue 3714 3114
+Game website and platform development 311 595 Revenue share and other revenue 3795 2463 Total 9120 7803 As disclosed in note 5 the Group has changed its operating segments in the financial year.
+The net revenue disclosure has been updated to align to this change in operating segments which has resulted in the comparative period information being restated.
+FINANCIAL STATEMENTS
+STRATEGIC REPORT GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 45 5.
+Segmental information Information reported to the Groups Chief Executive the strategic chief operating decision maker for the purposes of resource allocation and assessment of the Groups segmental performance is primarily focused on the origination of the revenue stream.
+The Groups operating segments under IFRS 8 are therefore as follows Real money gaming operations RMG Simulated Gaming operations SIMGAM In the prior year the Group reported principal statements of B2B and B2C.
+The current distinction between segments has been agreed by the Board in light of the continued strategic move towards a B2B only market and the relative insignificance of the B2C operation and reflects the management reporting to the chief operating decision maker.
+The comparative segmental reporting has been restated to reflect the above operating segments.
+Segment revenues and results The following is an analysis of the Groups revenue and results by reportable segment.
+Year ended 31 December 2017
+SIMGAM
+Total
+Net revenue 5014 4106 9120 Distribution costs excluding depreciation and amortisation 2403 1195 3598 Segment result 2611 2911 5522 Administration expenses 5223 Depreciation on property plant and equipment 379 Amortisation of intangible assets 3851 Impairment of intangible assets 168 Net finance cost 117 Loss before taxation 4216 Tax credit 738 Loss for the year after taxation 3478 Year ended 31 December 2016
+SIMGAM
+Total
+Net revenue 4745 3058 7803 Distribution costs excluding depreciation and amortisation 2077 1357 3434 Segment result 2668 1701 4369 Administration expenses 5600 Depreciation on property plant and equipment 375 Amortisation of intangible assets 3203 Impairment of intangible assets 411 Net finance income 21 Loss before taxation 5199 Tax credit 1440 Loss for the year after taxation 3759 NOTES TO THE FINANCIAL STATEMENTS CONTINUED for the year ended 31 December 2017 FINANCIAL STATEMENTS 46 GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 5.
+Segmental information continued The accounting policies of the reportable segments follow the same policies as described in note 2.
+Segment result represents the gross profit earned by each segment without allocation of the share of administration costs including directors salaries finance costs and income tax expense.
+This is the measure reported to the Groups Chief Executive for the purpose of resource allocation and assessment of segment performance.
+Administration expenses comprise principally the employment and office costs incurred by the Group.
+Segment assets and liabilities Assets and liabilities are not separately analysed or reported to the Groups Chief Executive and are not used to assist in decisions surrounding resource allocation and assessment of segment performance.
+As such an analysis of segments and liabilities has not been included in this financial information.
+Geographic analysis of revenues This analysis is determined based upon the location of the legal entity of the customer.
+Year ended 31 December Year ended 31 December UK and Channel Islands 1047 574 Italy 2825 2015 USA 5174 4955 Rest of World 74 259 9120 7803 Information about major customers During the year ended 31 December 2017 the Group had one customer which generated revenue greater than 10% of total net revenue.
+This customer generated revenue of 988909 representing 11% of net revenue all of which was within the RMG segment.
+During the year ended 31 December 2016 the Group had one customer which generated revenue greater than 10% of total net revenue.
+This customer generated revenue of 1058900 representing 14% of net revenue all of which was within the RMG segment.
+Geographic analysis of non current assets
+31 December
+31 December UK and Channel Islands 5900 6576 Bulgaria 17 5 Other  8 6245 7082 FINANCIAL STATEMENTS
+STRATEGIC REPORT GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 47 NOTES TO THE FINANCIAL STATEMENTS CONTINUED for the year ended 31 December 2017 Operating loss 6.1 Operating loss has been arrived at after charging Year ended 31 December Year ended 31 December Staff costs note 7 3218 3450 Auditors remuneration Audit 70 55 Others 10 5 Amortisation of intangibles 3851 3203 Depreciation on property plant and equipment 379 375 Impairment 168 411 Foreign exchange gainslosses 174 408 Rent payable under operating leases 341 299 Employee share based payment charge note 17 117 157 Profit on sale of intangible assets 303 Loss on disposal of fixed assets  77 Staff costs and rent payable under operating leases charged to the income statement as shown in the table above are less amounts capitalised in the year of 3150211 2016 3647943 as part of capitalised development costs reflected within note 10.
+Total wages and salaries related to research and development were 3217557 2016 3889892 of which 2513450 2016 2990201 was capitalised.
+Intellectual property with a net book value of nil was sold for 303000.
+6.2 Exceptional costs Year ended 31 December Year ended 31 December Compensation for redundancy 320 4 Key management relocation costs  51 Costs associated to bond issue 14 Other exceptional costs During the year operational restructuring within the Group generated redundancies totalling 320000.
+Staff costs Year ended 31 December Year ended 31 December The average number of employees including executive directors employed was Management 9 10 Administration and technical staff Year ended 31 December Year ended 31 December The aggregate remuneration of the above employees comprised including directors Wages and salaries 5073 5684 Social security costs 583 583 Pension costs 138 173 Employee share based payment charge 117 157 5911 6597 Employee remuneration including directors incurred by the parent Company totalled 4061665 2016 5483619 and average number of employees was 65 2016 90.
+FINANCIAL STATEMENTS 48 GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 7.
+Staff costs continued Total staff costs included in capitalised development costs for the year were 2513450 2016 2990201 and are reflected within note 10.
+The remuneration of the directors who are part of the key management personnel of the Group is set out below
+Bonuses
+Share based payments
+Total
+Desmond Glass Resigned 173  12 185 176 David OReilly Resigned 35   35 53 Dermot S Smurfit 338  39 377 303 Michael Smurfit Jr.
+Roger Kendrick 30  2 32 32 Seamus McGill 62   59 727 765 The aggregate remuneration for key management personnel comprised Year ended 31 December Year ended 31 December Wages and salaries 1603 1342 Relocation cost  113 Social security costs 220 47 Employee share based payment charge 106 118 1929 1620 The remuneration of the highest paid director is set out below Year ended 31 December Year ended 31 December The aggregate remuneration comprised Directors remuneration 37telThe directors interests in share options over ordinary shares in the Company were as follows Share options at the beginning of the year Granted during the year
+Exercised during the year
+Total
+Desmond Glass Resigned 551000    551000 551000 David OReilly Resigned 75000  75000   75000 Dermot S Smurfit 1346000 1846000 1346000  1846000 1346000 Michael Smurfit Jr.
+50000 100000 50000  100000 50000 Roger Kendrick 50000 100000 50000  100000 50000 Seamus McGill  200000   200000 2072000 2246000 1521000  2797000 2072000 Finance income and expense Year ended 31 December Year ended 31 December Interest payable 122 Interest receivable 5 21 Interest payable is in respect of amounts accrued on the issued 9% convertible bond as set out in note 14.
+FINANCIAL STATEMENTS
+STRATEGIC REPORT GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 49 NOTES TO THE FINANCIAL STATEMENTS CONTINUED for the year ended 31 December 2017
+Year ended 31 December Year ended 31 December Current tax credit 738 1950 Deferred tax  510 Tax credit on loss on ordinary activities 738 1440 The total tax credit can be reconciled to the overall tax charge as follows Year ended 31 December Year ended 31 December Factors affecting tax charge for year The tax assessed for the relevant year is lower than the average standard rates of corporation tax in the UK.
+The differences are explained below Loss before taxation 4216 5199 Loss before taxation multiplied by the average standard rates of corporation tax in the UK of 19.00% 2016 20.00% 810 1040 Effects of Other permanent and similar differences including expenses not deductible for tax purposes 29 75 Current year tax losses not utilisedrecognised 834 1225 Other timing differences not recognised for deferred tax purpose 53 260 Research and development tax credit 795 1950 Derecognition of deferred tax asset  510 Tax credit for year 738 1440 The Group has maximum corporation tax losses carried forward at each year end as set out below
+31 December
+31 December Corporation tax losses carried forward 16408 13707 Details of the deferred tax asset recognised are as set out below
+31 December
+31 December At the beginning of the year  510 Derecognition of asset during the year  510 At the end of the year There was no deferred tax asset for the Group at 31 December 2017 2016 nil in respect of tax losses carried forward.
+Tax losses are recognised as a deferred tax asset by the Group when there is sufficient evidence that the amount will be recovered against foreseeable profits taking into account the loss for the period and sensitised forecast profits.
+In addition the Group has an unrecognised deferred tax asset as follows
+31 December
+31 December Tax losses carried forward 2555 1924 Depreciation in excess of capital allowances 54 13 Short term timing differences 9 53 2618 1990 FINANCIAL STATEMENTS 50 GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 10.
+Intangible assets Group
+Development costs
+Total brand assets development and licence costs
+At 31 December 2015 252 8362 420 9034 Additions  3648 157 3805 At 31 December 2016 252 12010 577 12839 Additions 46 3378 33 3457 Impairment  272  272 AT 31 DECEMBER 2017 298 15116 610 16034 ACCUMULATED AMORTISATION At 31 December 2015 6 3360 98 3464 Charge for the year 90 2754 98 2942 At 31 December 2016 96 6114 196 6406 Charge for the year 91 3646 114 3851 Impairment  104  104 AT 31 DECEMBER 2017 187 9656 310 10153 NET BOOK VALUE At 31 December 2015 246 5002 322 5570 At 31 December 2016 156 5896 381 6433 AT 31 DECEMBER 2017 111 5460 300 5871 Impairment losses of 168000 2016 412000 were incurred during the year.
+These relate to the cancelling of the SIMGAM partner contract with American Casino and Entertainment Properties LLC in November 2017 which relates to the US IGS intangible category and was calculated at its NBV and impaired in full.
+Intangible assets Company
+Development costs Licence costs Total brand assets development and licence costs
+At 31 December 2015 252 8308 419 8979 Additions  3648 157 3805 At 31 December 2016 252 11956 576 12784 Additions 46 3432 33 3511 Impairment  272  272 AT 31 DECEMBER 2017 298 15116 609 16023 ACCUMULATED AMORTISATION At 31 December 2015 6 3332 97 3435 Charge for the year 90 2734 99 2923 At 31 December 2016 96 6066 196 6358 Charge for the year 90 3692 114 3896 Impairment  104  104 AT 31 DECEMBER 2017 186 9654 310 10150 NET BOOK VALUE At 31 December 2015 246 4976 322 5544 At 31 December 2016 156 5890 380 6426 AT 31 DECEMBER 2017 112 5462 298 5872 During the year the Company disposed of its domain brand and customer list relating to moneygaming for total proceeds of 303000.
+FINANCIAL STATEMENTS
+STRATEGIC REPORT GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 51 NOTES TO THE FINANCIAL STATEMENTS CONTINUED for the year ended 31 December 2017 Property plant and equipment Group
+COST
+At 31 December 2015 2971 Additions 46 Disposal 352 At 31 December 2016 2665 Additions 274 Disposal 9 AT 31 DECEMBER 2017 2930 ACCUMULATED DEPRECIATION At 31 December 2015 2086 Charge for the year 375 Disposal 275 At 31 December 2016 2186 Charge for the year 379 Disposal 9 AT 31 DECEMBER 2017 2556 NET BOOK VALUE At 31 December 2015 884 At 31 December 2016 479 AT 31 DECEMBER 2017 374 FINANCIAL STATEMENTS 52 GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 11.
+Property plant and equipment Company
+COST
+At 31 December 2015 2603 Additions 8 Disposal 351 At 31 December 2016 2260 Additions 107 Disposal 9 AT 31 DECEMBER 2017 2358 ACCUMULATED DEPRECIATION At 31 December 2015 1781 Charge for the year 344 Disposal 277 At 31 December 2016 1849 Charge for the year 369 Disposal 9 AT 31 DECEMBER 2017 2209 NET BOOK VALUE At 31 December 2015 822 At 31 December 2016 411 AT 31 DECEMBER 2017 149 Trade and other receivables
+At
+31 December
+At
+31 December
+At
+31 December
+At
+31 December Trade receivables 1800 1800 1757 1757 Other receivables 33telAmounts owed by Group undertakings 710  657 Prepayments and accrued income 66tel3515 3066 3286 2834 Other receivables include amounts due from payment service providers lease deposits and VAT recoverable.
+The ageing of trade receivables that are past due but not impaired is shown below
+At
+31 December
+At
+31 December
+At
+31 December
+At
+31 December Between one and two months Between two and three months 16telMore than three months 49tel89telThe Group recognised a charge in respect of doubtful receivables in each of the years ended 31 December 2017 and 31 December 2016 of 29750 and 137366 respectively representing a decrease of 107616.
+The Group has not recognised any further allowances for doubtful receivables because there has not been a significant change in credit quality on any receivable and the amounts are still considered fully recoverable.
+FINANCIAL STATEMENTS
+STRATEGIC REPORT GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 53 NOTES TO THE FINANCIAL STATEMENTS CONTINUED for the year ended 31 December 2017 Trade and other receivables continued Standard credit terms are 60 days.
+Debtor days at each year end were
+31 December
+31 December Debtor days Group and Company 38 days 82 days Debtor days is calculated by dividing the total sales invoices raised in the year less credit notes by the trade receivable outstanding at year end multiplied by the number of days in the year.
+In determining the recoverability of trade receivables the Group considers any change in the credit quality of the receivable from the date credit was granted up to the reporting date.
+As set out in note 15 credit risk is mitigated by the fact that management monitors the debtor ledger closely on a frequent basis and a significant proportion of the Groups customers are either large publicly listed companies or owned by such entities.
+Of the trade and other receivables financial instruments as at 31 December 2017 the Group does not have a concentration of credit risk exposure to a single counterparty 2016 nil.
+The following trade and other receivable amounts were held in foreign currencies.
+The remaining balance was denominated in UK Pound Sterling .
+Company
+At
+31 December
+At
+31 December
+At
+31 December
+At
+31 December United States Dollars 940 947 1127 1133 Euros 1120 1128 769 771 Australian Dollars 061 2076 1919 1927 The Directors believe that the carrying value of trade and other receivables is considered to represent its fair value.
+The maximum exposure to credit risk at the reporting date is the carrying value of each class of receivable shown above.
+The Group does not hold any collateral as security.
+Lease deposits
+At
+31 December
+At
+31 December
+At
+31 December
+At
+31 December Lease deposits  current 170 192 Lease deposits  noncurrent   170 170 Other noncurrent assets relate to the deposits provided in respect of leased office space.
+The amount is repayable in accordance with the terms of the agreement.
+Cash and cash equivalents Company and Group
+At
+31 December
+At
+31 December
+At
+31 December
+At
+31 December Cash in bank accounts 1408 2746 2817 3179 A majority of the Groups cash and cash equivalents are at floating interest rates and are held with Barclays Bank an institution with an A2 credit rating long term as assessed by Moodys.
+The following cash and cash equivalent amounts were held in foreign currencies.
+The remaining balance was denominated in UK Pound Sterling .
+Company
+At
+31 December
+At
+31 December
+At
+31 December
+At
+31 December United States Dollars 508 1827 975 1438 Euros 33telAustralian Dollars 28 28  17 875 2233 1283 1811 The directors consider that the carrying value of cash and cash equivalents approximates to their fair value.
+FINANCIAL STATEMENTS 54 GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 14.
+Trade and other payables
+At
+31 December
+At
+31 December
+At
+31 December
+At
+31 December Amounts falling due within one year Trade payables 1868 1881 1576 1600 Other taxation and social security 9telOther payables 22telLoan interest 121 121 Accruals and deferred income 627 650 1021 1079 2933 3061 2883 2995 Trade and other payables principally comprise amounts outstanding for trade purchases and ongoing costs.
+They are non interest bearing and have standard credit terms of 30 day terms.
+Creditor days as at each year end were
+31 December
+31 December Creditor days Group and Company 32 days 47 days Creditor days is calculated by dividing the total purchase invoices raised in the year by the trade payables outstanding at year end multiplied by the number of days in the year.
+The following trade and other payable financial instruments were held in foreign currencies.
+The remaining balance was denominated in UK Pound Sterling .
+Company
+At
+31 December
+At
+31 December
+At
+31 December
+At
+31 December United States Dollars 74telEuros 23telAustralian Dollars   3 tel1007 The directors consider that the carrying value of trade and other payables approximates their fair value.
+The Group has financial risk management policies in place to ensure that all payables are paid within the credit timeframe and no interest has been charged by any suppliers as a result of late payment of invoices.
+Noncurrent liabilities
+At
+31 December
+At
+31 December
+At
+31 December
+At
+31 December Accruals   160 160 Loan notes 2001 2001 Finance lease liability 211 211 Deferred consideration   61 61 2212 2212 221 221 Accruals relate to the rent free period on the Groups leased properties and are spread over the term of the lease.
+The deferred consideration relates to amounts payable to acquire brand assets included in note 10.
+In April 2017 the Group raised 2.0m following issue of 2001483 1 convertible unsecured loan notes.
+The loan notes have an interest rate of 9% payable quarterly in arrears from 1 January 2018 with redemption in April 2022.
+During the period interest of 30000 was accrued in relation to the loan notes.
+The directors do not believe there is any equity component of the convertible loan notes as the interest rate reflects the fair value of the debt and therefore the loan note is treated as a liability.
+FINANCIAL STATEMENTS
+STRATEGIC REPORT GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 55 NOTES TO THE FINANCIAL STATEMENTS CONTINUED for the year ended 31 December 2017 Financial instruments The Group is exposed to the risks that arise from its use of financial instruments.
+This note describes the objectives policies and processes of the Group for managing those risks and the methods used to measure them.
+Further quantitative information in respect of these risks is presented throughout this financial information.
+Capital risk management The Groups capital structure is comprised entirely of shareholders equity.
+The Groups objective when managing capital is to maintain adequate financial flexibility to preserve its ability to meet financial obligations both current and long term.
+The capital structure of the Group is managed and adjusted to reflect changes in economic conditions.
+The Group funds its expenditures on commitments from existing cash and cash equivalent balances.
+There are no externally imposed capital requirements.
+Financing decisions are made by the Board of Directors based on forecasts of the expected timing and level of capital and operating expenditure required to meet the Groups commitments and development plans.
+Principal financial instruments The principal financial instruments used by the Group from which financial instrument risk arises are as follows Trade and other receivables Trade and other payables Convertible debt Cash and cash equivalents Financial assets The Group held the following financial assets
+At
+31 December
+At
+31 December
+At
+31 December
+At
+31 December Loans and receivables Cash and cash equivalents 1408 2746 2818 3179 Trade and other receivables 3098 2506 5516 2253 4506 5252 8334 5432 Financial liabilities The Group held the following financial liabilities
+At
+31 December
+At
+31 December
+At
+31 December
+At
+31 December AMORTISED COST Trade payables 1868 1881 1576 1600 Convertible bond 2001 2001 Other financial liabilities 1013 1046 1146 1235 4882 4928 2722 2835 The Groups directors monitor and manage the financial risks relating to the operation of the Group.
+These risks include market risk including foreign currency risk and interest rate risk credit risk and liquidity risk.
+Market risk The Groups activities expose it primarily to the financial risks of changes in foreign currency exchange rates and interest rates.
+FINANCIAL STATEMENTS 56 GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 15.
+Financial instruments continued Foreign currency risk management The Group has exposure to foreign currency risk.
+Sales invoicing to customers is in UK Pound Sterling United States Dollars and Euros and the majority of outgoing payments are in UK Pound Sterling and United States Dollar payments.
+The Board carefully monitors exchange rate fluctuations and reviews their impact on the net assets and position of the Group.
+Exchange rates are negotiated with the Groups main provider of banking services as and when needed.
+The Group does not enter into any derivative financial instruments to manage its exposure to foreign currency risk.
+The carrying amount of the Groups foreign currency denominated monetary assets and monetary liabilities and details of the exposure at 31 December 2016 and 2017 are shown in notes 12 13 and 14.
+At each year end if the United States Dollar Euro and Australian Dollar had weakened by 10% and by 20% against the UK Pound Sterling with all other variables held constant post tax loss for the year would have increaseddecreased by Impact of a movement in stated currencies of 10% on post tax profit and impact on equity Impact of a movement in stated currencies of 20% on post tax profit and impact on equity At 31 December 2016 354 570 At 31 December 2017 312 560 10% to 20% is the sensitivity rate range that represents managements assessment of the reasonable possible change in foreign exchange rates.
+The sensitivity analysis includes only outstanding foreign currency denominated monetary items and adjusts their translation at the year end for a 10% and a 20% change in foreign currency rates.
+A positive version of the numbers above indicates an increase in profit or other equity where the UK Pound Sterling strengthens by 10% and 20% against the relevant currency.
+For a 10% or 20% weakening of the UK Pound Sterling against the relevant currency there would be an equal and opposite impact on the profit and other equity.
+The differences are mainly as a result of foreign exchange gainslosses on translation of United States Dollar trade and other payables and Euro denominated trade and other receivables.
+10% is deemed appropriate for the foreign exchange sensitivity analysis due to the current financial market.
+Interest rate risk management The Group has minimal exposure to interest rate risk.
+It is exposed to interest rate risk on some of its financial assets being its cash at bank balances.
+The interest rate receivable on these balances was at an average rate of 0.3% during the year to 31 December 2017 31 December 2016 0.3%.
+The Group also has convertible loan notes in issue which incur a fixed interest rate of 9%.
+The directors currently believe that interest rate risk is at an acceptable level.
+Due to its minimum exposure to interest rate risk the Group has not prepared any sensitivity analysis.
+Credit risk Credit risk refers to the risk that a counterparty will default on its contractual obligations resulting in financial loss to the Group.
+Credit risk arises principally from the Groups cash balances and trade and other receivables.
+The concentration of the Groups credit risk is considered by counterparty geography and currency.
+The Group gives careful consideration to which organisations it uses for its banking services in order to minimise credit risk.
+The Group has a significant concentration of cash held on deposit with one large bank in the UK an institution with an A2 credit rating long term as assessed by Moodys.
+The amounts of cash held on deposit with that bank at each reporting date can be seen in the financial assets table.
+An allowance for impairment is made where there is an identified loss event which based on previous experience is evidence of a reduction in the recoverability of the cash flows although there have been no such impairments over the review year.
+Management considers the above measures to be sufficient to control the credit risk exposure.
+Liquidity risk management Liquidity risk is the risk that the Group will encounter difficulty in meeting its financial obligations as they fall due.
+Ultimate responsibility for liquidity risk management rests with the Board of directors.
+The Board manages liquidity risk by regularly reviewing the Groups cash requirements by reference to short term cash flow forecasts and medium term working capital projections prepared by management.
+Convertible loan notes in issue with a fixed interest rate of 9% are not payable until 2022.
+At 31 December 2017 the Group had 2.7m 31 December 2016 3.2m of cash reserves.
+Maturity of financial assets and liabilities With the exception of the lease deposits in note 12 and deferred consideration in note 14 all of the Groups non derivative financial liabilities and its financial assets in the years to 31 December 2017 and 2016 are either payable or receivable within one year.
+FINANCIAL STATEMENTS
+STRATEGIC REPORT GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 57 NOTES TO THE FINANCIAL STATEMENTS CONTINUED for the year ended 31 December 2017 Share capital Group and Company
+No.
+ALLOTTED ISSUED AND FULLY PAID At 31 December 2015 55970036 Issued during the year i ii iii iv 14081888 At 31 December 2016 70051924 Issued during the year AT 31 DECEMBER 2017 70051924
+31 December
+31 December Ordinary shares 701 701 Issue of shares During the year 3735829 share options previously granted were forfeited by the option holders in exchange for the issue of new share options.
+This has been accounted for as a modification and the incremental fair value at the date of grant of the new share options has been spread over the new vesting period.
+9331888 ordinary shares of 1p each were issued at a premium of 27p during the year ended 31 December 2016 generating gross proceeds of 2612000.
+1500000 ordinary shares of 1p each were issued at a premium of 29p during the year ended 31 December 2016 generating gross proceeds of 450000.
+3250000 ordinary shares of 1p each were issued at a premium of 39p during the year ended 31 December 2016 generating gross proceeds of 1300000.
+Employee share based payments Options have been granted under the Companys share option scheme to subscribe for ordinary shares of the Company as follows Number of shares under option Subscription price per share Exercise period 150000 60p August 2013 to August 2018 187000 135p August 2014 to August 2019 213000 50p March 2015 to March 2020 170000 31.5p July 2016 to July 2021 2101500 25.5p July 2018 to July 2027 1846000 25p July 2018 to July 2027 400000 20.5p August 2018 to August 2027 361000 34p November 2018 to November 2027 20000 34.5p November 2018 to November 2027 50000 32.25p December 2018 to December 2027 The weighted average fair value of options granted in the year using the Black Scholes option pricing model was 0.31 2016 0.55 . average life of shares in issue at the year end was 1.70 years 2016 1.26 years.
+The inputs into the Black Scholes model are as follows 2017 2016 Weighted average share price 25.45p 28p Weighted average exercise price 25.64p 31.50p Expected volatility 23.7% 37.0% Expected life 3 years 3 years Risk free rate 0.64% 0.26% Expected dividends 0.0% 0.0% Expected volatility was determined by reference to the volatility of the Company share price.
+FINANCIAL STATEMENTS 58 GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 17.
+Employee share based payments continued The Group recognised total share based payments relating to equity settled share based payment transactions as follows
+At
+31 December
+At
+31 December
+At
+31 December
+At
+31 December Share based payment charge 11telMovements in the number of share options outstanding and their related weighted average exercise prices are as follows
+31 December 2017 At 31 December
+Number of options
+Number of options At the beginning of the year 55p 4455829 63p 4121725 Granted 20.5p 400000 31.5p 1325000 Granted 25p 1846000 Granted 25.5p 2101500 Granted 34p 361000 Granted 34.5p 20000 Granted 32.25p 50000 LapsedForfeited 22p 993250 22p 162500 LapsedForfeited 31.5p 1155000 LapsedForfeited 50p 658000 50p 225000 LapsedForfeited 135p 623000 135p 110000 LapsedForfeited 60p 306579 60p 493396 At the end of the year 31p 5498500 55p 4455829 During the year 3735829 share options previously granted were forfeited by the option holders in exchange for the issue of new share options.
+This has been accounted for as a modification and the incremental fair value at the date of grant of the new share options has been spread over the new vesting period.
+Earnings per share Basic earnings per share is calculated by dividing the profit attributable to equity shareholders of the Company by the weighted average number of ordinary shares in issue during the year.
+Diluted earnings per share is calculated by adjusting the weighted average number of ordinary shares outstanding to assume conversion of all dilutive potential ordinary shares.
+The Company has issued convertible debt and a calculation is done to determine the number of shares that could have been acquired at fair value determined as the average market share price for the period based on the monetary value of the subscription rights attached to the outstanding share options.
+All share options are antidilutive at the current and prior year reporting dates and the number of shares calculated as above is compared with the number of shares that would have been issued assuming the exercise of the share options.
+Year ended 31 December 2017
+Year ended 31 December 2016
+Basic 4.96 5.81 Diluted 4.96 5.81
+Year ended 31 December 2017 Year ended 31 December 2016 Loss for the year 3478 3759
+Year ended 31 December 2017
+Year ended 31 December 2016
+Weighted average number of equity shares 70051924 64647746 Weighted average number of equity shares for diluted EPS 70051924 64647746 FINANCIAL STATEMENTS
+STRATEGIC REPORT GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 59 19.
+Subsidiaries
+The Company owns 100% of the called up ordinary share capital of the following GameAccount Alderney Limited.
+The principal activity of GameAccount Alderney Limited is the provision of person to person skill based gaming software.
+GameAccount Alderney Limited is registered in Alderney with registered address Inchalla Le Val Alderney GY9 3UL.
+GameAccount Nevada Inc.
+The principal activity of GameAccount Nevada Inc. other Group companies.
+GameAccount Nevada Inc. is registered in the US with registered address 10801 W.
+Charleston Blvd Suite 125 Las Vegas NV 89135.
+GAN Software Services BG Ltd.
+The principal activity of GAN Software services BG Ltd is the provision of software development services in support of the Group.
+GAN Software Services BG Ltd is registered in Bulgaria with registered address Sofia 1202 rn Oborishte ul.
+G.
+Rakovski 42 UIStel.
+Lockbox Games Limited.
+The principal activity of Lockbox Games Limited is the provision of casual mobile games anticipated in future periods.
+Lockbox Games Limited is registered in the United Kingdom with registered address 125 Kensington High Street London W8 5SF.
+GAN Digital Ltd.
+The principal activity of GAN Digital Ltd is the provision of marketing services anticipated in future periods.
+GAN Digital Ltd is registered in Israel with registered address 31 Ahad Haam Street Tel Aviv  and was dormant at the year end.
+Related party transactions The remuneration of the key management personnel is shown in note 7.
+The offer of a 9% convertible loan note for a consideration of 2.0m in April 2017 was in part accepted by Roger Kendrick for 94822 who is a director Michael Smurfit Jr. for 3988 who is a director and Sir Michael Smurfit for 1854154 who is a related party to Michael Smurfit Jr.
+During the year options over the Companys shares were granted to each of the directors through the share option plan see note 17.
+The total number of options granted to directors was 2246000 2016 200000.
+During the year options over the Companys shares that had been granted to directors were forfeited.
+The total number of options granted to directors that were forfeited were 1446000 2016nil.
+Company
+The Company has a related party relationship with its wholly owned subsidiaries see note 19.
+During the year the Company provided working capital to GameAccount Nevada Inc.
+As at the year ended 31 December 2017 the balance due from GameAccount Nevada Inc. was 1082161 2016 298693.
+Receipts relating to Simulated Gaming revenues are to be settled in cash within two months of the reporting date.
+As at the year ended 31 December 2017 the balance due to GameAccount Alderney Limited was 207073 2016 501032.
+All outstanding balances with these related parties are unsecured and are repayable on demand.
+Operating leases The total future value of minimum lease payments due is as follows Land and buildings
+At
+31 December
+At
+31 December
+At
+31 December
+At
+31 December Operating leases Not later than one year 26telLater than one year not later than five years  149 1001 1222 Later than five years 266 533 1481 1745 Contingent liabilities As part of the Boards ongoing regulatory compliance process the Board continues to monitor legal and regulatory developments and their potential impact on the Group.
+Management is not aware of any contingencies that may have a significant impact on the financial position of the Group.
+NOTES TO THE FINANCIAL STATEMENTS CONTINUED for the year ended 31 December 2017 FINANCIAL STATEMENTS 60 GAN PLC ANNUAL REPORT AND ACCOUNTS 2017 COMPANY INFORMATION Statutory information GAN plc is a Public Limited Company incorporated in the United Kingdom Registration No.
+The Companys ordinary shares are traded on the Alternative Investment Market of the London Stock Exchange AIM and the Enterprise Securities Market a market operated by the Irish Stock Exchange ESM.
+Directors
+Seamus McGill Nonexecutive chairman Dermot S Smurfit Chief Executive Officer Michael Smurfit Jr.
+Roger Kendrick
+Karen Ashcroft Registered office 125 Kensington High Street London W8 5SF Web address site Nominated advisor and broker Davy Davy House 49 Dawson Street Dublin 2 Ireland
+Link Asset Services 34 Beckenham Road
+Kent BR3 4TU
+BDO LLP 55 Baker Street London W1U 7EU
+Barclays Bank plc 50 Pall Mall PO Box 15165 London SW1A 1QF
+Mishcon de Reya LLP Africa House 70 Kingsway London WC2B 6AH Consultancy design and production site Design and production site COMPANY INFORMATION Statutory information GAN plc is a Public Limited Company incorporated in the United Kingdom Registration No.
+The Companys ordinary shares are traded on the Alternative Investment Market of the London Stock Exchange AIM and the Enterprise Securities Market a market operated by the Irish Stock Exchange ESM.
+Directors
+Seamus McGill Nonexecutive chairman Dermot S Smurfit Chief Executive Officer Michael Smurfit Jr.
+Roger Kendrick
+Karen Ashcroft Registered office 125 Kensington High Street London W8 5SF Web address site Nominated advisor and broker Davy Davy House 49 Dawson Street Dublin 2 Ireland
+Link Asset Services 34 Beckenham Road
+Kent BR3 4TU
+BDO LLP 55 Baker Street London W1U 7EU
+Barclays Bank plc 50 Pall Mall PO Box 15165 London SW1A 1QF

@@ -1,0 +1,732 @@
+Annual Report and Financial Statements 2017
+Destiny Pharma plc Annual Report and Financial Statements 2017 Destiny Pharma plc Destiny Pharma plc is a clinical stage biotechnology company focused on the development of novel medicines that represent a new approach to the treatment of infectious disease.
+These potential new medicines are being developed to address the need for new drugs for the prevention and treatment of lifethreatening infections caused by antibiotic resistant bacteria often referred to as superbugs.
+Infections caused by antibiotic resistant strains of bacteria continue to rise at an alarming rate and they pose a major threat to public health in the view of the World Health Organization.
+Highlights 01 Chairmans statement 02 Our history 03 Investment proposition 07 Business model CEOs operational and strategic review 10 Financial review 18 Risks and uncertainties 20 Introduction to Corporate Governance 22 Board of Directors 24 Directors remuneration report 26 Directors report 28 Statement of Directors responsibilities 29 Independent auditors report 30 Statement of comprehensive income 32 Statement of financial position 33 Statement of changes in equity 34 Statement of cash flows 35 Notes to the financial statements 36 Glossary 47 Corporate information 48 In this report Visit us online at site Follow us on Twitter
+Strategic report
+Financial statements Front cover shows Staphylococcus aureus bacteria that is carried in the nose in a third of the population carriers have approximately ten times greater risk of a post surgical infection.
+We are dedicated to the discovery development and commercialisation of new antiinfectives to improve outcomes for patients and provide more effective medical care.
+Intellectual property expanded and new patents issued in Korea in June 2017 and Canada in February 2018 Senior executive team strengthened with recruitment of CEO and additional senior managers in 2017 Davos announcement confirms global need for new antiinfectives which address the danger of
+Proposes 1 billion rewards for new drugs in January 2018 CMS collaboration signed raising additional 3.0 million in equity in December 2017 Fast Track in USA status under QIDP awarded to XF73 in March 2018 G20 Declaration on Combating Antimicrobial Resistance AMR in July 2017 IPO September 2017 Equity funding at IPO raising 15.3 million USA IND for XF73 opened in February 2018 Expanded microbiology testing confirms XF73 efficacy in standard models and action against some new resistant strains
+Destiny Pharma is focused and well funded Financial statements Governance Strategic report Destiny Pharma plc Annual Report and Financial Statements 2017 01 The successful IPO in September 2017 means that Destiny Pharma plc is now well placed to develop its novel drug pipeline.
+Introduction
+I am very pleased as Chairman to contribute this introduction to Destiny Pharmas first Annual Report as an AIM company.
+The successful listing in September 2017 was clearly a major achievement and the concurrent fundraising of over 15 million means that Destiny Pharma is now very well placed to continue to develop much needed novel antiinfective drugs such as its lead asset XF73 and also to progress the earlier pipeline.
+The listing could not have been achieved without the hard work and support of Destiny Pharmas past and present Board shareholders advisers and employees.
+Destiny Pharma was one of only two biotech companies to list in London in 2017 and it is a great credit to the tenacity of the whole Destiny Pharma team and the potential value in the novel drug development pipeline that Destiny Pharma secured the listing.
+At the same time Destiny Pharma signed a collaboration with China Medical Systems CMS who became a major investor and also a key partner in the greater China region.
+On behalf of Destiny Pharma I welcome CMS as an investor and partner and also its Board representative Dr Huaizheng Peng who is a strong addition to the Destiny Pharma Board.
+Destiny Pharma is now well placed to continue the clinical development of its lead asset into Phase 2 studies and will also look at opportunities to collaborate and develop its earlier assets.
+There is clearly a global need for new antiinfective drugs that are effective and reduce the growing danger of antimicrobial resistance
+Destiny Pharma is committed to continue working to address this significant market need.
+The Board of Destiny Pharma would particularly like to thank the new and existing investors who supported the IPO funding and continue to support Destiny Pharma as a newly quoted company.
+I would also like to thank our employees for their ongoing efforts to ensure that Destiny Pharma delivers its IPO strategy.
+Together with the Board we are all committed to building a valuable drug development company.
+We are looking forward to 2018 and are confident in the outlook for Destiny Pharma plc.
+Sir Nigel Rudd Nonexecutive Chairman 11 April 2018 Acinetobacter baumannii infections have become increasingly difficult to treat because of the emergence of strains that are resistant to all drugs.
+Chairmans statement
+Destiny Pharma plc Annual Report and Financial Statements 2017 02 In its infancy the company predominantly carried out contract research for large pharmaceutical companies including Novartis.
+Between its incorporation and 2003 the company worked in three main areas of research novel surfaces to improve hip implantation surface bound photodynamic agents and antimicrobial photodynamic agents.
+Destiny Pharma had a major breakthrough in 2003 when its innovative research created a new antibacterial drug platform the XF drugs.
+Unlike antibiotics XF drugs have demonstrated the remarkable quality of not generating bacterial resistance.
+In September 2017 Destiny Pharma was admitted to AIM raising over 15 million and also signed a collaboration with China Medical Systems who invested a further 3 million in December 2017.
+In February 2018 Destiny Pharma announced that it had successfully opened its first IND in the USA has been awarded fasttrack status and was commencing the planned clinical programme.
+Phase 2 studies are on track to start later in 2018 and report data in 2019.
+Destiny Pharmas business was founded by the current Chief Scientific Officer Dr Bill Love in 1997 to identify and generate high value pharmaceutical intellectual property.
+It is headquartered at the Sussex Innovation Centre at The University of Sussex in Brighton UK.
+Additional 3 million investment from CMS and signing of CMS collaboration IPO raises 15.3 million Our history Completion of successful XF73 study in US demonstrates significant nasal decolonisation QIDP awarded by FDA to lead asset XF73 to prevent postsurgical infections US Department of Defense burns study highlights potential in dermal infections Phase 1 study demonstrates efficacy of XF73 in killing bacteria in volunteers
+1997  2003 Trading as contract research consultancy and performing inhouse research
+Financial statements Governance Strategic report Destiny Pharma plc Annual Report and Financial Statements 2017 03 0003 billion rewards and incentives to drive new drugs proposed 100 trillion global cost of resistance and 10 million lives by 2050 WHO names antibiotic resistance as a top global concern Antibiotic resistant bacteria pose a threat to public health and are of serious concern to the World Health Organization WHO.
+There is now a global imperative to put in place initiatives at all levels of society including stewardship new drug RandD diagnostics in both human and animal health to address antibiotic resistant bacteria in a concerted effort to counter the prediction of ten million deaths and an estimated 100 trillion cost by 2050.
+This was set out in Lord ONeills Independent Review on Antimicrobial Resistance AMR published in May 2016.
+In September 2016 the United Nations announced a recognition of the threat from AMR and the UN WHO the US Food and Agriculture Organization The World Organisation for Animal Health and Organisation for Economic Cooperation and Development are all planning to recommend actions to address this global problem which will be delivered at the 73rd UN General Assembly in 2018.
+The Hangzhou G20 Leaders Communiqu published on 20 May 2017 recognised the importance of reactivating the RandD pipeline through incentive mechanisms that avoid reliance on high pricevolume combinations and called on the WHO FAO OIE and OECD to collectively report back in 2017.
+The US Centers for Disease Control and Prevention confirm that each year in the US at least two million people become infected with bacteria that are resistant to antibiotics and at least 23000 die each year as a direct result of such infections.
+Bacteria have been shown to evolve to resist the new drugs that modern medicine uses to combat them.
+Indeed this was the case with penicillin one of the first antibiotics developed almost 100 years ago.
+However in recent years the rise in AMR has been a particular concern especially with the emergence of many different types of superbug.
+Methicillinresistant Staphylococcus aureus MRSA is one of the most prominent superbugs and a major cause of hospitalassociated infection and featured in the WHOs most dangerous list of superbugs published in 2017.
+The WHO followed US and European guidelines in 2016 by recommending the screening and decolonisation of MRSA and all strains of Staphylococcus aureus in presurgical patients undergoing highrisk surgeries in a step designed to help prevent such infections.
+This is the focus for Destiny Pharmas lead XF73 programme.
+Destiny Pharma is focused on the development of novel medicines that represent a new approach to the prevention and treatment of lifethreatening infections caused by antibiotic resistant bacteria often referred to as superbugs.
+The need for new antiinfective drugs A global imperative A study in the US in 2010 found that infections caused by the superbug methicillinresistant Staphylococcus aureus MRSA were more than twice as expensive to treat as infections caused by the easiertotreat methicillinsensitive Staphylococcus aureus MSSA.
+Source Filice GA Nyman JA Lexau C et al.
+Excess costs and utilization associated with methicillin resistance for patients with Staphylococcus aureus infection Infection Control and Hospital Epidemiology 2010 31 4.
+If not tackled rising AMR could have a devastating impact Resistant infections lead to higher death rates and are more expensive to treat to treat drugresistant infection
+Mortality rate
+24% 11.5% to treat drugsensitive infection
+By 2050 the death toll could be a staggering one person every three seconds if AMR is not tackled now.
+Source The Review on Antimicrobial Resistance Tackling drugresistant infections globally final report and recommendations May 2016.
+Destiny Pharma plc Annual Report and Financial Statements 2017 04 Tackling AMR is now recognised as a high priority at a national and global level.
+With an increasing number of hospitalbased medical procedures being carried out across the world there is a specific need for improved patient care regarding hospital infections.
+This should deliver both better outcomes for patients and a reduction in the increasing costs of postoperative care incurred by hospitals governments and insurance companies.
+Steps are already being taken in this direction particularly in the US with the Generating Antibiotics Incentives Now GAIN Act and 21st Century Cures Act.
+Both of these propose incentives to spur development of new drugs including a more streamlined regulatory path to tackle AMR and also the Hospital Acquired Condition reduction programme which financially penalises the poorest performing US hospitals in terms of MRSA infection rates.
+The drive to tackle AMR is receiving global interest and priority with new specific sources of pull and push incentives including funding from IMI CarbX GAMRIF and potential pricing and reimbursement adjustments or market entry rewards to recognise the societal value that antibacterial drugs contribute.
+Destiny Pharma has a strong track record in attracting nondilutive funding from such sources with approximately 4.5 million received to date and will continue to seek similar nondilutive funding to assist in financing its pipeline.
+Destiny Pharmas XF73 pipeline could contribute to addressing the cost of antibiotic resistant bacteria and the company has been invited to participate in groups that are discussing the problem and developing solutions.
+The company is represented at the Wellcome Trust Global AMR Clinical Trials Network team examining potential for clinical networks for antibacterial drug development alongside the FDA BARDA EMA WT CDC NIAID and other industry leaders in AMR.
+Dr Bill Love was appointed by Professor Dame Sally Davies UK Chief Medical Officer Department of Health to the Expert Advisory Board of the Global AntiMicrobial Resistance Innovation Fund in November 2016.
+The company is also a founder member of the BEAM Alliance set up in 2015 and representing and promoting the interests of more than 40 European biotech companies in the area of antibacterial drug development.
+Unless action is taken the ONeill report estimates AMR will cost the world an additional ten million lives a year by 2050 more than the number of people currently dying from cancer each year.
+The Review on Antimicrobial Resistance Chaired by Lord Jim ONeill December 2014 TACKLING DRUGRESISTANT INFECTIONS GLOBALLY FINAL REPORT AND
+THE REVIEW ON ANTIMICROBIAL RESISTANCE CHAIRED BY JIM ONEILL MAY 2016 Financial statements Governance Strategic report Destiny Pharma plc Annual Report and Financial Statements 2017 05 Infections caused by antibiotic resistant strains of bacteria continue to rise at an alarming rate and are of serious concern to the WHO.
+Many initiatives to spur the development and approval of new antibioticsantibacterial drugs are under consideration.
+The US government is particularly active in this area.
+Key initiatives in recent years are set out below Generating Antibiotic Incentives Now GAIN Act 2012 US Qualifying Infectious Disease Products QIDPs rapid review by FDA and five years of additional US market exclusivity.
+New Technology Addon Payment NTAP US New drugs may qualify for NTAP status which when granted can reimburse up to 50% of the new product cost to US hospitals.
+US Presidents 2016 Budget January 2015 1.2 billion proposed to specifically tackle antibiotic resistance a doubling of the budget.
+Independent Review on Antimicrobial Resistance May 2016 Predicts ten million deaths and 100 trillion cost of AMR globally by 2050 if not addressed.
+Recommends global fund to drive RandD and 1 billion market entry rewards for new drugs.
+United Nations September 2016 The UN recognises the threat from AMR and the UN General Assembly has for only the fourth time in its history published a directive on a healthcare issue requesting UN WHO FAO OIE and OECD to report on actions to address this global threat in 2018.
+21st Century Cures Act December 2016 US Instructs the FDA to enable approval of QIDPs in Limited Patient Populations which will allow more efficient clinical trial design and greater ease of drug approval for a limited label population.
+G20 Declaration May 2017 Recognised the importance of reactivating the RandD pipeline through incentive mechanisms that avoid the reliance on high pricevolume combinations and the need to promote prudent and responsible use of antimicrobials.
+In the Hangzhou G20 Leaders Communiqu G20 leaders called on the WHO FAO OIE and OECD to collectively report back in 2017.
+Davos announcement February 2018 1 billion rewards proposed at Davos 2018 for new antibiotics the study titled Revitalizing the Antibiotic Pipeline Stimulating Innovation while Driving Sustainable Use and Global Access was produced by an international group made up of 23 partners from big pharma academic institutions and public health organisations.
+The complementary measures laid out in the study cover 30 incentives on how to drive antibiotic innovation.
+Three primary solutions include Market entry reward for truly innovative antibiotics A 1 billion reward per antibiotic globally in addition to sales revenue could quadruple novel antibiotics over 30 years.
+Maximised antibiotic RandD environment An increase of 300 million or approximately 50% in government grant funding and RandD coordinators is needed to foster collaboration and fundamental research.
+Longterm governance The G20 through its recently announced Global RandD Collaboration Hub should implement a focused investment strategy and facilitate the above two points.
+A postantibiotic era means in effect an end to modern medicine as we know it.
+Things as common as strep throat or a childs scratched knee could once again kill.
+Dr Margaret Chan WHO Director General 2014 Global government support Supporting novel antiinfective development Destiny Pharma plc Annual Report and Financial Statements 2017 06 Global government support Supporting novel antiinfective development Novel patented technology The XF drug platform represents a new range of antimicrobial drug products which kill bacteria rapidly via a novel mechanism of action against which bacteria appear to be unable to mount a resistance Lower risk clinical stage lead asset Antiinfective drugs have a high probability of approval following a successful Phase 1 trial compared to many other drug classes Well funded after IPO to deliver strategy to 2020 Destiny Pharma can focus on delivering its key clinical targets Expert partner in place for China Asia markets China Medical Systems collaboration signed in December 2017 shows that the company can negotiate valuable commercial agreements
+The bacterial resistance profile means that XF drug products have the potential of a long product lifetime Access to nondilutive funding Destiny Pharma has already benefited from the alternative sources of funding available for the development of new antiinfective drugs as the US clinical trial was funded by NIAID New US disease indication The FDAs award of QIDP is confirmation of a new US indication for XF73 for the prevention of postsurgical staphylococcal infections Experienced team The executive team responsible for the management of Destiny Pharma has extensive experience appropriate for an AIM listed development phase biotechnology company The Directors believe Destiny Pharma has the following key strengths which underpin the companys strategy.
+Investment proposition Novel approach targeting  billion global markets Financial statements Governance Strategic report Destiny Pharma plc Annual Report and Financial Statements 2017 07 Collaborate
+Commercialisation with partners
+Expand IP
+Partners collaborators Grants and nondilutive funding
+Research projects
+Funding
+XF drug platform
+Whilst Destiny Pharma takes great care to assess the needs of the clinician in the antiinfectives sector it also investigates the commercial markets looking at potential market volumes and also pricing implications.
+The reports produced guide the portfolio review and the selection of target indications.
+Destiny Pharma is looking to partner later stage projects with expert sales and marketing pharma or specialty pharma companies who can advise on the later stage clinical trials and carry out product launches and sales to maximise value creation.
+These may be territory rather than multimarketglobal deals.
+Destiny
+Pharma has already completed one regional collaboration with China Medical Systems.
+Funding
+Destiny Pharma has a track record of raising funds in both private and public markets.
+The company has also won grants and other nondilutive funding awards.
+Destiny
+Pharma is well funded through to 2020 and will continue to seek nondilutive funding and partnerships that may generate cash income andor bring funding support to collaborative projects.
+If additional projects are defined that need additional funds then Destiny Pharma can also consider using its listed status to attract funding support.
+Focus
+Destiny Pharma is committed to developing new drugs that will be a significant improvement on current antiinfectives and that will be part of the global project to address
+Destiny Pharma does not intend to build a sales and marketing infrastructure so will keep its focus as a drug development engine in its chosen therapeutic areas.
+Destiny
+Pharma has already proven it can develop intellectual property identify lead candidates and bring selected compounds through early testing to be ready for late stage Phase 2b clinical trials.
+Collaborations
+Destiny Pharma owns the XF platform but is committed to reach out and work with sector specialists at all stages of the drug research and clinical development process if such collaborations will advance projects and deliver shareholder value.
+These could include university research partnerships formulation development or projects examining XF drugs interaction with other antiinfectives or potentiation mechanisms.
+Destiny Pharma is well connected with expert groups across the world and will continue to explore such opportunities.
+Business model Building shareholder value through drug development Using a flexible virtual model to create novel IP and clinical data packages.
+Destiny Pharma plc Annual Report and Financial Statements 2017 08 Our business model in action.
+Regional collaboration signed in 2017 Regional development and commercialisation agreement finalised with China Medical System Holdings Limited CMS This is an important first collaboration for Destiny Pharma and supports the potential of the pipeline.
+Since signing the deal in December 2017 the parties have held a meeting at CMS headquarters in Shenzhen China and have commenced discussions through the Steering Committee on potential projects that can be progressed under the agreement.
+CMS is a Hong Kong listed company valued at over US3.5 billion.
+Highlights
+We are pleased at the opportunity to work with Destiny Pharma coordinating and sharing the data that we both generate.
+Our equity investment in the company underpins our commitment to this partnership.
+We look forward to collaborating closely.
+Mr Lam Kong Chairman and Chief Executive Officer of CMS Strategic partnership grants CMS full rights to Destiny Pharmas pipeline of drug candidates in China and certain other Asian countries excluding Japan.
+CMS will carry out all research and development required in their territories and both parties will share data and coordinate development plans.
+CMS will be responsible for the commercialisation of the drug candidates in their territories.
+Destiny Pharma will make a manufacturing margin on any product the company supplies and will also receive a commercial milestone payment subject to the applicable sales milestones being met by CMS.
+A Joint Steering Committee will be established to coordinate the collaboration.
+Appointment of Dr Huaizheng Peng General Manager of International Operations at CMS to Destiny Pharmas Board of Directors.
+Agreement further validates the potential of Destiny Pharmas novel pipeline and platform technology.
+Financial statements Governance Strategic report Destiny Pharma plc Annual Report and Financial Statements 2017 09 Destiny Pharmas strategic aim is to become one of the worlds leading developers of novel antiinfective drugs.
+The Board is committed to progressing the Destiny Pharma pipeline with the goal of delivering better drug treatments for patients and creating significant value for shareholders.
+The company is part of a network of biotech and pharma companies working in this sector and will continue to consider partnerships and licensing opportunities where appropriate.
+Destiny Pharma plans to generate income and shareholder value by the clinical development and commercial exploitation of its proprietary highly innovative antibacterial drug platform the XF drug series.
+The XF drug platform is being developed to prevent and treat existing and emerging superbug infections within and outside of hospitals.
+The companys intellectual property is already well established with 94 granted and three pending patents within three patent families covering composition of matter novel mechanism of action and bacterial biofilm action.
+The company has plans to develop and commercialise its pipeline.
+Therefore while Destiny Pharmas strategy is to develop robust clinical packages around its drug candidates that make them attractive to pharmaceutical companies to license the company believes it can potentially continue to build value through conducting late stage clinical development itself ensuring a licensing deal need only be struck at the right time and on optimal terms for its shareholders.
+Additionally while the market for the lead asset XF73 is initially in the US the need for such a new treatment is global and Destiny Pharma also has the ability to enter into licensing agreements and collaborations for other territories in due course.
+For example the agreement with CMS is a broad collaboration to develop the companys assets in the ChinaAsia market.
+The company will also look to enter selected partnership to develop its earlier stage assets and apply for nondilutive sources of grant and governmental funding as it has done in the past to assist in the development of its portfolio.
+The Board believes that the increasing governmental pressure and financial incentives that are being implemented now and possibly in the future by leading institutions such as the WHO UN FDA and G7G20 will increase further the options available for profitable commercialisation and the generation of shareholder value.
+World Health Organization A n t i m ic r o b i a l r e s i s ta n ce increases the costs of health care When infections become resistant to firstline drugs more expensive therapies must be used.
+A longer duration of illness and treatment often in hospitals increases health care costs as well as the economic burden on families and societies.
+A n t i m ic r o b i a l r e s i s ta n ce jeopardizes health care gains to society The achievements of modern medicine are put at risk by antimicrobial resistance.
+Without effective antimicrobials for prevention and treatment of infections the success of organ transplantation cancer chemotherapy and major surgery would be compromised.
+Antimicrobial resistance Fact sheet N194 15 July 2015
+CEOs operational and strategic review XF73 is potent against all strains tested of Staphylococcus aureus including MRSAs killing the bacteria so rapidly that no bacterial resistance has been observed.
+Destiny Pharma plc Annual Report and Financial Statements 2017 10 The XF drug platform has a novel ultrarapid mechanism that reduces the chance of bacteria becoming resistant to its action.
+Destiny Pharmas XF platform has advantages over traditional antibiotics Antibiotic XF drug Ultrarapid bacterial kill within minutes MRSA unable to become resistant to drug action Potential for widespread use Kills all antibiotic resistant grampositive bacteria tested Kills any stage of bacterial growth  including bacterial biofilms FDA QIDP and Fast Track status The key potential benefits are significant Ultrarapid bacteria kill Studies have shown the XF drugs killing bacteria in vitro in less than 15 minutes faster acting than standard antibiotics currently in use.
+Ability to kill bacteria in any growth phase This is an important feature as bacteria are not always actively growing.
+XF drugs are able to kill bacteria even when dormant.
+Ability to kill bacteria within staphylococcal bacterial biofilms Biofilms are an increasing problem that are poorly treated by current drugs as they act as a protective barrier for bacteria.
+They are associated with indwelling medical devices for example heart valves and joint replacements and invasive medical devices for example catheters and endoscopes.
+Active against all grampositive bacteria tested to date and selected gramnegative bacteria This includes clinically important and infectioncausing strains such as Staphylococcus aureus Listeria monocytogenes Propionibacterium acnes Group G Streptococcus Mycobacterium tuberculosis Streptococcus pneumonia Bacillus anthracis Yersinia pestis Acinetobacter baumannii Pseudomonas aeruginosa and Clostridium difficile.
+All existing antibiotic resistant strains of grampositive bacteria tested to date are susceptible to XF drugs including MRSA.
+No bacterial MRSA resistance is seen to emerge No bacterial MRSA resistance was seen to emerge in a landmark in vitro study of bacterial resistance that compared XF73 to standard antibiotics currently in use.
+The bacteria MRSA did not demonstrate any resistance to XF73 even after 55 repeat exposures being the longest repeat exposure study published as far as the company is aware.
+In contrast MRSA rapidly developed significant resistance to a range of antibiotics tested.
+A second study using clinical bacterial samples from a clinical trial of XF73 provided the first clinical data supporting the same no resistance profile.
+The XF drugs can therefore potentially operate within existing antibiotic markets and may also be able to open new preventative and therapeutic drug markets that are closed to or restricted for traditional antibiotics because of the existence andor threat of AMR.
+This threat means that antibiotics have to be used sparingly to limit the development of bacterial resistance.
+Our platform XF drug platform has unique properties Financial statements Governance Strategic report Destiny Pharma plc Annual Report and Financial Statements 2017 11 Prevention of postsurgical staphylococcal infection Prevention of staphylococcal hospitalventilator pneumonia infection Treatment of skin burn wound infections of antibiotic resistant bacteria Treatment of bacterial biolmassociated infections eg cystic brosis
+Nasal
+XF73
+Throat
+XF70
+Dermal
+XF70
+Lung
+Preclinical Phase 1 Discovery Phase 2a Destiny Pharmas XF drug pipeline includes a number of preventative and therapeutic medicines at clinical and preclinical development stages and a portfolio of additional patentprotected assets available to enter inhouse development andor partnership collaborations.
+Our lead asset XF73 has started the next stage in its clinical development in April 2018.
+The plan is to complete the required Phase 1 studies and an important Phase 2b clinical study to deliver a Phase 3 ready data set later in 2019.
+Earlier pipeline assets will also be developed and the company aims to bring one other programme to Phase 1 by the end of 2019.
+Our pipeline Destiny Pharma is focused on markets restricted or blocked by antibiotic resistance CEOs operational and strategic review continued Destiny Pharma plc Annual Report and Financial Statements 2017 12 Multi drugresistant Pseudomonas aeruginosa can be deadly for patients in critical care.
+An estimated 51000 healthcareassociated infections are caused by this bacteria in the United States each year.
+Clinical data from the XF73 nasal programme is strong Following a review of clinical trial data on XF73 exeporfinium chloride it was awarded Qualifying Infectious Disease Product QIDP status in October 2015 by the FDA.
+Within the QIDP award the FDA also confirmed a new US disease indication for XF73 namely the prevention of postsurgical staphylococcal infections including
+This represents a new US market for which no existing product is approved.
+QIDP status identifies XF73 as a drug that is intended to treat serious or lifethreatening infections including those caused by antibiotic resistant pathogens.
+Destiny Pharma has completed five successful Phase 12a clinical trials with XF73.
+The most recent trial was conducted in the US and was funded by the US governments expert division on antimicrobial drugs the National Institute for Allergy and Infectious Diseases NIAID who reported the successful outcome from this trial in September 2016.
+In Europe and the US the company has completed five successful Phase 1 studies.
+These trials in addition to the latest US trial have provided the following data supporting an attractive new product profile for XF73.
+The recent US study shows the potential of XF73 appropriate clinical safety profile well tolerated at multiple doses no drug exposure in the bloodstream rapid antistaphylococcal action in the nose and antibacterial efficacy statistically demonstrated over placebo.
+Estimated hospital Staphylococcus aureus assay detection threshold SQ  1 line Mean SQ Score log approx
+Day 0 Day 1 Day 6 2% 2mg XF73 Source Data from latest US clinical trial DMID 11 0007.
+Press release 5 September 2016.
+Staphylococcus aureus load after 0 1 and 5 days dosing Financial statements Governance Strategic report Destiny Pharma plc Annual Report and Financial Statements 2017 13 The medical need to combat surgical infections is significant Patient carriage of Staphylococcus aureus strains including MRSA is recognised as a growing problem and the testing of patients entering hospital for surgery is widespread in many countries including the US.
+Landmark outcome studies Bode et al 2010 have demonstrated that reduction of all strains of Staphylococcus aureus can significantly reduce the postsurgical infection rate by 60% and reduce mortality.
+In response to these and other findings in February 2013 the US Surgical Infection Society SIS the Society for Hospital Epidemiologists of America SHEA the Infectious Disease Society of America IDSA and the American Society of Hospital Pharmacists ASHP published new guidelines recommending that in the US all Staphylococcus aureus including MRSA should be decolonised in all cardiovascular and most orthopaedic surgeries.
+This represents a five to tenfold increase in the market size for Staphylococcus aureus decolonisation in the US.
+In 2014 AHRQIDSASHEA recommended an even more aggressive treatment strategy Universal Decolonisation UD of all intensive care unit ICU patients without screening awarding a Grade I highest level of evidence rating.
+US hospital groups including the Hospital Corporation of America are now implementing UD for all patients entering the ICU.
+This market has a potential patient population of over eight million people in the US alone.
+UD of ICU patients represents a potentially attractive line extension for XF73 where its rapid antibacterial action and attractive resistance profile could enable this preventative measure into the future.
+In Europe similar guidelines exist recommending decolonisation of Staphylococcus aureus positive patients prior to certain surgeries.
+The antibiotic mupirocin is often used offlabel in the US for these applications although it has two key disadvantages in that it is slow acting requiring five days of dosing and staphylococcal resistance to mupirocin can develop rapidly and become widespread.
+Consequently many guidelines are accompanied with a resistance warning related to mupirocin use.
+In 2016 the WHO published its Global Guidelines for the Prevention of Surgical Site Infection which now too recommend the screening and decolonisation of all Staphylococcus aureus strains presurgery in high risk surgeries.
+It is therefore apparent that there has been a move from screening and treatment of just MRSA carriage in patient populations to also now include all Staphylococcus aureus strains MRSA and MSSA an approximate five to tenfold increase in the number of patients who can benefit.
+Up to 60% USA Europe China Japan Australia Africa Latin America 32% 29% Up to 60% Up to 43% 72% 80% CEOs operational and strategic review continued XF73 is well positioned to be the first licensed drug in the USA for the prevention of postsurgical staphylococcal infection WHO Guidelines for the Prevention of Surgical Site
+Staphylococcus aureus Major cause of hospital infection globally Destiny Pharma plc Annual Report and Financial Statements 2017 14 The commercial opportunity for XF73 is over a billion dollars There is a significant market for a new drug that can assist in the prevention of postsurgical staphylococcal infections particularly in the US.
+There are approximately 40 million surgeries per year in the US alone all of which expose patients to the risk of postsurgical infections.
+Of these patients Destiny Pharma estimates that 14 million are at a higher risk of infection as a result of the nature of their surgery and the environment in which they are treated.
+These estimates are based on a variety of sources including the Office of National Statistics ONS National Health Service NHS data and various medical articles and journals.
+Therefore including the potential future use of XF73 within the ICU the company believes markets totalling at least 20 million patients per annum exist in the US alone.
+The market analysis undertaken by Destiny Pharma and its specialist consultants supports the view that XF73 could achieve annual peak sales in the US alone of over 1 billion and peak sales in Europe and the Rest of the World could be 500 million for the initial indication of prevention of postsurgical staphylococcal infections alone.
+Destiny Pharma has undertaken independent market research of the product profile of XF73.
+This study reported that the sample of 66 US and EU treaters surgeons infectious disease specialists and ICU specialists and payers hospital medical directors pharmacy services directors microbiologists and clinical directors who were consulted confirmed that XF73s target product profile is superior when compared to mupirocin with the potential to replace mupirocin as the preferred treatment.
+Destiny Pharma believes that there is significant demand for the XF73 product and have identified the following additional drivers for adoption current practice guidelines have identified patient populations that can benefit while highlighting that antibiotic resistance as an issue with current products from 2017 US general acutecare and shortterm hospitals with the highest MRSA infections will have 1% of their Medicare reimbursements withheld on 20 September 2016 the UN General Assembly called for new drugs to tackle antibiotic resistance US hospital administrators are keen to reduce infection to ensure high ratings in rankings tables XF73 having QIDP approval benefits from five years of extra US market exclusivity XF73 could be the first drug approved into a new US indication with first to market advantages and XF73 has both QIDP and Fast Track regulatory status in the US.
+As XF73 is differentiated from antibiotics due to its superior bacterial resistance profile it is likely that its use can be widespread preserving antibiotic use and could potentially be used without the need for bacterial screening.
+In this aspect XF73 can be viewed as a preventative pharmaceutical more akin to vaccines than antibiotics.
+XF73 has the opportunity to become the first drug approved in the US for the new indication prevention of postsurgical staphylococcal infections and will only need to be compared to placebo at Phase 2b and 3 as no comparator exists and could become the benchmark against which all future wouldbe competitors will be measured.
+This is a major attribute and will help drive the clinical programme and also the commercialisation of XF73 in the US.
+Global peak annual sales of XF73 are projected at around 1.5 billion There are approximately 40 million surgeries per year in the US alone all of which expose patients to the risk of postsurgical infections Financial statements Governance Strategic report Destiny Pharma plc Annual Report and Financial Statements 2017 15 Destiny Pharma plans to continue to develop XF73 for the prevention of Staphylococcus aureus VAP.
+The use of an XF73 oral cavitythroat treatment to prevent VAP together with the potential for use of the product as an adjunct to nasal treatment in mechanically ventilated patients is an attractive opportunity.
+XF70 for the treatment of antibiotic resistant gram positive and gram negative bacterial burn wound infections In 2016 the global topical antibacterial market was estimated at 6 billion.
+Destiny Pharma has a strong preclinical in vitro and in vivo infection model data set which demonstrates the efficacy of topically applied XF drugs against gram positive and gram negative bacteria including MRSA Pseudomonas aeruginosa and Acinetobacter baumannii.
+In some cases unformulated XF drugs have been shown to be as active as existing marketed antibiotics.
+Destiny Pharma plans to develop XF70 towards a therapeutic dermal infection indication and will deliver a preclinical data pack that could support a wide range of indications including impetigo acne atopic dermatitis bacterial infected skin lacerations candida skinvaginal infection and treatment of serious bacterial burn wound infections.
+The company already has data supporting the efficacy in serious bacterial burn wound infection models in studies conducted in association with the US Department of Defense.
+Biofilm product opportunities Destiny Pharma was granted a US biofilm patent on 3 May 2016 and will seek to develop and exploit product opportunities including research collaborations based around this emerging market.
+XF73 and XF70 have shown the ability to act against Staphylococcus aureus within formed biofilms which are protective against traditional antibiotics.
+Bacterial biofilms are implicated in chronic and recurring infections and there is a growing understanding of their role and the value in developing treatments that can address this issue in tissue and medical device related infections.
+For example bacterial biofilm is implicated in chronic lung infection in conditions such as cystic fibrosis where Staphylococcus aureus including MRSA and Pseudomonas aeruginosa are the most common pathogens in this condition.
+Results already gained from early stage research have also identified product opportunities in Clostridium difficile and Pseudomonas aeruginosa infections and biothreat pathogens including anthrax anthrax spores and plague from joint studies with the Defence Science and Technology Laboratory and the US Department of
+This is an area of high priority for the US government with the ongoing threat from bioterrorism.
+CEOs operational and strategic review continued Exciting earlier pipeline of antiinfective programmes Several additional projects have been identified for the XF platform Destiny Pharma plans in the next two years to develop two additional products from its pipeline towards clinical development and to conduct earlier stage research work in respect of biofilm action.
+XF73 for the prevention of staphylococcal pneumonia in hospital patients There is a growing understanding of the link between patient carriage of Staphylococcus aureus with the risk of Staphylococcus aureus ventilatorassociated pneumonia
+Hospital acquired pneumonia HAP is a pulmonary infection that develops in patients hospitalised for more than 48 hours either in the ICU or in other hospital wards.
+VAP is a subset of HAP that occurs in mechanically ventilated patients more than 48 hours after tracheal intubation.
+VAP accounts for approximately 90%.
+ICU patients who receive mechanical ventilation.
+The crude inhospital mortality rate of patients with Staphylococcus aureus infection with MRSA and MSSA are similar between 29% and 36% while costs for MRSA VAP are on average 40734 per patient and the costs for MSSA VAP are 36523 per patient.
+Staphylococcus aureus is the leading cause of VAP in Europe and ranks alongside Pseudomonas aeruginosa as the greatest cause of VAP in US hospitals.
+There are over 1.7 million mechanically ventilated patients in the US each year who could benefit from preventative treatment.
+There are up to 300000 VAPs per annum in the US which cost up to 1.5 billion each year to treat.
+A biofilm is an extracellular matrix of exopolysaccharides which bacteria form when in contact with a host tissue or indwelling medical device.
+Biofilms are notoriously resistant to antibiotic therapy they form an impenetrable barrier to antibiotics.
+Slower growth rate of bacteria in biofilms is fundamental to antibiotic resistance.
+Destiny Pharma plc Annual Report and Financial Statements 2017 16 Outlook The funds raised at the IPO will provide Destiny Pharma with the capital to develop its lead drug asset XF73 through the proposed US clinical Phase 2b programme delivering a robust package for partnering andor further development into Phase 3 which is the final stage of clinical development.
+The funds raised will also be used to develop new clinical candidates from its focused preclinical pipeline and to capitalise on the commercial opportunities including partnering and licensing.
+In the Boards opinion XF73 has the potential to break the commercial paradigm which besets antibiotics.
+Its no resistance characteristic enables widespread use unlike antibiotics where use is restricted due to the fear of AMR.
+As about a third of the population carry the infectioncausing bacteria Staphylococcus aureus asymptomatically and XF73 is designed to kill these bacteria in the patient ahead of surgery preventing postsurgical infection a large new market exists.
+The new indication has been recognised by the FDA through the QIDP status award.
+Destiny Pharma believes that XF73s preventative disease indication is similar to a vaccine approach and could lead to the majority of patients being treated prior to surgery.
+There are a number of drivers for the adoption of this approach including new guidelines and financial penalties for US hospitals with high MRSA infection rates.
+Additional assets from the XF drug platform will also be progressed in the areas of prevention and treatments for staphylococcal pneumonia serious bacterial burn wound infections and bacterial biofilm associated infections.
+Destiny Pharma will also establish a number of discovery stage research programmes through collaborations and where possible seek nondilutive funding support.
+Following the IPO and the completion of our CMS collaboration agreement the outlook for Destiny Pharma is strong and our team is committed to delivering our strategy and building value.
+Destiny Pharma has generated preliminary data on the potential for XF drugs to enhance existing antibiotic activity by coadministration and plans to extend these studies through research collaborations to determine if important antibiotic life can be reinvigorated and bacterial resistance combated.
+The company also plans to extend studies of the XF drug mechanism of action which may result in further optimisation and the ability to target microbial pathogens beyond bacteria and deliver new intellectual property.
+The Directors are keen to explore the possibility for accelerating progress on some of these earlier programmes by entering into strategic codevelopment partnerships with sector experts.
+Concurrently Destiny Pharma will continue to apply for nondilutive funding grants when suitable structures are available.
+It is also the companys intention to apply for US QIDP status for its other pipeline programmes.
+Financial statements Governance Strategic report Destiny Pharma plc Annual Report and Financial Statements 2017 17 The financial statements are presented for the year ended 31 December 2017.
+In January 2017 shareholders approved a series of corporate measures in preparation for the planned admission of the company to AIM.
+This included a bonus issue of shares from the share premium account whereby 499 new ordinary shares were issued for each ordinary share held effectively multiplying the number of shares in issue by 500 and dividing the value of each by The balance sheet was then restructured to enable Destiny Pharma to reregister as a public limited company a necessary precursor to flotation by capitalising the remaining share premium account into retained earnings.
+Destiny Pharma reregistered as a public limited company in August 2017.
+In September 2017 the company raised gross proceeds of 15.3 million in a placing with institutional and other investors and on 4 September 2017 the companys share capital was admitted to trading on the AIM market of the London Stock Exchange under the ticker DEST.
+The company raised a further 3.0 million in December 2017 at the time of entering into a regional cooperation and development agreement with CMS.
+Financial review
+The companys cash position is strong following the September 2017 IPO and our CMS collaboration.
+Destiny Pharma plc Annual Report and Financial Statements 2017 18 Revenue Destiny Pharma is a clinical stage research and development company and did not generate any revenue during the period.
+Administrative expenses Administrative expenses which excludes the sharebased payments charge of 0.7 million 2016 0.2 million during the period amounted to 2.5 million 2016 1.2 million.
+This includes 0.5 million 2016 nil of oneoff costs relating to the AIM flotation that have been taken through the statement of comprehensive income rather than offset against share premium.
+RandD costs totalling 0.8 million 2016 0.9 million reflect the relatively light scientific and clinical programme during the first eight months of the year.
+The RandD costs did begin to increase in the last four months of 2018 following the AIM flotation as the company started preparing for the increased activity planned in 2018.
+Taxation
+The companys research and development activities are eligible for the UK research and development small or mediumsized enterprise RandD tax credit scheme which provides additional taxation relief for qualifying expenditure on RandD activities with an option to surrender a portion of tax losses arising from qualifying activities in return for a cash payment from HM Revenue and Customs
+The company received a repayment of 0.2 million in respect of the RandD tax credit claimed in respect of the year ended 31 December 2016 and the RandD tax credit receivable in the balance sheet of 0.2 million is an estimate of the cash repayment the company expects to qualify for in respect of activities during the year ended 31 December 2017.
+However as at the date of this report these amounts have not yet been agreed with HMRC.
+Loss per share Basic and diluted loss per share for the year was 8.4 pence 2016 4.0 pence.
+Cash cash equivalents and term deposits The companys cash cash equivalents and term deposits at the year end totalled 16.7 million 2016 1.5 million.
+The net cash outflow from operating activities in 2017 was 2.2 million against an operating loss of 3.2 million with the major reconciling items being the noncash charge for sharebased payments of 0.7 million the RandD credit received of 0.2 million and other net movements in working capital of 0.1 million.
+Outlook
+The Board believes the company is well funded to execute on its business strategy and to progress its lead and followon programmes in 2018 and 2019.
+Financial statements Governance Strategic report Destiny Pharma plc Annual Report and Financial Statements 2017 19 Destiny Pharmas business is subject to a number of risks and uncertainties in common with other biotechnology companies operating in the field of drug research and development.
+Risk category Description
+Commercial risks which may have an impact on the companys ability to commercialise its products and deliver value to shareholders.
+OPERATIONAL
+Operational risks which may impact on the companys ability to deliver on its objectives.
+FINANCIAL
+Financial risks which may impact on the sustainability or liquidity of the company  affected by internal or external risks.
+Principal risk Category Mitigation Technical clinical or regulatory milestones may not be delivered successfully leading to delays changes or the abandonment of development programmes.
+There may also be changes in the regulatory environment that can impact the approval of clinical trials and product filings.
+These are inherent risks in drug development.
+To mitigate the risks the Scientific Advisory Board expert consultants and management will regularly review project progress industry guidelines and manage any issues.
+The company also works with expert regulatory consultants to monitor the latest regulations and planned changes to the regulatory environment.
+Clinical studies may not give the expected results leading to a requirement to run additional clinical trials at additional unexpected cost or programmes being delayed or abandoned.
+The company plans to develop a range of products to reduce reliance on its lead asset.
+Clinical trials are designed to ensure that meaningful and relevant data is produced.
+Trials are closely monitored to manage timelines and cash requirements.
+Inability to raise sufficient capital when needed may lead to delays reduction or abandoning development programmes.
+The AIM flotation in September 2017 provides a good cash runway through to 2020.
+The Board has put in place investor relations and partnering strategies that should support future cash requirements.
+The virtual business model maintains a low overhead base which allows some flexibility in managing spending commitments.
+Destiny Pharma may not be able to enter into partnering relationships for the commercialisation of its drug pipeline assets.
+A partnering strategy is in place to locate potential partners.
+The relationship with China Medical Systems represents the first such relationship.
+Other partnering activities are planned to enable Destiny Pharma to complete the right deal at the right time to deliver shareholder value.
+The Board manages such risks by maintaining a risk register which identifies risks prioritises them by likelihood and impact and records the actions needed to mitigate and monitor those risks.
+The Board is also prepared to act swiftly to formulate contingency plans to manage the situation if any risk materialises.
+Key risks are monitored by senior management on an ongoing basis and the risk register is reviewed regularly at Board meetings.
+Risks and uncertainties The principal risks and uncertainties identified by Destiny Pharma in the year ended 31 December 2017 are set out below Destiny Pharma plc Annual Report and Financial Statements 2017 20 Principal risk Category Mitigation Destiny Pharmas products may not generate market acceptance from the purchasers and decision makers who are the eventual users and buyers of the products.
+Destiny Pharma conducts commercial market analysis to ensure that development activities are directed towards viable markets.
+Destiny Pharma also has a network of key opinion leaders who assist with this ongoing review.
+The lack of an independent review of the research and development programmes to assess the positioning and potential of Destiny Pharmas pipelines could lead to the company funding projects with limited potential for value creation.
+A Scientific Advisory Board is being assembled to review all proposed projects.
+External key opinion leaders are regularly consulted.
+Independent market appraisals for products are conducted to ensure there is a market need.
+Dependence on key personnel the loss of whom through departure ill health or death may cause delays in delivering company strategy.
+The Board is working to ensure that there is no single point of failure and that the team has some capacity to provide resilience in such an eventuality.
+If Destiny Pharma is unable to obtain or maintain patent protection for its technology and products or if the scope of the patent protection is not sufficiently broad competitors could develop and commercialise similar technology and products which would materially affect the companys ability to successfully commercialise its technology and products.
+Destiny is exposed to additional intellectual property risks including infringement of intellectual property rights involvement in lawsuits and the inability to protect the confidentiality of its trade secrets which could have an adverse effect on the success of the company.
+Destiny works with expert intellectual property agents to ensure that the patent portfolio is managed to the highest standards.
+This includes developing new IP reviewing any potential competing IP and meeting regularly to discuss a longerterm IP strategy.
+The strategic report has been approved by the Board and signed on its behalf Neil Clark
+Chief Executive Officer
+11 April 2018 Financial statements Governance Strategic report Destiny Pharma plc Annual Report and Financial Statements 2017 21 Introduction to Corporate Governance As the company is listed on the AIM market of the London Stock Exchange it is not required to comply with the provisions of the UK Corporate Governance Code the Code.
+However the Board is committed to high standards of corporate governance and seeks to apply best practice as exemplified by the QCA Guidelines to the extent that it is appropriate for a company of Destiny Pharmas size and complexity.
+Board of Directors The Board is responsible for the direction and overall performance of the company with emphasis on policy and strategy financial results and major operational issues.
+During the year the Board comprised
+the Chief Executive Officer Chief
+Scientific Officer and Chief Financial Officer as Executive Directors and the Nonexecutive Chairman and at least two other Nonexecutive Directors who are independent of management a full list of the Directors who served during the year is set out in the Directors report on page 28 of this Annual Report.
+Appropriate Directors and officers liability insurance has been arranged by the company.
+Meetings of the Board of Directors The Board meets at least six times a year after all relevant information has been circulated in good time to discuss a formal scheduled agenda covering key areas of the companys affairs including research and development strategy and operational and financial performance.
+All members of the Board are expected to attend Board meetings which are scheduled in advance.
+Following admission to AIM all Directors have attended all Board and Committee meetings that they were eligible to attend.
+Audit Committee The Audit Committee was constituted on 4 September 2017 on admission to AIM and since then has comprised Peter Morgan chair Joe Eagle and Sir Nigel Rudd.
+The Audit Committee which meets at least twice a year is responsible for keeping under review the scope and results of the audit its cost effectiveness and the independence and objectivity of the auditor.
+Due to the size of the company there is currently no internal audit function although the Audit Committee has oversight responsibility for public reporting overall good governance and the companys internal controls.
+Other members of the Board as well as the auditor are invited to attend the Audit Committee meetings as and when appropriate and the Chair of the Committee also has a direct line of communication with the auditor.
+The Directors support high standards of corporate governance and have established a set of corporate governance principles which they regard as appropriate for the stage of development of the company.
+The Board
+Committee
+Nomination
+Committee
+Remuneration
+Committee
+Destiny Pharma plc Annual Report and Financial Statements 2017 22 Remuneration Committee The Remuneration Committee was constituted on 4 September 2017 on admission to AIM and since then has comprised Joe Eagle Chair Sir Nigel Rudd and Peter Morgan.
+The Remuneration Committee which meets at least twice a year is responsible for considering the remuneration packages for Executive Directors and the bonus and share option strategy for the company and making recommendations as appropriate.
+The Remuneration Committee works within the framework of a compensation policy approved by the Board.
+The Remuneration Committee is also responsible for reviewing the performance of the Executive Directors and ensuring that they are fairly and responsibly rewarded for their individual contributions to the companys overall performance.
+The Committees scope extends to all remuneration of Directors including bonus and share options.
+None of the Committee members has any daytoday responsibility for running the company and no Director participates in discussions about his own remuneration.
+Nomination Committee The Nomination Committee was constituted on 4 September 2017 on admission to AIM and since then has comprised Sir Nigel Rudd Chair Peter Morgan and Joe Eagle.
+The Nomination Committee meets at least twice a year is responsible for considering the composition and efficacy of the Board as a whole and for making recommendations as appropriate.
+During the year the Nomination Committee approved the appointment of Dr Huaizheng Peng to the Board.
+UK Bribery Act 2010 The Board has established a bribery policy to achieve compliance with the UK Bribery Act 2010 which came into effect on 1 July 2011.
+A training programme is in place for all Directors staff and contractors.
+Agreements with third parties contain statements that the company and its associates are required to adhere at all times to the UK Bribery Act 2010.
+Internal control The Board is responsible for the effectiveness of the companys internal control system and is supplied with information to enable it to discharge its duties.
+Internal control systems are designed to meet the particular needs of the company and to manage rather than eliminate the risk of failure to meet business objectives and can only provide reasonable and not absolute assurance against material misstatement or loss.
+Destiny Pharma plc Annual Report and Financial Statements 2017 Financial statements Governance Strategic report 23 The Board has a broad range of experience from senior leadership roles in life science investment and listed companies.
+Board of Directors Strong leadership Sir Nigel Rudd
+In 1982 Sir Nigel founded Williams Holdings one of the largest industrial holding companies in the United Kingdom until its demerger in November 2000 creating Chubb plc and Kidde plc.
+He was the nonexecutive chairman of Kidde plc until December 2003.
+He has been chairman of some of the largest companies in the UK including Invensys Pilkington Alliance Boots Heathrow formerly BAA and Pendragon plc.
+He was a director of Barclays plc for 13 years latterly as deputy chairman.
+He is currently chairman of BBA Aviation Meggitt plc and the UKs Business Growth Fund.
+Sir Nigel is a Fellow of the Institute of Chartered Accountants in England and Wales.
+Sir Nigel was knighted in 1996 for services to manufacturing.
+Dr William Love Founder and Chief Scientific Officer Dr Love was a senior scientist at Ciba GeigyNovartis focused on novel drug delivery technologies and involved in development of the worlds leading eyecare pharmaceutical
+In 1997 Dr Love founded Destiny Pharma and he is the coinventor of the XF drug platform.
+Dr Love was a founding member of the BEAM Alliance an EU SME group focused on promoting antimicrobial drug development.
+He is an expert advisory board member of Global AMR Innovation Fund appointed by Professor Dame Sally Davies in October 2016.
+Dr Love is the named inventor in more than 70 patents.
+He has experience in drug RandD from discovery and lead identification through preclinical development and into Phase 12 clinical development in the UK EU and US.
+Neil Clark
+Chief Executive Officer
+Mr Clark qualified as an accountant with PwC in Cambridge UK and worked for over ten years on a variety of national and international assignments in audit corporate finance and consultancy.
+In 1997 Mr Clark joined CeNeS Pharmaceuticals plc a venture capital backed private UK biotech company.
+Following the successful flotation of CeNeS in 1999 he was appointed CFO.
+In 2005 he became CEO and led the company through to its sale in 2008.
+Mr Clark then joined Ergomed in January 2009 and was CFO during its IPO in July 2014 until his move to be full time CEO of PrimeVigilance Ergomeds successful drug safety business in January 2016.
+Mr Clark is a Fellow of the Institute of Chartered Accountants in England and Wales and has a BSc in Bioscience from the University of Nottingham.
+Simon Sacerdoti Chief Financial Officer and Company Secretary Mr Sacerdoti qualified as a Chartered Accountant in 1997 with Levy Gee now part of RSM and subsequently spent time in the corporate finance teams at BDO and Ernst and Young.
+In 2007 Mr Sacerdoti joined Dowgate Financial Advisers a smallcap corporate finance boutique which specialised in
+In 2009 he became one of the four founding partners and AIM qualified executives of Cairn Financial Advisers.
+He is also one of the two founders and until 2015 was CFO COO of an innovative payments startup WeSwap where as well as strategic and general leadership he held specific responsibility for finance operations customer service compliance and fraudrisk management.
+Mr Sacerdoti is a Fellow of the Institute of Chartered Accountants in England and Wales and holds an MA in Mathematics from Balliol College Oxford.
+Destiny Pharma plc Annual Report and Financial Statements 2017 24 Joe Eagle Nonexecutive Director Mr Eagles early career was spent in product management and business development at Wellcome Group Pfizer and CibaGeigy culminating as marketing director at CibaGeigy Pharmaceuticals UK between 1981 and 1986.
+In 1986 he set up PPS Europe Limited an international prelaunch medical education and publishing services provider to the Pharmaceutical industry acting as chairman and chief executive officer.
+Following PPS Europe Ltds sale to Parexel US in 1999 Mr Eagle took the position of president of Medical Marketing Services at Parexel and served as a board director of Parexel International.
+Since 2008 Mr Eagle has been an angel investor in SMEs in various sectors.
+He has a BSc in Physiology and Biochemistry from the University of Southampton.
+Dr Huaizheng Peng Nonexecutive Director Dr Peng serves as general manager of International Operations for China Medical System Holdings a specialty pharmaceutical company listed on the Hong Kong Stock
+He also served as an independent nonexecutive director of China Medical System Holdings Ltd between 2007 and 2010.
+Dr Peng was a partner of Northland Bancorp a private equity firm.
+Before that he worked as a head of life sciences and as a director of corporate finance at Seymour Pierce a Londonbased investment bank and stockbroker.
+In addition he was a nonexecutive director of China Medstar an AIMlisted medical device company.
+Earlier in his career Dr Peng was a senior portfolio manager specialising in global life science and Asian technology investment at Reabourne Technology Investment Management Limited.
+Dr Peng received his Masters degree in medicine from Hunan Medical College now Central South University Xiangya School of Medicine in Changsha Hunan Province
+Dr Peng was awarded his PhD in molecular pathology from University College London Medical School London UK.
+Peter Morgan Nonexecutive Director Mr Morgans early career was spent in the pharmaceutical industry working as a product manager in the UK before moving to become managing director of a CibaGeigy now Novartis subsidiary in Scandinavia.
+Mr Morgan was a founding director of Beaufort Group Limited a business services company which provided support to pharmaceutical companies.
+From 2007 until 2015 Mr Morgan was a nonexecutive director of Oncimmune Limited a cancer diagnostics company which floated on AIM in 2016.
+Mr Morgan has advised many of the worlds top pharmaceutical companies including Amgen Bayer GSK Novartis Novo Nordisk Pfizer and Roche as well as Quintiles the worlds largest clinical research organisation.
+He has a BSc from the University of Nottingham and an MBA from London Business School.
+Destiny Pharma plc Annual Report and Financial Statements 2017 Financial statements Governance Strategic report 25 Directors remuneration report The Remuneration Committee of the Board of Directors is responsible for determining and reviewing compensation arrangements for all key management personnel regarded as the Executive Directors and officers of the company.
+The Remuneration Committee assesses the appropriateness of the nature and amount of emoluments of such officers on a periodic basis and is guided by an approved remuneration policy and takes into account relevant employment market conditions with the overall objective of ensuring maximum stakeholder benefit from the retention of a highquality Board and executive team.
+The Remuneration Committee additionally links part of key management remuneration to the companys financial and operational performance.
+Emoluments of Directors Details of the nature and amount of each element of the emoluments of each Director who served during the year ended 31 December 2017 were as follows Shortterm Post employee employment Other Total Total benefits benefits benefits 2017 2016 Sir Nigel Rudd 26667   26667 Neil Clark 213333 6667 6324 226324 Dr William Love 191515 13257 6618 211390 171636 Simon Sacerdoti 161423 3600 808 165831 56000 Joe Eagle 45333   45333 Peter Morgan 23813   23813 22375 Dr Huaizheng Peng 3333   3333 Howard Matthews 21321   21321 31982 Dr David Roblin 10656   10656 18312 David Scott 8148   8148 14825 Jemima Wade
+705542 23524 13750 742816 315130 1 Appointed during the year.
+Please refer to the Directors report on page 28 for further details.
+2 Resigned during the year.
+Please refer to the Directors report on page 28 for further details.
+Introduction
+Destiny Pharma plc Annual Report and Financial Statements 2017 26 Directors interests The interests of the Directors holding office at 31 December 2017 in the shares of the company are set out below 31 December 31 December 31 December Ordinary shares of 0.01 each 2017 2016 rebased Sir Nigel Rudd 1155000 1155000 2310 Neil Clark Dr William Love 6859500 6859500 13719 Simon Sacerdoti Joe Eagle 2269000 2269000 4538 Peter Morgan 1025500 1025500 2051 Dr Huaizheng Peng 1 Rebased to reflect bonus issue of shares  note 18.
+463000 of these ordinary shares are held by Sir Nigel directly and 35000 are held by Sir Nigels wife Lady Lesley Rudd.
+In addition Sir Nigel is the beneficial holder of 175000 ordinary shares registered to Rock Nominees Limited and 469000 ordinary shares in the name of City Partnership Nominee Limited.
+Lady
+Lesley Rudd is the beneficial owner of a further 13000 ordinary shares registered to Rock Nominees Limited.
+3 3667700 of these ordinary shares are held by Dr Love directly and 3191800 are held by his wife Carole Love.
+Options in the companys shares held by the Directors holding office at 31 December 2017 are set out below 31 December 31 December 31 December Share options 2017 2016 rebased Sir Nigel Rudd 486677 744000 1488 Neil Clark Dr William Love 765394 911500 1823 Simon Sacerdoti 418773 350000 700 Joe Eagle 1446476 1809000 3618 Peter Morgan 719962 906000 1812 Dr Huaizheng Peng 1 Rebased to reflect bonus issue of shares  note 18.
+The options are exercisable at various dates up to September 2027.
+The companys shares were admitted to trading on AIM on 4 September 2017.
+The market price of the companys shares at the end of the reporting period was 142.5 pence 2016 na and the range during period from admission to the end of reporting period was 114.5 pence to 235.0 pence 2016 na per share.
+Destiny Pharma plc Annual Report and Financial Statements 2017 Financial statements Governance Strategic report 27 Directors report The Directors present their report together with the audited accounts of Destiny Pharma plc the company.
+Results and dividends The loss after taxation for the year ended 31 December 2017 was 3.0 million 2016 1.3 million.
+Directors interests 31 December 2017 in the shares and share options of the company are shown in the Directors remuneration report on page 27.
+Financial instruments The companys principal financial instruments comprise cash balances term deposits and other payables and receivables that arise in the normal course of business.
+The risks associated with these financial instruments are disclosed in note 13.
+Research and development For details of the companys research and development please refer to the strategic report which forms part of this Annual Report.
+Future developments Further information regarding the future developments of the company is contained in the strategic report which forms part of this Annual Report.
+Directors liabilities Subject to the conditions set out in the Companies Act 2006 the company has arranged appropriate Directors and officers liability insurance to indemnify the Directors against liability in respect of proceedings brought by third parties.
+Such provisions remain in force at the date of this report.
+Disclosure of information to the auditor So far as each person who was a Director at the date of approving this report is aware there is no relevant audit information being information needed by the auditor in connection with preparing its report of which the auditor is unaware.
+Having made enquiries of fellow Directors each Director has taken all the steps that he ought to have taken as a Director in order to have made himself aware of any relevant audit information and to establish that the auditor is aware of that information.
+Reappointment of the auditor In accordance with section 489 of the Companies Act 2006 a resolution to reappoint Crowe Clark Whitehill LLP will be proposed at the next Annual General Meeting.
+Board committees Information on the Audit Remuneration and Nomination Committees is included in the corporate governance section of the Annual Report on pages 22 to 28.
+Annual General Meeting The Annual General Meeting will be held on 31 May 2018 as stated in the notice that accompanies this Annual Report.
+By order of the Board.
+Simon Sacerdoti Company Secretary 11 April 2018
+Those who served as Directors during the year are Sir Nigel Rudd Nonexecutive Chairman Neil Clark Chief Executive Officer appointed 20 January 2017 Dr William Love Founder and Chief Scientific Officer Simon Sacerdoti Chief Financial Officer Joe Eagle Nonexecutive Director Peter Morgan Nonexecutive Director Dr Huaizheng Peng Nonexecutive Director appointed 1 December 2017 Dr David Roblin Nonexecutive Director resigned 30 May 2017 David Scott Nonexecutive Director resigned 2 June 2017 Howard Matthews Nonexecutive Director resigned 24 August 2017 and Jemima Wade Nonexecutive Director resigned 24 August 2017.
+Destiny Pharma plc Annual Report and Financial Statements 2017 28 Statement of Directors responsibilities The Directors are responsible for preparing the Annual Report and the Financial Statements in accordance with applicable law and regulations.
+Company law requires the Directors to prepare financial statements for each financial year.
+Under that law the Directors have elected to prepare the financial statements in accordance with International Financial Reporting Standards IFRSs as adopted by the EU and applicable law.
+Under company law the Directors must not approve the financial statements unless they are satisfied that they give a true and fair view of the state of affairs of the company and of the profit or loss of the company for that period.
+In preparing these financial statements the Directors are required to select suitable accounting policies and then apply them consistently make judgements and accounting estimates that are reasonable and prudent state whether applicable accounting standards have been followed subject to any material departures disclosed and explained in the financial statements and prepare the financial statements on the going concern basis unless it is inappropriate to presume that the company will continue in business.
+The Directors are responsible for keeping adequate accounting records that are sufficient to show and explain the companys transactions and disclose with reasonable accuracy at any time the financial position of the company and enable them to ensure that the financial statements comply with the Companies Act 2006.
+They are also responsible for safeguarding the assets of the company and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+They are further responsible for ensuring that the strategic report and Directors report and other information included in the Annual Report and Financial Statements are prepared in accordance with applicable law in the United Kingdom.
+The maintenance and integrity of the Destiny Pharma plc website is the responsibility of the Directors the work carried out by the auditor does not involve the consideration of these matters and accordingly the auditor accepts no responsibility for any changes that may have occurred in the accounts since they were initially presented on the website.
+Legislation in the United Kingdom governing the preparation and dissemination of the accounts and the other information included in annual reports may differ from legislation in other jurisdictions.
+Financial statements Governance Strategic report Destiny Pharma plc Annual Report and Financial Statements 2017 Independent auditors report to the shareholders of Destiny Pharma plc
+We have audited the financial statements of Destiny Pharma plc for the year ended 31 December 2017 which comprise the statement of comprehensive income for the year ended 31 December 2017 the statement of financial position as at 31 December 2017 the statement of cash flows and statement of changes in equity for the year ended 31 December 2017 and the notes to the financial statements which include a summary of significant accounting policies and other explanatory information.
+The financial reporting framework that has been applied in the preparation of the company financial statements is applicable law and International Financial Reporting Standards IFRSs as adopted by the European Union.
+In our opinion the financial statements give a true and fair view of the state of the companys affairs as at 31 December 2017 and of the companys loss for the period then ended have been properly prepared in accordance with International Financial Reporting Standards as adopted by the European Union and the financial statements have been prepared in accordance with the requirements of the Companies Act 2006.
+Basis for opinion We conducted our audit in accordance with International Standards on Auditing UK ISAs UK and applicable law.
+Our responsibilities under those standards are further described in the auditors responsibilities for the audit of the financial statements section of our report.
+We are independent of the company in accordance with the ethical requirements that are relevant to our audit of the financial statements in the UK including the FRCs Ethical Standard and we have fulfilled our other ethical responsibilities in accordance with these requirements.
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+Conclusions relating to going concern We have nothing to report in respect of the following matters in relation to which ISAs UK require us to report to you when the Directors use of the going concern basis of accounting in the preparation of the financial statements is not appropriate or the Directors have not disclosed in the financial statements any identified material uncertainties that may cast significant doubt about the companys ability to continue to adopt the going concern basis of accounting for a period of at least twelve months from the date when the financial statements are authorised for issue.
+Overview of our audit approach
+In planning and performing our audit we applied the concept of materiality.
+An item is considered material if it could reasonably be expected to change the economic decisions of a user of the financial statements.
+We used the concept of materiality to both focus our testing and to evaluate the impact of misstatements identified.
+Based on our professional judgement we determined overall materiality for the company financial statements as a whole to be 84000 based on 5% of normalised loss before tax.
+We use a different level of materiality performance materiality to determine the extent of our testing for the audit of the financial statements.
+Performance materiality is set based on the audit materiality as adjusted for the judgements made as to the entity risk and our evaluation of the specific risk of each audit area having regard to the internal control environment.
+Where considered appropriate performance materiality may be reduced to a lower level such as for related party transactions and Directors remuneration.
+We agreed with the Audit Committee to report to it all identified errors in excess of 5000.
+Errors below that threshold would also be reported to it if in our opinion as auditor disclosure was required on qualitative grounds.
+Overview of the scope of our audit The companys operations are based in the UK at a one central operating location.
+The audit team visited this location and performed a full scope audit on the company.
+Key audit matters Key audit matters are those matters that in our professional judgement were of most significance in our audit of the financial statements of the current period and include the most significant assessed risks of material misstatement whether or not due to fraud that we identified.
+These matters included those which had the greatest effect on the overall audit strategy the allocation of resources in the audit and directing the efforts of the engagement team.
+These matters were addressed in the context of our audit of the financial statements as a whole and in forming our opinion thereon and we do not provide a separate opinion on these matters.
+This is not a complete list of all risks identified by our audit.
+Our audit procedures in relation to these matters were designed in the context of our audit opinion as a whole.
+They were not designed to enable us to express an opinion on these matters individually and we express no such opinion.
+Key audit matter Allocation of admission costs between equity and statement of comprehensive income The company incurred costs of approximately 1.37 million in connection with its placing and admission to AIM.
+The allocation of admission costs between equity and statement of comprehensive income involves a degree of judgement and the application of estimation methodologies which can be subjective.
+How the scope of our audit addressed the key audit matter We reviewed the methodology applied and resulting allocation of costs between equity and statement of comprehensive income and ensured that costs had been properly applied to share premium account.
+We tested a sample of invoices to ensure that the cost allocated to equity is only related to issuing new shares.
+We reviewed the general ledger to ensure that all relevant costs were charged to share premium.
+Destiny Pharma plc Annual Report and Financial Statements 2017 Other information The Directors are responsible for the other information.
+The other information comprises the information included in the Annual Report other than the financial statements and our auditors report thereon.
+Our opinion on the financial statements does not cover the other information and except to the extent otherwise explicitly stated in our report we do not express any form of assurance conclusion thereon.
+In connection with our audit of the financial statements our responsibility is to read the other information and in doing so consider whether the other information is materially inconsistent with the financial statements or our knowledge obtained in the audit or otherwise appears to be materially misstated.
+If we identify such material inconsistencies or apparent material misstatements we are required to determine whether there is a material misstatement in the financial statements or a material misstatement of the other information.
+If based on the work we have performed we conclude that there is a material misstatement of this other information we are required to report that fact.
+We have nothing to report in this regard.
+Opinion on other matter prescribed by the Companies Act 2006 In our opinion based on the work undertaken in the course of our audit the information given in the strategic report and the Directors report for the financial year for which the financial statements are prepared is consistent with the financial statements and the Directors report and strategic report have been prepared in accordance with applicable legal requirements.
+Matters on which we are required to report by exception In light of the knowledge and understanding of the company and its environment obtained in the course of the audit we have not identified material misstatements in the strategic report or the Directors report.
+We have nothing to report in respect of the following matters where the Companies Act 2006 requires us to report to you if in our opinion adequate accounting records have not been kept by the company or returns adequate for our audit have not been received from branches not visited by us or the financial statements are not in agreement with the accounting records and returns or certain disclosures of Directors remuneration specified by law are not made or we have not received all the information and explanations we require for our audit.
+Responsibilities of the Directors for the financial statements As explained more fully in the Directors responsibilities statement the Directors are responsible for the preparation of the financial statements and for being satisfied that they give a true and fair view and for such internal control as the directors determine is necessary to enable the preparation of financial statements that are free from material misstatement whether due to fraud or error.
+In preparing the financial statements the directors are responsible for assessing the companys ability to continue as a going concern disclosing as applicable matters related to going concern and using the going concern basis of accounting unless the directors either intend to liquidate the company or to cease operations or have no realistic alternative but to do so.
+Auditors responsibilities for the audit of the financial statements Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement whether due to fraud or error and to issue an auditors report that includes our opinion.
+Reasonable assurance is a high level of assurance but is not a guarantee that an audit conducted in accordance with ISAs UK will always detect a material misstatement when it exists.
+Misstatements can arise from fraud or error and are considered material if individually or in the aggregate they could reasonably be expected to influence the economic decisions of users taken on the basis of these financial statements.
+A further description of our responsibilities for the audit of the financial statements is located on the Financial Reporting Councils website at www. rc. iteauditorsresponsibilities.
+This description forms part of our auditors report.
+Use of our report This report is made solely to the companys members as a body in accordance with Chapter 3 of Part 16 of the Companies Act 2006.
+Our audit work has been undertaken so that we might state to the companys members those matters we are required to state to them in an auditors report and for no other purpose.
+To the fullest extent permitted by law we do not accept or assume responsibility to anyone other than the company and the companys members as a body for our audit work for this report or for the opinions we have formed.
+Stephen Bullock Senior Statutory Auditor for and on behalf of Crowe Clark Whitehill LLP Statutory Auditor London 11 April 2018 Financial statements Governance Strategic report Destiny Pharma plc Annual Report and Financial Statements 2017 Year ended Year ended 31 December 31 December 2017 2016
+Continuing operations
+Administrative expenses 6 2511871 1249035 Other operating income Share option charge 709979 200857 Operating loss 3221850 1449803 Finance income 3 10459 397 Loss before tax 3211391 1449406
+5 233908 191578 Loss and total comprehensive loss for the year from continuing operations 2977483 1257828 Loss per share pence
+Diluted
+Statement of comprehensive income For the year ended 31 December 2017 Destiny Pharma plc Annual Report and Financial Statements 2017 As at As at As at 31 December 31 December 1 Januarytel
+Assets
+Noncurrent assets Property plant and equipment 8 22313 1161 2500 Noncurrent assets 22313 1161 2500 Current assets Trade and other receivables 9 277126 216520 200879 Cash and cash equivalents 10 11724037 1481493 1118574
+59641  23210 Other financial assets 11 5000000 Current assets 17060804 1698013 1342663 Total assets 17083117 1699174 1345163 Equity and liabilities
+Calledup share capital Share premium 17292284 18335074 16984507 Retained earnings 1042268 16791296 15734325 Shareholders equity 16685642 1544416 1250802 Current liabilities Trade and other payables 13 397475 154758 94361 Current liabilities 397475 154758 94361 Total equity and liabilities 17083117 1699174 1345163 The financial statements accompanying policies and notes 1 to 19 forming an integral part of these financial statements were approved and authorised for issue by the Board on 11 April 2018 and were signed on its behalf by Neil Clark Simon Sacerdoti
+Chief Executive Officer
+Chief Financial Officer Statement of financial position As at 31 December 2017 Financial statements Governance Strategic report Destiny Pharma plc Annual Report and Financial Statements 2017 Statement of changes in equity For the year ended 31 December 2017 Calledup Share Retained share capital premium earnings Total 1 January 2016 620 16984507 15734325 1250802 Issue of share capital 18 1350567  1350585 Total comprehensive loss 1257828 1257828 Share option charge 200857 200857 31 December 2016 638 18335074 16791296 1544416 Reduction of capital note 18 18016532 18016532 Bonus issue of shares note 18 318542 318542 Issue of share capital 116446 18165573  18282019 Cost of share issue 873289  873289 Total comprehensive loss 2977483 3737478 Share option charge 709979 709979 31 December 2017 435626 17292284 1042268 16685642 Destiny Pharma plc Annual Report and Financial Statements 2017 Statement of cash flows For the year ended 31 December 2017 Year ended Year ended 31 December 31 December 2017 2016 Cash flows from operating activities Loss before income tax 3211391 1449406 Depreciation charges 2077 1339 Share option charge 709979 200857 Finance income 10459 397 Increasedecrease in trade and other receivables 77935 17233 Increase in trade and other payables 242736 60397 Tax received 191578 181932 Net cash outflow from operating activities 2153415 988045 Cash flows from investing activities Purchase of tangible fixed assets Purchase of other financial assets Interest received 10459 396 Net cash outflow from investing activities 5012771 396 Cash flows from financing activities New shares issued net of issue costs 17408730 1350568 Net cash inflow from financing activities 17408730 1350568 Net increase in cash and cash equivalents 10242544 362919 Cash and cash equivalents at the beginning of the year 1481493 1118574 Cash and cash equivalents at the end of the year 11724037 1481493 Financial statements Governance Strategic report Destiny Pharma plc Annual Report and Financial Statements 2017 Notes to the financial statements Accounting policies General information Destiny Pharma plc the company was incorporated and domiciled in the UK on 4 March 1996 with registration number The companys registered office is located at Unit 36 Sussex Innovation Centre Science Park Square Falmer Brighton BN1 9SB.
+The company is engaged in the discovery development and commercialisation of new antimicrobials that have unique properties to improve outcomes for patients and the delivery of medical care into the future.
+Basis of preparation The financial statements have been prepared in accordance with International Financial Reporting Standards IFRSs as adopted by the European Union.
+The financial statements have been prepared under the historical cost convention.
+The companys financial statements have been presented in pound sterling GBP being the functional and presentation currency of the company.
+Standards and interpretations issued but not yet applied At the date of authorisation of the companys financial statements certain new standards amendments and interpretations to existing standards have been published by the International Accounting Standards Board but are not yet effective and have not been adopted early by the either the company.
+All relevant standards amendments and interpretations to existing standards will be adopted in the companys accounting policies in the first period beginning on or after the effective date of the relevant pronouncement.
+The Directors do not anticipate that the adoption of these standards amendments and interpretations will have a material impact on the companys financial statements in the periods of initial application.
+Segment reporting The chief operating decisionmaker is considered to be the Board of Directors of the company.
+The chief operating decisionmaker allocates resources and assesses performance of the business and other activities at the operating segment level.
+The chief operating decisionmaker has determined that the company has one operating segment the development and commercialisation of pharmaceutical formulations.
+All activities take place in the United Kingdom.
+Financial instruments Financial assets and financial liabilities are recognised when the company becomes a party to the contractual provisions of the instrument.
+The company currently does not use derivative financial instruments to manage or hedge financial exposures or liabilities.
+Financial assets and financial liabilities are initially measured at transaction price.
+Transaction costs that are directly attributable to the acquisition or issue of financial assets and financial liabilities other than financial assets and financial liabilities at fair value through profit or loss are added to or deducted from the fair value of the financial assets or financial liabilities as appropriate on initial recognition.
+Cash and cash equivalents Bank balances and cash in the statement of financial position comprise cash at banks and on hand.
+Trade and other receivables and payables Trade and other receivables and payables are initially recognised at fair value.
+Fair value is considered to be the original invoice amount discounted where material for shortterm receivables and payables.
+Longterm receivables and payables are measured at amortised cost using the effective interest rate method.
+Where receivables are denominated in a foreign currency retranslation is made in accordance with the foreign currency accounting policy.
+Destiny Pharma plc Annual Report and Financial Statements 2017 Derecognition of financial assets and liabilities a Financial assets A financial asset is derecognised where the right to receive cash flows from the asset has expired the company retains the right to receive cash flows from the asset but has assumed an obligation to pay them in full without material delay to a third party under a passthrough arrangement or the company has transferred the rights to receive cash flows from the asset and i. ii. of the asset.
+A financial liability is derecognised when the obligation under the liability is discharged or cancelled or expires.
+Where an existing financial liability is replaced by another from the same lender on substantially different terms or the terms of an existing liability are substantially modified such an exchange or modification is treated as a derecognition of the original liability and the recognition of a new liability and the difference in the respective carrying amounts is recognised in the statement of comprehensive income.
+Impairment of financial assets Financial assets are assessed for indicators of impairment at the end of the reporting period.
+Financial assets are considered to be impaired when there is objective evidence that as a result of one or more events that occurred after the initial recognition of the financial asset the estimated future cash flows of the investment have been affected.
+Sharebased payments Employees including Directors and senior executives of the company receive remuneration in the form of sharebased payment transactions whereby these individuals render services as consideration for equity instruments equitysettled transactions.
+These individuals are granted share option rights approved by the Board.
+No cashsettled awards have been made or are planned.
+The cost of equitysettled transactions is recognised together with a corresponding increase in equity over the period in which the performance andor service conditions are fulfilled ending on the date on which the relevant individuals become fully entitled to the award vesting point.
+The cumulative expense recognised for equitysettled transactions at each reporting date until the vesting date reflects the extent to which the vesting period has expired and the companys best estimate of the number of equity instruments and value that will ultimately vest.
+The statement of comprehensive income charge for the year represents the movement in the cumulative expense recognised as at the beginning and end of that period.
+The fair value of sharebased remuneration is determined at the date of grant and recognised as an expense in the statement of comprehensive income on a straightline basis over the vesting period taking account of the estimated number of shares that will vest.
+The fair value is determined by use of a BlackScholes model.
+Property plant and equipment Property plant and equipment are stated at cost less accumulated depreciation and impairment losses if any.
+The cost of an asset comprises its purchase price and any directly attributable costs of bringing the asset to its present working condition and location for its intended use.
+Depreciation is provided at the following annual rates in order to write off each asset over its estimated useful life plant and machinery  between two and ten years.
+Taxation
+Current taxes are based on the results shown in the financial statements and are calculated according to local tax rules using tax rates enacted or substantially enacted by the statement of financial position date.
+RandD tax credits are recognised on an accrual basis and are included as a current asset within trade and other receivables.
+Financial statements Governance Strategic report Destiny Pharma plc Annual Report and Financial Statements 2017 1.
+Accounting policies continued Research and development Development costs and expenditure on pure and applied research are charged to the profit and loss account in the year in which they are incurred.
+Expenditure incurred on the development of internally generated products is capitalised when Phase 3 trials are completed and regulatory approval is obtained.
+Foreign currency Transactions in foreign currencies are initially recorded using the functional currency rate ruling at the date of the transaction.
+Monetary assets and liabilities denominated in foreign currencies are retranslated at the functional currency rate of exchange ruling at the statement of financial position date.
+Any resulting exchange differences are included in the statement of comprehensive income.
+Pension costs Contributions are made to the personal pension plans of certain employees.
+The expenditure is charged to the profit and loss account in the period to which it relates.
+Going concern The company has not yet recorded any revenues and funds its operations through periodic capital issues.
+Management prepares detailed working capital forecasts which are reviewed by the Board on a regular basis.
+Cash flow forecasts and projections take into account sensitivities on receipts and costs.
+Having made relevant and appropriate enquiries including consideration of the companys current cash resources and the working capital forecasts the Directors have a reasonable expectation that the company will have adequate cash resources to continue to meet the requirements of the business for at least the next twelve months.
+Accordingly the Board continues to adopt the going concern basis in preparing the financial statements.
+Critical accounting judgements and key sources of estimation uncertainty In the application of the companys accounting policies the Directors are required to make judgements estimates and assumptions about the carrying amounts of assets and liabilities that are not readily apparent from other sources.
+The estimates and associated assumptions are based on historical experience and other factors that are considered to be relevant.
+Actual results may differ from these estimates.
+Estimates and underlying assumptions are reviewed on an ongoing basis.
+Revisions to accounting estimates are recognised in the period in which the estimate is revised if the revision affects only that period or in the period of the revision and future periods if the revision affects both current and future periods.
+The following critical judgements have been made by the Directors.
+Costs of share issue The company incurred incremental costs totalling 1.4 million in respect of the admission of its shares to trading on AIM and the associated issue of new shares.
+IAS 32 Financial Instruments Presentation requires the costs of issuing new shares be charged against the share premium account within equity.
+Management has reviewed the incremental costs to identify those incurred solely in issuing new shares those incurred in connection with the entire share capital and those not associated with issuing new shares at all.
+Those costs incurred in connection with the entire share capital have been apportioned to the issue of new shares by reference to the number of new shares compared to the entire share capital.
+As a result of this management has debited 0.9 million against share premium and charged the remaining 0.5 million to administrative expenses.
+Sharebased payments The Directors have to make judgements when deciding on the variables to apply in arriving at an appropriate valuation of sharebased compensation and similar awards including appropriate factors for volatility risk free interest rate and applicable future performance conditions and exercise patterns.
+Further details of these factors can be found in note 12.
+Notes to the financial statements continued Destiny Pharma plc Annual Report and Financial Statements 2017 2.
+Directors remuneration 31 December 31 December 2017 2016 Directors remuneration 705542 297982 Pension costs 23524 10681 Other benefits 13750 6468 Share option expense 644682 186571 The number of Directors to whom retirement benefits were accruing was as follows 31 December 31 December Defined contribution schemes The company defines key management personnel as the Directors of the company.
+Included in the above Directors remuneration amounts were paid to third parties for Directors services which are disclosed in note 17.
+Net finance income 31 December 31 December 2017 2016 Finance income Deposit account interest 10459 397 Loss before income tax The loss before income tax is stated after charging 31 December 31 December 2017 2016 Depreciation  owned assets 2077 1339 Auditors remuneration 22500 15259 Foreign exchange differences The company makes payments into both occupational pension and personal pension funds held by staff.
+The pension cost charge represents contributions payable by the company to the funds.
+The amount due to the fund at 31 December 2017 was 15532 2016 2082.
+Financial statements Governance Strategic report Destiny Pharma plc Annual Report and Financial Statements 2017 Notes to the financial statements continued Income tax 31 December 31 December 2017 2016 Research and development tax credits based on costs in the financial year 233908 191578 Tax reconciliation 31 December 31 December 2017 2016 Loss before tax 3221850 1449406 Loss before tax multiplied by the UK corporation tax rate of 20% 2016 20% 644370 289881 Effects of Nondeductible expenditure 99969 40171 RandD enhanced expenditure 132210 106432 Lower tax rate on RandD losses Tax losses carried forward Total tax credit on loss 233908 191578 There were no tax charges in the period.
+There are tax losses available to carry forward amounting to approximately 12.8 million 2016 10.8 million which includes 1.5 million 2016 1.4 million in respect of tax deductions on share options.
+A deferred tax asset on losses is not recognised in the accounts due to the uncertainty of future profits against which they will be utilised.
+Administrative expenses Administrative expenses include 31 December 31 December 2017 2016 Staff costs  research and development 432866 354721 other 578357 150571 Research and development costs 387455 496356 Costs of AIM admission not taken to equity
+2077 1339 Destiny Pharma plc Annual Report and Financial Statements 2017 7.
+Loss per ordinary share The calculation for loss per ordinary share basic and diluted for the relevant period is based on the earnings after income tax attributable to equity shareholders for the period.
+As the company made losses during the period there are no dilutive potential ordinary shares in issue and therefore basic and diluted loss per share are identical.
+The calculation is as follows 31 December 31 December 2017 2016 Loss for the year attributable to shareholders 2977483 1257828 Weighted average number of shares 35253765 62426 Bonus issue of shares in January 2017 see note 18
+35253765 31916590 Loss per share pence Basic and diluted Property plant and equipment Plant and machinery
+At 1 January 2016
+At 31 December 2016
+At 31 December 2017
+At 1 January 2016 Charge for the year At 31 December 2016 Charge for the year At 31 December 2017 Net book value At 1 January 2016 At 31 December 2016 At 31 December 2017 Trade and other receivables 31 December 31 December 1 Januarytel Other debtors 43218 24942 18947 Research and development tax repayment 233908 191578 181932 277126 216520 200879 Financial statements Governance Strategic report Destiny Pharma plc Annual Report and Financial Statements 2017 Notes to the financial statements continued Cash and cash equivalents 31 December 31 December 1 Januarytel Cash and bank balances 11724037 1481493 1118574 Other financial assets 31 December 31 December 1 Januarytel Term deposits with maturities greater than three months Share capital 31 December 31 December 2017 2016 Ordinary shares of 0.01 each Number Number
+Allotted and fully paid At 1 January 63836 61976 Bonus issue of shares during the year see note 18 Issued for cash during the year 11644598 1860 At 31 December 43562598 63836 1 During the year the company adopted new Articles of Association which do not require the company to have authorised share capital.
+31 December 31 December 1 Januarytel
+Allotted and fully paid 435December 31 December 1 Januarytel Share premium account 17292284 18335074 16974384 Each ordinary share ranks pari passu for voting rights dividends and distributions and return of capital on winding up.
+Destiny Pharma plc Annual Report and Financial Statements 2017 Share options The expense arising from sharebased payment transactions recognised in the year ended 31 December 2017 was 709979 year ended 31 December 2016 200857.
+The companys sharebased payment arrangements are summarised below.
+Share option schemes As part of its strategy for executive and key employee remuneration the company issued share options under two schemes established on 15 November 2000  an Unapproved Scheme and an EMI Scheme the Old Schemes.
+During 2017 the company established two new share option schemes  the LTIP Employee Scheme and the LTIP NonEmployee Scheme both of which were established on 18 April 2017 the New Schemes.
+Awards under the LTIP Employee Scheme are made to qualifying employees and in accordance with Schedule 5 of the Income Tax Earnings and Pensions Act 2003 so that provided awards are within the qualifying limits the awards qualify as EMI options.
+Any awards under the LTIP Employee Scheme which do not fall within the qualifying limits do not qualify as EMI options.
+Awards under the LTIP NonEmployee Scheme do not qualify as EMI options.
+The principal terms of the companys share option schemes are as follows Unapproved Scheme Options are granted at the discretion of the Directors.
+The price per share to be paid on exercise of an option will be the market value as agreed with the Share Valuation Division of HM Revenue and Customs at the time of the grant of the option and as detailed in the option certificate.
+Options may be exercised three years from the date of grant and lapse on the expiry of ten years from the date of grant of the option.
+EMI Scheme Options granted under the EMI Scheme are on substantially the same terms as options granted under the Unapproved Scheme save that the EMI Scheme rules comply with the terms of the enterprise management incentive as set out in Schedule 14 of the Finance Act 2000.
+Employee LTIP Scheme Options are granted at the discretion of the Directors to eligible employees in accordance with Schedule 5 of the Income Tax Earnings and Pensions Act 2003 up to the limits set out therein.
+The price per share to be paid on exercise of an Employee LTIP Option will be the market value as agreed with HMRC at the time of the grant of the option.
+Option lapse on the expiry of ten years from the date of grant the date specified in any leaver provisions or any other lapse date specified in the relevant option agreement.
+NonEmployee LTIP Scheme Options are granted on substantially similar terms to the Employee LTIP Scheme except that the EMI andor employment related provisions and requirements do not apply.
+These options can be granted to any Director of or individual providing consultancy or other services to the company.
+Modification of schemes and reconciliation of share options in issue During May and June 2017 modifications were made to the Old Schemes by issuing replacement options in the New Schemes to participants in the Old Schemes and new awards were subsequently made to individuals under the New Schemes.
+31 December 2017 31 December 2016
+Weighted
+Number of average Number of average options exercise price options exercise price Balance outstanding at beginning of year Granted during year 669305 0.01 372115 Options outstanding at end of year 6748823 0.062 6079518 Options exercisable at the end of the year On 23 January 2017 the company undertook a bonus issue of shares whereby 499 new ordinary shares were issued fully paid to the holders of each ordinary share by way of a partial capitalisation of share premium account.
+In addition as explained below some existing options where modified to reduce the number of options outstanding.
+Comparative figures have been adjusted to restate numbers and values of share options issued as if the bonus issue and modification had been in effect from 1 January 2016.
+Financial statements Governance Strategic report Destiny Pharma plc Annual Report and Financial Statements 2017 Notes to the financial statements continued Share capital continued Modification of existing options Options over 741000 shares granted under the Old EMI Scheme and over 103000 shares granted under the Old Unapproved Scheme were unchanged.
+The remaining options over 7004000 shares issued under the Old Schemes were modified so that to exercise the holders of such options now have the right to subscribe instead for an aggregate of 5235518 shares in the company.
+The number of such options and the exercise price of such options were determined by reference to the closing fair value of the ordinary shares on the day of modification.
+The modification of these options as described had a neutral effect on the option holders immediately before and after the amendment of the options.
+15696 share options were issued under the Old Schemes in the period to 31 December 2016.
+After adjusting for the bonus issue on 23 January 2017 7848000 share options had been issued prior to the modification at adjusted weighted average exercise prices of between 0.2484 and 1.4522.
+The estimated fair value of all share options at the modification date was calculated by applying a BlackScholes option pricing model.
+In the absence of a liquid market for the share capital of the company the expected volatility of its share price is difficult to calculate.
+Therefore the Directors considered the expected volatility used by listed entities in similar operating environments to calculate the expected volatility.
+The resulting incremental fair value was nil.
+The model inputs at the modification date were share price of 1.4522 exercise prices of between 0.2484 and 1.4522 per share expected volatility of 49% remaining contractual life of options of between 5.37 and 9.65 years riskfree interest rate of 1.4% and expected dividends of nil.
+Grants of options On 16 May 2017 172152 Employee LTIP EMI Options were granted to Neil Clark CEO and 78379 Employee LTIP EMI Options were granted to Simon Sacerdoti CFO.
+On 2 June 2017 172153 Employee LTIP NonEMI Options were granted to Mr Clark and 152848 EmployeeLTIP NonEMI Options were granted to Mr Sacerdoti.
+All of the options are exercisable at a price of 0.01 per ordinary share either on the first anniversary of issue or the first anniversary of Admission.
+The estimated fair value of share options granted under the New Schemes has been calculated by applying a BlackScholes option pricing model.
+In the absence of a liquid market for the share capital of the company the expected volatility of its share price is difficult to calculate.
+Therefore the Directors have considered the expected volatility used by listed entities in similar operating environments to calculate the expected volatility.
+The weighted average fair value of options granted in the period was 1.44 2016 0.64.
+The model inputs were 2017 2016 Share price 1.4522 1.08651.4522 Exercise price 0.01 1.08651.4522 Expected volatility 49% 49% Expected option life 10 years 10 years Risk free rate 1.4% 1.4% Expected dividends Nil Nil Destiny Pharma plc Annual Report and Financial Statements 2017 13.
+Trade and other payables 31 December 31 December 1 Januarytel Trade creditors 151582 57881 39155 Social security and other taxes 41110 17251 29508 Accrued expenses 189251 77543 25679 Pension contributions payable 15532 2082 397475 154757 94342 Financial instruments  risk management The company is exposed through its operations to credit risk and liquidity risk.
+In common with all other businesses the company is exposed to risks that arise from its use of financial instruments.
+This note describes the Directors objectives policies and processes for managing those risks and the methods used to measure them.
+Further quantitative information in respect of these risks is presented throughout these financial statements.
+Financial instruments Categories of financial instruments 31 December 31 December 1 Januarytel Financial assets Loans and receivables 16725402 1506417 1137521 Financial liabilities Financial liabilities measured at amortised cost 340825 135405 64852 Credit risk The companys credit risk arises from cash and cash equivalents with banks and financial institutions.
+For banks and financial institutions only independently rated parties with minimum rating AA3 or equivalent are accepted.
+Liquidity risk Liquidity risk arises from the Directors management of working capital and is the risk that the company will encounter difficulty in meeting its financial obligations as they fall due.
+Further details on the going concern basis of preparation are provided in note 1.
+Financial statements Governance Strategic report Destiny Pharma plc Annual Report and Financial Statements 2017 Notes to the financial statements continued Capital risk management The Directors objectives when managing capital are to safeguard the companys ability to continue as a going concern in order to provide returns for shareholders and benefits for other stakeholders and to maintain an optimal capital structure to reduce the cost of capital.
+At the date of these financial statements the company had been financed from shareholders.
+In the future the capital structure of the company is expected to consist of equity attributable to equity holders of the company comprising issued share capital and reserves.
+The company is not subject to any externally imposed capital requirements.
+Ultimate controlling party As no shareholder owns in excess of 50% of the total share capital of the company the Directors consider there to be no ultimate controlling party.
+Related party transactions The Cadmus Organisation Limited Cadmus During the period from the start of the year until his resignation as a Director of the company on 24 August 2017 21321 2016 32827 2015 38025 was paid to Cadmus for the services of Howard Matthews as Director.
+Sacerdoti Consulting Limited During the year 80000 2016 56429 2015 nil was paid to Sacerdoti Consulting Limited for the services of Simon Sacerdoti as a Director of the company.
+On 1 September 2017 Mr Sacerdoti became an employee of the company.
+The amount due to Sacerdoti Consulting Limited at 31 December 2017 was nil 2016 9600 2015 nil.
+For details of Directors remuneration please see the Directors remuneration report.
+Bonus issue of shares and capital reduction In January 2017 the company undertook a bonus issue of shares whereby in respect of each ordinary share in issue 499 ordinary shares were issued fully paid resulting in a transfer of 318542 from share premium to calledup share capital.
+On 26 January 2017 the company effected a reduction of capital whereby the outstanding balance on the share premium account amounting to 18016550 was transferred to the profit and loss reserve.
+Firsttime adoption of IFRS These financial statements for the year ended 31 December 2017 are the first the company has prepared in accordance with IFRS.
+For periods up to and including the year ended 31 December 2016 the company prepared its financial statements in accordance with the United Kingdom Accounting Standards UK GAAP.
+Accordingly the company has prepared financial statements which comply with IFRS applicable for periods ending on or after 31 December 2017 together with the comparative period data as at and for the year ended 31 December 2016.
+In preparing these financial statements the companys opening statement of financial position was prepared as at 1 January 2015 the companys date of transition to IFRS.
+There are no material adjustments made by the company in restating its UK GAAP statement of financial position as at 1 January 2016 and its previously published UK GAAP financial statements as at and for the year ended 31 December 2016.
+Destiny Pharma plc Annual Report and Financial Statements 2017 AIM The market of that name operated by the London Stock Exchange
+Antimicrobial resistance
+American Society of Hospital
+BARDA
+Biomedical Advanced Research and Development Authority
+A biopharmaceutical accelerator created as a partnership between a number of governmental and nongovernmental organisations to spur product development in the antibacterial field.
+CDC
+Centers for Disease Control
+China Medical System Holdings
+The CodeCorporate Governance
+The UK Corporate Governance Code published by the Financial Reporting Council as the same may be varied or amended The company Destiny Pharma plc
+European Medicines Agency
+Enterprise Management Incentive
+The European Union
+The Food and Agriculture Organization of the United States
+US Food and Drug Administration
+UK Generally Accepted Accounting Practice as published by the FRC applicable for periods prior to 1 January 2015
+Generating Antibiotics Incentives Now
+The Global AntoMicrobial Resistance Innovation Fund The G20 is an international forum for the governments and central bank governors which includes the EU and 19 other countries
+Hospitalacquired pneumonia
+Her Majestys Revenue and Customs
+Intensive care unit
+Infectious Disease Society of America
+International Financial Reporting Standards including International Accounting Standards
+The Innovative Medicines Initiative
+Investigational new drug  a temporary exemption from the FDAs requirement that a drug be the subject of an approved marketing application before being shipped across state lines
+Initial public offering London Stock Exchange London Stock Exchange plc
+Longterm incentive plan LTIP EMI Options The EMI approved options granted pursuant to the LTIP Employee
+LTIP Employee Scheme The LTIP EMI and nontax advantaged nonEMI share options scheme adopted by the company on 18 April 2017 for the benefit of Directors and employees LTIP NTA Employee Options The nontax advantaged options granted pursuant to the LTIP Employee
+MRSA
+Methicillinresistant Staphylococcus aureus
+Methicillinsusceptible Staphylococcus aureus
+National Health Service
+National Institute for Allergy and Infectious Diseases
+New Technologies Addon Payment
+The Organisation for Economic Cooperation and Development an intergovernmental economic organisation with 35 member countries
+Office Internationale des Epizooties also known as the World Organisation for Animal Health
+Office of National Statistics Ordinary shares The ordinary shares of 0.01 each in the capital of the company
+Qualifying Infectious Disease Product status granted by the FDA
+Research and development
+Society for Hospital Epidemiologists of America
+Surgical Infection Society
+Universal Decolonisation
+United Nations
+Ventilatorassociated pneumonia
+World Health Organization
+Wellcome Trust
+A molecule from the XF drug platform distinct from XF73
+Exeporfinium chloride
+Financial statements Governance Strategic report Destiny Pharma plc Annual Report and Financial Statements 2017 Corporate information Registered office Destiny Pharma plc Unit 36 Sussex Innovation Centre Science Park Square
+Brighton BN1 9SB Company number Website site Company Secretary Simon Sacerdoti Nominated adviser and joint broker Cantor Fitzgerald Europe One Churchill Place London E14 5RB Joint broker FinnCap Limited 60 New Broad Street London EC2M 1JJ
+Irwin Mitchell LLP 40 Holborn Viaduct London EC1N 2PZ
+Link Market Services Limited The Registry 34 Beckenham Road
+Kent BR3 4TU
+Crowe Clark Whitehill LLP St Brides House 10 Salisbury Square London EC4Y 8EH Public relations FTI Consulting 200 Aldersgate Aldersgate Street London EC1A 4HD Destiny Pharma plc Annual Report and Financial Statements 2017 Designed and produced by site The paper used in this report is produced using 100% post consumer de inked pulp recycled wood fibres with recycled certification.
+All pulps used are process chlorine free and manufactured at a mill that has been awarded the ISO 9001 ISO 14001 and FSC certificates for environmental management.
+This paper carries the NAPM 100% recycled mark and is FSC certified.
+The use of the FSC logo identifies products which contain wood from wellmanaged forests certified in accordance with the rules of the Forest Stewardship Council.
+Printed by Pureprint an FSC and ISO 14001 accredited company committed to all round excellence and improving environmental performance as an important part of its strategy.
+Destiny Pharma plc Sussex Innovation Centre Science Park Square

@@ -1,0 +1,1017 @@
+site Mirriad is a video technology company delivering invideo advertising by naturally blending brand advertising into popular entertainment content.
+Using sophisticated technologies Mirriad creates advertising opportunities within existing premium video across multiple shows.
+Advertisers can now reach very large target audiences in a contextually relevant way without interrupting the viewing experience.
+NATURAL
+ADVERTISING
+Our video technology naturally blends advertising into the video people love to watch.
+Highlights
+Financial highlights Revenue 000 874k 23% 17 27892 16 12172 15 7764 Net assets 000 27892k 129% EPS p 19p 6% 2017 operational highlights The Company was admitted to AIM following its successful IPO on 19 December raising 23.7 million net of costs The Group ran its largest single campaign in China in Q4 generating total impressions for the advertiser in excess of 800m The Group signed a landmark contract in the US with Univision in October The Group signed an extended term on its existing contract with Globosat in Brazil in September extending the term by a further five years from the start of the original contract The Companys granted patents increased to 11 with seven additional patents pending as at 31 December 2017.
+These cover the Companys core technology and are registered in a variety of territories including Europe and the US.
+A Chinese application was confirmed as pending in August Grant funding secured from EUREKA Eurostars for the Valence project in February total funding of 298k over the period of the grant
+Strategic report 01 Highlights 02 Mirriad at a glance 04 Chairmans statement 05 Chief Executives statement 07 Our strategy 08 Financial review 10 Risks and uncertainties Corporate governance 12 Board of Directors 14 Corporate governance report 16 Remuneration report 18 Directors report 19 Statement of Directors responsibilities Financial statements 20 Independent auditors report 24 Consolidated statement of profit or loss 24 Consolidated statement of comprehensive income 25 Consolidated and Company balance sheet 26 Consolidated statement of changes in equity 27 Company statement of changes in equity 28 Consolidated and Company statement of cash flows 29 Notes to the consolidated financial statements 60 Notice of Annual General Meeting IBC Company information Watch our 2018 showreel and stay up to date with the latest news and announcements on our new website The Strategic Report contained on pages 2 to 11 was approved by the Board on 9 May 2018.
+Mirriad Advertising plc Annual report and accounts 2017 STRATEGIC REPORT We deliver
+TECHNOLOGY
+Our offer allows advertisers to reach viewers when theyre emotionally engaged by embedding brand messaging in relevant premium content.
+Its a new easytoplan ad solution for reaching large target audiences and one that cannot be skipped or blocked.
+We use computervision algorithms to automatically track and analyse video and our algorithms use machinelearning techniques to automatically suggest ad locations.
+Standardised ad units Mirriad InVideo Advertising units are 10 seconds of quality exposure sold and measured on an audience basis.
+Each unit meets industry standards for exposure size and proportion exposure clarity duration proximity to action and prominence.
+Enterpriseclass platform The Mirriad InVideo Platform is our secure enterpriseclass platform that presents available ad inventory by audience ad unit impressions brand relevance flight frequency and budget.
+It provides a frictionless experience for planning buying and executing largescale campaigns across multiple shows and episodes.
+Genius technology Our Academy Awardwinning team has merged advanced video technology AI and an enterpriseclass platform to deliver the magic that is Mirriad InVideo Advertising.
+Mirriad at a glance Mirriad Advertising plc Annual report and accounts 2017 STRATEGIC REPORT Effective Hit brand KPIs by connecting with audiences when engaged with their favourite shows
+Plan buy and execute largescale campaigns with the same control as any other video ad
+Extend an advertising budget with yearround campaigns using existing collateral
+As part of the show ads cant be skipped or blocked on any screen
+Safely advertise in premium content perfectly relevant to an audience and a brand
+Execute stand alone or as part of an integrated campaign with minimal lead times We deliver benefits for
+Mirriad InVideo Advertising is a new solution for scalable ad campaigns that drive measurable value for brands Grow revenue Create new ad inventory from within existing premium content Engage viewers Deliver a better uninterrupted experience which viewers demand Reduce churn Keep viewers engaged with premium content Create inventory Offers existing advertisers more and new ones a fresh proposition Drive innovation Provide a lowoverhead technology solution thats easy to deploy and manage
+Offer premium invideo ad units that consistently deliver worldwide We deliver benefits for
+Our solution allows networks to generate new revenue from existing premium content without compromising audience enjoyment Mirriad Advertising plc Annual report and accounts 2017 Chairmans statement Roger Conant Faxon Nonexecutive Chairman number of employees increased from 74 to 91 as we continued to expand the Groups technology group and started to build out our marketing and product teams.
+We now have staff in place to serve our partners in China Shanghai Brazil So Paulo India Mumbai the United States New York and Europe London.
+To build efficiency each of these offices is linked to provide support to each other guided by the centre in London.
+I would like to express the gratitude of the Board to all our staff both longer serving and more recently joined who have contributed to the development of the business.
+I have been impressed with their dedication and hard work while we have been putting in place the conditions for future growth.
+The demands on the team are unlikely to lessen as we target growth in our key markets.
+Retention and recruitment will be key to the Groups future success.
+The Board is confident that the Company will be able to recruit the staff that will be needed to meet future challenges.
+Focus
+The Group is putting the foundations in place now to enable meaningful revenue growth in the future.
+This requires relentless focus and a need to remain on strategy.
+Developing large enterprise clients takes time and patience and requires the Group to remain flexible in how it serves their needs while continuing to assure the effectiveness of our business model.
+The Board is confident that the Group can scale revenues by ensuring that its key customers are provided with the transactional tools and training needed to facilitate invideo advertising.
+This is why the Group has spent considerable time and resource in developing a transactional tool which we call
+With relatively low levels of capital expenditure the development of Marketplace and the potential to demonstrate the impact of invideo advertising to broadcasters and digital distributors we are confident in the Groups ability to drive significant growth in the coming year and beyond.
+The Companys first public AGM will be held on 13 June 2018.
+Roger Conant Faxon Nonexecutive Chairman 9 May 2018 Delivering a new advertising solution at
+SCALE is our purpose I am delighted to present the first Annual Report and Accounts for Mirriad Advertising plc following the Companys successful admission to AIM on 19 December 2017.
+Key events As a result of the IPO the Company raised net proceeds of 23.7 million.
+The fundraise has empowered the Company to expand the Groups activities in its five target markets  China India the US Brazil and Germany  the worlds largest and fastest growing advertising markets.
+The funds raised in the IPO allow the Group to enter 2018 well capitalised with a strong balance sheet enabling the Group to credibly demonstrate longevity to its customers who are principally large digital distributors and broadcasters.
+The Group has made significant progress over the last few months since the IPO in rolling out its platform and technology with these customers which we believe will pave the way for revenue growth later in 2018 and beyond.
+In the last quarter of 2017 the Group delivered its single biggest campaign.
+On behalf of Tangeche a major Chinabased car leasing firm Mirriad embedded brand images and messages in over 200 episodes of video content over a five month period.
+This campaign both from its size and effectiveness is a clear example of the efficacy of Mirriads audience based model.
+The momentum has continued into the new year with the signing of two landmark contracts with Univision and NBCU in the North American market and renewing an important contract with YoukuAlibaba in the Chinese market.
+While the Groups contracts do not guarantee an immediate flow of revenue they are critical markers of future success.
+Our people People are our greatest asset and sit at the core of Mirriad.
+Our team of experts and specialists have developed all of our intellectual property our business processes and knowhow that form the basis for our unique proposition.
+Our proprietary technology gives us a competitive advantage in the advertising industry.
+As a consequence the majority of the Groups expenditure is on staff and staff related costs.
+During the year the average Mirriad Advertising plc Annual report and accounts 2017
+STRATEGIC REPORT Chief Executives statement
+Mark Sabin Tadeusz Popkiewicz Chief Executive Officer We have demonstrated the
+MARKETING
+POWER of invideo advertising Progress in 2017 focus and maturing technology Mirriads strategy has centred on three key areas the development of core technologies the development of an organisation capable of supporting large enterpriseclass customers and the deployment of the trading platform and associated invideo ad unit deemed essential to connect clients advertising budgets to the inventory we create and allow our business to scale.
+We have maintained our tight focus on the worlds largest and fastest growing advertising markets with high levels of video consumption.
+On that basis we have rebalanced our customer portfolio in favour of larger more dominant players in each respective market including AlibabaYouku NBCU RTL Group Globosat and others.
+We expect this focus to yield results in terms of revenues from the second half of 2018 and beyond as we deploy our platform and service model.
+We anticipate the number of customers under contract to show a small increase by the end of 2018 as current contractual negotiations complete.
+The value chain for invideo advertising involves three parties content producers distributors digital or broadcast and advertisersmedia agencies.
+Mirriads platform provides a marketplace for activity.
+The Groups business is principally based on contracting with distributors the primary sellers of the invideo advertising inventory and taking a share of revenue from resulting invideo advertising transactions.
+Mirriads revenue share generally averages approximately 20%.
+Our technologies are designed to make a complex problem simple Mirriad receives video content analyses it for advertising inventory makes it available to our customers to sell and ultimately fulfils the campaigns they have sold to media agencies and brands.
+As our technology has developed we have increasingly focused resources on the last steps in this process.
+2017 was an important year for technology developments as we solidified our capabilities for creating or predicting advertising inventory from premium entertainment content and naturally inserting realistic branded imagery into video at scale.
+Development work continued around the Marketplace platform which will enable key stakeholders such as content owners distributors and advertisers to transact.
+We also laid foundations for the 2017 was an important year for technology development.
+Mirriad Advertising plc Annual report and accounts 2017 05 Marketing effectiveness We ran the Groups largest campaign at the end of 2017 and into the beginning of 2018.
+Mirriad partnered with Youku Alibaba to create an invideo ad campaign for a leading Chinese car leasing company T angeche.
+The campaign embedded T angeches brand messages as ad units across more than 20 different shows over five months.
+This largescale campaign successfully reached the target audience and hit Tangeches awareness and consideration goals.
+We are delighted that the campaign results independently researched by Miaozhen Systems exceeded even our high expectations.
+The campaign delivered nearly 800 million impressions.
+At the end of the campaign almost 71% of the audience had seen the ads 72% of viewers thought that the inclusion of the brand in the shows made the scenes look more realistic and 94% of the target audience said they would take followup action with their intention to use the brand three times higher than before the campaign.
+We believe that the Tangeche campaign is an excellent example demonstrating the marketing power of InVideo advertising when delivered at scale.
+The future The path to success for Mirriad requires the Group to complete a number of steps.
+In 2017 and into the first half of 2018 we have concentrated on the first of those steps deploying our Marketplace platform and services as well as establishing the InVideo advertising unit through independent third party verification.
+This requires the organisation to onboard customer sales organisations at some of the worlds largest media companies and takes considerable time and effort.
+It also requires integration with third party systems either at the customer for core services or externally for third party verification and tracking of ad unit delivery.
+Both integration and onboarding are complex and time consuming but worthwhile initiatives each requiring agreement with and coordinated rollout with our customer organisations their clients and other third parties.
+Once the supply side of the model is operational our next step is to leverage demand for invideo advertising by driving demandside awareness of the product and its benefits to advertisers and clients.
+We do this through delivery of advertising effectiveness research executed locally and culminating in case studies on behalf of different brand categories.
+When demand is generated Mirriad has the technology and processes in place to fulfil transactions using Marketplace.
+The final step is to achieve scale in our target markets.
+Ultimately we believe we can drive scale in the business by establishing Mirriad InVideo Advertising as a media buying plan line item.
+It is also worth emphasising that Mirriad has planned capabilities to support programmatic buying and can provide personalisation depending on our distribution partners infrastructure.
+Mark Sabin Tadeusz Popkiewicz
+Chief Executive Officer
+9 May 2018 Progress in 2017 focus and maturing technology continued launch of an industry credible InVideo advertising unit capable of supporting media trading at scale a third party certified verifiable consistent currency in the form of an InVideo advertising unit is essential to market liquidity.
+The Company has been actively protecting its IP and currently holds 11 granted patents with more in process over 2017.
+Industry trends There continues to be significant publicity around the verification and value of advertising media with recent comments from both Marc Pritchard and Keith Weed respectively Chief Marketing Officers of Proctor and Gamble and Unilever the worlds largest two advertisers by spend.
+In 2017 Marc Pritchard said that We bombard consumers with thousands of ads a day subject them to endless ad load times interrupt their screens with popups and overpopulate their screens and feeds Were awfully busy but all of this activity is not breaking through the clutter.
+Its just creating more noise.
+While Keith Weed said at the IAB Annual Leadership Meeting in 2018 that Consumers dont care about good value for advertisers.
+But they do care when they see their brands being placed next to ads funding terror or exploiting children.
+Mirriad Ad Units are designed to address these issues and more bringing a new ad unit format to market requires a new metric that is transparent verifiable and validated by some of the most respected industry measurement companies.
+We have very recently announced the results of work we have been undertaking for over two years concerning the standardisation of the Mirriad advertising unit with comScore in the USA and Miaozhen Systems in China.
+This work is critical in enabling Mirriad InVideo Advertising to become a trading currency alongside other advertising products.
+The work in these two pivotal markets should drive more transactional liquidity between media owners and advertisers.
+In 2017 Mirriad solved the challenge of consistent delivery of the ad units by finalising the development of an automated measurement and gating technology called the Visual Impact Score VIS now integrated into the Marketplace platform.
+VIS solves a formidable problem by ensuring each instance of ad exposure meets thresholds known to drive effectiveness such as exposure size and proportion clarity proximity to action and prominence.
+Early in 2018 Mirriad commissioned independent research from global measurement company comScore which analysed a large statistically valid random sample of the new Mirriad ad units.
+The audit verified Mirriads VIS score with 98.5% of the tested ad units passing the independent audit.
+Full study results are available in a whitepaper on the Mirriad website site.
+So advertisers can now have independently verifiable certainty around the quality of each billable ad  essential in todays highly scrutinized world of value for money and data transparency especially in the two largest advertising markets in the world.
+Mirriad will continue working with multiple independent vendors of advertising measurement in securing further validation of the InVideo advertising unit construct and its effectiveness.
+Chief Executives statement continued Mirriad Advertising plc Annual report and accounts 2017 STRATEGIC REPORT A CLEAR STRATEGY FOR GROWTH Drive awareness and demand in our target markets We operate in the largest andor fastest growing advertising markets in the world namely the USA China Brazil India and Germany What we did in 2017 Ran our largest campaign to date in China and signed landmark deal with Univision in the USA Our plans for 2018 Focus on demand creation in these markets and create research and case studies demonstrating the efficacy of invideo advertising Develop our technology suite Our technology is capable of transforming content into advertising inventory with supporting data What we did in 2017 Continued to develop our machine learning algorithms and moved to technical completion of our transactional platform Marketplace Our plans for 2018 Complete initial rollout of the Marketplace platform with key customers in each of the target markets to support transactional liquidity Provide advertisers and brands with a safe form of advertising Our advertising offers high levels of viewability is verifiable and demonstrates value in terms of ROI for advertisers What we did in 2017 Worked with a third party agency on our largest campaign in China to verify the campaign and measure ROI Our plans for 2018 Establish our standard advertising unit as a trading currency in our key markets verified by independent third parties Add value to content owners We create a new revenue stream for the content industry What we did in 2017 Continued to demonstrate the editorial sensitivity with which we add imagery to content producers Our plans for 2018 Add headcount in the USA and China to deal directly with content producers to encourage them to clear digital insertion rights for distributors Explore existing and new value chains We continue to explore value chains where advertising inventory is bought and sold What we did in 2017 Delivered the Companys first significant audiencebased campaign in China Our plans for 2018 Continue to develop the audiencebased model in all of the Groups key markets and continue to explore how the Group can develop programmatic models Focus on international markets over the long term We want to maintain low exposure to the UK macroeconomy What we did in 2017 Ran the Groups first campaigns in Brazil and signed a major deal in the USA Our plans for 2018 Continue development of the Groups five key markets all outside the UK Our strategy Mirriad Advertising plc Annual report and accounts 2017 07 Financial review David Dorans Chief Financial Officer
+2017 was an important year for the Company with the admission of Mirriad to AIM which raised a net 23.7 million to fund future expansion.
+In 2017 the Group focused on securing contracts with key customers in its target markets and continued the development of its core technology and transactional platform.
+The Group has focused its resources on fewer larger customers.
+The Group now has a base of customers which provides a platform for future growth though the Directors caution that sales cycles are long and signature of customer contracts while an important KPI does not immediately lead to future revenue.
+Current year results Revenue for the year increased to 874191 2016 710866 as the Group commercialised its offering in its target markets with a focus on its Asian business.
+Revenue has grown consistently between 2015 and 2017.
+Gross margin increased to 693604 2016 559280.
+The Groups principal cost is staff and its administrative expenses increased to 12067393 2016 7994910 as the Group continued to expand staff in its local offices and invest in its technology team.
+The income statement includes 1179148 2016 733897 related to research and development RandD activity.
+The loss for the year before tax increased to 11271298 2016 7294104 as a result of this expansion in headcount.
+Tax
+The Group has not recognised any tax assets in respect of trading losses arising in the current financial year or accumulated losses in previous financial years.
+The tax credit recognised in the current and previous financial years arises from the receipt of RandD tax credits.
+Earnings per share Earnings per share was a loss of 19p per share 2016 loss of 18p per share as a result of increased staff costs over the period.
+This is based on the weighted average number of shares in issue during the financial year.
+The IPO enables us to drive
+GROWTH with key clients around the world We measure our progress against key performance indicators Mirriad Advertising plc Annual report and accounts 2017 STRATEGIC REPORT Dividend No dividend has been proposed for the year ended 31 December 2017 2016 nil.
+Cash flow Net cash used in operations was 7524445 2016 6303982 as headcount increased over the year.
+During the year 842010 2016 520607 of development costs were capitalised as required following the Groups adoption of International Financial Reporting Standards IFRS.
+The Group also incurred 466627 2016 41312 of capital expenditure on tangible assets the majority of which 346367 related to the move to a permanent head office site in London.
+Net proceeds from the issue of shares in July and December 2017 totalled 25 million 2016 11.4 million.
+Cash consumed by the business has increased every year since 2015 as the Group has increased headcount and opened subsidiaries in its target markets.
+Balance sheet As a result of the IPO net assets increased to 27.9 million 2016 12.2 million.
+Cash and cash equivalents at 31 December 2017 was 26.4 million 2016 10.3 million.
+Some of the proceeds from the issue of shares have been placed on deposit for time periods ranging between instant access and up to one year in maturity.
+Accounting policies The Groups consolidated financial information has been prepared in accordance with International Financial Reporting Standards IFRS as adopted in the EU.
+The Groups significant accounting policies which have been applied consistently throughout the year are set out on pages 29 to 34.
+The overall impact of the conversion to reporting under International Financial Reporting Standards IFRS was to decrease the loss for the year ended 31 December 2016 by 318609 and by 112514 for the period ended 31 December 2015.
+The main driver of this movement was the capitalisation of development costs.
+More information on the IFRS conversion can be found in note 25.
+Going concern After making enquiries and producing cash flow forecasts the Directors have reasonable expectations as at the date of approving the financial statements that the Company and the Group will have adequate resources to fund the activities of the Company and the Group for at least 12 months from the date of the financial statements.
+Therefore the financial statements have been prepared on a going concern basis.
+Principal risks and uncertainties The principal risks and uncertainties facing the Group are set out on pages 10 and 11.
+Cautionary statement The Strategic Report comprising the Business and Financial Reviews has been prepared for the shareholders of the Company as a body and no other persons.
+Its purpose is to assist shareholders of the Company to assess the strategies adopted by the Group and the potential for those strategies to succeed and for no other purpose.
+The Strategic Report containing the Business and Financial Reviews contains forwardlooking statements that are subject to risk factors associated with amongst other things the economic and business circumstances occurring from time to time in the sector and markets in which the Group operates.
+It is believed that the expectations reflected in these statements are reasonable but they may be affected by a wide range of variables which could cause actual results to differ materially from those currently anticipated.
+No assurances can be given that the forwardlooking statements in the Strategic Report comprising the Business and Financial Reviews will be realised.
+The forwardlooking statements reflect the knowledge and information available at the date of preparation.
+David Dorans Chief Financial Officer 9 May 2018 Our key performance indicators Revenue 000 874k 23% 17 9032 16 6866 15 4421 Cash consumption 000 9032k 31% Customers under contract 8 33% Mirriad Advertising plc Annual report and accounts 2017 09 Risks and uncertainties Description Mitigation Change Wide market adoption The Group believes the addressable market for its services is both very large and global because of the continuing pressure on traditional advertising models and that this in turn will drive adoption of the Groups services.
+However the Group currently serves only a very small sample of this market.
+The Group is targeting a limited number of territories and customers as it has limited resources.
+The Group believes that by focusing on the largest and fastest growing advertising markets and the largest customers within those markets it will best achieve its objectives.
+Commercialisation of Marketplace product The Group is rolling out its Marketplace platform to key customers to enable transactional liquidity.
+Revenue expectations depend on the successful rollout of the Marketplace platform to these key customers.
+Failure to successfully roll out Marketplace could reduce or delay the Groups ability to generate revenue.
+The Group is currently on target with these rollouts.
+The Board actively monitors the Groups progress and has put in place an incentive scheme to motivate staff to hit internal deadlines.
+Competition
+The Group has not yet experienced meaningful competition.
+As far as the Group is aware no competitors can currently provide an equivalent service to the market but there are very large and wellresourced organisations who sell advertising products as part of their core business that will also see the market potential that the Group sees.
+Increased competition may cause price reductions reduced gross margins and loss of market share any of which could have an adverse effect on the Groups business.
+The Group continues to monitor the market and remains in active dialogue with current and prospective customers to assess the level of competition.
+The Group believes that replication of its technology is complex would take some time and would require access to high levels of content.
+This should allow the Group to adapt to emerging competition.
+Commercial arrangements The Group has contracts with a number of customers.
+All the Groups revenue is derived from contracts which have no contractual obligation to maintain or renew any level of purchasing activity and there is no minimum purchasing commitment under the Groups agreements.
+There is no guarantee that the commercial arrangements with partners will proceed beyond the initial phases or the Groups partners will choose to implement the Groups service at any particular level or at all since customers are freely able to reduce the level of services they procure from the Group.
+The Group has developed case studies and conducts research to demonstrate the benefit of its product to distributors content owners and advertisers.
+The Group believes these prove the business case for adapting and using the Groups technology.
+The Group works proactively with its customers to create demand in the market which can then be fulfilled using the Groups services.
+MANAGING RISK The risks and mitigations faced by the Company and the Group are considered to be the same and are not discussed separately.
+Mirriad Advertising plc Annual report and accounts 2017 STRATEGIC REPORT Description Mitigation Change Failure to renew contracts Typically the Groups contracts have 24month durations and as they have been signed at different times the Group is generally in a state of contract renewal with one or more customers.
+Renewal rates may decline or fluctuate due to a number of factors including the customers level of satisfaction with the Groups services.
+The Group maintains an active dialogue with all of its contracted customers over the contractual term.
+The Group aims to demonstrate the business benefit of the Groups service and work cooperatively with its customers on demand creation activities so that clients renew or extend existing arrangements.
+Adequate supply of inventory for commercialisation and to meet demand The Group requires a continual and growing supply of high quality entertainment content which has been rights cleared for the insertion of digital images from its customers.
+This content is used to generate the inventory which Mirriads customers then sell on to media agencies and advertisers.
+Failure by its customers to secure a flow of rightscleared content would damage the Groups ability to generate revenue.
+The Group is investing in additional resource in two key markets the USA and China to assist its customers in securing a flow of cleared content.
+The Group actively engages with content owners to demonstrate that the Groups invideo advertising does not detract from the content originally created.
+Dependence upon key intellectual property including patents and knowhow The Groups success depends in part on its ability to protect its rights in its intellectual property.
+The Groups intellectual property also includes knowhow related to the provision of invideo advertising and associated products and services.
+The Group relies on various intellectual property protections including patents copyright trademarks trade secrets and contractual provisions to preserve its intellectual property rights.
+Any infringement of its rights might distract management attention and incur significant cost from the need to defend the Groups intellectual property.
+The Group has been active in patenting its technology and continues to develop the key algorithms used to provide its service.
+As far as it is able the Group monitors the market to ensure that none of its key intellectual property is infringed.
+The Group continues to invest significant resource in its research and develop activities to ensure that its products remain technologically relevant.
+Continued investment and product development The Group needs to continue to invest significant resources in catalysing the market and ensure adoption of its services.
+The Group will have to invest in research and development to enhance its existing services and introduce new products and services.
+The Group is developing its product function so that investment is directed with maximum efficiency.
+It is also looking to create the ability for rapid adaptation of new products with a view to enhanced efficiency in spend.
+Key personnel The Group depends on the services of its key technical and development sales and marketing and management personnel.
+The Groups success is highly dependent on its continuing ability to identify hire train motivate and retain highly qualified technical sales marketing and management personnel.
+In the UK a proportion of staff are EU nationals without British citizenship and at this stage it is impossible to say what impact the UKs stated decision to leave the European Union will have on the Groups ability to attract and retain staff.
+The Group continues to monitor its employee value proposition across the markets in which it operates in.
+The Groups Remuneration Committee actively considers all elements of employee packages including base salary and shortterm and longterm incentive schemes.
+The aim of each of these elements is to attract retain and motivate staff across the Group.
+Key
+Increase in risk Decrease in risk No change in risk Mirriad Advertising plc Annual report and accounts 2017 11 Board of Directors Roger Conant Faxon Nonexecutive Chairman Mark Sabin Tadeusz Popkiewicz
+Chief Executive Officer
+David Dorans Chief Financial Officer Dr Mark Alexander Reilly Nonexecutive Director Alastair Hugh Lowell Kilgour Nonexecutive Director Anthony John Pearson Nonexecutive Director A A R R R Skills and experience Roger joined the Board in June 2015.
+He is a former CEO of EMI Group and held prior operational and financial roles with the Group.
+He was EVP COO for Lucasfilm and Senior EVP of Columbia Pictures.
+Skills and experience Mark joined the Board in May 2015 and was the original founder of Mirriad.
+He was previously a director at BBC Ventures Mobile Media and Eicon where he was part of a fiveman management team that executed the successful IPO of Eicon.
+Mark has led several technology businesses held senior executive positions at Lucent Technologies and spent more than half his career working with USbased businesses setting up global operations including in Brazil India and China.
+Skills and experience David joined the Board in November 2017 having joined the Group in November 2015.
+He was previously chief financial officer of Mindshare UK part of WPP chief financial officer of YouView head of distribution and broadcast technology at Channel 4 general manager of UKTV and project manager at BBC Worldwide.
+David is a formally qualified accountant and was a senior associate at PwC Consultants.
+Skills and experience Mark joined the Board in November 2017.
+Prior to joining the Board in a personal capacity Mark was the representative of IP2IPO Services Limited which was a corporate director of the Company from 20 May 2015 until admission.
+Skills and experience Alastair joined the Board in November 2017.
+Prior to joining the Board in a personal capacity Alastair was the representative of Parkwalk Advisors Limited which was a corporate director of the Company from 20 May 2015 until admission.
+Before cofounding Parkwalk Advisors in 2009 Alastair was a partner of Lazard LLP a director of BNP and a founder partner of Ark Securities.
+Skills and experience John joined the Board in October 2017.
+He is a former CEO of Virgin Radio and Virgin Radio International director of Ginger Media chairman of Shazam Entertainment and cofounder of World Architecture News.
+External appointments Roger currently leads AandR Investments is a nonexecutive director of ITV plc is a nonexecutive director of Pandora Media Inc and sits on the board of Johns Hopkins University.
+External appointments Mark is head of the technology division of IP Group plc one of the UKs leading intellectual property commercialisation specialists and an investor in Mirriad.
+He has led investments in and played a key role in the growth of numerous innovative hightech companies.
+Mark sits on the board and audit committee of Actual Experience plc.
+External appointments Alastair is the chief investment officer at Parkwalk and sits on the board of Parkwalk.
+He is a director of PredictImmune Ltd Congenica Ltd Phoremost Ltd Albert Innovations Ltd and Victoria Innovations Ltd.
+External appointments John is currently chairman of FairFX plc and Imagen Video Asset Management Ltd Vestdeck Ltd and Bought By Many Limited.
+Mirriad Advertising plc Annual report and accounts 2017 CORPORATE GOVERNANCE A Audit Committee member R Remuneration Committee member Committee Chair
+Roger Conant Faxon Nonexecutive Chairman Mark Sabin Tadeusz Popkiewicz
+Chief Executive Officer
+David Dorans Chief Financial Officer Dr Mark Alexander Reilly Nonexecutive Director Alastair Hugh Lowell Kilgour Nonexecutive Director Anthony John Pearson Nonexecutive Director A A R R R Skills and experience Roger joined the Board in June 2015.
+He is a former CEO of EMI Group and held prior operational and financial roles with the Group.
+He was EVP COO for Lucasfilm and Senior EVP of Columbia Pictures.
+Skills and experience Mark joined the Board in May 2015 and was the original founder of Mirriad.
+He was previously a director at BBC Ventures Mobile Media and Eicon where he was part of a fiveman management team that executed the successful IPO of Eicon.
+Mark has led several technology businesses held senior executive positions at Lucent Technologies and spent more than half his career working with USbased businesses setting up global operations including in Brazil India and China.
+Skills and experience David joined the Board in November 2017 having joined the Group in November 2015.
+He was previously chief financial officer of Mindshare UK part of WPP chief financial officer of YouView head of distribution and broadcast technology at Channel 4 general manager of UKTV and project manager at BBC Worldwide.
+David is a formally qualified accountant and was a senior associate at PwC Consultants.
+Skills and experience Mark joined the Board in November 2017.
+Prior to joining the Board in a personal capacity Mark was the representative of IP2IPO Services Limited which was a corporate director of the Company from 20 May 2015 until admission.
+Skills and experience Alastair joined the Board in November 2017.
+Prior to joining the Board in a personal capacity Alastair was the representative of Parkwalk Advisors Limited which was a corporate director of the Company from 20 May 2015 until admission.
+Before cofounding Parkwalk Advisors in 2009 Alastair was a partner of Lazard LLP a director of BNP and a founder partner of Ark Securities.
+Skills and experience John joined the Board in October 2017.
+He is a former CEO of Virgin Radio and Virgin Radio International director of Ginger Media chairman of Shazam Entertainment and cofounder of World Architecture News.
+External appointments Roger currently leads AandR Investments is a nonexecutive director of ITV plc is a nonexecutive director of Pandora Media Inc and sits on the board of Johns Hopkins University.
+External appointments Mark is head of the technology division of IP Group plc one of the UKs leading intellectual property commercialisation specialists and an investor in Mirriad.
+He has led investments in and played a key role in the growth of numerous innovative hightech companies.
+Mark sits on the board and audit committee of Actual Experience plc.
+External appointments Alastair is the chief investment officer at Parkwalk and sits on the board of Parkwalk.
+He is a director of PredictImmune Ltd Congenica Ltd Phoremost Ltd Albert Innovations Ltd and Victoria Innovations Ltd.
+External appointments John is currently chairman of FairFX plc and Imagen Video Asset Management Ltd Vestdeck Ltd and Bought By Many Limited.
+Mirriad Advertising plc Annual report and accounts 2017 13 Corporate governance report Statement by the Directors on compliance with the Code of Best Practice As an AIMquoted company Mirriad Advertising plc is not required to comply with the provisions of the UK Corporate Governance Code the Code that applies to companies with a premium London Stock Exchange listing.
+However the Directors recognise the value and importance of high standards of corporate governance and given the Companys size and the constitution of the Board comply with the principal provisions of the UK Corporate Governance Code to the extent the Directors consider appropriate in light of the Groups size stage of development and resources.
+The Company also intends to follow the recommendations set out in the QCA Code.
+The Board The Group is controlled through a Board of Directors which at 31 December 2017 comprised two Executive Directors a Nonexecutive Chairman and three other Nonexecutive Directors of whom two are considered independent.
+The Chairman is Roger Faxon and the Chief Executive Officer is Mark Popkiewicz.
+Both the Chairman and John Pearson a Nonexecutive Director are considered to be independent.
+Dr Mark Reilly and Alastair Kilgour joined the Board in a personal capacity at the time of the IPO having previously been the nominated representatives of the corporate directors IP Group plc and Parkwalk Advisors.
+The overriding responsibility of the Board is to provide clear entrepreneurial and responsible leadership to the Group within a framework of efficient and effective controls so as to allow for the key issues and risks facing the business to be assessed and managed.
+The Board operates both formally through Board and Committee meetings and informally through regular contact between the Directors and senior executives.
+There is a schedule of matters that are specifically referred to the Board for its decision including approval of interim and annual financial results setting and monitoring of strategy and examining business expansion possibilities.
+The Board is supplied with information in a timely manner in a form and quality appropriate to enable it to discharge its duties.
+The Directors can obtain independent professional advice at the Groups expense in the performance of their duties as Directors.
+The Board normally meets on a monthly basis and aims to meet a minimum of 10 times per year for formal Board meetings and also arranges ad hoc meetings to consider strategic issues and approve key operational decisions as required.
+The Executive Directors are responsible for carrying out decisions reached by the Board and where appropriate communicating the decisions of the Board and any necessary actions to be taken back to the employees of the Company through the appropriate line management channels.
+Board Committees The Board Committees comprise the Audit Committee and the Remuneration Committee.
+Audit Committee The Audit Committee was established at the IPO and has two Nonexecutive Director members Dr Mark Reilly Chairman and Roger Faxon.
+The Groups external auditors along with the Chief Financial Officer are invited to attend the Audit Committee meetings.
+The Audit Committee has responsibility for among other things the monitoring of the financial integrity of the financial statements of the Group and the involvement of the Groups auditors in that process.
+It focuses on compliance with accounting policies and ensuring that an effective system of audit and financial control is maintained including considering the scope of the annual audit and the extent of the nonaudit work undertaken by the external auditors and advising on the appointment of the external auditors.
+The ultimate responsibility for reviewing and approving the Annual Report and Accounts and the halfyearly reports remains with the Board.
+The Audit Committee meets at appropriate times in the financial reporting and audit cycle and at least twice a year.
+The terms of reference of the Audit Committee cover issues such as membership and the frequency of meetings together with requirements of any quorum for and the right to attend meetings.
+The responsibilities of the Audit Committee include the following external audit financial reporting internal controls and risk management.
+The terms of reference also set out the authority of the Committee to carry out its responsibilities.
+Any nonaudit services that are to be provided by the external auditors are reviewed in order to safeguard auditor objectivity and independence.
+The external auditors have the opportunity during the Audit Committee meetings to meet privately with Committee members in the absence of executive management.
+In preparation for the IPO the Board considered a review of risks facing the Group together with managements assessment of the risks and mitigation steps.
+Since the IPO the Audit Committee has been responsible for reviewing the Companys procedures for the identification assessment management and reporting of risks.
+The Company has a whistleblowing policy in which staff may notify the CFO or confidentially the Chair of the Audit Committee of any concerns regarding suspected wrongdoing or dangers at work.
+Mirriad Advertising plc Annual report and accounts 2017 CORPORATE GOVERNANCE Remuneration Committee The Remuneration Committee was reconstituted at the IPO and has three Nonexecutive Director members the Chairman of the Remuneration Committee is John Pearson and Dr Mark Reilly and Alastair Kilgour are the other Nonexecutive members.
+In addition the Company Chairman has a standing right to attend any Remuneration Committee meetings.
+The Committee meets periodically as required and is responsible for overseeing the policy regarding staff and executive remuneration and for approving the remuneration packages for the Groups Executive Directors.
+It is also responsible for reviewing incentive schemes for the Group as a whole.
+Nomination Committee Due to the size and state of development of the Company the Directors do not consider it necessary to set up a separate Nomination Committee.
+Appointments are considered by the Board as a whole.
+Risk management and internal controls The Directors are responsible for the Groups system of internal control and for reviewing its effectiveness the role of management is to implement Board policies on risk management and control.
+The Groups system of internal control is designed to manage rather than eliminate the risk of failure to achieve the Groups business objectives and can only provide reasonable and not absolute assurance against material misstatement or loss.
+The Group operates a series of controls to meet its needs.
+These controls include but are not limited to a clearly defined organisational structure written policies a comprehensive annual strategic planning and budgeting process and detailed monthly reporting.
+The Group prepares a quarterly rolling budget which is approved by the Board as part of its normal responsibilities.
+The quarterly budgeting process facilitates the Boards understanding of the Groups overall position throughout the year.
+The Audit Committee receives reports from management and the external auditors concerning the system of internal control and any material control weaknesses.
+Any significant risk issues are referred to the Board for consideration.
+The Board has considered the need for an internal audit function but has concluded that at this stage in the Groups development the internal control systems in place are appropriate for the size and complexity of the Group.
+The Board has continued to review the system of internal controls since the IPO and has not identified nor been informed of any instances of control failings or significant weakness.
+Shareholder communications The CEO and the CFO regularly meet with institutional shareholders to foster a mutual understanding of objectives.
+The Chairman and the other Nonexecutive Directors are available to shareholders to discuss strategy and governance issues.
+The Directors encourage the participation of all shareholders including private investors at the Annual General Meeting.
+The Annual Report and Accounts is published on the Companys website site and can be accessed by shareholders.
+Whistleblowing policy The Board has adopted a whistleblowing policy.
+The aim of the policy is to encourage all employees regardless of seniority to bring matters which cause them concern to the attention of the Chairman of the Audit Committee.
+By order of the Board Roger Conant Faxon Nonexecutive Chairman 9 May 2018 Mirriad Advertising plc Annual report and accounts 2017 15 Remuneration report As an AIMlisted company Mirriad Advertising plc is not required to comply with Schedule 8 of the Large and Mediumsized Companies and Groups Accounts and Reports Regulations 2008.
+The content of this report is unaudited unless stated.
+Membership of the Remuneration Committee The Company created a new Remuneration Committee at the time of IPO.
+From that date the Remuneration Committee has comprised the three Nonexecutive Directors John Pearson Chairman of the Remuneration Committee Dr Mark Reilly and Alastair Kilgour.
+The Companys terms of reference for its Remuneration Committee also allow the Chairman Roger Faxon to attend Committee meetings.
+The Remuneration Committee reviews the performance of the Executive Directors and makes recommendations to the Board on matters relating to remuneration terms of service granting of share options and other equity incentives.
+The Remuneration Committee also considers the overall remuneration policy of the Group and makes recommendations to the Board.
+Remuneration policy The Groups remuneration policy is designed to enable the Group to attract retain and motivate its staff and Executive Directors while ensuring that overall remuneration is consistent with the performance of the Group and retains a balance between remuneration and shareholder value.
+Nonexecutive Directors Remuneration of the Nonexecutive Directors is determined by the Executive Directors.
+Nonexecutive Directors are not entitled to pensions annual bonuses or employee benefits.
+They are entitled to participate in share option arrangements relating to the Companys shares and both the Chairman and Independent Nonexecutive have share option arrangements.
+Each of the Nonexecutive Directors has a contract stating his annual fee and that his appointment is initially for a term of three years from the date of admission subject to reelection at the Companys AGM.
+Their appointment may be terminated with three months written notice at any time.
+The annual fee for the Chairman is 100000.
+John Pearsons annual fee is 40000 and the remaining Nonexecutive Directors annual fees are 20000 per annum from the date of admission 19 December 2017.
+Directors service contracts Under the terms of the service agreements in place with Executive Directors six months written notice must be given by either party to terminate those service agreements.
+Under the terms of the service agreements in place with Nonexecutive Directors three months written notice must be given by either party to terminate that appointment.
+Compensation for early termination for Executive Directors is generally limited to six months base salary and benefits.
+Any entitlements under incentive plans would ordinarily lapse in accordance with the terms of the relevant plan unless the Remuneration Committee exercises its discretion as provided under the incentive scheme rules.
+Directors remuneration Normally Executive Directors remuneration consists of basic salary and annual performance related bonus.
+In the case of David Dorans Chief Financial Officer there is also a 10000 performance related element included in his base salary.
+Both of the Executive Directors have service agreements that can be terminated by either party giving at least six months written notice.
+At the time of IPO the basic annual salaries payable to the Chief Executive Officer and Chief Financial Officer were 185000 and 179950 per annum respectively.
+Salaries for all staff including Executive Directors are reviewed annually effective 1 January.
+In January 2018 the Executive Directors salaries were increased to 190550 and 185349 respectively.
+Executive bonuses The Company operates a performance related bonus scheme for all staff including Executive Directors.
+The Chief Financial Officer was awarded a bonus of 9900 triggered by meeting certain performance criteria in the financial year ended 31 December 2016.
+This was paid in March 2017.
+Both Executive Directors were awarded discretionary bonuses related to the successful IPO paid in March 2018.
+These amounted to 15000 for the Chief Executive Officer and 12500 for the Chief Financial Officer.
+Pensions
+The Company operates a defined contribution pension scheme open to all UK Executive Directors and employees.
+Directors interests Details of the Directors shareholdings are included in the Directors Report on page 18.
+Mirriad Advertising plc Annual report and accounts 2017 CORPORATE GOVERNANCE Directors share options Aggregate emoluments disclosed below do not include any amounts for the value of options to acquire Ordinary Shares in the Company granted to or held by the Directors.
+In general for options granted onethird are exercisable on the first anniversary of the grant a further third are exercisable on the second anniversary of the grant and the remainder are exercisable three years after the date of grant.
+All vested options expire ten years after the date of grant.
+Details of options for Directors who served during the year are as follows Options at 31 December 2017 Vesting dates Exercise price
+Mark Popkiewicz 253576 20 August 20161718 0.30 1469753 16 Dec 20171819 0.62 David Dorans
+Roger Faxon 610696 Vested 19 Dec 2017 0.30 987218 Vested 19 Dec 2017 0.62 John Pearson 225000 16 Oct 20181920 0.62 Dr Mark Reilly Alastair Kilgour Directors remuneration Employers Other Sharebased Salaryfees Bonus pension benefits payment Total 2017 Total 2016
+Mark Popkiewicz 185  2 telDavid Dorans 180 10 5  325 520 177
+Roger Faxon 100    340 440 141 John Pearson 10    7 17 Dr Mark Reilly 1     1 Alastair Kilgour 1     1 1466 587 For full financial year.
+From date of appointment.
+During the year Mark Popkiewicz exercised 833333 share options and David Dorans exercised 766999 share options both under the EMI Scheme.
+There are no longterm employment benefit or incentive schemes in place other than share options.
+Mirriad Advertising plc Annual report and accounts 2017 17 Directors report The Directors present their Annual Report and the audited consolidated financial statements of the Group for the year ended 31 December 2017.
+Country of incorporation Mirriad Advertising plc is incorporated in England and Wales with company registration number .
+Review of business and future developments The Chairmans Statement page 4 the Chief Executives Statement pages 5 and 6 and the Financial Review pages 8 and 9 report on the performance of the Group during the year ended 31 December 2017 and its prospects for the future.
+Directors
+The Directors of the Group during the year and up to the date of signing the financial statements were Roger Faxon  appointed 1 June 2015 Mark Popkiewicz  appointed 20 May 2015 David Dorans  appointed 19 December 2017 John Pearson  appointed 2 October 2017 Dr Mark Reilly  appointed 19 December 2017 Alastair Kilgour  appointed 19 December 2017 Significant shareholders The Company is informed that at 9 May 2018 individual registered shareholdings of more than 3% of the Companys issued share capital were as follows
+Shares held Percentage of issued Ordinary Share capital IP Group plc 28122146 26.8% Parkwalk Advisors Limited 18175023 17.3% Soros Fund Management 4838710 4.6% City Financial Investment Company Limited 4032258 3.8% Progeny 3699036 3.5% Jinhua Puhua Tianqin Equity Investment Fund Partnership 3255806 3.1% Directors shareholdings The beneficial interests of the Directors in the share capital of the Company at 31 December 2017 and at 9 May 2018 were as follows
+Shares held Percentage of issued Ordinary Share capital Executive Directors Mark Popkiewicz 430310 0.4% David Dorans 508024 0.5% Nonexecutive Directors Roger Faxon 5745 0.0% Alastair Kilgour 333333 0.3% Dr Mark Reilly 33333 0.0% John Pearson
+The Groups executive management regularly delivers Companywide town hall style briefings on the Groups strategy and performance.
+These briefings contain details of the Groups financial performance where appropriate.
+The Group remains committed to fair treatment of people with disabilities in relation to job applications training promotion and career development.
+Every effort is made to find alternative jobs for those who are unable to continue in their existing job due to disability.
+The Group takes a positive approach to equality and diversity.
+The Group promotes equality in the application of reward policies employment and development opportunities and aims to support employees in balancing work and personal lifestyles.
+Financial instruments Full details of the Groups risk management policies and its exposure to financial risk are set out in note 3 to the financial statements.
+Post balance sheet events On 24 April the Company announced the completion of an investment by Puhua Tianqin Equity Investment Fund Partnership Puhua a capital fund established in Jinhua in the Peoples Republic of China.
+Puhua has subscribed for 3225806 new Ordinary Shares at a price of 62p per share the same price funds were raised at in Mirriads IPO on 19 December 2017.
+The investment raised gross proceeds of approximately 2 million for the Company.
+Directors indemnities and Directors and officers liability insurance The Companys articles of association permit the Company to indemnify Directors of the Company in accordance with the Companies Act 2006.
+Directors and officers liability insurance is also in place.
+Annual General Meeting The Annual General Meeting of the Group is to be held on 13 June 2018.
+The notice of meeting appears on pages 60 to 64 of these financial statements.
+Political and charitable donations During the year ended 31 December 2017 the Group made political donations of nil 2016 nil and charitable donations of nil 2016 nil.
+Supplier payment policy and practice The Group does not operate a standard code in respect of payments to suppliers.
+The Group agrees terms of payment with suppliers at the start of business and then makes payments in accordance with contractual and other legal obligations.
+Independent Auditors In accordance with section 489 of the Companies Act a resolution for the reappointment of PricewaterhouseCoopers LLP as auditors of the Company is to be proposed at the forthcoming Annual General Meeting.
+On behalf of the Board David Dorans
+9 May 2018 Mirriad Advertising plc Annual report and accounts 2017 CORPORATE GOVERNANCE The Directors are responsible for preparing the Annual Report and the financial statements in accordance with applicable law and regulation.
+Company law requires the Directors to prepare financial statements for each financial year.
+Under that law the Directors have prepared the Group financial statements in accordance with International Financial Reporting Standards IFRS as adopted by the European Union and Company financial statements in accordance with International Financial Reporting Standards IFRS as adopted by the European Union.
+Under company law the Directors must not approve the financial statements unless they are satisfied that they give a true and fair view of the state of affairs of the Group and Company and of the profit or loss of the Group and Company for that period.
+In preparing the financial statements the Directors are required to select suitable accounting policies and then apply them consistently state whether applicable IFRS as adopted by the European Union have been followed for the Group financial statements and IFRS as adopted by the European Union have been followed for the Company financial statements subject to any material departures disclosed and explained in the financial statements make judgements and accounting estimates that are reasonable and prudent and prepare the financial statements on the going concern basis unless it is inappropriate to presume that the Group and Company will continue in business.
+The Directors are responsible for keeping adequate accounting records that are sufficient to show and explain the Group and Companys transactions and disclose with reasonable accuracy at any time the financial position of the Group and Company and enable them to ensure that the financial statements comply with the Companies Act 2006 and as regards the Group financial statements Article 4 of the IAS Regulation.
+The Directors are also responsible for safeguarding the assets of the Group and Company and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+The Directors are responsible for the maintenance and integrity of the Companys website.
+Legislation in the United Kingdom governing the preparation and dissemination of financial statements may differ from legislation in other jurisdictions.
+The Directors consider that the Annual Report and Accounts taken as a whole is fair balanced and understandable and provides the information necessary for shareholders to assess the Group and Companys performance business model and strategy.
+Each of the Directors whose names and functions are listed in the Directors Report confirm that to the best of their knowledge the Company financial statements which have been prepared in accordance with IFRS as adopted by the European Union give a true and fair view of the assets liabilities financial position and loss of the Company the Group financial statements which have been prepared in accordance with IFRS as adopted by the European Union give a true and fair view of the assets liabilities financial position and loss of the Group and the Directors Report includes a fair review of the development and performance of the business and the position of the Group and Company together with a description of the principal risks and uncertainties that it faces.
+In the case of each Director in office at the date the Directors Report is approved so far as the Director is aware there is no relevant audit information of which the Group and Companys auditors are unaware and they have taken all the steps that they ought to have taken as a Director in order to make themselves aware of any relevant audit information and to establish that the Group and Companys auditors are aware of that information.
+Statement of Directors responsibilities In respect of the Annual Report and financial statements Mirriad Advertising plc Annual report and accounts 2017 19 Independent auditors report To the members of Mirriad Advertising plc Report on the audit of the financial statements
+In our opinion Mirriad Advertising plcs Group financial statements and Company financial statements the financial statements give a true and fair view of the state of the Groups and of the Companys affairs as at 31 December 2017 and of the Groups loss and the Groups and the Companys cash flows for the year then ended have been properly prepared in accordance with IFRS as adopted by the European Union and as regards the Companys financial statements as applied in accordance with the provisions of the Companies Act 2006 and have been prepared in accordance with the requirements of the Companies Act 2006.
+We have audited the financial statements included within the Annual Report and financial statements which comprise the consolidated and Company balance sheet as at 31 December 2017 the consolidated statement of profit and loss the consolidated statement of comprehensive income the consolidated statement of changes in equity the Company statement of changes in equity and the consolidated and Company statement of cash flows for the year ended 31 December 2017 and the notes to the financial statements which include a description of the significant accounting policies.
+Basis for opinion We conducted our audit in accordance with International Standards on Auditing UK ISAs UK and applicable law.
+Our responsibilities under ISAs UK are further described in the Auditors responsibilities for the audit of the financial statements section of our report.
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+Independence
+We remained independent of the Group in accordance with the ethical requirements that are relevant to our audit of the financial statements in the UK which includes the FRCs Ethical Standard as applicable to listed entities and we have fulfilled our other ethical responsibilities in accordance with these requirements.
+Our audit approach
+Mirriad Advertising plc listed on the Alternative Investment Market as of 19 December 2017.
+This resulted in a number of changes being required to occur within the business including a change in GAAP from FRS 102 to IFRS as adopted by the European Union.
+The listing on the Alternative Investment Market provided Mirriad Advertising plc with the additional funding it required to continue onto its next stage of growth.
+The business has again expanded into overseas territories with an entity established in Brazil during the year ended 31 December 2017.
+Overview
+Overall the Group materiality 553000 2016 702325 based on 5% of loss before tax.
+Overall the Company materiality 448000 2016 417646 based on 5% of loss before tax.
+We identified two significant components within the Mirriad Advertising plc Group Mirriad Advertising plc Company and Mirriad Inc.
+The UK and US entities were selected as significant components based on their large contributions to the overall Group loss before tax.
+Both the UK and US entities were audited by the Group audit team and no assistance was required from any component auditors.
+During our scoping procedures China was considered to have a significant revenue balance and brought into scope.
+Only the revenue figure for China was selected and no other balance was brought into scope.
+The risk of fraud in revenue recognition Group and parent.
+Materiality
+Audit scope Key audit matters Mirriad Advertising plc Annual report and accounts 2017 FINANCIAL STATEMENTS Report on the audit of the financial statements continued Our audit approach continued The scope of our audit As part of designing our audit we determined materiality and assessed the risks of material misstatement in the financial statements.
+In particular we looked at where the Directors made subjective judgements for example in respect of significant accounting estimates that involved making assumptions and considering future events that are inherently uncertain.
+As in all of our audits we also addressed the risk of management override of internal controls including evaluating whether there was evidence of bias by the Directors that represented a risk of material misstatement due to fraud.
+Key audit matters Key audit matters are those matters that in the auditors professional judgement were of most significance in the audit of the financial statements of the current period and include the most significant assessed risks of material misstatement whether or not due to fraud identified by the auditors including those which had the greatest effect on the overall audit strategy the allocation of resources in the audit and directing the efforts of the engagement team.
+These matters and any comments we make on the results of our procedures thereon were addressed in the context of our audit of the financial statements as a whole and in forming our opinion thereon and we do not provide a separate opinion on these matters.
+This is not a complete list of all risks identified by our audit.
+Key audit matter How our audit addressed the key audit matter Fraud in revenue recognition Fraud in revenue recognition is considered a key audit matter given the inherent nature of the business as a recently listed technology company with the primary objective to grow revenue and become profitable.
+The majority of revenue is recognised once the native invideo advertising NIVA service has been provided to the customer.
+The timing of when the service is delivered and therefore when revenue is recognised is not complex or judgemental.
+The key risk is considered to be in relation to the existence of revenue  that a customer exists and the service has been provided.
+We have understood how management recognise and process revenue through performing a walkthrough of the revenue cycle We have obtained detailed revenue listings for the UK and China entities and agreed these to the general ledger We have tested a sample of revenue transactions to sales invoices and also to customer buy purchase orders andor contracts andor written communications We have tested a sample of the revenue transactions selected to subsequent customer cash receipts and We performed data analysis to identify potentially unusual journal entries impacting revenue and performed testing on those items.
+We found no material misstatements from our testing.
+How we tailored the audit scope We tailored the scope of our audit to ensure that we performed enough work to be able to give an opinion on the financial statements as a whole taking into account the structure of the Group and the Company the accounting processes and controls and the industry in which they operate.
+The Groups accounting process is structured around a central finance function based in the UK.
+The finance function has control and oversight of all overseas territories even where the overseas territories have a small local finance function.
+There are six reporting units in the Group Mirriad Advertising plc which records the majority of Group activity Mirriad Inc.
+Mirriad Advertising Private Limited India Mirriad Singapore Pte.
+Ltd Mirriad Software Science and Technology Shanghai Co.
+Ltd and Mirriad Brasil Tecnologias Para Midia Ltda.
+These four overseas entities India Singapore China and Brazil are not within our scoping based on their small impact to our materiality benchmark of Group loss before tax.
+For each reporting unit we determined whether we required an audit of its complete financial information full scope or whether specified procedures addressing specific risk characteristics or particular financial statement line items would be sufficient.
+It was assessed that Mirriad Advertising plc and Mirriad Inc. with the other four reporting units contributing less than 11% to loss before tax and 3% of Group total assets.
+Other specified procedures were required for China as it contributed 50% of Group revenue.
+The revenue was scoped in as part of our audit procedures on top of the two full scope UK and US entities.
+No other balances in China were above the 15% threshold considered to be a significant balance to the Group audit.
+Mirriad Advertising plc Annual report and accounts 2017 21 Report on the audit of the financial statements continued Our audit approach continued
+The scope of our audit was influenced by our application of materiality.
+We set certain quantitative thresholds for materiality.
+These together with qualitative considerations helped us to determine the scope of our audit and the nature timing and extent of our audit procedures on the individual financial statement line items and disclosures and in evaluating the effect of misstatements both individually and in aggregate on the financial statements as a whole.
+Based on our professional judgement we determined materiality for the financial statements as a whole as follows Group financial statements Company financial statements Overall materiality 553000 2016 702325.
+448000 2016 417646.
+How we determined it 5% of loss before tax.
+5% of loss before tax.
+Rationale for benchmark applied Based on the benchmarks used in the Annual Report loss before tax is the primary measure used by the shareholders in assessing the performance of the Group and is a generally accepted auditing benchmark.
+Based on the benchmarks used in the Annual Report loss before tax is the primary measure used by the shareholders in assessing the performance of the Group and is a generally accepted auditing benchmark.
+For each component in the scope of our Group audit we allocated a materiality that is less than our overall Group materiality.
+The range of materiality allocated across components was between 448000 and 207000.
+We agreed with the Audit Committee that we would report to them misstatements identified during our audit above 22000 Group audit 2016 35116 and 22000 Company audit 2016 20882 as well as misstatements below those amounts that in our view warranted reporting for qualitative reasons.
+Conclusions relating to going concern We have nothing to report in respect of the following matters in relation to which ISAs UK require us to report to you when the Directors use of the going concern basis of accounting in the preparation of the financial statements is not appropriate or the Directors have not disclosed in the financial statements any identified material uncertainties that may cast significant doubt about the Groups and Companys ability to continue to adopt the going concern basis of accounting for a period of at least 12 months from the date when the financial statements are authorised for issue.
+However because not all future events or conditions can be predicted this statement is not a guarantee as to the Groups and Companys ability to continue as a going concern.
+Reporting on other information The other information comprises all of the information in the Annual Report other than the financial statements and our Auditors Report thereon.
+The Directors are responsible for the other information.
+Our opinion on the financial statements does not cover the other information and accordingly we do not express an audit opinion or except to the extent otherwise explicitly stated in this report any form of assurance thereon.
+In connection with our audit of the financial statements our responsibility is to read the other information and in doing so consider whether the other information is materially inconsistent with the financial statements or our knowledge obtained in the audit or otherwise appears to be materially misstated.
+If we identify an apparent material inconsistency or material misstatement we are required to perform procedures to conclude whether there is a material misstatement of the financial statements or a material misstatement of the other information.
+If based on the work we have performed we conclude that there is a material misstatement of this other information we are required to report that fact.
+We have nothing to report based on these responsibilities.
+With respect to the Strategic Report and Directors Report we also considered whether the disclosures required by the UK Companies Act 2006 have been included.
+Based on the responsibilities described above and our work undertaken in the course of the audit ISAs UK require us also to report certain opinions and matters as described below.
+Strategic Report and Directors Report In our opinion based on the work undertaken in the course of the audit the information given in the Strategic Report and Directors Report for the year ended 31 December 2017 is consistent with the financial statements and has been prepared in accordance with applicable legal requirements.
+In light of the knowledge and understanding of the Group and Company and their environment obtained in the course of the audit we did not identify any material misstatements in the Strategic Report and Directors Report.
+Independent auditors report continued To the members of Mirriad Advertising plc Mirriad Advertising plc Annual report and accounts 2017 FINANCIAL STATEMENTS Report on the audit of the financial statements continued Responsibilities for the financial statements and the audit Responsibilities of the directors for the financial statements As explained more fully in the Statement of Directors Responsibilities set out on page 19 the Directors are responsible for the preparation of the financial statements in accordance with the applicable framework and for being satisfied that they give a true and fair view.
+The
+Directors are also responsible for such internal control as they determine is necessary to enable the preparation of financial statements that are free from material misstatement whether due to fraud or error.
+In preparing the financial statements the Directors are responsible for assessing the Groups and the Companys ability to continue as a going concern disclosing as applicable matters related to going concern and using the going concern basis of accounting unless the Directors either intend to liquidate the Group or the Company or to cease operations or have no realistic alternative but to do so.
+Auditors responsibilities for the audit of the financial statements Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement whether due to fraud or error and to issue an Auditors Report that includes our opinion.
+Reasonable assurance is a high level of assurance but is not a guarantee that an audit conducted in accordance with ISAs UK will always detect a material misstatement when it exists.
+Misstatements can arise from fraud or error and are considered material if individually or in the aggregate they could reasonably be expected to influence the economic decisions of users taken on the basis of these financial statements.
+A further description of our responsibilities for the audit of the financial statements is located on the FRCs website at www. rc. auditorsresponsibilities.
+This description forms part of our Auditors Report.
+Use of this report This report including the opinions has been prepared for and only for the Companys members as a body in accordance with Chapter 3 of Part 16 of the Companies Act 2006 and for no other purpose.
+We do not in giving these opinions accept or assume responsibility for any other purpose or to any other person to whom this report is shown or into whose hands it may come save where expressly agreed by our prior consent in writing.
+Other required reporting Companies Act 2006 exception reporting Under the Companies Act 2006 we are required to report to you if in our opinion we have not received all the information and explanations we require for our audit or adequate accounting records have not been kept by the Company or returns adequate for our audit have not been received from branches not visited by us or certain disclosures of Directors remuneration specified by law are not made or the Company financial statements are not in agreement with the accounting records and returns.
+We have no exceptions to report arising from this responsibility.
+Gareth Murfitt Senior Statutory Auditor for and on behalf of PricewaterhouseCoopers LLP Chartered Accountants and Statutory Auditors
+9 May 2018 Mirriad Advertising plc Annual report and accounts 2017 23 Year ended Year ended 31 December 31 December 2017 2016
+Revenue 5 874191 710866 Cost of sales 180587 151586 Gross profit 693604 559280 Administrative expenses 6 12067393 7994910 Other operating income 6 101715 141225 Operating loss 11272074 7294405 Finance income 8 776 301 Loss before income tax 11271298 7294104 Income tax credit 10 208849 142887 Loss for the periodyear 11062449 7151217 Loss per Ordinary Share  basic 11 19p 18p All activities are classified as continuing.
+The Company has elected to take the exemption under section 408 of the Companies Act 2006 from presenting the parent company profit and loss account.
+Consolidated statement of comprehensive income For the year ended 31 December 2017 Year ended Year ended 31 December 31 December 2017 2016 Loss for the financial periodyear 11062449 7151217 Other comprehensive expense Items that may be reclassified to profit or loss Currency translation differences 14088 133270 Total comprehensive expense for the periodyear 11076537 7284487 Items in the statement above are disclosed net of tax.
+The income tax relating to each component of other comprehensive income is disclosed in note 10.
+Consolidated statement of profit or loss For the year ended 31 December 2017 Mirriad Advertising plc Annual report and accounts 2017 FINANCIAL STATEMENTS Consolidated and Company balance sheet At 31 December 2017 Group Company As at As at As at As at As at As at 31 December 31 December 31 December 31 December 31 December 31 Decemberteltel
+Assets
+Noncurrent assets Property plant and equipment 12 425874 49017 140744 379603 27197 49572 Intangible assets 13 1640690 1621500 1736403 1640690 1621500 1736403 Investments 9    213748 11796 Trade and other receivables 14 212960 28634  162960 2279524 1699151 1877147 2397001 1660493 1785975 Current assets Trade and other receivables 14 1074274 716734 592953 526610 383786 468138 Tax receivable 208840 184241 41354 208840 184241 41354 Cash and cash equivalents 26383690 10347394 5824952 25875205 10180877 5651351 27666804 11248369 6459259 26610655 10748904 6160843 Total assets 29946328 12947520 8336406 29007656 12409397 7946818 Current liabilities Trade and other payables 15 2054603 775744 572043 1726942 634912 421940 Total liabilities 2054603 775744 572043 1726942 634912 421940 Net assets 27891725 12171776 7764363 27280714 11774485 7524878 Equity and liabilities Equity attributable to owners of the parent Share capital 17 50917 556 363 50917 556 363 Share premium 17 23717390 22401586 10901926 23717390 22401586 10901926 Sharebased payment reserve 18 1964835 289564 97517 1964835 289564 97517 Retranslation reserve 19 190485 176397 43127 Retained earnings accumulated losses 2349068 10343533 3192316 1547572 10917221 3474928 Total equity 27891725 12171776 7764363 27280714 11774485 7524878 The financial statements on pages 24 to 59 were approved the Board of Directors on 8 May 2018 and signed on its behalf by Mark Sabin Tadeusz Popkiewicz
+Chief Executive Officer
+Mirriad Advertising plc Company number Mirriad Advertising plc Annual report and accounts 2017 25 Year ended 31 December 2016 Sharebased Retranslation Accumulated Share capital Share premium payment reserve reserve losses Total equity
+Balance at 1 January 2016 363 10901926 97517 43127 3192316 7764363 Loss for the financial year     7151217 7151217 Other comprehensive loss for the year 19    133270  133270 Total comprehensive loss for the year    133270 7151217 7284487 Shares issued in lieu of consideration 17 2 111735    111737 Proceeds from shares issued 17 191 11387925    11388116 Sharebased payments recognised as expense 20   192047   192047 Total transactions with shareholders recognised directly in equity 193 11499660 192047   11691900 Balance at 31 December 2016 556 22401586 289564 176397 10343533 12171776 Year ended 31 December 2017
+Sharebased Retranslation lossesretained Share capital Share premium payment reserve reserve earnings Total equity
+Balance at 1 January 2017 556 22401586 289564 176397 10343533 12171776 Loss for the financial year     11062449 11062449 Other comprehensive loss for the year 19    14088  14088 Total comprehensive loss for the year    14088 11062449 11076537 Shares issued in lieu of consideration 17 1 52543    52544 Proceeds from shares issued 17 462 27541844    27542306 Share issue costs 17  2473635    2473635 Issue of deferred shares 17 49898 49898 Capital restructuring 17  23755050   23755050 Sharebased payments recognised as expense 20   1675271   1675271 Total transactions with shareholders recognised directly in equity 50361 1315804 1675271  23755050 26796486 Balance at 31 December 2017 50917 23717390 1964835 190485 2349068 27891725 Consolidated statement of changes in equity For the year ended 31 December 2017 Mirriad Advertising plc Annual report and accounts 2017 FINANCIAL STATEMENTS Company statement of changes in equity For the year ended 31 December 2017 Year ended 31 December 2016 Sharebased Accumulated Share capital Share premium payment reserve losses Total equity
+Balance at 1 January 2016 363 10901926 97517 3474928 7524878 Loss for the financial year    7442293 7442293 Total comprehensive loss for the year    7442293 7442293 Shares issued in lieu of consideration 17 2 111735   111737 Proceeds from shares issued 17 191 11387925   11388116 Sharebased payments recognised as expense 20   192047  192047 Total transactions with shareholders recognised directly in equity 193 11499660 192047  11691900 Balance at 31 December 2016 556 22401586 289564 10917221 11774485 Year ended 31 December 2017
+Sharebased lossesretained Share capital Share premium payment reserve earnings Total equity
+Balance at 1 January 2017 556 22401586 289564 10917221 11774485 Loss for the financial year    11290257 11290257 Total comprehensive loss for the year    11290257 11290257 Shares issued in lieu of consideration 17 1 52543   52544 Proceeds from shares issued 17 462 27541844   27542306 Share issue costs 17  2473635   2473635 Issue of deferred shares 17 49898 49898 Capital restructuring 17  23755050  23755050 Sharebased payments recognised as expense 20   1675271  1675271 Total transactions with shareholders recognised directly in equity 50361 1315804 1675271 23755050 26796486 Balance at 31 December 2017 50917 23717390 1964835 1547572 27280714 Mirriad Advertising plc Annual report and accounts 2017 27 Consolidated and Company statement of cash flows For the year ended 31 December 2017 Group Companytel 2016
+Net cash from operating activities 21 7709471 6304283 8110560 6310779 Tax credit received 184250  184250 Interest received 776 301 54 Net cash used in operating activities 7524445 6303982 7926256 6310779 Cash flow from investing activities Investment in subsidiaries 201953  201953 Capitalisation of development costs 842010 520607 842010 520607 Purchase of tangible assets 12 466627 41312 405565 27204 Proceeds from disposal of tangible assets 2660 227 1441 Net cash used in investing activities 1507930 561692 1448087 547811 Cash flow from financing activities Proceeds from issue of Ordinary Share capital net of costs of issue 17 25068671 11388116 25068671 11388116 Net cash generated from financing activities 25068671 11388116 25068671 11388116 Net increase in cash and cash equivalents 16036296 4522442 15694328 4529526 Cash and cash equivalents at the beginning of the year 10347394 5824952 10180877 5651351 Cash and cash equivalents at the end of the year 26383690 10347394 25875205 10180877 Cash and cash equivalents consists of Cash at bank and in hand 26383690 10347394 25875205 10180877 Cash and cash equivalents 26383690 10347394 25875205 10180877 Mirriad Advertising plc Annual report and accounts 2017 FINANCIAL STATEMENTS Notes to the consolidated financial statements For the year ended 31 December 2017 Summary of significant accounting policies The principal accounting policies applied in the preparation of these financial statements are set out below.
+These policies have been consistently applied to all the periods presented.
+1.1 Basis of preparation The financial statements of Mirriad Advertising plc have been prepared in accordance with International Financial Reporting Standards IFRS and IFRS Interpretations Committee IFRS IC interpretations as adopted by the European Union and with the Companies Act 2006 applicable to companies reporting under IFRS.
+The financial statements have been prepared under the historical cost convention.
+The preparation of financial statements in conformity with IFRS requires the use of certain critical accounting estimates.
+It also requires management to exercise its judgement in the process of applying the Groups accounting policies.
+The areas involving a higher degree of judgement or complexity or areas where assumptions and estimates are significant to the financial statements are disclosed in note 4.
+1.1.1 Going concern These financial statements have been prepared on the going concern basis which assumes that the Group will continue in operational existence for the foreseeable future.
+After making appropriate enquiries the Directors have a reasonable expectation that the Group has adequate resources to continue in operational existence for the foreseeable future and for at least one year from the date of these financial statements.
+For these reasons they continue to adopt the going concern basis in preparing the Groups financial statements.
+The cash flow projections are the sole responsibility of the Directors based upon their present plans expectations and intentions.
+In this context the Directors have prepared and considered cash flow projections for the Group for a period extending one year from the date of approval of these financial statements.
+Based on these cash flows the Directors are satisfied that the Group is able to meet its liabilities as and when they fall due for the foreseeable future and for a minimum period of 12 months from the date of these financial statements.
+1.1.2 Conversion to IFRS These financial statements for the year ended 31 December 2017 are the first the Group has prepared in accordance with IFRS.
+This note explains the principal adjustments made by the Group in restating its previously published FRS 102 financial statements as at and for the year ended 31 December 2016 and period ended 31 December 2015.
+The main changes under IFRS are noted below and the impact on the income statement and balance sheet can be seen in note 25.
+IAS 20 Accounting for grants has been applied to government grant income received in 2016 and 2015.
+Previously grant income was recognised when quarterly grant claims were actually submitted and the claim amount known but this has been amended to recognise the grant income on an accruals basis over the period the grant costs were incurred.
+IAS 38 Intangible assets has been implemented which has led to capitalisation of staff costs related to development of computer software used by the business.
+Previously all such costs had been expensed through the income statement.
+Accounting policies 2.1 Changes in accounting policy and disclosures a New standards amendments and interpretations The following standards amendments or interpretations effective for the financial year beginning on or after 1 January 2017 have had no material impact on the Group or parent company Amendments to IFRS 12 Annual improvements to IFRS 20142016 cycle  none of the Group interests are classified as held for sale held for distribution to owners or as discontinued operations in accordance with IFRS 5.
+Amendments to IAS 12 Recognition of deferred tax assets for unrealised losses  There are no unrealised losses on debt instruments and no carrying deferred tax asset.
+Amendments to IAS 17 Disclosure initiative  there are no significant changes in liabilities arising from financing activities which need disclosing in the statement of cash flows.
+A number of new standards and amendments to standards and interpretations are effective for annual periods beginning after 1 January 2017 and have not been applied in preparing this historical financial information.
+None of these are expected to have a significant effect on the financial statements of the Group or parent company as set out below IFRS 15 Revenue from contracts with customers deals with revenue recognition and establishes principles for reporting useful information to users of historical financial information about the nature amount timing and uncertainty of revenue and cash flows arising from an entitys contracts with customers.
+Revenue is recognised when a customer obtains control of a good or service and thus has the ability to direct the use and obtain the benefits from the good or service.
+The standard replaces IAS 18 Revenue and IAS 11 Construction contracts and related interpretations.
+The standard is effective for annual periods beginning on or after 1 January 2018 and earlier application is permitted subject to EU endorsement.
+Mirriad Advertising plc Annual report and accounts 2017 Mirriad Advertising plc Annual report and accounts 2017 29 Notes to the consolidated financial statements continued For the year ended 31 December 2017 Accounting policies continued 2.1 Changes in accounting policy and disclosures continued b New standards amendments and interpretations not yet adopted continued The impact of IFRS 15 has been reviewed by management against the criteria of the new standard for the four largest main client agreements generating 88% of revenue in 2017 and the Company believes that there are no major differences between contracts from a revenue recognition viewpoint.
+As a result of this exercise no changes are expected to be required to revenue recognised to date.
+Most of the Groups client contracts do not specify revenue values but provide a framework within which individual work to produce campaigns and revenues are agreed and executed.
+The revenue on such campaigns is currently recognised on a monthly basis depending on campaign progress and ad units delivered to the client as a proportion of the total campaign goals or agreed fee.
+This matches the process of the assets generated from the campaigns being transferred to the client for which the Group is entitled to revenue as the assets are produced.
+Where a fixed or minimum revenue value is specified in the contract this is recognised over the duration of the agreement in line with the agreed performance criteria where these have been specified.
+IFRS 16 Leases addresses the definition of a lease recognition and measurement of leases and establishes principles for reporting useful information to users of historical financial information about the leasing activities of both lessees and lessors.
+A key change arising from IFRS 16 is that most operating leases will be accounted for on the balance sheet for lessees.
+The standard replaces IAS 17 Leases and related interpretations.
+The standard is effective for annual periods beginning on or after 2019 and earlier adoption is permitted subject to EU endorsement and the entity adoption of IFRS 15 Revenue from contracts with customers at the same time.
+The full impact of IFRS 16 has not yet been assessed but the Group expects this to increase assets and lease liabilities.
+IFRS 9 Financial instruments addresses the classification measurement and recognition of financial assets and financial liabilities.
+It replaces the guidance in IAS 39 that relates to the classification and measurement of financial instruments.
+IFRS 9 retains but simplifies the mixed measurement model and establishes three primary measurement categories for financial assets amortised cost fair value through OCI and fair value through PandL.
+The basis of classification depends on the entitys business model and the contractual cash flow characteristics of the financial asset.
+Investments in equity instruments are required to be measured at fair value through profit or loss with the irrevocable option at inception to present changes in fair value in OCI not recycling.
+There is now a new expected credit losses model that replaces the incurred loss impairment model used in IAS 39.
+For financial liabilities there were no changes to classification and measurement except for the recognition of changes in own credit risk in other comprehensive income for liabilities designated at fair value through profit or loss.
+IFRS 9 relaxes the requirements for hedge effectiveness by replacing the bright line hedge effectiveness tests.
+It requires an economic relationship between the hedged item and hedging instrument and for the hedged ratio to be the same as the one management actually uses for risk management purposes.
+Contemporaneous documentation is still required but is different from that currently prepared under IAS 39.
+The standard is effective for accounting periods beginning on or after 1 January 2018.
+Early adoption is permitted subject to EU endorsement.
+IFRS 9 requirements have been assessed by management and deemed to have no material impact on the Group.
+There are no complex financial instruments derivatives or hedges in place and the only items held by the Group covered by IFRS 9 are cash balances trade related receivables and payables and accruals.
+Such items are recognised at their transaction value.
+Although there are differences in the basis of debtors provisioning this is not expected to have a material impact.
+2.2 Business combinations Business combinations are accounted for by applying the purchase method.
+The cost of a business combination is the fair value of the consideration given liabilities incurred or assumed and of equity instruments issued plus the costs directly attributable to the business combination.
+On acquisition of a business fair values are attributed to the identifiable assets liabilities and contingent liabilities unless the fair value cannot be measured reliably in which case the value is incorporated in goodwill.
+Where the fair value of contingent liabilities cannot be reliably measured they are disclosed on the same basis as other contingent liabilities.
+Goodwill recognised represents the excess of the fair value and directly attributable costs of the purchase consideration over the fair values to the Groups interest in the identifiable net assets liabilities and contingent liabilities acquired.
+2.3 Consolidation The Group consolidated financial statements include the financial statements of the Company and all of its subsidiary undertakings made up to 31 December 2017 and the prior year to 31 December 2016.
+As these are the first financial statements for the Group under IFRS a balance sheet for the period ended 31 December 2015 has also been reported as per the requirements of IFRS 1.
+A subsidiary is an entity controlled by the Group.
+Control is the power to govern the financial and operating policies of an entity so as to obtain benefits from its activities.
+Any subsidiary undertakings or associates sold or acquired during the year are included up to or from the dates of change of control or change of significant influence respectively.
+Mirriad Advertising plc Annual report and accounts 2017 FINANCIAL STATEMENTS Mirriad Advertising plc Annual report and accounts 2017 FINANCIAL STATEMENTS 2.
+Accounting policies continued 2.3 Consolidation continued Where control of a subsidiary is lost the gain or loss is recognised in the consolidated income statement.
+The cumulative amounts of any exchange differences on translation recognised in equity are not included in the gain or loss on disposal and are transferred to retained earnings.
+The gain or loss also includes amounts included in other comprehensive income that are required to be reclassified to profit or loss but excludes those amounts that are not required to be reclassified.
+All intraGroup transactions balances income and expenses are eliminated on consolidation.
+Adjustments are made to eliminate the profit or loss arising on transactions with associates to the extent of the Groups interest in the entity.
+2.4 Foreign currency translation i Functional and presentation currency Items included in the financial statements of each of the Groups entities are measured using the currency of the primary economic environment in which each entity operates the functional currency.
+The consolidated financial statements are presented in Pound Sterling which is the functional and presentational currency of the Company and the presentation currency of the Group.
+Transactions in foreign currencies are translated into Sterling at the exchange rate ruling at the date of the transaction.
+Monetary assets and liabilities denominated in foreign currencies are translated into Sterling at the rates of exchange ruling at the balance sheet date.
+Any gain or loss arising from a change in exchange rates subsequent to the date of the transactions is included as an exchange gain or loss in the profit and loss account.
+Nonmonetary items measured at historical costs are translated using the exchange rate at the date of the transaction and nonmonetary items measured at fair value are measured using the exchange rate when fair value was determined.
+Foreign exchange gains and losses that relate to borrowings and cash and cash equivalents are presented in the profit and loss account within Finance income or finance costs.
+All other foreign exchange gains and losses are presented in the profit and loss account within Administrative expenses.
+The results and financial position of all the Group entities none of which has the currency of a hyperinflationary economy that have a functional currency different from the presentation currency are translated into the presentation currency as follows a assets and liabilities for each balance sheet presented are translated at the closing rate at the date of that balance sheet income and expenses for each income statement are translated at average exchange rates unless this average is not a reasonable approximation of the cumulative effect of the rates prevailing on the transaction dates in which case income and expenses are translated at the rate on the dates of each transaction and c all resulting exchange differences are recognised in other comprehensive income.
+2.5 Revenue recognition Revenue is measured at the fair value of the consideration received or receivable and represents amounts receivable for services provided stated net of discounts returns and value added taxes.
+Revenue represents the value excluding value added tax of fees for the services provided.
+All Group revenue comes from the primary business activity of providing native invideo advertising NIVA services to broadcasters advertisers brand owners and their agencies.
+This involves the insertion by the Group of a product signage or video into existing content.
+Revenue is recognised when the services have been delivered and provided to customers in accordance with contractual terms and conditions and there are no further obligations attached.
+Most of the Groups client contracts do not specify revenue values but provide a framework and normally a share of customer revenue within which individual work to produce campaigns and revenues are agreed and executed.
+The exact revenue for each campaign is set out in the relevant insertion purchase order which shows the agreed number of advertising units or insertions to be delivered.
+The revenue on such campaigns is currently recognised on a monthly basis depending on campaign progress and ad units delivered to the client as a proportion of the total campaign goals or agreed fee.
+This matches the process of the assets generated from the campaigns being transferred to the client for which the Group is entitled to revenue as the assets are produced.
+Where a fixed or minimum revenue value is specified in the contract this is recognised over the duration of the agreement in line with the agreed performance criteria where these have been specified.
+2.6 Cost of sales Cost of sales comprises costs directly related to the ad delivery team in India which performs the integration work of the creative imagery our embed into the original content and quality control of the end result.
+All other staff costs are included in administrative costs below gross profit.
+2.7 Other operating income Other operating income relates to income received from government grants.
+Mirriad Advertising plc Annual report and accounts 2017 Mirriad Advertising plc Annual report and accounts 2017 31 Notes to the consolidated financial statements continued For the year ended 31 December 2017 Accounting policies continued 2.8 Government grants Grant income represents amounts received from the government to assist with the funding of research and development activities carried out by the Group.
+Government grant income is recognised at fair value in the profit and loss account at the point that there is reasonable assurance that the Group has complied with the conditions attaching to them and the grants will be received.
+Government grants are recognised in the income statement on a systematic basis over the periods in which the related costs towards which they are intended to compensate are recognised as expenses.
+Where grant related costs relate to staff expenses which are being capitalised as development costs the related grant income is not recognised in the income statement but is instead deducted in arriving at the intangible asset being recognised.
+2.9 Interest income Interest income is recognised using the effective interest rate method.
+2.10 Current and deferred tax Taxation expense for the period comprises current and deferred tax recognised in the reporting period.
+Tax is recognised in the income statement except to the extent that it relates to items recognised in other comprehensive income or directly in equity.
+In this case tax is also recognised in other comprehensive income or directly in equity respectively.
+Current tax is the amount of income tax payable or receivable in respect of the taxable profit or loss for the year or prior years.
+T ax is calculated on the basis of tax rates and laws that have been enacted or substantively enacted by the period end.
+Deferred tax is the timing difference between the tax base and the carrying value in the balance sheet.
+These timing differences arise from the inclusion of income and expenses in tax assessments in periods different from those in which they are recognised in the financial statements.
+Deferred tax is recognised on all timing differences at the reporting date except for certain exceptions.
+Unrelieved tax losses and other deferred tax assets are only recognised when it is probable that they will be recovered against the reversal of deferred tax liabilities or other future taxable profits.
+Deferred tax is measured using tax rates and laws that have been enacted or substantively enacted by the period end and that are expected to apply to the reversal of the timing difference.
+Research and development tax credits are recognised as an income tax credit in the income statement with a corresponding asset recognised until the amounts are received.
+Such amounts are only recognised at the periodyear end based on an assessment of relevant time spent by employees on research and development activities.
+Where government grants have been received against the same employee costs such amounts are removed from the RandD tax credit calculations.
+2.11 Leases At inception the Company assesses agreements that transfer the right to use assets.
+The assessment considers whether the arrangement is or contains a lease based on the substance of the arrangement.
+Operating leased assets Leases that do not transfer all the risks and rewards of ownership are classified as operating leases.
+Payments under operating leases are charged to the profit and loss account on a straight line basis over the period of the lease.
+2.12 Employee benefits i Pension The Company operates a defined contribution pension scheme for UK employees.
+The contributions are recognised as an employee benefit expense when they are due.
+Differences between contributions payable in the year and contributions actually paid are shown as accruals in the consolidated statement of financial position.
+The Company has no further payment obligation once the contributions have been made.
+The Company operates an annual bonus plan for all employees.
+An expense is accrued over the related service period and recognised in the profit and loss account when the Company has a legal or constructive obligation to make payments under the plan as a result of past events and a reliable estimate of the obligation can be made.
+2.13 Sharebased payments The Group operates a number of equitysettled sharebased compensation schemes to certain key employees.
+The fair value of sharebased payments under such schemes is expensed on a straight line basis over the vesting period based on the Groups estimate of shares that will eventually vest with a corresponding entry to equity.
+In arriving at this estimate the Company takes into account nonmarketbased factors and the expected attrition of employees over the period.
+Fair value is determined using the BlackScholes model and requires several assumptions and estimates as disclosed in note 20.
+2.14 Property plant and equipment Tangible fixed assets are stated at historic purchase cost net of accumulated depreciation and any provision for impairment.
+Cost includes the original purchase price of the asset and costs attributable to bringing the asset into its working condition for its intended use.
+Mirriad Advertising plc Annual report and accounts 2017 FINANCIAL STATEMENTS Mirriad Advertising plc Annual report and accounts 2017 FINANCIAL STATEMENTS 2.
+Accounting policies continued 2.14 Property plant and equipment continued Depreciation and residual values The fixed assets have been depreciated on a straight line basis at rates calculated to reduce the net book value of each asset to its estimated residual value by the end of its expected useful economic life in the Companys business and the rates are as follows Fixtures fittings and computer equipment  3 years Leasehold improvements  5 years The assets residual values and useful lives are reviewed and adjusted if appropriate at the end of each reporting period.
+The effect of any change is accounted for prospectively.
+Derecognition
+Tangible assets are derecognised on disposal or when no future economic benefits are expected.
+On disposal the difference between the net disposal proceeds and the carrying amount is recognised in profit or loss and included in Administrative expenses.
+2.15 Intangible assets Computer software Costs associated with maintaining computer software programmes are recognised as an expense as incurred.
+Development costs that are directly attributable to the design and testing of identifiable and unique software products controlled by the Group are recognised as intangible assets when the following criteria are met it is technically feasible to complete the software product so that it will be available for use management intends to complete the software product and use or sell it there is an ability to use or sell the software product it can be demonstrated how the software product will generate probable future economic benefits adequate technical financial and other resources to complete the development and to use or sell the software product are available and the expenditure attributable to the software product during its development can be reliably measured.
+Directly attributable costs that are capitalised as part of the software product include the development employee costs and the fees of any contractors directly involved in the project.
+Other development expenditures that do not meet these criteria are recognised as an expense as incurred.
+Development costs previously recognised as an expense are not recognised as an asset in a subsequent period.
+Computer software development costs recognised as assets are amortised over their estimated useful lives which does not exceed three years.
+Intellectual property and patents Patents and brand assets acquired were valued based on a relief from royalty approach and are amortised over their useful economic life of four years.
+Brand assets are included in Other intangible assets.
+Intangible assets are stated at cost or valuation less accumulated amortisation and accumulated impairment losses.
+Amortisation is calculated using the straight line method to allocate the depreciable amount of the assets to their residual values over their estimated useful lives as follows
+4 years Internally generated software development costs  3 years Other intangible assets  4 years Amortisation is charged to administrative expenses in the profit and loss account.
+Where factors such as technological advancement or changes in market price indicate that residual value or useful life have changed the residual value useful life or amortisation rate are amended prospectively to reflect the new circumstances.
+The assets are reviewed for impairment if the above factors indicate that the carrying amount may be impaired.
+2.16 Trade receivables Trade receivables are amounts due from customers for services rendered in the ordinary course of business.
+If collection is expected in one year or less they are classified as current assets.
+Trade receivables are recognised initially at fair value and subsequently measured at amortised cost using the effective interest method less provision for impairment.
+Mirriad Advertising plc Annual report and accounts 2017 Mirriad Advertising plc Annual report and accounts 2017 33 Notes to the consolidated financial statements continued For the year ended 31 December 2017 Accounting policies continued 2.17 Cash and cash equivalents Cash and cash equivalents includes cash in hand and deposits held at call with banks with original maturities of three months or less.
+2.18 Trade payables Trade payables are obligations to pay for goods or services that have been acquired in the ordinary course of business from suppliers.
+Accounts payable are classified as current liabilities if payment is due within one year or less.
+Trade receivables are recognised initially at fair value and subsequently measured at amortised cost using the effective interest method less provision for impairment.
+2.19 Share capital Ordinary Shares preference shares and deferred shares are classified as equity.
+Incremental costs directly attributable to the issue of new Ordinary and preference shares or options are shown in equity as a deduction net of tax from the proceeds and taken against the share premium account.
+2.20 Related party transactions The Group discloses transactions with related parties which are not wholly owned with the same Group.
+Where appropriate transactions of a similar nature are aggregated unless in the opinion of the Directors separate disclosure is necessary to understand the effect of the transactions on the Group historical financial information.
+It does not disclose transactions with members of the same Group that are wholly owned.
+Financial risk management 3.1 Group financial risk factors The Groups activities expose it to a variety of financial risks market risk including currency risk credit risk and liquidity risk.
+The Groups overall risk management programme is focused on operating cost and cash management.
+The Group operates internationally and is exposed to foreign exchange risk from various currency exposures primarily with respect to US Dollars Indian Rupees Singapore Dollars Chinese Yuan and Brazilian Real.
+Foreign exchange risk arises from commercial transactions and investments in foreign subsidiaries.
+The Group has certain investments in foreign subsidiaries whose net assets are exposed to foreign currency translation risk.
+There are currently no measures in place to manage currency exposure arising from the net assets of the Groups foreign operations.
+Such movements are recognised in the income statement and statement of comprehensive income.
+For the year ended December 2017 the revaluation loss on foreign subsidiary net assets recognised in the statement of comprehensive income was 14088 2016 133270.
+Following the United Kingdoms vote to leave the European Union Sterling has been relatively volatile and there has been mixed impact on the Group.
+When Sterling depreciates the Groups overseas income increases but the cost base rises.
+Conversely when Sterling appreciates revenues are reduced but costs also decrease.
+As the Group is currently loss making any appreciation in Sterling has a beneficial impact on the net loss.
+In common with most businesses the Group extends credit to its customers.
+The credit risk on this activity is judged as low and the Group has not experienced significant bad debt.
+Most clients are large bluechip organisations and further credit checks are not carried out before entering into commercial arrangements.
+Standard credit terms offered are 30 days but this can vary depending on the commercial agreement reached.
+See note 16 for further disclosures on credit risk.
+Cash flow forecasting is performed centrally on a rolling basis for the Group as a whole and the Company ensures that the subsidiaries have sufficient cash to meet their local operational needs.
+The table below analyses the Groups nonderivative financial liabilities into relevant maturity groupings based on the remaining period at the balance sheet date to the contractual maturity date.
+The amounts disclosed in the table are the contractual undiscounted cash flows.
+Less than Between 1 Between 2 Over 1 year and 2 years and 5 years 5 years As at 31 December 2017 Trade and other payables 859184 As at 31 December 2016 Trade and other payables 280936 Mirriad Advertising plc Annual report and accounts 2017 FINANCIAL STATEMENTS Mirriad Advertising plc Annual report and accounts 2017 FINANCIAL STATEMENTS 3.
+Financial risk management continued 3.2 Capital management The Groups objectives when managing capital are to safeguard the Groups ability to continue as a going concern in order to provide returns for shareholders and benefits for other stakeholders.
+The Group considers capital to be its equity reserves.
+The Group ensures it is meeting its objectives by reviewing its key performance indicators KPIs to ensure cash consumption and costs are controlled revenues are in line with expectations and key customers are under contract.
+There is no debt in the Group and to date no dividends have been paid.
+Critical accounting estimates and judgements Estimates and judgements are continually evaluated and are based on historical experience and other factors including expectations of future events that are believed to be reasonable under the circumstances.
+The Group makes estimates and assumptions concerning the future.
+The resulting accounting estimates will by definition seldom equal the related actual results.
+The estimates and assumptions that have a significant risk of causing a material adjustment to the carrying amounts of assets and liabilities within the next financial year are addressed below.
+As part of the acquisition of the trade and assets of Mirriad Limited in May 2015 a fair value review exercise was carried out on the assets and liabilities being transferred.
+The Group also capitalises internally generated software development costs as described below.
+Estimate on original value of acquired intangible assets  As part of the fair value review exercise patents and other intangible assets were capitalised as intangible assets based on their estimated fair values at the time.
+Following the fair value exercise it was noted that the effective consideration paid was lower than the assets being acquired so a negative goodwill balance was recognised and then fully written off in 2015.
+Estimate on the useful life of acquired intangible assets  The intangible assets are being amortised over their expected useful life being four years.
+No residual value is expected at the end of the useful life for any of the intangible assets.
+The assessment of the useful life requires management judgement.
+Intangible assets are assessed for impairment when there are indicators of impairment and any impairment is charged to the income statement.
+Judgement on when capitalisation of internally generated software begins and ends  Internally generated software development costs have also been capitalised which are principally employer payroll costs.
+Such costs are only capitalised to the extent that they relate to an identifiable asset that is expected to generate future economic benefits can be reliably measured and relate to the development phase of the software creation.
+Costs related to the research phase or subsequent maintenance are not capitalised.
+Estimate on the useful life of internally generated software  The intangible assets are being amortised over their expected useful life being three years.
+No residual value is expected at the end of the useful life for any of the intangible assets.
+The assessment of the useful life requires management judgement.
+Intangible assets are assessed for impairment when there are indicators of impairment and any impairment is charged to the income statement.
+The Group records charges for sharebased payments.
+For optionbased sharebased payments management estimates certain factors used in the option pricing model including volatility vesting date of options and number of options likely to vest.
+If these estimates vary from actual occurrence this will impact the value of the equity carried in reserves.
+Further details of the Groups estimation of sharebased payments are disclosed in note 20.
+Mirriad Advertising plc Annual report and accounts 2017 Mirriad Advertising plc Annual report and accounts 2017 35 Notes to the consolidated financial statements continued For the year ended 31 December 2017 Segment information Management mainly considers the business from a geographic perspective since the same services are effectively being sold in every Group entity.
+Therefore regions considered for segmental reporting are where the Company and subsidiaries are based namely the UK the USA India Brazil China and Singapore.
+The revenue is classified by where the sales were booked not by the geographic location of the customer.
+For this reporting purpose the Singapore and China entities are considered together.
+The only income outside of the primary business activity relates to income received from grants which is recognised in other operating income.
+Operating segments are reported in a manner consistent with the internal reporting provided to the chief operating decision maker.
+The chief operating decision maker who is responsible for allocating resources and assessing performance of the operating segments has been identified as the steering committee that makes strategic decisions.
+The steering committee is made up of the Board of Directors.
+There are no sales between segments.
+The revenue from external parties reported to the strategic steering committee is measured in a manner consistent with that in the income statement.
+The parent company is domiciled in the United Kingdom.
+The amount of revenue from external customers by location of the Group billing entity is shown in the tables below.
+2017 2016
+Turnover by geography China and Singapore 450864 64909 India 248356 74727 UK 101494 520655 USA 43733 50575 Brazil 29744 Total 874191 710tel Turnover by category Rendering of services 874191 710866 Total 874191 710tel Revenues from external customers by country based on the destination of the customer China 455962 357496 India 251023 74727 USA 57831 58101 Brazil 29744 Italy 33036 33312 Germany 23444 33670 Other 23151 33262 Australia  64622 Korea  55676 Total 874191 710866 Revenues of 455962 2016 327056 are derived from a single external customer.
+These revenues are attributable to a customer based in China.
+The next largest customer based in India had revenues of 248564 2016 53026.
+Mirriad Advertising plc Annual report and accounts 2017 FINANCIAL STATEMENTS Mirriad Advertising plc Annual report and accounts 2017 FINANCIAL STATEMENTS 5.
+Segment information continued Loss before tax The EBITDA is the loss for the year before depreciation amortisation interest and tax.
+The loss before tax is broken down by segment as follows 2017 2016 UK 6880824 3880044 USA 2245660 1730760 India 404369 425901 China and Singapore 656009 528035 Brazil 172622 Total EBITDA 10359484 6564740 Depreciation 89770 133039 Amortisation 822820 596626 Finance income net 776 301 Loss before tax 11271298 7294104 Depreciation Amortisation Income tax credit Finance income net UK 48747 596626 142887 USA 2567 India 79896   301 China and Singapore 1829
+Total 133039 596626 142887 301 Depreciation Amortisation Income tax credit Finance income net UK 53159 822820 208849 54 USA 3891 India 30084   679 China and Singapore 2636   43
+Total 89770 822820 208tel 2016 Noncurrent assets UK 2183252 1648696 USA 5006 7814 India 58361 36529 China and Singapore 32905 6112
+Total 2279524 1699151 The main noncurrent asset balances in the UK relate to intangible assets and leasehold improvements.
+Mirriad Advertising plc Annual report and accounts 2017 Mirriad Advertising plc Annual report and accounts 2017 37 Notes to the consolidated financial statements continued For the year ended 31 December 2017 Segment information continued 2017 2016 Total assets UK 28793908 12397601 USA 266436 187911 India 371183 259491 China and Singapore 357366 102517 Brazil 157435 Total 29946328 12947520 The main asset balance in the UK is the cash balance which is used to fund the business and support the subsidiary entities.
+2017 2016
+UK 1726945 634913 USA 141730 67024 India 137429 40543 China and Singapore 46783 33264 Brazil 1716 Total 2054603 775744 Operating loss The Group operating loss is stated after chargingcrediting 2017 2016
+Employee benefits 7 6905025 4117661 Depreciation of property plant and equipment 12 89770 133039 Amortisation of intangible assets 13 822820 596626 Foreign exchange movements 166523 139278 Other general and administrative costs 4263842 3438448 Other operating income 101715 141225 Total cost of sales administrative expenses and other operating income 12146265 8005271 Other operating income includes income received from government grants.
+The Group has complied with all the conditions attached to these grant awards.
+During the periods indicated the Group obtained the services from and paid the fees of the Groups auditors as detailed below 2017 2016 Audit fees 42000 21000 Audit related assurance services 453250 Taxation compliance services 5000 8750 Total 500250 29750 Nonaudit fees payable to PricewaterhouseCoopers LLP were 458250 2016 8750.
+The audit related assurance services include assurance reporting on historical financial information included in the AIM listing admission document.
+Mirriad Advertising plc Annual report and accounts 2017 FINANCIAL STATEMENTS Mirriad Advertising plc Annual report and accounts 2017 FINANCIAL STATEMENTS 7.
+Employees
+7.1 Employee benefit expense Group Companytel 2016 Wages and salaries and other benefits 4664745 3583742 2275015 1665553 Social security costs 530294 327517 392215 214453 Share options granted to Directors and employees 1675271 192047 1675271 192047 Pension costs 34715 14355 34715 14355 Total 6905025 4117661 4377216 2086408 All pension costs relate to the defined contribution scheme.
+The key management are considered to be the Directors of the Company.
+In prior years the Chief Financial Officer was considered to also be a member of key management but became a Director on 19 December 2017.
+Remuneration of Directors and key management is disclosed in the Remuneration Report.
+7.2 Average number of people employed Group Companytel 2016 By activity Number Number Number Number Average monthly numbers of persons employed including Directors by the Company during the periodyear was Sales and account management Ad operations and delivery Research and development Marketing and product 3  1 Management and administration .
+Finance income and costs 2017 2016 Finance income Interest on shortterm deposit 776 301 Total 776 301 Mirriad Advertising plc Annual report and accounts 2017 Mirriad Advertising plc Annual report and accounts 2017 39 Notes to the consolidated financial statements continued For the year ended 31 December 2017
+The amounts recognised in the Company balance sheet are as follows 2017 2016 Subsidiary undertakings 213748 11796 Total investments 213748 11796 During the year the Company had interests in the following investments all of which are consolidated in the Group historical financial information.
+There are no capital contributions related to sharebased payments.
+The subsidiaries as listed below have share capital consisting solely of Ordinary Shares which are held directly by the Group the country of incorporation or registration is also their principal place of business.
+Proportion of Country of nominal value of Name of subsidiary registration and shares and voting or Group undertaking Registered address Nature of business operation rights held Mirriad Advertising Private Limited Office No.
+Palm Spring Centre Link Road above Croma Malad w Mumbai400 064 Provision of embedded advertising into video India 100% Mirriad Inc.
+4th Floor 19 W24th Street New York NY 10001 Provision of embedded advertising into video USA 100% Mirriad Singapore Pte.
+Ltd.
+8 Eu Tong Sen Street 1687 The Central
+Provision of embedded advertising into video Singapore 100% Mirriad Software Science and Technology Shanghai Co.
+Ltd
+Rm 1328 2nd Floor No.148 Lane 999 Xin Er Road Shanghai Provision of embedded advertising into video China 100% Mirriad Brasil Tecnologias Para Midia Ltda Rua Padre Joo Manuel 923 Conjunto 111 Sala 3 CEP 01411001 So Paulo Brazil Provision of embedded advertising into video Brazil 99.8% Mirriad Limited 6th Floor One London Wall London EC2Y 5EB United Kingdom Dormant UK 100% Mirriad Brasil Tecnologias Para Midia Ltda is fully owned by the Group with Mirriad Inc. holding the remaining 0.2% of issued share capital.
+The nominal value of issued shares for the companies is as follows Mirriad Advertising Private Limited 10000 shares of 10 INR Mirriad Inc 1000 shares of 0.001 USD Mirriad Singapore Pte.
+Ltd.
+25000 shares of 1 SGD Mirriad Software Science and Technology Shanghai Co.
+Ltd. registered capital is 600000 CNY Mirriad Brasil Tecnologias Para Midia Ltda 600000 shares of 1 BRL and Mirriad Limited 1 share of 0.01 GBP.
+Mirriad Advertising plc Annual report and accounts 2017 FINANCIAL STATEMENTS Mirriad Advertising plc Annual report and accounts 2017 FINANCIAL STATEMENTS 10.
+Income tax credit 2017 2016 Tax credit included in profit and loss Current tax Research and development tax credit for the periodyear 208849 142887 Total current tax 208849 142887 Deferred tax Origination and reversal of timing differences Total deferred tax Tax on loss 208849 142887 UK corporation tax credit relates to RandD tax credits received by the Group.
+Reconciliation of tax charge The tax assessed for the period is based on the standard rate of corporation tax in the UK of 19.25%.
+The differences are outlined below 2017 2016 Loss before tax 11271298 7294104 Loss on ordinary activities multiplied by the standard rate of corporation tax in the UK of 19.25% 2016 20% 2169725 1458821 Effects of Expenses not deductible for tax purposes 1002999 708968 Enhanced RandD deduction 156715 111396 RandD tax credit receivable 208849 142887 Surrender of losses for RandD tax credit 277265 197086 Deferred tax not recognised on unutilised losses 1046176 664163 Total tax credit for the periodyear 208849 142887 The tax chargecredit relating to components of other comprehensive income is as follows Tax charge Before tax credit After tax Fair value losses Currency translation differences 14088  14088 Other comprehensive income 14088  14088 Tax charge Before tax credit After tax Fair value losses Currency translation differences 133270  133270 Other comprehensive income 133270  133270 Mirriad Advertising plc Annual report and accounts 2017 Mirriad Advertising plc Annual report and accounts 2017 41 Notes to the consolidated financial statements continued For the year ended 31 December 2017 Income tax credit continued Deferred tax The following tables represent deferred tax balances recognised in the consolidated balance sheet and the movements in both the deferred tax asset and the deferred tax liability.
+There is a deferred tax liability of 346910 2016 346910 in respect of the intangible asset acquired on acquisition of the trade and assets of Mirriad Limited in 2015 which has been immediately offset against the acquired unrecognised deferred tax asset in relation to trading losses carried forward.
+2017 2016 Deferred tax assets 346910 346910 Deferred tax liabilities 346910 346910 Net balances Movements on the deferred tax asset 2017 2016 At 1 January 346910 367316 Acquisition during the year Impact of rate changes  20406 At 31 December 346910 346910 Movements on the deferred tax liability 2017 2016 At 1 January 346910 367316 Acquisition during the year Impact of rate changes  20406 At 31 December 346910 346910 There is an unrecognised deferred tax asset of 4446458 2016 3276040 in relation to the trading losses carried forward provisions and future exercisable shares.
+Unrecognised deferred tax has been calculated at 17% reflecting the latest enacted rate.
+The unrecognised deferred tax asset would be recovered against future Company taxable profits.
+In the opinion of the Directors there is insufficient evidence that the asset will be recovered as such the deferred tax asset has not been recognised in the financial statements.
+Factors that may affect future tax charges The main rate of corporation tax was aligned with the small profits rate at 20% with effect from 1 April 2015.
+Changes to the UK corporation tax rates were enacted as part of the Finance No.2 Act 2015 which received royal assent on 18 November 2015 and Finance Act 2016 which received royal assent on 15 September 2016.
+These include reductions to reduce the main rate to 19% from 1 April 2017 and 17% from 1 April 2020.
+These rate reductions have been reflected in the calculation of deferred tax at the balance sheet date as noted above.
+Mirriad Advertising plc Annual report and accounts 2017 FINANCIAL STATEMENTS Mirriad Advertising plc Annual report and accounts 2017 FINANCIAL STATEMENTS 11.
+Earnings per share a Basic Basic earnings per share is calculated by dividing the loss for the periodyear by the weighted average number of Ordinary Shares in issue during the year.
+Potential Ordinary Shares are not treated as dilutive as the Group is loss making and such shares would be antidilutive.
+Group 2017 2016 Loss attributable to owners of the parent  11062449 7151217 Weighted average number of Ordinary Shares in issue Number 58030338 40466430 The loss per share for the year was 19p 2016 18p.
+No dividends were paid during the year 2016 nil.
+Potential Ordinary Shares are not treated as dilutive as the Group is loss making and such shares would be antidilutive.
+Property plant and equipment
+Fixtures fittings and computer Leasehold equipment improvements Total At 1 January 2016 Cost or valuation 251331  251331 Accumulated depreciation 110587  110587 Net book amount 140744  140744 Year ended 31 December 2016 Opening net book amount 140744  140744 Additions 41312  41312 Disposals 2744  2744 Depreciation charge 133039  133039 Depreciation on disposals 2744  2744 Closing net book amount 49017  49017 At 31 December 2016 Cost or valuation 289899  289899 Accumulated depreciation 240882  240882 Net book amount 49017  49017 Year ended 31 December 2017 Opening net book amount 49017  49017 Additions 120260 346367 466627 Disposals 44699  44699 Depreciation charge 58989 30781 89770 Depreciation on disposals 44699  44699 Closing net book amount 110288 315586 425874 At 31 December 2017 Cost or valuation 365460 346367 711827 Accumulated depreciation 255172 30781 285953 Net book amount 110288 315586 425874 As at 31 December 2017 there were no contractual commitments to purchase any further property plant and equipment 2016 none.
+Mirriad Advertising plc Annual report and accounts 2017 Mirriad Advertising plc Annual report and accounts 2017 43 Notes to the consolidated financial statements continued For the year ended 31 December 2017 Property plant and equipment continued
+Fixtures fittings and computer Leasehold equipment improvements Total At 1 January 2016 Cost or valuation 130795  130795 Accumulated depreciation 81223  81223 Net book amount 49572  49572 Year ended 31 December 2016 Opening net book amount 49572  49572 Additions 27205  27205 Depreciation charge 49580  49580 Closing net book amount 27197  27197 At 31 December 2016 Cost or valuation 158000  158000 Accumulated depreciation 130803  130803 Net book amount 27197  27197 Year ended 31 December 2017 Opening net book amount 27197  27197 Additions 59197 346367 405564 Disposals 1409  1409 Depreciation charge 22377 30781 53158 Depreciation on disposals 1409  1409 Closing net book amount 64017 315586 379603 At 31 December 2017 Cost or valuation 215788 346367 562155 Accumulated depreciation 151771 30781 182552 Net book amount 64017 315586 379603 Mirriad Advertising plc Annual report and accounts 2017 FINANCIAL STATEMENTS Mirriad Advertising plc Annual report and accounts 2017 FINANCIAL STATEMENTS 13.
+Intangible assets Group and Company
+Patents costs Other Total
+At 1 January 2016 1688712 38651 351935 2079298 Additions  481723  481723 At 31 December 2016 1688712 520374 351935 2561021 Additions  842010  842010 At 31 December 2017 1688712 1362384 351935 3403031 Accumulated amortisation At 1 January 2016 281452 2787 58656 342895 Amortisation charge 422178 86464 87984 596626 At 31 December 2016 703630 89251 146640 939521 Amortisation charge 422178 312658 87984 822820 At 31 December 2017 1125808 401909 234624 1762341 Net book value Cost 1688712 520374 351935 2561021 Accumulated amortisation 703630 89251 146640 939521 At 31 December 2016 985082 431123 205295 1621500 Cost 1688712 1362384 351935 3403031 Accumulated amortisation 1125808 401909 234624 1762341 At 31 December 2017 562904 960475 117311 1640690 Intangible assets comprises two patents acquired from Mirriad Limited in 2015 which are being amortised on a straight line basis over four years.
+Other intangibles above includes the technology acquired from Mirriad Limited which has a carrying net book value of 13264 2016 23211 and the Mirriad brand acquired as part of the same transaction which has a carrying value of 104048 2016 182084.
+These items are being amortised on a straight line basis over four years.
+The internally generated software costs reflect staff time incurred on two main products for internal use which underpin the business processes.
+These development costs have been offset by grant income received for the same staff costs over the period.
+To the extent that work on the products reflects research or maintenance activities such related costs have not been capitalised.
+The capitalised software development costs are being amortised on a straight line basis over three years.
+Despite the losses incurred none of the intangible assets are deemed to be impaired.
+An impairment review was performed.
+This review demonstrated that the current Company value exceeds the assets and as these intangibles are an integral part of the Companys operations the Company is comfortable that there is no impairment.
+Mirriad Advertising plc Annual report and accounts 2017 Mirriad Advertising plc Annual report and accounts 2017 45 Notes to the consolidated financial statements continued For the year ended 31 December 2017 Trade and other receivables Group Companytel 2016 Trade receivables  net 203609 128370 19768 12162 Other debtors 556629 230160 501849 178876 Accrued income 237208 195107  106718 Prepayments 289788 191731 167953 86030 1287234 745368 689570 383786 Less noncurrent portion other debtors 212960 28634 162960 Current portion 1074274 716734 526610 383786 Trade receivables are stated after a provision for impairment of 29120 2016 29120.
+As of 31 December 2017 trade receivables of 117627 2016 121254 were past due but not impaired.
+These relate to a number of independent customers for whom there is no recent history of default.
+The ageing history of these trade receivables is as follows 2017 2016 Up to three months 34224 88178 Three to six months 50480 4702 Over six months 32923 28374 Total 117627 121254 Trade and other payables Group Companytel 2016 Trade creditors 745419 185320 743710 183925 Other taxation and social security 113765 95616 108777 74431 Accruals and deferred income 1195419 494808 874455 376556 Total 2054603 775744 1726942 634912 Deferred income as at 31 December 2017 was nil 2016 33036.
+Mirriad Advertising plc Annual report and accounts 2017 FINANCIAL STATEMENTS Mirriad Advertising plc Annual report and accounts 2017 FINANCIAL STATEMENTS 16.
+Financial instruments The Group has the following financial instruments 2017 2016 Financial assets that are debt instruments measured at amortised cost Trade debtors 203609 128370 Other debtors 556629 230160 Total 760238 358530 Financial liabilities measured at amortised cost Trade creditors 745419 185320 Other taxation and social security 113765 95616 Total 859184 280936 None of the financial assets are considered to be impaired.
+The Group has no financial assets at fair value through the income statement 2016 nil and no financial assets that are equity instruments measured at cost less impairment 2016 nil.
+Derivative financial instruments The Group has no interest rate derivative financial instruments.
+Interest on bank loans and overdrafts are disclosed in note 8.
+Credit quality of financial assets The credit quality of financial assets that are neither past due nor impaired can be assessed by reference to external credit ratings if available or to historical information about counterparty default rates 2017 2016 Trade receivables Counterparties without external credit rating Group 1 12000 27022 Group 2 187024 82566 Group 3 4585 18782 Total unimpaired trade receivables 203609 128370 Cash at bank and shortterm bank deposits A1 26124196 10260344 Baa1 73062 10627 Ba2 131928 Baa3 54099 76198 26383285 10347169 Cash in hand 405 225 Total cash and cash equivalents 26383690 10347394 Group 1  new customers less than six months.
+Group 2  existing customers more than six months with no defaults in the past.
+Group 3  existing customers more than six months with some defaults in the past.
+Mirriad Advertising plc Annual report and accounts 2017 Mirriad Advertising plc Annual report and accounts 2017 47 Notes to the consolidated financial statements continued For the year ended 31 December 2017 Share capital and premium Share premium and nominal value of share capital Ordinary Preference Deferred Total Share Shares shares shares share capital premium Total At 1 January 2016 363   363 10901926 10902289 Proceeds from shares issued 87 104  191 11387925 11388116 Shares issued in lieu of consideration  2  2 111735 111737 At 31 December tel 556 22401586 22402142 Proceeds from shares issued 1 21  22 1360972 1360994 Shares issued in lieu of consideration  1  1 52543 52544 Capital restructuring     23755050 23755050 Issue of deferred shares   49898 49898 49898 Share conversion 128 128 EMI options exercised 31   31 786843 786874 Proceeds from IPO share issue 409   409 25394029 25394438 Share issue costs     2473635 2473635 At 31 December 2017 1019  49898 50917 23717390 23768307 On 25 July 2017 100000 Ordinary Shares were issued for 62p per share as part of a 1.4 million fundraise from new investors.
+The proceeds from shares issued figure above is net of transaction costs of 14608 2016 50909.
+On 23 October 2017 the Company passed a resolution to reduce the share premium account by 23755050 as part of a capital reduction.
+As a result of the capital reduction positive distributable reserves were created in preparation for the Companys admission to AIM.
+On 17 November 2017 the Company used the share premium account to fund the issue of 1995936 deferred shares of 0.025 each totalling 49898.
+More details on the deferred shares can be found below.
+Ordinary Shares of 0.00001 each Allotted and fully paid Number At 1 January 2017 44974546 Issued during the year 100000 Conversion of preference shares 12808521 EMI options exercised 3055072 Issued at IPO 40958772 At 31 December 2017 101896911 On 7 December 2017 3055072 Ordinary Shares were issued on the exercise of EMI options.
+Option holders were permitted to sell sufficient Ordinary Shares to cover the aggregate exercise price.
+On 19 December 2017 40958772 Ordinary Shares were issued for 62p per share as part of an IPO and admission to AIM which raised 25.4 million.
+There is a single class of Ordinary Shares.
+There are no restrictions on the distribution of dividends and the repayment of capital.
+Preference shares of 0.00001 each Allotted and fully paid Number At 1 January 2017 10605063 Issued during the year 2203458 Conversion to Ordinary Shares 12808521 At 31 December 2017 Mirriad Advertising plc Annual report and accounts 2017 FINANCIAL STATEMENTS Mirriad Advertising plc Annual report and accounts 2017 FINANCIAL STATEMENTS 17.
+Share capital and premium continued Preference shares of 0.00001 each continued On 25 July 2017 2203458 preference shares were issued for 62p per share as part of a 1.4 million fundraise from new investors.
+This number includes 84748 preference shares issued in lieu of consideration for corporate finance adviser services provided as per note 23.
+On 18 December 2017 12808521 preference shares of 0.00001 each were converted to Ordinary Shares in advance of the Companys admission to AIM.
+The preference shares are considered as equity and do not provide an obligation to pay dividends to the shareholders.
+On a distribution of assets on a liquidation or a return of capital the preference shareholders have priority before other classes of shares to receive repayment of capital.
+Deferred shares of 0.025 each Allotted and fully paid Number At 1 January 2017 Issued during the year 1995936 At 31 December 2017 1995936 On 21 November 2017 1995936 deferred shares of 0.025 each were issued to existing shareholders and funded from the Companys share premium account totalling 49898.
+The shares were issued on the basis of one new deferred share for every 29 existing Ordinary Shares and one new deferred share for every 29 preference shares.
+The deferred shares do not have any voting rights attached and no entitlement to receive any dividend or other distribution.
+On a return of assets in a windingup or otherwise the holders of deferred shares will only be entitled to repayment of the amounts paid up on such shares after repayment of 10 million per Ordinary Share.
+The Company may subject to appropriate shareholder approval elect to buy back the deferred shares at a later date for an aggregate amount of 0.01 for each holders total holding of deferred shares.
+The share capital reserve consists of shares issued to the Groups investors.
+The number of authorised shares is uncapped.
+The share premium reserve consists of amounts paid in addition to the nominal value of the Ordinary Shares less any direct costs and fees incurred during the investment.
+The profit and loss account consists of accumulated losses.
+Sharebased payments reserve Group and
+At 1 January 2016 97517 Sharebased payments recognised as expense 192047 At 31 December 2016 289564 At 1 January 2017 289564 Sharebased payments recognised as expense 1675271 At 31 December 2017 1964835 The cost of equitysettled sharebased payments are recognised in the income statement together with a corresponding increase in equity in this sharebased payment reserve during the vesting period.
+Note 20 explains the employee options schemes in more detail.
+Mirriad Advertising plc Annual report and accounts 2017 Mirriad Advertising plc Annual report and accounts 2017 49 Notes to the consolidated financial statements continued For the year ended 31 December 2017 Retranslation reserve
+At 1 January 2016 43127 Translation loss for the year 133270 At 31 December 2016 176397 At 1 January 2017 176397 Translation loss for the year 14088 At 31 December 2017 190485 The other reserve contains the translation losses for the periodyear which results from the revaluation of subsidiary opening net assets and reserves.
+Such translation movements are recorded in the statement of comprehensive income and this reserve.
+Sharebased payments Certain employees participate in the key employee share option scheme which provides additional remuneration for those employees who are key to the operations of the Group.
+In accordance with IFRS 2 Sharebased payments the cost of the equitysettled transactions is measured by reference to their fair value at the date at which they are granted.
+Fair value is determined using the BlackScholes model.
+The cost of equitysettled transactions is recognised over the period until the award vests.
+No expense is recognised for awards that do not ultimately vest.
+At each reporting date the cumulative expense recognised for equitybased transactions reflects the extent to which the vesting period has expired and the number of awards that in the opinion of the Directors at that date will ultimately vest.
+The cost of equitysettled sharebased payments are recognised in the income statement together with a corresponding increase in equity during the vesting period  please see note 18 for details of the sharebased payment reserve.
+During the 12 months ended 31 December 2017 the Group recognised a sharebased payment expense of 1675271 2016 192047.
+The charge is included within administrative expenses.
+The Company grants share options under an Unapproved Share Option Scheme the Unapproved Scheme and under its tax efficient EMI Option Scheme the EMI Scheme.
+Under the Unapproved Scheme options are granted to nonUKbased employees at an exercise price deemed to be market value of the shares.
+Under the EMI Scheme options are granted to UKbased employees at a fair value.
+In general for options granted onethird are exercisable on the first anniversary of the grant a further third are exercisable on the second anniversary of the grant and the remainder are exercisable three years after the date of grant.
+All vested options expire ten years after the date of grant.
+The only exception were options issued in 2015 which vested immediately.
+Employees are not entitled to dividends until the shares options are exercised.
+Vesting of the options is subject to continued employment within the Group.
+Both the Unapproved and EMI Scheme rules contained a provision whereby the normal threeyear vesting schedule of the options will be accelerated on admission to AIM such that all subsisting options could be exercised either immediately prior to admission or during the 90 days following admission with the lapse of unexercised options occurring 90 days after admission.
+The Board resolved on 14 November to amend the rules for unapproved option holders to permit them to choose either to accept the accelerated vesting and exercise their options within 90 days of admission or to accept an amendment whereby unapproved options will continue to vest under their original vesting schedule.
+All employees elected to continue with the original vesting schedule.
+The Chairmans unapproved options did accelerate on admission to AIM and are now fully vested.
+The Chairmans options are exercisable up to not less than five years following termination of office.
+No unapproved options were exercised during the year 2016 nil.
+Mirriad Advertising plc Annual report and accounts 2017 FINANCIAL STATEMENTS Mirriad Advertising plc Annual report and accounts 2017 FINANCIAL STATEMENTS 20.
+Sharebased payments continued All the EMI option holders elected to exercise their options during the year 2016 nil details of which can be found in the table below.
+In the year ended 31 December 2017 the Company granted 1759677 2016 nil share options under the EMI Scheme and 2046294 2016 1965894 share options under the Unapproved Scheme.
+Movements in the number of share options outstanding and their related weighted average exercise prices are as follows 2017 2016 Weighted average Weighted average exercise price in Share options exercise price in Share options per share option Number  per share option Number EMI Scheme Outstanding at 1 January 0.30 1548971 0.30 1548971 Reclassification of options 0.30 253576 Granted 0.23 1759677 Exercised 0.26 3055072 At 31 December   0.30 1548971 Unapproved Scheme Outstanding at 1 January 0.50 3083192 0.30 1524429 Reclassification of options 0.30 253576 Granted 0.62 2046294 0.62 1965894 Forfeited 0.51 238905 0.30 407131 At 31 December 0.54 5144157 0.50 3083192 Out of the 5144157 outstanding Unapproved Scheme options 2016 3083192 2846794 options 2016 398033 were exercisable.
+The weighted average exercise price of the outstanding share options under the Unapproved Scheme at 31 December 2017 was 0.54 2016 0.50.
+Share options outstanding at the end of the year have the following expiry date and exercise price Exercise price in Share options Grantvest Scheme Expiry date  per share optionstel EMI 20 Aug 2025 0.30  84083 2015 Unapproved 20 Aug 2025 0.30  38400 201518 EMI 20 Aug 2025 0.30  1363888 201518 Unapproved 20 Aug 2025 0.30 1291760 1078898 201518 EMI 16 Nov 2025 0.30  101000 201619 Unapproved 16 Dec 2026 0.62 3371731 1965894 201719 Unapproved 19 June 2027 0.62 255666 201719 Unapproved 16 Oct 2027 0.62 225000 Total 5144157 4632163 The fair values were estimated using the BlackScholes option pricing model.
+The weighted average fair value of the options granted under the Unapproved Scheme during the period under this model was 0.31 per option 2016 0.31.
+The significant inputs into the model were share price of 0.62 2016 0.62 at the grant date exercise price as shown above volatility of 47.9% 2016 48.4% expected option life of 6.5 years 2016 6.5 years and an annual riskfree interest rate of 1.706% 2016 2.0687%.
+The volatility used for the calculations was based on the average median 6.5 year volatility for AIMlisted technology companies as at 31 December 2017.
+The weighted average fair value of the options granted under the EMI Scheme during the period under this model was 0.46 per option 2016 nil.
+The significant inputs into the model were share price of 0.62 2016 0.62 at the grant date exercise price as shown above volatility of 48% 2016 nil expected option life of 6.5 years 2016 nil and an annual riskfree interest rate of 1.75% 2016 nil.
+Mirriad Advertising plc Annual report and accounts 2017 Mirriad Advertising plc Annual report and accounts 2017 51 Notes to the consolidated financial statements continued For the year ended 31 December 2017 Cash generated from operations Group Companytel 2016
+Loss for the financial periodyear 11062449 7151217 11290257 7442293 Adjustments for Tax on loss on ordinary activities 10 208849 142887 208849 142887 Interest received 8 776 301 54 Operating loss 11272074 7294405 11499160 7585180 Amortisation of intangible assets 13 822820 596626 822820 596626 Depreciation of tangible assets 12 89770 133039 53158 49580 Profit on disposal of tangible assets 2660 227 1441 Bad debts written off 11293 Cost settled with equity 52544 111735 52544 111735 Sharebased payment charge 20 1675271 192047 1675271 192047 Foreign exchange variance 166523 133270 Increasedecrease in debtors 541866 132427 305784 123237 Increase in creditors 1288908 222599 1092032 201176 Cash flow used in operating activities 7709471 6304283 8110560 6310779 Capital and other commitments The Group had no capital and other commitments as at 31 December 2017 or the period ended 31 December 2016.
+Related party transactions The Group is owned by a number of investors the largest being IP2IPO Portfolio GP Limited as general partner for IP2IPO Portfolio L. who owns approximately 27% of the share capital of the Company.
+Accordingly there is no ultimate controlling party.
+During the year the Company had the following significant related party transactions which were carried out at arms length.
+No guarantees were given or received for any of these transactions IP2IPO Services Limited IP2IPO Portfolio GP Limited  a company with the same parent company as IP2IPO Services Limited one of the Company Directors during the period had the following transactions 1 purchase of 6010323 Ordinary Shares in the IPO in December 2017 at 0.62 per share and 2 charged Mirriad Advertising plc 52543.76 for services as a corporate finance adviser.
+This fee was satisfied by the issue and allotment of 84748 preference shares in July 2017.
+IP2IPO Limited  a company with the same parent company as IP2IPO Services Limited one of the Company Directors during the period had the following transactions 1 purchase of 10000 Ordinary Shares in the IPO in December 2017 at 0.62 per share and 2 charged Mirriad Advertising plc 10000 in November 2017 for placement of a Nonexecutive Director and 267.05 for event hire and refreshments in December 2017.
+The invoice for the event hire charges was not received by the Company until January 2018 so was unpaid as at 31 December 2017.
+This invoice was subsequently settled on 30 January 2018.
+Top Technology Ventures Limited  a company with the same parent company as IP2IPO Services Limited one of the Company Directors and during the period charged Mirriad Advertising plc 3500 in August 2017 for data room charges related to fundraising activity.
+Parkwalk Advisors Limited The Nonexecutive Director of the Company during the period purchased 4032258 Ordinary Shares in the IPO in December 2017 at 0.62 per share.
+All the related party transactions disclosed above were settled by 31 December 2017 except where stated.
+During the year ended 31 December 2017 the Company entered into transactions with its subsidiary companies for working capital purposes which net off on consolidation  these have not been shown above.
+The Directors have authority and responsibility for planning directing and controlling the activities of the Group and they therefore comprise key management personnel as defined by IAS 24 Related party disclosures.
+Remuneration of Directors and senior management is disclosed in the Remuneration Report.
+Mirriad Advertising plc Annual report and accounts 2017 FINANCIAL STATEMENTS Mirriad Advertising plc Annual report and accounts 2017 FINANCIAL STATEMENTS 24.
+Lease commitments The Group leases office space under a mixture of shortterm licensed deals and longerterm operating leases expiring within one to nine years.
+The future minimum lease payments under noncancellable operating leases are as follows 2017 2016
+No later than one year 429795 322675 Later than one year and no later than five years 1260915 77168 Later than five years 1244833 Total 2935543 399843 IFRS conversion Group reconciliation of equity as at 31 December 2015 IFRS at IFRS Other 31 December FRS 102 adjustments adjustments 2015
+Assets
+Noncurrent assets Property plant and equipment D 59240  81504 140744 Intangible assets A 1700539 35864  1736403 Current assets Trade and other receivables B 586777 76650 29120 634307 Cash and cash equivalents 5824952   5824952 Total assets 8171508 112514 52384 8336406 Equity and liabilities Equity attributable to owners of the parent Ordinary Shares 363   363 Share premium 10901926   10901926 Sharebased payment reserve E   97517 97517 Retranslation reserve 43127   43127 Retained earnings At start of year Loss for the year attributable to the owners C 3228364 112514 76466 3192316 Total equity 7630798 112514 21051 7764363
+Current liabilities Trade and other payables F G 540710  31333 572043 Total liabilities 540710  31333 572043 Total equity and liabilities 8171508 112514 52384 8336406 Mirriad Advertising plc Annual report and accounts 2017 Mirriad Advertising plc Annual report and accounts 2017 53 Notes to the consolidated financial statements continued For the year ended 31 December 2017 IFRS conversion continued Group reconciliation of equity as at 31 December 2016 IFRS at IFRS Other 31 December FRS 102 adjustments adjustments 2016
+Assets
+Noncurrent assets Property plant and equipment 49017   49017 Intangible assets A 1190377 431123  1621500 Trade and other receivables   28634 28634 Current assets Trade and other receivables B 958730  57755 900975 Cash and cash equivalents 10347394   10347394 Total assets 12545518 431123 29121 12947520 Equity and liabilities Equity attributable to owners of the parent Ordinary Shares 556   556 Share premium 22401586   22401586 Sharebased payment reserve E   289564 289564 Retranslation reserve 176397   176397 Retained earnings At start of year 3228364 112514 76466 3192316 Loss for the year attributable to the owners C 7155713 318609 314113 7151217 Total equity 11841668 431123 101015 12171776
+Current liabilities Trade and other payables F G 703850  71894 775744 Total liabilities 703850  71894 775744 Total equity and liabilities 12545518 431123 29121 12947520 Mirriad Advertising plc Annual report and accounts 2017 FINANCIAL STATEMENTS Mirriad Advertising plc Annual report and accounts 2017 FINANCIAL STATEMENTS 25.
+IFRS conversion continued Company reconciliation of equity as at 31 December 2015 IFRS at IFRS Other 31 December FRS 102 adjustments adjustments 2015
+Assets
+Noncurrent assets Property plant and equipment D 49572   49572 Intangible assets A 1700539 35864  1736403 Current assets Trade and other receivables B 432842 76650  509492 Cash and cash equivalents I 5651351   5651351 Total assets 7834304 112514  7946818 Equity and liabilities Equity attributable to owners of the parent Ordinary Shares 363   363 Share premium 10901926   10901926 Sharebased payment reserve E   97517 97517 Retained earnings Loss for the year attributable to the owners C 3477130 112514 110312 3474928 Total equity 7425159 112514 12795 7524878
+Current liabilities Trade and other payables F G 409145  12795 421940 Total liabilities 409145  12795 421940 Total equity and liabilities 7834304 112514  7964818 Mirriad Advertising plc Annual report and accounts 2017 Mirriad Advertising plc Annual report and accounts 2017 55 Notes to the consolidated financial statements continued For the year ended 31 December 2017 IFRS conversion continued Company reconciliation of equity as at 31 December 2016 IFRS at IFRS Other 31 December FRS 102 adjustments adjustments 2016
+Assets
+Noncurrent assets Property plant and equipment 27197   27197 Intangible assets A 1190377 431123  1621500 Investments 11796   11796 Current assets Trade and other receivables B 568029  2 568027 Cash and cash equivalents I 10180877   10180877 Total assets 11978276 431123 2 12409397 Equity and liabilities Equity attributable to owners of the parent Ordinary Shares 556   556 Share premium 22401586   22401586 Sharebased payment reserve E   289564 289564 Retained earnings At start of year 3477130 112514 110312 3474928 Loss for the year attributable to the owners C 7536327 318609 224575 7442293 Total equity 11388685 431123 45323 11774485
+Current liabilities Trade and other payables F G 589591  45321 634912 Total liabilities 589591  45321 634912 Total equity and liabilities 11978276 431123 2 12409397 Mirriad Advertising plc Annual report and accounts 2017 FINANCIAL STATEMENTS Mirriad Advertising plc Annual report and accounts 2017 FINANCIAL STATEMENTS 25.
+IFRS conversion continued Group reconciliation of consolidated statement of profit or loss for the period ended 31 December 2015 IFRS for the period ended IFRS Other 31 December FRS 102 adjustments adjustments 2015
+Revenue H 514141  170610 343531 Cost of sales 125260   125260 Gross profit 388881  170610 218271 Administrative expenses A D E F G 3656965 110407 76466 3623024 Other operating income B H  2107 170610 172717 Operating loss 3268084 112514 76466 3232036 Finance income Finance costs 1634   1634 Loss before income tax 3269718 112514 76466 3233670 Income tax credit 41354   41354 Loss for the period 3228364 112514 76466 3192316 Group reconciliation of consolidated statement of profit or loss for the year ended 31 December 2016 IFRS for the period ended IFRS Other 31 December FRS 102 adjustments adjustments 2016
+Revenue 967625  256759 710866 Cost of sales 151585  1 151586 Gross profit 816040  256760 559280 Administrative expenses A D E F G 8114941 434143 314112 7994910 Other operating income B H  115534 256759 141225 Operating loss 7298901 318609 314113 7294405 Finance income 301   301 Loss before income tax 7298600 318609 314113 7294104 Income tax credit 142887   142887 Loss for the year 7155713 318609 314113 7151217 Mirriad Advertising plc Annual report and accounts 2017 Mirriad Advertising plc Annual report and accounts 2017 57 Notes to the consolidated financial statements continued For the year ended 31 December 2017 IFRS conversion continued Company reconciliation of consolidated statement of profit or loss for the period ended 31 December 2015 IFRS for the period ended IFRS Other 31 December FRS 102 adjustments adjustments 2015
+Revenue H 475863  170610 305253 Cost of sales 1225   1225 Gross profit 474638  170610 304028 Administrative expenses A D E F G 3991677 110407 110312 3991582 Other operating income B H  2107 170610 172717 Operating loss 3517039 112514 110312 3514837 Finance costs 1445   1445 Loss before income tax 3518484 112514 110312 3516282 Income tax credit 41354   41354 Loss for the period 3477130 112514 110312 3474928 Company reconciliation of consolidated statement of profit or loss for the year ended 31 December 2016 IFRS for the period ended IFRS Other 31 December FRS 102 adjustments adjustments 2016
+Revenue 777413  256759 520654 Cost of sales 799   799 Gross profit 776614  256759 519855 Administrative expenses A D E F G 8455828 434143 224575 8246260 Other operating income B H  115534 256759 141225 Operating loss 7679214 318609 224575 7585180 Finance income Loss before income tax 7679214 318609 224575 7585180 Income tax credit 142887   142887 Loss for the year 7536327 318609 224575 7442293 Mirriad Advertising plc Annual report and accounts 2017 FINANCIAL STATEMENTS Mirriad Advertising plc Annual report and accounts 2017 FINANCIAL STATEMENTS 25.
+IFRS conversion continued Notes on IFRS adjustments A  Capitalised development costs FRS 102 allows an option to capitalise development costs provided specific criteria are met but this option was not taken by the Company despite the criteria being met.
+Under IFRS an intangible asset arising from the development phase of an internal project must be recognised if certain criteria have been met.
+IAS 38 Intangible assets has now been implemented which has led to the recognition of staff costs related to the development of computer software products used by the business.
+The costs are recognised to the extent they relate to the development phase of the work being carried out.
+These development costs are being amortised over three years.
+B  Grant income Previously grant income was recognised when quarterly grant claims were actually submitted and the claim amount known but this has been amended to recognise the grant income on an accruals basis over the period the grant costs were incurred in line with IAS 20 Government grants and disclosure of government assistance.
+The impact of this was to reallocate grant income between 2015 and 2016 which gave rise to a corresponding accrued income balance at the end of 2015.
+C  Loss for the periodyear This entry represents the retained earnings impact of all the adjustments posted.
+Notes on other adjustments D  Depreciation in India This adjustment ensures depreciation is appropriately allocated between 2015 and 2016.
+E  Sharebased payments IFRS 2 Sharebased payments has now been applied to share options granted in 2015 and 2016 resulting in a charge in the income statement and a corresponding entry in equity.
+Previously sharebased payments had not been recognised as an expense and they were not deemed material to the FRS 102 financial statements.
+F  Holiday pay accrual IAS 19 Employee benefits.
+A holiday pay accrual has been made for annual leave accrued and not taken at the periodyear end.
+No such accrual had previously been recognised in the FRS 102 financial statements.
+G  National Insurance on sharebased payments A National Insurance accrual has been recognised in relation to the sharebased payments issued to employees.
+This was previously not recognised and was not deemed material to the FRS 102 financial statements.
+H  Operating income Grant income has reclassified from revenue to other operating income.
+I  Cash and cash equivalents There was no impact on overall cash flows of the IFRS conversion.
+Post balance sheet events On 24 April 2018 the Company announced the completion of an investment by Puhua Tianqin Equity Investment Fund Partnership Puhua a capital fund established in Jinhua in the Peoples Republic of China.
+Puhua has subscribed for 3225806 new Ordinary Shares at a price of 62p per share the same price funds were raised at in Mirriads IPO on 19 December 2017.
+The investment raised gross proceeds of approximately 2 million for the Company.
+Mirriad Advertising plc Annual report and accounts 2017 Mirriad Advertising plc Annual report and accounts 2017 59 Notice of Annual General Meeting This document is important and requires your immediate attention.
+If you are in any doubt as to any aspect of the proposals referred to in this document or as to the action you should take you should seek your own advice from a stockbroker solicitor accountant or other professional adviser who if you are taking advice in the United Kingdom is duly authorised under the Financial Services and Markets Act 2000 or an appropriately authorised independent financial adviser if you are in a territory outside the United Kingdom.
+If you have sold or otherwise transferred all of your shares in the Company please pass this document together with the accompanying documents to the purchaser or transferee or to the person who arranged the sale or transfer so they can pass these documents to the person who now holds the shares.
+Mirriad Advertising plc incorporated and registered in England and Wales under number Notice of Annual General Meeting Notice of the Annual General Meeting of Mirriad Advertising plc the Company to be held at One London Wall London EC2Y 5EB at 10.00 a. on 13 June 2018 is set out in this document.
+Whether or not you propose to attend the Annual General Meeting please complete and submit a proxy form in accordance with the instructions printed on the enclosed form.
+The proxy form must be received not less than 48 hours before the time of the holding of the Annual General Meeting.
+Mirriad Advertising plc Annual report and accounts 2017 FINANCIAL STATEMENTS Mirriad Advertising plc Annual report and accounts 2017 FINANCIAL STATEMENTS NOTICE IS HEREBY GIVEN that the ANNUAL GENERAL MEETING of Mirriad Advertising plc the Company will be held at One London Wall London EC2Y 5EB at 10.00 a. which Resolutions 1 to 11 inclusive will be proposed as Ordinary Resolutions and Resolution 12 will be proposed as a Special Resolution.
+Ordinary business To receive and consider the Directors Report the audited financial statements and Independent Auditors Report for the year ended 31 December 2017.
+T o receive and approve the Remuneration Report contained within the Annual Report and Accounts for the year ended 31 December 2017.
+To reappoint PricewaterhouseCoopers LLP as auditors of the Company to hold office from the conclusion of this Annual General Meeting until the conclusion of the next Annual General Meeting of the Company at which accounts are laid before the members of the Company.
+To authorise the Directors of the Company the Directors to fix the remuneration of the auditors.
+To reelect Mr.
+Roger Faxon as a Director of the Company who retires in accordance with the articles of association of the Company.
+To reelect Mr.
+Mark Reilly as a Director of the Company who retires in accordance with the articles of association of the Company.
+To reelect Mr.
+Alastair Kilgour as a Director of the Company who retires in accordance with the articles of association of the Company.
+T o reelect Mr.
+Anthony John Pearson as a Director of the Company who retires in accordance with the articles of association of the Company.
+T o reelect Mr.
+Mark Popkiewicz as a Director of the Company who retires in accordance with the articles of association of the Company.
+T o reelect Mr.
+David Dorans as a Director of the Company who retires in accordance with the articles of association of the Company.
+Special business That in substitution for any equivalent authorities and powers granted to the Directors prior to the passing of this resolution the Directors be and are hereby generally and unconditionally authorised for the purposes of section 551 of the Companies Act 2006 the Act to exercise all the powers of the Company to allot shares in the Company and to grant rights to subscribe for or to convert any security into such shares in the Company such shares and rights to subscribe for or to convert any security into shares of the Company being relevant securities up to an aggregate nominal amount of 350 such amount to be reduced by the nominal amount of any allotment or grants made under paragraph b below in that are in excess of 350 and further allot equity securities of the Company as defined in section 560 of the Act up to an aggregate nominal amount of 701 such amount to be reduced by the nominal amount of any allotment or grants made under paragraph a above in connection with an offer by way of a rights issue in favour of holders of Ordinary Shares in the capital of the Company where the equity securities respectively attributable to the interests of all such holders are proportionate as nearly as practicable to the respective number of Ordinary Shares in the capital of the Company held by them and ii to holders of any other equity securities as required by the rights of those securities or as the Directors otherwise consider necessary but subject to such exclusions or other arrangements as the Directors may deem necessary or expedient in relation to fractions of such securities the issue transfer andor holding of any securities in certificated form or in uncertificated form the use of one or more currencies for making payments in respect of such offer any such shares or other securities being represented by depositary receipts treasury shares or any legal regulatory or practical problems arising under the laws of or the requirements of any regulatory body or any stock exchange in any territory or any other matter whatsoever provided that i unless previously revoked varied or extended such authorities shall expire on the earlier of the conclusion of the Companys next Annual General Meeting and the date falling 15 months after the date of the passing of this resolution and ii before such expiry the Company may make any offer or agreement which would or might require relevant securities to be allotted after such expiry and the Directors may allot such relevant securities pursuant to any such offer or agreement as if the authority conferred by this Resolution 11 had not expired.
+Mirriad Advertising plc Annual report and accounts 2017 Mirriad Advertising plc Annual report and accounts 2017 6 1 Notice of Annual General Meeting continued Special business continued That in substitution for any equivalent authorities and powers granted to the Directors prior to the passing of this resolution the Directors be and are hereby generally empowered to allot equity securities as defined in section 560 of the Act of the Company wholly for cash pursuant to the authority of the Directors under section 551 of the Act conferred by Resolution 11 above in accordance with section  of the Act andor by way of a sale of treasury shares in accordance with section 573 of the Act in each case as if section  of the Act did not apply to any such allotment provided that a such power shall be limited to the allotment of equity securities in connection with an offer of or invitation to apply for equity securities but in the case of the authority granted under paragraph b of i Resolution 11 by way of a rights issue only in favour of holders of Ordinary Shares in the capital of the Company where the equity securities respectively attributable to the interests of all such holders are proportionate as nearly as practicable to the respective number of Ordinary Shares in the capital of the Company held by them and to holders of other equity securities as required by the rights of those securities or as the Directors otherwise consider necessary but subject to such exclusions or other arrangements as the Directors may deem necessary or expedient in relation to fractions of such securities the issue transfer andor holding of any securities in certificated form or in uncertificated form the use of one or more currencies for making payments in respect of such offer any such shares or other securities being represented by depositary receipts treasury shares or any legal regulatory or practical problems arising under the laws of or the requirements of any regulatory body or any stock exchange in any territory or any other matter whatsoever and ii the allotment of equity securities other than pursuant to subparagraph i above up to an aggregate nominal amount of 105 and unless previously revoked varied or extended such authorities shall expire on the earlier of the conclusion of the Companys next Annual General Meeting and the date falling 15 months after the date of the passing of this resolution except that the Company may at any time before such expiry make an offer or agreement which would or might require relevant securities to be allotted after such expiry and the Directors may allot such relevant securities in pursuance of such an offer or agreement as if this authority had not expired.
+By order of the Board Catherine Shennan Company Secretary 18 May 2018 Registered office 6th Floor One London Wall
+EC2Y 5EB Registered in England and Wales No.
+Mirriad Advertising plc Annual report and accounts 2017 FINANCIAL STATEMENTS Mirriad Advertising plc Annual report and accounts 2017 FINANCIAL STATEMENTS Explanatory notes to the resolutions Resolution 1  Receiving the accounts and reports All public limited companies are required by law to lay their annual accounts before a general meeting of the Company together with the Directors Report and Auditors Report on the accounts.
+At the Annual General Meeting the Directors will present these documents to the members for the financial year ended 31 December 2017.
+Resolution 2  Directors Remuneration Report The Company is required to put an ordinary resolution to members approving the report at the meeting at which the Companys Annual Report and Accounts for that year are laid.
+Resolution 3  Reappointment of auditors This resolution concerns the reappointment of PricewaterhouseCoopers LLP as auditors until the conclusion of the next general meeting at which accounts are laid that is the next Annual General Meeting.
+Resolution 4  Auditors remuneration This resolution authorises the Directors to fix the auditors remuneration.
+Resolutions 5 to 10  Reelection of Directors These resolutions concern the reelection of all of the Directors of the Company who are retiring at the first Annual General Meeting since the Companys admission to AIM in accordance with article 88.1a of the Companys articles of association.
+Resolution 11  Directors power to allot shares This resolution grants the Directors authority to allot shares in the capital of the Company and other relevant securities up to an aggregate nominal value of 350 representing approximately 33.33% of the nominal value of the issued Ordinary Share capital of the Company as at 17 May 2018 being the latest practicable date before publication of this notice.
+In addition in accordance with guidelines issued by the Investment Association this resolution grants the Directors authority to allot further equity securities up to an aggregate nominal value of 701 representing approximately 66.66% of the nominal value of the issued Ordinary Share capital of the Company as at 17 May 2018 being the latest practicable date before publication of this notice.
+This additional authority may be only applied to fully preemptive rights issues.
+Unless revoked varied or extended this authority will expire at the conclusion of the next Annual General Meeting of the Company or the date falling 15 months from the passing of the resolution whichever is the earlier.
+Resolution 12  Directors power to issue shares for cash This resolution authorises the Directors in certain circumstances to allot equity securities for cash other than in accordance with the statutory preemption rights which require a company to offer all allotments for cash first to existing shareholders in proportion to their holdings.
+The relevant circumstances are either where the allotment takes place in connection with a rights issue or other preemptive issue or the allotment is limited to a maximum nominal amount of 105 representing approximately 10% of the nominal value of the issued Ordinary Share capital of the Company as at 17 May 2018 being the latest practicable date before publication of this notice.
+Unless revoked varied or extended this authority will expire at the conclusion of the next Annual General Meeting of the Company or 15 months after the passing of the resolution whichever is the earlier.
+The Company may hold any shares it buys back in treasury and then sell them at a later date for cash rather than simply cancelling them.
+Any such sales are required to be made on a preemptive prorata basis to existing shareholders unless shareholders agree by special resolution to disapply such preemption rights.
+Accordingly in addition to giving the Directors power to allot unissued Ordinary Shares on a nonpreemptive basis Resolution 12 will also give Directors power to sell Ordinary Shares held in treasury on a nonpreemptive basis subject always to the limitations noted above.
+The Directors consider that the power proposed to be granted by Resolution 12 is necessary to retain flexibility although they do not have any intention at the present time of exercising such power.
+Unless revoked varied or extended the authorities conferred by Resolution 12 will expire at the conclusion of the next Annual General Meeting of the Company or 15 months after the passing of the resolution whichever is the earlier.
+Notes to Notice of Annual General Meeting Members are entitled to appoint a proxy to exercise all or any of their rights to attend and to speak and vote on their behalf at the meeting.
+A member may appoint more than one proxy provided that each proxy is appointed to exercise the rights attached to a different share or shares held by that member so a member must have more than one share to be able to appoint more than one proxy.
+A proxy need not be a member of the Company but must attend the Annual General Meeting in order to represent you.
+A proxy form which may be used to make such appointment and give proxy instructions accompanies this notice.
+If you do not have a proxy form and believe that you should have one or if you require additional forms please contact the Companys registrars ontel.
+Calls cost 12p to 14p per minute plus your phone companys access charge.
+Calls outside the United Kingdom will be charged at the applicable international rate.
+They are open between 8.30 a.
+Monday to Friday excluding public holidays in England and Wales.
+Mirriad Advertising plc Annual report and accounts 2017 Mirriad Advertising plc Annual report and accounts 2017 63 Notice of Annual General Meeting continued Notes to Notice of Annual General Meeting continued To be valid the proxy form must be completed and lodged together with the original power of attorney or other authority if any under which it is signed or a duly certified copy of such power or authority with the Companys registrars Computershare Investor Services Plc by hand only to Computershare Investor Services Plc The Pavilions Bridgwater Road Bristol BS99 6ZY or in accordance with the replied paid details not less than 48 hours before the time appointed for holding the Annual General Meeting.
+The return of a completed proxy form other such instrument or any CREST Proxy Instruction as described in paragraph 7 below will not prevent a member attending the Annual General Meeting and voting in person if heshe wishes to do so although voting in person at the Annual General Meeting will terminate the proxy appointment.
+T o be entitled to attend and vote at the Annual General Meeting and for the purpose of the determination by the Company of the votes they may cast members must be registered in the Register of Members of the Company at the close of business on 11 June 2018 or if the Annual General Meeting is adjourned such time being not more than 48 hours prior to the time fixed for the adjourned meeting.
+Changes to the Register of Members after the relevant deadline shall be disregarded in determining the rights of any person to attend and vote at the Annual General Meeting.
+As at 17 May 2018 being the last business day prior to the publication of this notice of meeting the Companys issued share capital consisted of 105122717 Ordinary Shares in the capital of the Company carrying one vote each.
+Therefore the total voting rights in the Company as at 17 May 2018 were 105122717.
+CREST members who wish to appoint a proxy or proxies through the CREST electronic proxy appointment service may do so by using the procedures described in the CREST Manual.
+CREST personal members or other CREST sponsored members and those CREST members who have appointed a service providers should refer to their CREST sponsor or voting service providers who will be able to take the appropriate action on their behalf.
+In order for a proxy appointment or instruction made using the CREST service to be valid the appropriate CREST message a CREST Proxy Instruction must be properly authenticated in accordance with Euroclear UK and Ireland Limiteds specifications and must contain the information required for such instruction as described in the CREST Manual available via siteCREST.
+The message regardless of whether it constitutes the appointment of a proxy or is an amendment to the instruction given to a previously appointed proxy must in order to be valid be transmitted so as to be received by the issuers agent CREST ID No.
+3RA50 by 10.00 a. on 11 June 2018.
+For this purpose the time of receipt will be taken to be the time as determined by the time stamp applied to the message by the CREST Application Host from which the issuers agent is able to retrieve the message by enquiry to CREST in the manner prescribed by CREST.
+After this time any change of instructions to proxies appointed through CREST should be communicated to the appointee through other means.
+CREST members and where applicable their CREST sponsors or voting service providers should note that Euroclear UK and Ireland Limited does not make available special procedures in CREST for any particular message.
+Normal system timings and limitations will therefore apply in relation to the input of CREST Proxy Instructions.
+It is the responsibility of the CREST member concerned to take or if the CREST member is a CREST personal member or sponsored member or has appointed a voting service provider to procure that his CREST sponsor or voting service providers takes such action as shall be necessary to ensure that a message is transmitted by means of the CREST system by any particular time.
+In this connection CREST members and where applicable their CREST sponsors or voting system providers are referred in particular to those sections of the CREST Manual concerning practical limitations of the CREST system and timings.
+The Company may treat as invalid a CREST Proxy Instruction in the circumstances set out in Regulation a of the Uncertificated Securities Regulations 2001.
+Any corporation which is a member can either i appoint a proxy described in notes 1 to 3 above or ii appoint one or more corporate representatives who may exercise on its behalf all of its powers as a member provided they do not do so in relation to the same shares.
+Members considering the appointment of a corporate representative should check their own legal position the Companys articles of association and the relevant provision of the Companies Act 2006.
+A copy of this notice and other information required by section 311A of the Actsiteinvestorrelations You may not use any electronic address provided either in the Notice of Annual General Meeting or any related documents including the Chairmans letter and proxy form to communicate for any purposes other than those expressly stated.
+Voting on all resolutions will be conducted by way of a poll.
+This is a more transparent method of voting as shareholders votes are counted according to the number of shares registered in their names.
+The following documents will be available for inspection during normal business hours at the registered office of the Company from the date of this notice until the time of the meeting.
+They will also be available for inspection at the place of the meeting from at least 15 minutes before the meeting until it ends a copies of the service contracts of the Executive Directors of the Company and b copies of the letters of appointment of the Nonexecutive Directors of the Company.
+Mirriad Advertising plc Annual report and accounts 2017 FINANCIAL STATEMENTS Mirriad Advertising plc Annual report and accounts 2017 FINANCIAL STATEMENTS Directors Roger Faxon
+Mark Popkiewicz
+Chief Executive Officer
+David Dorans Chief Financial Officer Alastair Kilgour Nonexecutive Director John Pearson Nonexecutive Director Dr Mark Reilly Nonexecutive Director Company registration number Registered office 6th Floor One London Wall
+EC2Y 5EB Company website site Independent auditors PricewaterhouseCoopers LLP 3 Forbury Place 23 Forbury Rd
+RG1 3JH
+Osborne Clarke LLP 6th Floor One London Wall
+EC2Y 5EB Company Secretary Catherine Shennan Nominated adviser and broker Numis Securities Limited 10 Paternoster Square
+EC4M 7LT Financial PR Hudson Sandler LLP 29 Cloth Fair
+EC1A 7NN
+Computershare Investor Services plc The Pavilions Bridgwater Road
+BS99 6ZZ Company information The NEXT GENERATION of
+Mirriad Advertising plc Annual report and accounts 2017 Mirriad Advertising plc 96 Great Suffolk Street

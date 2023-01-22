@@ -1,0 +1,983 @@
+Annual Report and Accounts 2017 Contents Strategic Report 2017 Highlights 2 At a Glance
+Chairmans statement
+Chief Executives review
+Financial review
+Principal risks and uncertainties Corporate Governance Board of Directors and Executive Management Directors report Statement of Directors responsibilities Corporate Governance Financial Statements
+Independent Auditors report
+Consolidated Statement of Comprehensive Income Consolidated Statement of Financial Position Consolidated Statement of Cash Flows Consolidated Statement of Changes in Equity Notes to the Consolidated Financial Statements Parent Company Statement of Financial Position Parent Company Statement of Changes in Equity Notes to the Parent Company Financial Statements Company information Gaming Realms is a developer publisher and licensor of mobile games building an international portfolio of highly popular gaming content and brands.
+Our vertically integrated approach as well as investment in our proprietary mobile platform and successful brand partnerships gives us complete control to offer highly popular games to a very broad audience.
+1 Financial Statements Strategic Report Corporate Governance 20 1 7 Highlights
+Operational
+RMG revenue increased by 5% to 2016 21.5m Social publishing revenue decreased by 13% to 2016 7.9m with 45% reduction in marketing as well as a reduction in headcount of 19 Game library growth to proprietary games on our Grizzly platform 2016 8 Total game library growth to games on our Grizzly platform 2016 458 Own game content and IP generated 38% 2016 37% of real money gaming and social publishing revenue Licensing revenue increased 7% to 0.8m 2016 0.8m RMG marketing decreased by 17% Delivered a maiden full year Adjusted EBITDA of 2016 2m loss Real money gaming RMG EBITDA increased 11 3% to 2.7m 2016 1.3m Social publishing EBITDA loss reduced 97% to 0.1m 2016 1.8m loss Strategic brand partnership deployments with ITV and STORM for LoveIslandgames as well as growing previous partnerships with Fremantle and Endemol Integration of real money gaming and social game development roadmap Launched new content licensing business in addition to brand licensing.
+In 2017 the Remote Game Server was certified and deployed in New Jersey and Europe Secured a 10year services agreement and 3.5m convertible loan with Jackpotjoy Group Settled 4.5m3.3m final tranche payment relating to the Slingo acquisition Affiliate business transferred to held for sale and subsequently sold in March 2018 Total Revenue down by 7% to 31.6m 2016 34.0m for the year ended 31 December 2017 Revenue excluding disposed noncore assets down by 1% Gaming Realms plc Annual Report and Accounts 2017 2 At a glance Gaming Realms develops publishes and licenses mobile gaming content.
+Our market leading mobile technology powers content distribution and monetization across real money and social publishing markets.
+As the creator of a variety of Slingo bingo slots and other casual games we use our proprietary data platform to build and engage global audiences that are expanding even further via strategic lottery media and platform partnerships.
+Gaming Realms has partnered with some of the most successful and popular global platforms and operators.
+Innovation
+Integrated game development licensing and publishing IP licensor North American Lottery Printed Scratch Games  Scientific Games Global Electronic Gaming Machines Scientific Games Global Lottery Mobile Instant Games  IWG Social Slot Games  Zynga Inc.
+Game development Game licensing Game publishing 3 Mobile games studios End to end publisher with 100% regulated gaming and social games revenues.
+Our mobilefirst real money gaming platform Grizzly is licensed in Alderney and by the UK Gambling Commission.
+Our real money gaming players are exclusively in the UK today.
+Our mobilefirst social games are available on iOS Google Play Facebook Amazon and mobile web. optimized for every device.
+Our platform is powered by sophisticated data science and engineering to drive optimal ROI for acquiring and retaining our audience.
+Content licensor Social Puzzle Games  Electronic Arts Inc.
+Bingo  Pala Interactive iGaming Library  US and EU US  Caesars Interactive Resorts Inc Pala Interactive Rush Street and Golden Nugget Europe  LadbrokesCoral 888 JackpotJoy and Bet Victor Brand partnerships Endemol  Deal or No Deal Freemantle  Britains Got Talent the X Factor Northern and Shell  Health Games ITV  Love Island Dancing On Ice The Only Way is Essex Hells Kitchen Sony  Who Wants to Be a Millionaire
+UK
+Victoria
+Canada
+Brest
+Belarus 3 Financial Statements Strategic Report Corporate Governance Our key focus areas Original game content and IP development We build original content from our own London Victoria and Brest based studios incorporating social meta games and real money mechanics with wellknown brands.
+Data and algorithmic optimisation Its all about the data  from advanced algorithms to individual landing pages designed to give the player an optimised experience.
+Responsible gambling Gaming Realms is committed to providing an environment for customers to play responsibly and securely.
+Since commencing operations we have had measures in place to encourage responsible play  to keep it fun  and have provided tools to help keep customers gaming and spending within their control.
+Gaming Realms has worked closely with other operators to help develop and shape a responsible approach to customers across the industry.
+Internally we regularly conduct training for all our employees to raise awareness of problem gambling.
+Our marketing and advertising strategies comply with the Committee of Advertising Practice CAP the Broadcast Committee of Advertising Practice BCAP and the Industry Group for Responsible Gambling IGRG advertising codes.
+Gaming Realms has also implemented new policies in response to the published guidelines from the UK Gambling Commission and the Competition and Markets Authority to ensure our terms are clear and fair.
+In addition we fund research education and treatment of problem gambling through donations to GambleAware.
+In 2017 we made several improvements to our processes to improve risk profiling and alerts for customers who may exhibit signs of problem gambling.
+We also established a dedicated team to focus on identifying concerns around problem gambling source of funds and affordability.
+All our customers have access to tools to help manage their gameplay including Session reminders  alerting customers when theyve been playing for a set period Deposit Limits  customers can set daily weekly or monthly deposit limits Cool down  customers may configure a period of time in days or weeks during which play on any of our sites will be stopped Selfexclusion  customers may exclude themselves permanently from all our sites Advanced mobile gaming platform We have invested significantly in our mobile based gambling and social platforms powered by algorithmic CRM and personalised content.
+Our real money gaming business is operated from Guernsey and fully licensed by the UK Gambling Commission for both development and operation.
+Strategic partners and licensing Partners include Fremantle Zynga IWG Pala Interactive and Scientific Games.
+Not only do we leverage our own IP across multiple brands but we also license Slingo into markets adjacent to the Groups core mobile gaming business.
+RMG Studio
+Focus Slingo and Unique IP Simplified integrated development Global distribution through publishing and licensing RMG Social UK Own sites UK media partnerships NJ igaming licensees Lotteries SGI and IWG Europe igaming licensees Slingo Slots Hidden Objects Own Apps Social Slots Zynga Additional Publishing and Licensing Partnerships e.
+Slingo Bingo and Slots content Social Studio Victoria Canada Focus Mobile social apps for reuse of RMG games
+TV shows
+SocRM Page title am pleased to report that the Group delivered a positive Adjusted EBITDA of 0.8m for 2017 2016 2m loss.
+This was achieved in part through significant cost reductions primarily in Social Publishing and our rationalisation in overall marketing.
+The Groups strategy of disposing of noncore assets and concentrating on delivering operating profit in its two main business units has resulted in the Group ending 2017 in a much stronger position than the previous year.
+Following this strategy we sold our noncore affiliate business for 2.4m in March 2018.
+We were able to grow Real Money Gaming revenue by 5% to 22.7m during the year 2016 21.5m.
+This was achieved through operational improvements including player management where bonus costs reduced to circa 26% of Gross Gaming Revenue 2016 29% and despite a 17% reduction in marketing costs.
+The UK Real Money Gaming market has been challenging with a great deal of new regulation to contend with as well as adverse changes in Point of Consumption tax.
+It would therefore be remiss of me not to emphasise the adverse effect that increased Government regulation has had on our UK Real Money Gaming business.
+Implementing
+This has put pressure on margins throughout the last two years.
+On 17 May 2018 the Government announced that it proposes to reduce the permitted maximum allowed stake on Fixed Odds Terminals in betting shops to 2 from the current 100.
+Due to the resulting loss of tax revenue the Government also announced that Remote Gaming Duty will be raised at the next Budget in November 2018 in order to balance the budget.
+This makes it likely that there will be a further rise in the rate of Point of Consumption tax.
+The Groups strategy of disposing of noncore assets and concentrating on delivering operating profit in its two main business units has resulted in the Group ending 2017 in a much stronger position than the previous year.
+Michael Buckley
+Chairmans Statement
+Delivering growth We had a significant year in Social Publishing with a reorganisation of the business and a substantial reduction in costs of circa 3m on an annualised basis.
+This was accompanied by a reduction of 45% in marketing expenditure which resulted in a reduction of 13% in revenues to 6.9m 2016 7.9m whilst reducing losses by 97% to 0.1m 2016 1.8m.
+We continued to execute synergies and leverage Slingo across our business.
+For example we took Slingo Originals games produced in our studio in London for real money and offered these through our Slingo Arcade mobile app.
+These synergies helped take our Social Publishing business to profitability in H2 2017.
+Given these positive results we have refocused our social growth exclusively through development of the Slingo Arcade app on which we will publish Slingo Originals content.
+With the increase in our library of proprietary games we are developing high margin revenue opportunities in game content licensing.
+We launched into the New Jersey USA market in H2 2017 going live with Caesers Interactive Resorts Digital Gaming and Rush Street Interactive.
+Our
+Nugget and Pala Interactive.
+In March 2018 GGR from our games accounted for over 3% of the total New Jersey online casino market.
+Currently we have 9 games live in that market with a pipeline of content to be produced for Real Money Gaming to distribute with existing and new partners during the current year.
+Gaming Realms plc Annual Report and Accounts 2017 4 5 Financial Statements Strategic Report Corporate Governance
+3m reduction in Social Publishing costs Sale of noncore affiliate business In December 2017 the Group entered into a 10year framework services agreement with the Jackpotjoy Group under which we will supply various real money gaming services including the licensing of Slingo Originals content.
+The Company also signed a separate agreement to build Jackpothappy as a white label site on the Gaming Realms proprietary platform.
+As part of the arrangements between the two companies the Jackpotjoy Group entered into a 3.5m secured convertible loan agreement with the Company full details of which are given later in this Report and Accounts.
+In summary the Group has delivered an annual positive Adjusted EBITDA for the first time significantly reduced run rate costs has achieved a breakeven position in Social Publishing and is licensing games into New Jersey and Europe via its RGS.
+This is in addition to having a growing profitable UK based Real Money Gaming operation all leveraging our Slingo Originals games.
+Through focus on these tightly integrated core activities we are now in a position to drive further profitable growth in the future.
+Outlook for 2018 The Board has approved the 2018 operating plan which is to increase top line growth in UK real money gaming from our Grizzly operating platform and continue the development and licensing of mobile focused gambling games.
+We plan to expand our presence in Europe and extend the recent licensing deals with 888 and Gala Bingo with deals involving other large operators.
+Benefits flowing from these activities should be supplemented by the benefits we hope to achieve from the 2017 investment in development and integration synergies within our social publishing business.
+Capitalising on our success in New Jersey we will licence Slingo Originals to more operators as well as licence our content in other States approving real money online gaming such as Pennsylvania.
+We will also pursue opportunities in Columbia and one or more provinces in Canada.
+On 14 May 2018 the US Supreme Court announced a decision to reverse a ban on sports betting within the
+Whilst the expansion of sports betting on a state by state basis will no doubt be a slower process than many operators would like the introduction of legalised betting into many states is likely to be a precursor to other forms of regulated online gaming.
+In the longer term it seems likely that this decision will enable the Company to expand further into the US market and is a cause for some additional optimism for the future.
+Based on the Companys performance to date in 2018 the board believes that the results for the year ending 31 December 2018 should be in line with managements current expectations.
+Michael Buckley
+4 June 2018 Gaming Realms plc Annual Report and Accounts 2017 6
+Chief Executives Review
+Originals and achieve a positive Adjusted EBITDA result.
+Real Money Gaming delivered revenue growth in the very competitive UK market despite the headwinds of increased regulation and Point of Consumption tax.
+We continued to develop and distribute market leading mobile content onto our Grizzly platform as well as to third party operators.
+We also streamlined our Social Publishing business reducing losses to break even and creating further synergies with our games studio in London.
+The investment in both our proprietary platform and mobile content development has led to the continued growth in a younger more casual player set.
+Mobile play has increased to 84.0% 2016 80.0% of gross gaming revenue.
+Growth in 2017 has been supported by key media deals with ITV including Love Island and Dancing On Ice as well as continuing relationships with Fremantle for the X Factor and Britains Got Talent which have allowed us to offer a more targeted gambling offering to our key demographic.
+Real Money Gaming delivered revenue growth in the very competitive UK market despite the headwinds of increased regulation and Point of Consumption tax.
+Patrick Southon
+Chief Executive Officer
+A focused strategy
+We have augmented this by the inhouse creation of 11 new unique Slingo Original mobile games bringing us to 19 in total which account for over 123m 2016 86m in wagering on the platform or 27% of the gross gaming revenue for the year.
+Gambling player deposits increased to 49.8m 2016 49.0m.
+We have also managed to reduce bonus costs to 26% 2016 29% of gross gaming revenue.
+The cost per acquisition on the platform was 74 2016 86 and we gained 108720 2016 116349 new depositing players in the year.
+Our revenue per depositing player increased 7% to 162 2016 153.
+Demand for our unique content has led to the development of a Remote Game Server RGS which allows our Slingo Original games to be licensed to third party operators as premium content.
+2017 saw the launch of Slingo Orignals in New Jersey and in Europe.
+This will form a key part of our strategy in 2018 as we look to expand the reach of our content into new international territories.
+In
+2018 we have achieved growth to 3% of the online casino market in New Jersey as well as sign deals with several tier one operators in
+We are aiming to be live with 10 tier one operators by the end of the year.
+This will build high margin recurring revenue in adjacent markets.
+We have further integrated the social business in H2 2017 with the creation of a shared development path which now allows us to deliver content simultaneously to both real money gaming and social audiences.
+The first offering in this regard is Slingo Arcade which following launch in late Q416 has become our highest grossing social app with very encouraging metrics.
+In future emphasis will be on using this channel to monetize content developed for real money gaming similar to licensing our content to third party operators.
+This has resulted in a reduction in Social Publishing headcount from 53 in June 2016 to 19 in December 2017.
+With the reduction in costs and marketing we have seen revenues fall 13% however this delivered a reduced full year EBITDA loss of 0.1m 2016 1.8m.
+Key goals for 2018 Continued profitability in Real Money Gaming and Social Publishing following 2017 cost reductions and operational improvements Continue strategic investment in Slingo Originals content library for overall revenue growth but with greater emphasis on content licensing Increase B2B partners on Grizzly platform Increase new licensees for Slingo Original content Further expansion of strategic media partnerships across all revenue streams Patrick Southon
+Chief Executive Officer
+4 June 2018 Market overview We are continuing to focus on the younger more casual gambling demographic.
+We are targeting them through mobile delivery and original game IP.
+This is enabling us to acquire and engage players away from the more crowded male orientated sportsbook market.
+The 25 to 34 yearold group are our largest segment accounting for over 40% of all players.
+As a result of our content strategy women are delivering higher lifetime values on the platform despite the fact that the active players male to female ratio is 5050.
+Demographic  Average NGR of funded users Male Female 2534 3544 4554 5564 65 5tel250 Device age split last 6 months
+Mobile Desktop vs Real money payers Players under 35 50.59% 49.41% 58.12% 7 Financial Statements Strategic Report Corporate Governance Game activity by device last 6 months Desktop vs Mobile 1210481 GGR 7514878 4.60% Margin 4.68% 11756 Unique funded players 49661 18794 Unique players 100995 47 Average age 37 Page title Gaming Realms plc Annual Report and Accounts 2017 8
+Gaming Realms has delivered a maiden full year Adjusted EBITDA of 0.8m 2016 loss 2.0m.
+This was driven by revenue growth in RMG 5% and significant cost savings across both RMG and Social Publishing.
+Mark Segal Chief Financial Officer
+Financial review
+A strong performance earonyear revenue declined 7% to 31.6m 2016 34.0m due to the prior year disposal of the white label operations and agency business which generated 1.9m of the 3.7m Affiliate marketing revenue in 2016.
+Like for like revenue excluding the disposed assets was down by 1%.
+Marketing for the year was 10.4m 2016 14.8m as the Group has focused on more costefficient marketing strategies.
+Loss after tax from continuing operations reduced by 0.7m to 6.0m.
+Total loss after tax increased to 8.2m due to impairment of 3.1m in respect of the discontinued Affiliate marketing segment.
+Real money gaming Real money gaming on the Grizzly platform has grown 5% to 22.7m 2016 21.5m.
+This reflects the continuing investment into development and targeted marketing.
+Operating expenses include point of consumption tax third party royalties and transaction costs.
+Operating costs have increased 15% to 8.9m 2016 7.5m because of the increase in revenue and size of the operation.
+Changes in point of consumption tax basis resulted in costs increasing to 38% 2016 35% as a proportion of revenue.
+Adjusted EBITDA improved by 113% to 2.7m 2016 1.3m with cost savings of 1.7m achieved in marketing.
+Affiliates
+Affiliate marketing generated revenues of 1.3m 2016 1.8m.
+2016 also included 1.9m of revenue attributable to the disposed white label and agency business.
+The Affiliate business was reclassified as held for sale as at 31 December 2017 with 3.1m of impairment recognised.
+The Group has sold the affiliate marketing business in Q1 2018 for 2.4m.
+9 Financial Statements Strategic Report Corporate Governance 9 Financial Statements Strategic Report Corporate Governance adjusted EBITDA 2016 loss 2.0m 5% revenue growth in real money gaming marketing for 2017 2016 14.8m Social publishing We achieved profit for Social Publishing in H2 2017 delivering a reduced full year loss of 0.1m 2016 loss 1.8m as a result of reducing marketing by 45% and administrative expenses by 28%.
+Despite the reduction in marketing investment Social Publishing revenue decreased by only 13% to 6.9m 2016 7.9m.
+During the year Gaming Realms closed its Seattle operations resulting in restructuring costs in year of 0.9m which will provide annual synergies of over 3m going forward.
+Licensing
+Licensing revenue increased 7% to 0.8m 2016 0.8m despite having less brand licensing in year.
+We launched in New Jersey and Europe during 2017 from where we will see contributions in 2018 and beyond.
+Cashflow Balance Sheet and Going Concern Net cash decreased by 1.3m in 2017 2016 increased by 0.1m due to continued investment in development of 3.2m.
+The prior year cash position was improved by the sale of the white label business for 1.2m and share issues totalling 4m.
+Net assets totalled 16.2m 2016 24.3m.
+The reduction yearonyear is as a result of annual amortisation of Intangible assets of 4.9m and Impairment of the Affiliate CGU of 3.1m Following the restructure of Social Publishing the 2018 sale of the Affiliates CGU and the global high margin opportunities in game content licensing the Directors believe the Group is in a strong position and expects to be cash generative for 2018.
+As a result the Directors consider that the Group has adequate resources to continue its normal course of operations for the foreseeable future.
+Dividend
+During the year Gaming Realms did not pay an interim or final dividend.
+The Board of Directors are not proposing a final dividend for the current year.
+Corporation and deferred taxation The Group received 389354 2016 27961 in research and development credits in the year and has recognised an unwind of deferred tax of 223617 2016 248941 which arose on business combinations.
+Real money gaming
+Social publishing
+Other
+Intragroup
+Total
+Revenue
+22717729 1322713 6878760 839541 179315 291506 31646552 Marketing expense 8022410 128316 2171341  109514  10431581 Operating expense 8867787 76316 1754450 24961  291506 10432008 Administrative expense 3153222 226035 3010164 1036352 2720598  10146371 Sharebased payments 149810  149810 Adjusted EBITDA 2674310 892046 57195 221772 2650797  786402
+21543708 3697951 7884101 786843 45515  33958118 Marketing expense 9685716 1161390 3937053  26756  14810915 Operating expense 7464250 264810 1608789    9337849 Administrative expense 3138644 676922 4140794 343488 2526921  10826769 Sharebased payments     993349  993349 Adjusted EBITDA 1255098 1594829 1802535 443355 3501511  2010764 Segmental revenue includes 291506 2016 NIL of intersegment Licensing revenue.
+This is shown as an Operating Expense under the Real Money Gaming segment and eliminates on consolidation.
+EBITDA and Adjusted EBITDA are nonGAAP measures and exclude exceptional items depreciation and amortisation.
+Exceptional items are those items the Group considers to be nonrecurring or material in nature that may distort an understanding of financial performance or impair comparability.
+See Note 4 and Note 26.
+Mark Segal Chief Financial Officer 4 June 2018 Gaming Realms plc Annual Report and Accounts 2017 10 Principal risks and uncertainties Risk type Level Description of risk How this risk is managed
+Online gambling and gaming is subject to a dynamic and complex regulatory regime.
+The Group now holds licences from the Alderney Gambling Control Commission the UK Gambling Commission and a transactional waiver for New Jersey Division for Gaming Enforcement whilst it seeks a full New Jersey licence.
+It is key to the Group to maintain compliance with all licences and any new ones that are required.
+These are critical to the continuing operation of the Groups gambling activities and also the production and supply of its unique content into both its operations and other third parties.
+The Group has a compliance team to ensure that all regulatory guidelines are met in its gambling operations.
+The Group also maintains close legal counsel to advise on any changes to the regulatory framework as well as updates on territories currently outside the Groups activities.
+Taxation risk From the end of 2014 the Group has been subject to point of consumption tax in relation to its gambling activities within the UK.
+Any changes to the tax rate or the point at which it is incurred may adversely affect duty payable.
+The Group continues to take advice and keep up to date with changes in the gambling tax regime.
+Residency The Group has legal entities in several jurisdictions including US Canada and Alderney.
+Its real money gaming operations are based in Alderney where there is a zero rate for corporation tax and is outside the scope of VAT.
+If there was a change to the rate of corporate tax or VAT in Alderney it would have an adverse effect on the amount of tax payable within the Group.
+The Group has undertaken a detailed transfer pricing exercise to ensure that revenue and profits are attributed correctly between the operating locations and continues to monitor taxation policies in all jurisdictions.
+Competition The online and free to play gaming markets are highly competitive in North America and the UK.
+Failure to be able to hold a competitive advantage would result in attracting less players and have lower engagement on our apps and sites.
+In following the Groups strategy of developing new unique IP and content the Group feels well placed to be able to compete in the markets it operates in.
+It invests significant resource to be able to improve its development and operations.
+Diverse products and geographies also helps to diversify the risk.
+Brexit On 23 June 2016 the UK voted to leave the EU.
+This may reduce the Groups ability to operate on an unfettered basis in certain EU markets.
+The Group along with other EU based online gaming operators have previously relied on the ability to challenge such protectionist measures through the EU Court of Justice CJEU.
+In the event that the UK was to leave the EU unless the Group was to redomicile certain of its subsidiaries within the EU it would no longer be able to rely on such protection.
+Such a redomiciliation could give rise to higher taxes payable.
+The Group will continue to closely monitor the situation and respond as the timing and terms of the UKs exit from the EU become clearer.
+High risk Medium risk Low risk The Board constantly monitors and assesses risks and uncertainties within the Groups trading activities.
+There will always be a level of risk that needs to be evaluated against the Groups potential returns in any activity.
+11 Financial Statements Strategic Report Corporate Governance Risk type Level Description of risk How this risk is managed Time to market The Group invests highly in technology and bringing new products and games to market.
+A delay in time to market will result in a loss of competitive advantage a loss in potential revenue and also increasing cost of development.
+The Group has invested highly in having a dual product track to allow its products and games to be ready for both licensing and publishing exploitation in the same release.
+Extensive work is undergone on the planning stage to ensure that time frames can be met and products go live at the highest standard.
+Dependence on technology As a provider of online gambling services the Groups business is reliant on technology and advanced information systems.
+If the Group does not invest in the maintenance and further development of its technology systems there is a risk that these systems may not cope with the needs of the business and may fail.
+The Group is reliant on the Internet and is vulnerable to activities such as distributed denial of service attacks other forms of cybercrime and a wide range of malicious viruses.
+The Group continues to invest in its proprietary platform to ensure the necessary features and functionality meet partner needs.
+In addition it has adopted industry standard protections to detect intrusions or other security breaches and implements preventative measures to protect against sabotage hackers viruses and other cybercrime.
+The group also holds relevant insurance to cover against this.
+Dependence on thirdparty service providers The Group engages with a number of providers of non proprietary thirdparty games and payment processing services as well as other important service providers.
+In the event that there is any interruption to the products or services provided by third parties problems in supplying the products one or more ceased to be provided or are provided on onerous terms to the Group this may have an adverse effect on the Groups business and performance.
+The Group uses reliable industry suppliers and ensures that contractual agreements with key partners offer adequate protection.
+The team The ability to carry out the Groups strategy is dependent on the engagement of its senior management team its technology marketing and operations teams.
+The group operates with a small team across 3 main locations.
+If key employees leave there is a risk of loss of knowledge.
+The Group continues to invest in its employees to ensure that it can attract recruit and maintain a highquality team.
+The 2017 Strategic Report on pages 1 to 11 has been approved by the Board of Directors.
+On behalf of the Board Michael Buckley Patrick Southon
+Chief Executive Officer
+4 June 2018 4 June 2018 High risk Medium risk Low risk Page title Board of Directors and Executive Management Michael Buckley
+MB
+Michael Buckley was Chairman of Cashcade which he founded with Patrick Southon and Simon Collins in 2000.
+Cashcade became a leading UKbased online gaming company prior to its sale to PartyGaming plc in 2009 for an aggregate sale consideration of 96m for shareholders.
+Michael has invested in and been Chairman of a number of public companies.
+These include SelecTV plc a producer of comedy and comedy drama series for television such as Lovejoy Birds of a Feather and The New
+SelecTV invested in a consortium which in 1991 won the franchise to create Meridian Television of which Michael was a founding Director.
+He was also Chairman of Pacific Media plc which invested in a number of internet backbone companies in Asia during the 1990s as well as creating a chain of movie theatres in South East Asia in partnership with United Artists Theatre Circuit Inc.
+Michael has held other public and private company directorships having obtained a professional qualification as a chartered accountant in the UK.
+Gaming Realms plc Annual Report and Accounts 2017 12 Atul Bali Nonexecutive Director
+Atul Bali currently serves as the nonexec Chairman of Meridian a nonexecutive Director for Metric Gaming and for Rainbow Rare Earths plc.
+In addition Atul advises a portfolio of private companies in the lottery land based and online gaming and fintech spaces.
+Previously Atul held divisional CEOPresident roles at three multinational listed companies Real Networks Inc NASDAQRNWK the creator of audio and video streaming technology on the internet Aristocrat ASXALL a leading casino supplier after more than 13 years at GTECH NYSE IGT where he led Global Business Development Strategy and Corporate Development their fintech division lottery procurement and privatization bids later forming GTECH G2 and serving as its President and CEO and the Chairman of Boss Media.
+Atul has a B.
+Hons in Law and Economics and is an FCA he trained with KPMG in the UK and has been licensed by more than 200 gaming regulators around the world.
+Patrick Southon
+Chief Executive Officer
+PS
+Patrick Southon has been working within the online gambling sector for the last 16 years.
+He is particularly focused on marketing brand building and media buying.
+Patrick was Managing Director of Cashcade and Managing Partner of NewGame an investment fund focusing on innovation within the gambling sector.
+His marketing expertise allowed Cashcade to build a distinctive and prominent brand identity around among others its flagship Foxy Bingo brand and turned the company into one of the most effective advertisers on British television.
+Based on research by TNS Marketing Magazine cited Foxy Bingo as having the best value television advertising between 2008 and 2010.
+Simon Collins Executive Director
+Simon Collins was the cofounder and Commercial Director of Cashcade.
+He formed a range of profitable B2B and affiliate relationships for Cashcade and was an early adopter of both search engine and social network marketing in the monetised digital gaming space.
+In 2008 and 2009 Cashcade featured in The Sunday Times Top 20 fastest growing technology companies and the business won numerous other industry awards.
+Following the sale of Cashcade Simon remained at bwin.
+2011 where he focused on innovation research and development as well as the ongoing development of Cashcades brand in the social networking space.
+Since leaving bwin. gambling sector.
+Mark Segal Chief Financial Officer
+Mark Segal joined Gaming Realms in May 2013 having left bwin.
+Director for the bingo vertical.
+Previous to that Mark was Finance Director of Cashcade until it was acquired by PartyGaming plc in July 2009.
+Mark was responsible for the full finance function including commercial negotiations business intelligence and operational support in the business and was involved in the sale to PartyGaming plc and acquisition by Cashcade of Independent Technology Ventures in July 2007.
+Prior to joining Cashcade in May 2005 Mark spent five years at the accountancy firm Martin Greene Ravden where he qualified as a chartered accountant in 2003.
+Jim Ryan Nonexecutive Director
+Jim Ryan is the CEO of Pala Interactive LLC a real money gambling operator focused on the US regulated online gaming market.
+Prior to Pala Interactive Jim was the CoCEO of bwin. arty digital entertainment plc.
+He has spent the last 14 years of his career in leadership roles within the online gaming sector.
+Jim has led a number of the industrys largest merger and acquisition transactions which include the merger of PartyGaming plc and bwin the acquisitions of Cashcade Foxy Bingo and the World Poker Tour and the sale of St Minver Limited to GTECH.
+Jim held senior posts at four publicly listed companies.
+In addition to his role of CEO of PartyGaming plc and CoCEO of bwin.
+Executive Officer of Excapsa Software Inc.
+Inc.
+Solutions Corp and was CEO of St.
+Minver
+Limited.
+Jim also held senior management posts at Procuron Inc.
+Metcan Information Technologies Inc. and Epson Canada Limited.
+Educated at Brock University Goodman School of Business in Ontario Canada where he obtained a business degree with first class honours Jim obtained professional qualifications as a chartered accountant and certified public accountant from the Canadian Institute of Chartered Accountants.
+13 Financial Statements Strategic Report Corporate Governance Mark Wilson Nonexecutive Director
+Mark Wilson is a strategic adviser and investor in media gaming and real estate.
+Mark has held multiple senior leadership positions serving as CEO of Television Games Network Executive Chairman of Music Choice International President of Hubbard Enterprises Managing Member of New Mexico Gaming LLC and General Counsel and Corporate Secretary of Churchill Downs.
+He received a Juris Doctorate from the University of Louisville.
+Chris Bell Nonexecutive Director
+Chris has over 25 years experience working in the gaming industry.
+He joined the Hilton Group in 1991 and was appointed managing director of the companys Ladbrokes Worldwide business in 1994.
+He joined the Board of Hilton Group in June 2000 and following the disposal of its hotels division in 2006 became Ladbrokes Chief Executive.
+He held this position until May 2010.
+Since leaving Ladbrokes Chris has held many senior nonexecutive board positions operating in the UK and around the world including Responsible Gambling Strategy Board and a trustee of the Northern Racing College.
+He is currently Chairman of XLMedia Plc and TechFinancials Inc.
+Independent Director of The Rank Group Plc.
+Stephen Downer Chief Operating Officer
+Stephen Downer has more than fifteen years of experience in online gaming.
+As
+Director of Gaming at Sky Bet for ten years he launched and ran Sky Vegas Sky Poker and Sky Bingo until 2012.
+A year later Stephen led Betfairs online casino launch in New Jersey and more recently managed Betfairs regulated sports betting and gaming businesses in Spain Denmark and Bulgaria.
+Paul Gambrell Chief Technology Officer
+Paul Gambrell is a technology evangelist and web technologies expert with over ten years experience building online gaming platforms and driving the adoption of modern technologies in the gambling sector.
+After beginning his career at Virtue Fusion and Playtech Paul was part of the founding team of social gaming development house
+Following the acquisition of Bejig by Gaming Realms in 2013 he has steered the technical direction of the Group leading the platform development team for three years before taking over as CTO.
+Philip Tuck Business Intelligence
+PT
+Philip Tuck is a specialist in algorithmic development machine learning predictive modelling database management construction and behavioural science within the real money gambling and social gaming space.
+He brings a consistent track record of delivering algorithmic CRM systems managing analytics platforms and utilising ROI focused BI across a wide range of gaming products and companies including Betfair Ladbrokes and Gaming Realms and is a regular speaker on the gaming and data conference circuit.
+Paul Munro Operational Director of Bear Group Limited
+Paul Munro has worked for over 15 years in the online gambling sector.
+In 1998 he was working with games suppliers such as
+In 2009 he was with a startup involved with live presenter bingo and games suppler and Sportech Alderney.
+Executive Management Gaming Realms plc Annual Report and Accounts 2017 14 Directors report for the year ended 31 December 2017 The Directors present their Annual Report together with the audited financial statements for the year ended 31 December 2017.
+Principal activities The Groups principal activities during the year continued to be that of an online casino operator the provision and marketing of interactive casino services to customers in the UK and social publishing on mobile to customers in the US and Europe.
+These financial statements present the results of the Group for the year ended 31 December 2017.
+Names of Directors and dates of any changes The Directors who served during the year and to the date of this report were Michael Buckley Patrick Southon Mark Segal Simon Collins Atul Bali Jim Ryan Mark Wilson Chris Bell appointed 1 October 2017 Results and dividends The results for the year are set out on page 21.
+The Company will not be paying a dividend this year.
+Disclosures to auditors The Directors who held office at the date of approval of this Directors Report confirm that so far as they are aware there is no relevant audit information of which the Companys auditor is unaware and each Director has taken steps that ought to have been taken as a Director to make themselves aware of any relevant audit information and to establish that the Companys auditor is aware of that information.
+BDO LLP have expressed their willingness to continue in office and a resolution to reappoint them will be proposed for the Annual General Meeting in accordance with Section 489 of the Companies Act 2006.
+Financial instruments Details of the Groups financial risk management objectives and policies are included in Note 22 to the financial statements.
+Research and Development The Group maintains its level of investment in software development activities.
+In the opinion of the Directors continued investment in this area is essential to strengthen the Groups market position and for future growth.
+During the year the Group claimed Research and Development relief as per Note 11.
+Future developments Future developments are discussed in the Chairmans Statement on page 4 and in the Chief Executives Review on page 6.
+Patrick Southon
+Chief Executive Officer
+4 June 2018 15 Financial Statements Strategic Report Corporate Governance The Directors are responsible for preparing the Annual Report and the financial statements in accordance with applicable law and regulations.
+Company law requires the Directors to prepare financial statements for each financial year.
+Under that law the Directors have elected to prepare the Group financial statements in accordance with International Financial Reporting Standards IFRSs as adopted by the European Union and the company financial statements in accordance with United Kingdom Generally Accepted Accounting Practice United Kingdom Accounting Standards and applicable law.
+Under company law the Directors must not approve the financial statements unless they are satisfied that they give a true and fair view of the state of affairs of the Group and Company and of the profit or loss of the Group for that period.
+The Directors are also required to prepare financial statements in accordance with the rules of the London Stock Exchange for companies trading securities on the Alternative Investment Market AIM.
+In preparing these financial statements the Directors are required to select suitable accounting policies and then apply them consistently make judgements and accounting estimates that are reasonable and prudent state whether they have been prepared in accordance with IFRSs as adopted by the European Union subject to any material departures disclosed and explained in the financial statements and prepare the financial statements on the going concern basis unless it is inappropriate to presume that the Company will continue in business.
+The Directors are responsible for keeping adequate accounting records that are sufficient to show and explain the Companys transactions and disclose with reasonable accuracy at any time the financial position of the Company and enable them to ensure that the financial statements comply with the requirements of the Companies Act 2006.
+They are also responsible for safeguarding the assets of the Company and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+Website publication The Directors are responsible for ensuring the Annual Report and the financial statements are made available on a website.
+Financial statements are published on the Companys website in accordance with legislation in the UK governing the preparation and dissemination of financial statements which may vary from legislation in other jurisdictions.
+The maintenance and integrity of the Companys website is the responsibility of the Directors.
+The
+Directors responsibility also extends to the ongoing integrity of the financial statements contained therein.
+Statement of Directors responsibilities Gaming Realms plc Annual Report and Accounts 2017 16 Corporate Governance Corporate Governance Although companies traded on AIM are not required to provide corporate governance disclosure or follow guidelines in the UK Corporate Governance Code the Code issued by the Financial Reporting Council FRC the Directors recognise the value and importance of high standards of corporate governance.
+Given the Companys size and the constitution of the Board the following is a brief summary of the main aspects of corporate governance currently in place.
+The Board has established an Audit Committee and a Remuneration Committee with formally delegated responsibilities.
+The Remuneration Committee is chaired by Mark Wilson.
+Its
+This committee reviews the performance of the Executive Directors and makes recommendations to the Board on matters relating to their remuneration and terms of employment.
+The Remuneration Committee also makes recommendations to the Board on proposals for the granting of share options and other equity incentives.
+The Board sets the remuneration and terms and conditions of appointment of the NonExecutive Directors.
+The Audit Committee is chaired by Jim Ryan.
+Its other members are Atul Bali and Michael Buckley.
+The Committee determines the terms of engagement of the Companys auditors and in consultation with them the scope of the audit.
+It receives and reviews reports from management and the Companys auditors relating to the interim and annual financial statements and the accounting and internal control systems in use by the Group.
+The Audit Committee has unrestricted access to the Companys auditors.
+Under its terms of reference the Audit Committee monitors amongst other matters the integrity of the Groups financial statements.
+The Committee is responsible for monitoring the effectiveness of the external audit process and making recommendations to the Board in relation to the reappointment of the external auditors.
+It is responsible for ensuring that an appropriate business relationship is maintained between the Group and the external auditors including reviewing nonaudit services and fees.
+The Committee meets with Executive Directors and management as well as meeting privately with the external auditors.
+There is not a separate Nominations Committee and the Board as a whole considers recommendations for appointments to the Board.
+The Directors follow the guidance set out by Rule 21 of AIM Rules relating to dealings by Directors in the Companys securities and to this end the Company has adopted an appropriate share dealing code.
+Going concern Under company law the Companys Directors are required to consider whether it is appropriate to prepare financial statements on the basis that the Group and Company are a going concern.
+As part of the normal business practice the Group prepares annual and threeyear plans and in reviewing this information the Companys Directors are satisfied that the Group and the Company have reasonable resources and future cash flows to enable them to continue in business for the foreseeable future.
+For this reason the Company and Group continue to adopt the going concern basis in preparing the financial statements.
+17 Financial Statements Strategic Report Corporate Governance
+Independent Auditors report
+Opinion
+We have audited the financial statements of Gaming Realms plc the parent company and its subsidiaries the group for the year ended 31 December 2017 which comprise the Consolidated Statement of Comprehensive Income the Consolidated and Company Statement of Financial Position the Consolidated and Company Statement of Changes in Equity the Consolidated Statement of Cash Flows and notes to the financial statements including a summary of significant accounting policies.
+The financial reporting framework that has been applied in the preparation of the financial statements is applicable law and International Financial Reporting Standards IFRSs as adopted by the European Union and as regards the parent company financial statements as applied in accordance with the provisions of the Companies Act 2006.
+In our opinion the financial statements give a true and fair view of the state of the groups and of the parent companys affairs as at 31 December 2017 and of the groups loss for the year then ended the group financial statements have been properly prepared in accordance with IFRSs as adopted by the European Union the parent company financial statements have been properly prepared in accordance with IFRSs as adopted by the European Union and as applied in accordance with the provisions of the Companies Act 2006 and the financial statements have been prepared in accordance with the requirements of the Companies Act 2006.
+Basis for opinion We conducted our audit in accordance with International Standards on Auditing UK ISAs UK and applicable law.
+Our responsibilities under those standards are further described in the Auditors responsibilities for the audit of the financial statements section of our report.
+We are independent of the group and the parent company in accordance with the ethical requirements that are relevant to our audit of the financial statements in the UK including the FRCs Ethical Standard as applied to listed entities and we have fulfilled our other ethical responsibilities in accordance with these requirements.
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+Conclusions relating to going concern We have nothing to report in respect of the following matters in relation to which the ISAs UK require us to report to you where the Directors use of the going concern basis of accounting in the preparation of the financial statements is not appropriate or the Directors have not disclosed in the financial statements any identified material uncertainties that may cast significant doubt about the groups or the parent companys ability to continue to adopt the going concern basis of accounting for a period of at least twelve months from the date when the financial statements are authorised for issue.
+Key audit matters Key audit matters are those matters that in our professional judgment were of most significance in our audit of the financial statements of the current period and include the most significant assessed risks of material misstatement whether or not due to fraud we identified including those which had the greatest effect on the overall audit strategy the allocation of resources in the audit and directing the efforts of the engagement team.
+These matters were addressed in the context of our audit of the financial statements as a whole and in forming our opinion thereon and we do not provide a separate opinion on these matters.
+Revenue recognition with reference to Note 9 Key audit matter The group has a number of revenue streams.
+The details of the accounting policies applied during the period are given in Note 1 to the financial statements.
+For its B2C revenue streams the group is reliant on IT systems which record all gaming transactions including deposits withdrawals wins and losses and their ability to process data accurately is critical.
+Management make certain judgements around revenue recognition and the treatment of contractual arrangements for revenue streams entered into.
+There is a potential risk that revenue is recorded incorrectly from a timing perspective or that it is inappropriately recognised on a gross versus net basis.
+Our response We assessed the design and implementation of the controls over the groups revenue cycles.
+We assessed whether the revenue recognition policies adopted by the group comply with IFRS and Industry standards.
+We tested revenue through substantive procedures.
+This included agreement to underlying source data and the use of IT audit data analytic techniques to underpin our substantive testing of certain revenue streams.
+We reviewed a sample of key contracts entered into during the year to assess whether the revenue had been recognised in accordance with the groups accounting policy to assess the critical estimates and judgements and whether any other terms within the contract had any material accounting or disclosure implications.
+Impairment of capitalised development costs and other intangibles with reference to Note 13 Key audit matter In accordance with IAS 36 the group monitors the carrying value of goodwill and other intangible assets for indications of impairment.
+Recoverable amount is the higher of value in use and fair value less cost to sell.
+If the carrying value of these assets exceeds their recoverable amount there is a risk of material misstatement.
+The group performs annual impairment reviews for each CGU.
+The Group has made losses in the current and preceding year the Group also continues to evolve and adapt its operations.
+Impairment reviews require significant judgement from management and are based on assumptions in respect of future profitability and the allocation of assets and liabilities between CGUs.
+This risk is considered significant due to the level of judgement involved and the opportunity for management bias within the impairment model assumptions.
+Gaming Realms plc Annual Report and Accounts 2017 18
+Independent Auditors report
+Our response Where recoverable amount was based on value in use the audit team challenged the appropriateness of the key assumptions used in the discounted cash flow models prepared by management and applied sensitivities to assess the potential for impairment of goodwill and those assets where indications of impairment were present.
+Our work was based on our assessment of the historical accuracy of the groups estimates in previous periods our understanding of the commercial prospects of the assets discussions with managements surrounding the future plans for the operation identification and analysis of changes in assumptions from prior periods and an assessment of the consistency of assumptions across the impairment reviews.
+Where recoverable amount was based on fair value less cost to sell the audit team obtained supporting evidence for the identified fair value and considered the sensitivity and judgement applied to the amounts identified.
+We considered the appropriateness of the related disclosures provided in the group financial statements including disclosure of the significant judgements and estimates and the sensitivity disclosures made by management.
+Capitalisation of development costs and other intangibles with reference to Note 13 Key audit matter The group has material expenditure on internal development of intangible software assets.
+Such expenditure should only be capitalised when it qualifies under the specified criteria of IAS 38 and as such this is an area of judgement.
+For internally generated intangible assets capitalised cost should meet the following criteria Technical feasibility Intention to complete and usesell Ability to usesell Probable future economic benefits Technical financial and other resources to complete Accurately identify and measure expenditure Upon completion of development the costs are amortised to the consolidated income statement over the estimated economic life.
+There are a number of judgements involved in accounting for development expenditure including whether the activities are appropriate for capitalisation in accordance with the criteria of the standard the allocation of the development costs to a particular product and the estimated useful economic life of each product.
+The risk also encompasses the possibility that the development activities may supersede costs previously capitalised.
+Due to the level of judgement there is considered to be an inherent risk of management override.
+Our response We assessed the design and implementation of the controls over the groups capitalisation cycles.
+We assessed whether the capitalisation policies adopted by the group comply with IFRS and Industry standards.
+The audit team tested a sample of costs capitalised in the year to ensure they met the criteria of IAS 38 including agreement of the costs to source documentation.
+Our application of materiality We apply the concept of materiality both in planning and performing our audit and in evaluating the effect of misstatements.
+For planning we consider materiality to be the magnitude by which misstatements including omissions could influence the economic decisions of reasonable users that are taken on the basis of the financial statements.
+In order to reduce to an appropriately low level the probability that any misstatements exceed materiality we use a lower materiality level performance materiality to determine the extent of testing needed.
+Importantly misstatements below these levels will not necessarily be evaluated as immaterial as we also take account of the nature of identified misstatements and the particular circumstances of their occurrence when evaluating their effect on the financial statements as a whole.
+Level of materiality applied and rationale We consider Net Revenue to be the most appropriate performance measure for the basis of materiality in respect of the audit of the group.
+Using this benchmark we set materiality at 316k 2016 330k being 1% 2016 1% of Revenue.
+Materiality in respect of the audit of the Parent Company has been set at 300k 2016 313k using a benchmark of 2% of total assets limited to 95% of group materiality 2016 2% total assets limited to 95% of group materiality.
+We consider total assets to be the most appropriate measure for the basis of materiality as the Parent Company is a holding company.
+Performance materiality was set at 75% 2016 75% of materiality for both the group and parent company audits.
+In setting the level of performance materiality we considered a number of factors including the expected total value of known and likely misstatements based on past experience and other factors and managements attitude towards proposed adjustments.
+Component materiality We set materiality for each component of the group other than the parent company at 1075% of materiality to account for the aggregation risk.
+Agreement with the Audit Committee We agreed with the Audit Committee that we would report to the Committee all audit differences individually in excess of 16k 2016 We also agreed to report differences below this threshold that in our view warranted reporting on qualitative grounds.
+An overview of the scope of our audit Our group audit was scoped by obtaining an understanding of the group and its environment including the groups system of internal control and assessing the risks of material misstatement in the financial statements at the group level.
+In determining the scope of our audit we considered the level of work to be performed at each component in order to ensure sufficient assurance was gained to allow us to express an opinion on the financial statements of the group as a whole.
+The group consists of 8 components all of which were subject to a full audit by the group audit team.
+We tailored the extent of the work to be performed on each component which was performed by the group audit team based on our assessment of the risk of material misstatement at each component.
+19 Financial Statements Strategic Report Corporate Governance We obtained an understanding of the entitylevel controls of the group as a whole which assisted us in identifying and assessing risks of material misstatement due to fraud or error as well as assisting us in determining the most appropriate audit strategy.
+Other information The Directors are responsible for the other information.
+The other information comprises the information included in the annual report other than the financial statements and our auditors report thereon.
+Our opinion on the financial statements does not cover the other information and except to the extent otherwise explicitly stated in our report we do not express any form of assurance conclusion thereon.
+In connection with our audit of the financial statements our responsibility is to read the other information and in doing so consider whether the other information is materially inconsistent with the financial statements or our knowledge obtained in the audit or otherwise appears to be materially misstated.
+If we identify such material inconsistencies or apparent material misstatements we are required to determine whether there is a material misstatement in the financial statements or a material misstatement of the other information.
+If based on the work we have performed we conclude that there is a material misstatement of this other information we are required to report that fact.
+We have nothing to report in this regard.
+Opinions on other matters prescribed by the Companies Act 2006 In our opinion based on the work undertaken in the course of the audit the information given in the strategic report and the Directors report for the financial year for which the financial statements are prepared is consistent with the financial statements and the strategic report and the Directors report have been prepared in accordance with applicable legal requirements.
+Matters on which we are required to report by exception In the light of the knowledge and understanding of the group and the parent company and its environment obtained in the course of the audit we have not identified material misstatements in the strategic report or the Directors report.
+We have nothing to report in respect of the following matters in relation to which the Companies Act 2006 requires us to report to you if in our opinion adequate accounting records have not been kept by the parent company or returns adequate for our audit have not been received from branches not visited by us or the parent company financial statements are not in agreement with the accounting records and returns or certain disclosures of Directors remuneration specified by law are not made or we have not received all the information and explanations we require for our audit.
+Responsibilities of Directors As explained more fully in the Directors responsibilities statement set out on page 15 the Directors are responsible for the preparation of the financial statements and for being satisfied that they give a true and fair view and for such internal control as the Directors determine is necessary to enable the preparation of financial statements that are free from material misstatement whether due to fraud or error.
+In preparing the financial statements the Directors are responsible for assessing the groups and the parent companys ability to continue as a going concern disclosing as applicable matters related to going concern and using the going concern basis of accounting unless the Directors either intend to liquidate the group or the parent company or to cease operations or have no realistic alternative but to do so.
+Auditors responsibilities for the audit of the financial statements Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement whether due to fraud or error and to issue an auditors report that includes our opinion.
+Reasonable assurance is a high level of assurance but is not a guarantee that an audit conducted in accordance with ISAs UK will always detect a material misstatement when it exists.
+Misstatements can arise from fraud or error and are considered material if individually or in the aggregate they could reasonably be expected to influence the economic decisions of users taken on the basis of these financial statements A further description of our responsibilities for the audit of the financial statements is located on the Financial Reporting Councils website at www. rc. iteauditorsresponsibilities.
+This description forms part of our auditors report.
+Use of our report This report is made solely to the parent companys members as a body in accordance with Chapter 3 of Part 16 of the Companies Act 2006.
+Our audit work has been undertaken so that we might state to the parent companys members those matters we are required to state to them in an auditors report and for no other purpose.
+To the fullest extent permitted by law we do not accept or assume responsibility to anyone other than the parent company and the parent companys members as a body for our audit work for this report or for the opinions we have formed.
+Kieran Storan Senior Statutory Auditor For and on behalf of BDO LLP statutory auditor London UK 4 June 2018 BDO LLP is a limited liability partnership registered in England and Wales with registered number OC.
+Gaming Realms plc Annual Report and Accounts 2017 20 Consolidated Statement of Comprehensive Income for the year ended 31 December 2017
+Revenue 9 30323839 32188618 Marketing expenses 10303265 14526772 Operating expenses 10355692 9220384 Administrative expenses 10655593 10280232 Sharebased payments 26 4810 993349 Adjusted EBITDA total 4 786402 2010766 Adjusted EBITDA  discontinued 19 892046 1140187 Profit on disposal 4  318834 Restructuring costs 4 880257
+985901 2832119 Amortisation of intangible assets 13 4932699 3979941 Depreciation of property plant and equipment 15 173638 120789 Finance expense 10 752600 1178154 Finance income 10 239603 3022 Loss before tax 6605235 8107981 Tax credit 11 612903 272451 Loss for the financial year  continuing 5992332 7835530 Lossprofit for the financial year  discontinued 19 2235335 1140187 Loss for the financial year  total 8227667 6695343 Other comprehensive income Fair value gain on available for sale assets 14 207222 Exchange lossgain arising on translation of foreign operations 1022056 1836352 Total other comprehensive income 814834 1836352 Total comprehensive income 9042501 5999178 Loss attributable to Owners of the parent 8225956 6685120 Noncontrolling interest 1711 10223 8227667 6695343 Total comprehensive income attributable to Owners of the parent 9007324 4882234 Noncontrolling interest 35177 23243 9042501 4858991 Lossgain per share Pence Pence Basic and diluted pence  continuing 2.15 2.99 Basic and diluted pence  discontinued Basic and diluted pence  total 12 2.95 2.56 EBITDA and Adjusted EBITDA are nonGAAP measures and exclude exceptional items depreciation and amortisation.
+Exceptional items are those items the Group considers to be nonrecurring or material in nature that may distort an understanding of financial performance or impair comparability.
+See Note 3 and Note 26.
+The notes on pages 24 to 45 form part of these financial statements.
+21 Financial Statements Strategic Report Corporate Governance Consolidated Statement of Financial Position as at 31 December 2017
+31 December 31 December Noncurrent assets Intangible assets 13 20464170 28661837 Availableforsale investment 14 747222 540000 Property plant and equipment 15 263069 373307 Other assets 16 163865 152000 21638326 29727144 Current assets Trade and other receivables 17 3759434 3347595 Cash and cash equivalents 18 2283302 2616267 6042736 5963862 Assets classified as held for sale 19 2292881 Total assets 29973943 35691006 Current liabilities Trade and other payables 20 9269732 7058781 Deferred consideration 9269732 10194137 Noncurrent liabilities Deferred tax liability 11 881512 1202889 Other Creditors 21 2843529 Derivative liabilities 21 600000 4325041 1202889 Total liabilities 13594773 11397026 Net assets 16379170 24293980
+Share capital 23 28442874 27413329 Share premium 24 87198410 87095455 Merger reserve 24 67673657 67673657 Available for sale reserve 24 207222 Foreign exchange reserve 24 1419842 2408432 Shares to be issued 24 145000 Retained earnings 24 33530345 25154580 Total equity attributable to owners of the parent 16209346 24088979 Noncontrolling interest 169824 205001 Total equity 16379170 24293980 The notes on pages 24 to 45 form part of these financial statements.
+The financial statements were approved and authorised for issue by the Board of Directors on 4 June 2018 and were signed on its behalf by Patrick Southon Chief Executive Officer Gaming Realms plc Annual Report and Accounts 2017 22 Consolidated Statement of Cash Flows for the year ended 31 December 2017
+Cash flows from operating activities Loss for the period 8227667 6695343 Adjustments for Depreciation of property plant and equipment 15 173638 120789 Amortisation of intangible fixed assets 13 4932699 3979941
+19 3127381 Finance income 10 239603 3022 Finance expense 10 312904 36850 Movement in deferred consideration 479987 1141304 Unwind of deferred tax recognised on business acquisitions 223617 248941 Unrealised currency translation gains 57957 191548 Loss on disposal of property plant and equipment 15 11670 6531 Profit on disposal of assets 4  318834 Sharebased payments releaseexpense 7 26 4810 993349 Increasedecrease in trade and other receivables 411839 643961 Increase in trade and other payables 1166029 2759244 Net cash flows from operating activities 1038815 2224281 Investing activities Acquisition of subsidiary net of cash acquired 27  18759 Purchases of property plant and equipment 15 91447 289256 Purchase of intangibles 13 3197971 3969611 Proceeds from disposal of property plant and equipment Proceeds from disposal of assets 4  1200000 Interest received 10 1294 3022 Net cash used in investing activities 3287742 3037086 Financing activities Proceeds of Ordinary Share issue 23 1132499 4025000 Issuance cost of shares  45000 Payment of deferred consideration  3071447 Proceeds from issue of convertible debt 21 22 122966 Cost relating to issue of convertible debt 21 22 96763 Interest paid 10 173192 36850 Net cash from financing activities 985510 871703 Net decreaseincrease in cash and cash equivalents 1263417 58898 Cash and cash equivalents at beginning of period 2597465 2516820 Exchange gainlosses on cash and cash equivalents 14950 21747 Cash and cash equivalents at end of period 18 1319098 2597465 Significant noncash transactions are disclosed in Note 22.
+Cash flows from discontinued operations are included in Note 19.
+The notes on pages 24 to 45 form part of these financial statements.
+23 Financial Statements Strategic Report Corporate Governance Consolidated Statement of Changes in Equity for the year ended 31 December 2017
+Share premium
+Available for sale reserve
+Exchange
+Reserve
+Shares to be issued
+Total to equity holders of parents
+Total equity 1 January 2016 24920829 85127955 68393657  605546  19462809 22797864  22797864 Loss for the year       6685120 6685120 10223 6695343 Other comprehensive income     1802886   1802886 33466 1836352 Total comprehensive income for the year     1802886  6685120 4882234 23243 4858991 Contributions by and distributions to owners Shares issued as part of the consideration in a business combination 480000  720000     1200000  1200000 Shares issued as part of the capital raising 2012500 2012500      4025000  4025000 Cost of issue of Ordinary Share capital  45000      45000  45000 Sharebased payment on share options Note 26       993349 993349  993349
+31 December 2016 27413329 87095455 67673657  2408432  25154580 24088979 205001 24293980 Loss for the year       8225956 8225956 1711 8227667 Other comprehensive income    207222 988590   781368 33466 814834 Total comprehensive incomeloss for the year    207222 988590  8225956 9007324 35177 9042501 Contributions by and distributions to owners Shares issued as part of the capital raising 1029545 102955      1132500  1132500 Sharebased payment to Director Note 7      145000  145000  145000 Sharebased payment on share options Note 26       149810 149810  149810 31 December 2017 28442874 87198410 67673657 207222 1419842 145000 33530345 16209346 169824 16379170 The notes on pages 24 to 45 form part of these financial statements.
+Gaming Realms plc Annual Report and Accounts 2017 24 Accounting policies General information Gaming Realms Plc the Company and its subsidiaries together the Group.
+The Company is admitted to trading on AIM of the London Stock Exchange.
+It is incorporated and domiciled in the UK.
+The address of its registered office is One Valentine Place London SE1 8QH.
+Basis of preparation The principal accounting policies adopted in the preparation of the consolidated financial statements are set out below.
+The consolidated financial statements are presented in sterling.
+These financial statements have been prepared in accordance with International Financial Reporting Standards International Accounting Standards and Interpretations collectively IFRSs as adopted by the EU.
+The preparation of financial statements in compliance with adopted IFRSs requires the use of certain critical accounting estimates.
+It also requires Group management to exercise judgement in applying the Groups accounting policies.
+The areas where significant estimates and judgments have been made in preparing the financial statements and their effect are disclosed in Note 2.
+Basis of consolidation The consolidated financial statements incorporate the assets and liabilities of all subsidiaries of the Company as at 31 December 2017 and the results of all subsidiaries for the year then ended.
+Where the Company has control over an entity it is classified as a subsidiary.
+The Company controls an entity if all three of the following elements are present power over the entity exposure to variable returns from the entity and the ability of the investor to use its power to affect those variable returns.
+Control is reassessed whenever facts and circumstances indicate that there may be a change in any of these elements of control.
+Intercompany transactions balances and unrealised gains on transactions between entities in the Group are eliminated.
+Unrealised losses are also eliminated unless the transaction provides evidence of the impairment of the asset transferred.
+Accounting policies of subsidiaries have been changed where necessary to ensure consistency with the policies adopted by the Group.
+The consolidated financial statements incorporate the results of business combinations using the acquisition method.
+In the statement of financial position the acquirees identifiable assets liabilities and contingent liabilities are initially recognised at their fair values at the acquisition date.
+The results of acquired operations are included in the consolidated statement of comprehensive income from the date on which control is obtained.
+They are deconsolidated from the date on which control ceases.
+Going concern The Directors consider that the Group has adequate resources to continue in operational existence for the foreseeable future.
+For this reason they continue to adopt the going concern basis in preparing the consolidated financial statements.
+Revenue
+Revenue comprises net gaming revenue derived from real money gaming licensing advertising and social publishing.
+Net gaming revenue derived from real money gaming Net gaming revenue derives from online gambling operations and is defined as the difference between the amounts of bets placed by the players less amounts won by players.
+It is stated after deduction of certain bonuses jackpots and prizes granted to players.
+Net gaming revenue is recognised to the extent that its probable economic benefits will flow to the Group and the revenue can be reliably measured.
+Revenue is recognised in the accounting periods in which the player activity is concluded.
+Affiliate revenue Revenue is derived from marketing services provided in relation to online bingo and casino products.
+The commission revenue is calculated either as a percentage of net gaming revenue from the operators or in line with contracts typically based on fixed price per player.
+Commission revenue is recognised to the extent that the probably economic benefits will flow to the Group and the revenue can be reliably measured.
+Revenue is recognised in the accounting periods in which the marketing services are provided.
+Advertising revenue Advertising revenue derives from contractual relationships with agencies advertising brokers and certain advertisers for advertisements within our social games.
+Advertising revenue is recognised to the extent that it is probable economic benefits will flow to the Group and the revenue can be reliably measured.
+Revenue is recognised in the accounting periods in which the advertising is provided.
+Social publishing revenue Social publishing revenue derives from the purchase of credits and awards on the social gaming sites.
+Social publishing revenue is recognised to the extent that it is probable economic benefits will flow to the Group and the revenue can be reliably measured.
+Revenue is recognised in the accounting periods in which the user credit has been purchased.
+Notes to the Consolidated Financial Statements for the year ended 31 December 2017 25 Financial Statements Strategic Report Corporate Governance Licensing revenue Licensing revenue derives from contractual relationships for the use of intellectual property.
+Revenue is recognised where substantially all risk and rewards have been transferred and there are no further monetary or financial obligations to be fulfilled by the licensor.
+However where there is ongoing obligations to the Group license fees are recognised over the estimated period of the license to the licensee.
+Administrative expenses Administrative expenses include staff costs sharebased payments professional consulting and legal fees and other costs.
+Adjusted EBITDA EBITDA is a nonGAAP company specific measure defined as loss before tax adjusted for finance income and expense depreciation and amortisation.
+Adjusted EBITDA excludes nonrecurring material items which are outside the normal scope of the Groups ordinary activities.
+Adjusted EBITDA is considered to be a key performance measure by the Directors as it serves as an indicator of financial performance.
+The adjusting items are separately disclosed in order to enhance the readers understanding of the Groups profitability and cash flow generation.
+Adjusting items include EBITDA from discontinued operations costs arising from a fundamental restructuring of the Groups operations acquisition costs and revaluation of balances denominated in nonpresentational currency.
+Management have observed the FRCs guidance published in November 2017 regarding the treatment of sharebased payments and have now included this charge in Adjusted EBITDA.
+Goodwill
+Goodwill represents the excess of the cost of a business combination over the total acquisition date fair value of the identifiable assets liabilities and contingent liabilities acquired.
+Cost comprises the fair value of assets given liabilities assumed and equity instruments issued plus the amount of any noncontrolling interests in the acquiree plus if the business combination is achieved in stages the fair value of the existing equity interest in the acquiree.
+Contingent consideration is included in cost at its acquisition date fair value and in the case of contingent consideration classified as a financial liability remeasured subsequently through profit or loss.
+Goodwill is capitalised as an intangible asset with any impairment in carrying value being charged to the consolidated statement of comprehensive income.
+Where the fair value of identifiable assets liabilities and contingent liabilities exceed the fair value of consideration paid the excess is credited in full to the consolidated statement of comprehensive income on the acquisition date.
+Impairment of nonfinancial assets Impairment tests on goodwill and other intangible assets with indefinite useful economic lives are undertaken annually.
+Other nonfinancial assets are subject to impairment tests whenever events or changes in circumstances indicate that their carrying amount may not be recoverable.
+Where the carrying value of an asset exceeds its recoverable amount ie the higher of value in use and fair value less costs to sell the asset is written down accordingly.
+Where it is not possible to estimate the recoverable amount of an individual asset the impairment test is carried out on the smallest group of assets to which it belongs for which there are separately identifiable cash flows its cash generating units CGUs.
+Goodwill is allocated on initial recognition to each of the Groups CGUs that are expected to benefit from a business combination that gives rise to the goodwill.
+Impairment charges are included in the income statement except to the extent they reverse gains previously recognised in other comprehensive income.
+An impairment loss recognised for goodwill is not reversed.
+Discontinued operations The results of operations disposed of or classified as held for sale during the year are included in the consolidated statement of comprehensive income up to the date of disposal.
+A discontinued operation is a component of the Groups business that represents a separate major line of business or geographical area of operations or is a subsidiary acquired exclusively with a view to resale that has been disposed of has been abandoned or that meets the criteria to be classified as held for sale.
+Discontinued operations are presented in the consolidated statement of comprehensive income as a single line which comprises the posttax profit or loss of the discontinued operation along with the posttax gain or loss recognised on the remeasurement to fair value less costs to sell or on disposal of the assets or disposal groups constituting discontinued operations.
+Foreign currency Transactions entered into by Group entities in a currency other than the currency of the primary economic environment in which they operate their functional currency are recorded at the rates ruling when the transactions occur.
+Foreign currency monetary assets and liabilities are translated at the rates ruling at the reporting date.
+Exchange differences arising on the retranslation of unsettled monetary assets and liabilities are recognised immediately in the statement of comprehensive income.
+Foreign exchange differences arising from financing transactions are recognised in finance incomeloss differences arising from trading balances are recognised in administration costs.
+On consolidation the results of overseas operations are translated into sterling at rates approximating to those ruling when the transactions took place.
+All assets and liabilities of overseas operations including goodwill arising on the acquisition of those operations are translated at the rate ruling at the reporting date.
+Exchange differences arising on translating the opening net assets at opening rate and the results of overseas operations at actual rate are recognised in other comprehensive income and accumulated in the foreign exchange reserve.
+Gaming Realms plc Annual Report and Accounts 2017 26 Accounting policies continued Exchange differences recognised as profit or loss in Group entities separate financial statements on the translation of longterm monetary items forming part of the Parent companys net investment in the overseas operation concerned are reclassified to other comprehensive income and accumulated in the foreign exchange reserve on consolidation.
+On disposal of a foreign operation the cumulative exchange differences recognised in the foreign exchange reserve relating to that operation up to the date of disposal are transferred to the consolidated statement of comprehensive income as part of the profit or loss on disposal.
+Financial assets The Group classifies its financial assets depending on the purpose for which the asset was acquired.
+The Group has not classified any of its financial assets as held to maturity.
+The Groups accounting policies for financial assets are as follows Loans and receivables These assets are nonderivative financial assets with fixed or determinable payments that are not quoted in an active market.
+They arise principally through the provision of goods and services to customers e. monetary asset.
+They are initially recognised at fair value plus transaction costs that are directly attributable to their acquisition or issue and are subsequently carried at amortised cost using the effective interest rate method less provision for impairment.
+Impairment provisions are recognised when there is objective evidence such as significant financial difficulties on the part of the counterparty or default or significant delay in payment that the Group will be unable to collect all of the amounts due under the terms receivable the amount of such a provision being the difference between the net carrying amount and the present value of the future expected cash flows associated with the impaired receivable.
+For trade receivables which are reported net such provisions are recorded in a separate allowance account with the loss being recognised within administrative expenses in the consolidated statement of comprehensive income.
+On confirmation that the trade receivable will not be collectable the gross carrying value of the asset is written off against the associated provision.
+The Groups loans and receivables comprise trade and other receivables and cash and cash equivalents in the consolidated statement of financial position.
+Availableforsale investments Nonderivative financial assets not included in the above categories are classified as availableforsale and comprise principally the Groups strategic investments in entities not qualifying as subsidiaries associates or jointly controlled entities.
+They are carried at fair value with changes in fair value other than those arising due to exchange rate fluctuations and interest calculated using the effective interest rate recognised in other comprehensive income and accumulated in the availableforsale reserve.
+Exchange differences on investments denominated in a foreign currency and interest calculated using the effective interest rate method are recognised in profit and loss.
+Cash and cash equivalents Cash and cash equivalents includes cash in hand deposits held at call with banks other shortterm highly liquid investments with original maturities of three months or less and  for the purpose of the statement of cash flows  bank overdrafts.
+Bank overdrafts are shown within trade and other payables in current liabilities on the consolidated statement of financial position.
+Assets held for sale Noncurrent assets and disposal groups are classified as held for sale if the carrying amount will be recovered through a sale transaction rather than through continuing use.
+This condition is regarded as being met only when the sale is highly probable management is committed to a sale plan the asset is available for immediate sale in its present condition and the sale is expected to be completed within one year from the date of classification.
+These assets are measured at the lower of carrying value and fair value less associated costs of sale except where the assets were previously classified as available for sale in which case they are carried at fair value.
+Following their classification as held for sale noncurrent assets including those in a disposal group are not depreciated.
+Financial liabilities Financial liabilities held by the Group consist of deferred consideration customer funds trade payables longterm borrowings and other short term monetary liabilities which are held at amortised cost and derivative liabilities which are held at fair value through profit and loss.
+The Groups accounting policies for financial liabilities are as follows Amortised cost Financial liabilities measured at amortised cost are initially recognised at fair value net of any transaction costs directly attributable to the issue of the instrument and subsequently recognised at amortised cost.
+Deferred consideration arising from business combinations is recognised at present value and unwound over the period until settlement.
+Derivative liabilities Derivative financial instruments are initially recognised at fair value on the contract date and are subsequently measured at their fair value at each balance sheet date with movements recognised in the statement of comprehensive income.
+Notes to the Consolidated Financial Statements for the year ended 31 December 2017 continued 27 Financial Statements Strategic Report Corporate Governance Embedded derivatives are separated and fairvalued through the statement of comprehensive income when they are not closely related to their host contracts and meet the definition of a derivative or where the host contract is not carried at fair value.
+Share capital Financial instruments issued by the Group are classified as equity only to the extent that they do not meet the definition of a financial liability or financial asset.
+The Groups ordinary shares are classified as equity instruments.
+Noncontrolling interests Noncontrolling interest is initially recognised at the present ownership instruments proportionate share in the recognised amounts of the acquirees identifiable net assets.
+The total comprehensive income of nonwholly owned subsidiaries is attributed to owners of the parent and to the noncontrolling interests in proportion to their relative ownership interests.
+Sharebased payments Where equitysettled share options are awarded to employees the fair value of the options at the date of grant is charged to the consolidated statement of comprehensive income over the vesting period.
+Nonmarket vesting conditions are taken into account by adjusting the number of equity instruments expected to vest at each reporting date so that ultimately the cumulative amount recognised over the vesting period is based on the number of options that eventually vest.
+Nonvesting conditions and market vesting conditions are factored into the fair value of the options granted.
+As long as all other vesting conditions are satisfied a charge is made irrespective of whether the market vesting conditions are satisfied.
+The cumulative expense is not adjusted for failure to achieve a market vesting condition or where a nonvesting condition is not satisfied.
+Where equity instruments are granted to persons other than employees the consolidated statement of comprehensive income is charged with the fair value of goods and services received.
+The fair value of share options issued without marketbased vesting conditions is measured by the application of the BlackScholes option pricing model by reference to the grant date of the options.
+The fair value of share options issued with marketbased vesting conditions is measured by use of the Monte Carlo method.
+Externally acquired intangible assets Externally acquired intangible assets are initially recognised at cost and subsequently amortised on a straightline basis over their useful economic lives.
+Intangible assets are recognised on business combinations if they are separable from the acquired entity or arise from other contractual legal rights.
+The amounts ascribed to such intangibles are arrived at by using appropriate valuation techniques see section related to critical estimates and judgements below.
+Internally generated intangible assets development costs Expenditure on internally developed products is capitalised if it can be demonstrated that it is technically feasible to develop the product for it to be sold adequate resources are available to complete the development there is an intention to complete and sell the product the Group is able to sell the product sale of the product will generate future economic benefits and expenditure on the project can be measured reliably.
+Capitalised development costs are amortised over the periods the Group expects to benefit from selling the products developed.
+Development expenditure not satisfying the above criteria and expenditure on the research phase of internal projects are recognised in the consolidated statement of comprehensive income as incurred.
+The significant intangibles recognised by the Group their useful economic lives and the methods used to determine the cost of intangibles acquired in a business combination are as follows Intangible asset Useful economic life Customer databases 12 years Development costs 3 years Intellectual property 8 years Domain names 23 years Software 3 years Research and development tax Research and development taxation relief is recognised once management considers it probable that any amount claimable will be received.
+Gaming Realms plc Annual Report and Accounts 2017 28 Accounting policies continued Deferred taxation Deferred tax assets and liabilities are recognised where the carrying amount of an asset or liability in the consolidated statement of financial position differs from its tax base except for differences arising on The initial recognition of goodwill The initial recognition of an asset or liability in a transaction which is not a business combination and at the time of the transaction affects neither accounting nor taxable profit Investments in subsidiaries and jointly controlled entities where the Group is able to control the timing of the reversal of the difference and it is probable that the difference will not reverse in the foreseeable future.
+Recognition of deferred tax assets is restricted to those instances where it is probable that taxable profit will be available against which the difference can be utilised.
+The amount of the asset or liability is determined using tax rates that have been enacted or substantively enacted by the reporting date and are expected to apply when the deferred tax liabilitiesassets are settledrecovered.
+Property plant and equipment Items of property plant and equipment are initially recognised at cost.
+As well as the purchase price cost includes directly attributable costs and the estimated present value of any future unavoidable costs of dismantling and removing items.
+The corresponding liability is recognised within provisions.
+Depreciation is provided on all property plant and equipment at rates calculated to write off the cost less estimated residual value of each asset evenly over its expected useful life as follows Office furniture and equipment 20% per annum straightline Computer equipment 33% per annum straightline Leasehold improvements Over the life of the lease Player liabilities Liabilities to players comprise the amounts that are credited to customers accounts including provision for bonuses granted by the Group.
+These amounts are repayable in accordance with the applicable terms and conditions.
+Standards and interpretations There are no new standards interpretations or amendments which became effective in the period which have had a material effect on the Groups financial information.
+Based on managements review to date IFRS 9 is not expected to have any financial impact on the financial statements other than the classification of investments currently classified as available for sale investments.
+Management do not consider that the adoption of the expected credit loss impairment model will have a material impact on reported results.
+When considering IFRS 16 the Group operates from leased offices in 4 countries.
+Total lease commitments at the reporting date are 1.4m and total rent costs expensed in the income statement in 2017 is 0.3m.
+Management are undertaking a review to calculate the initial recognition of right of use assets and the related liabilities.
+Management have considered the impact of IFRS 15 on the business by product see Note 9.
+Management consider the recognition basis will remain unchanged for RMG Affiliate and Social publishing revenues which generate the majority of the Groups revenues.
+Management continue to review revenue recognition under IFRS 15 for the licencing revenues where terms differ by contract but do not anticipate a material impact on the financial statements.
+Critical accounting estimates and judgements The Group makes certain estimates and assumptions regarding the future.
+Estimates and judgements are continually evaluated based on historical experience and other factors including expectations of future events that are believed to be reasonable under the circumstances.
+In the future actual experience may differ from these estimates and assumptions.
+The estimates and assumptions that have a significant risk of causing a material adjustment to the carrying amounts of assets and liabilities within the next financial year are discussed below.
+Estimates a Impairment of goodwill and other intangible assets Goodwill and other intangible assets are reviewed for impairment and their values are writtendown on the basis of the Groups expectations of future economic benefits expected to be received.
+Any process which attempts to estimate future outcomes to determine the recoverable amount is subject to uncertainty.
+The recoverable amount is determined based on the lower of value in use calculations which require the estimate of future cash flows and the choice of discount rate to calculate the present value of the cash flows and fair value less costs to sell.
+Calculations are based on managements forecasts for the period and past experience of the same or similar assets.
+Where it is believed that the estimation uncertainty can give rise to material differences in asset carrying values this will be stated in the relevant notes to the financial statements.
+See Note 13.
+Notes to the Consolidated Financial Statements for the year ended 31 December 2017 continued 29 Financial Statements Strategic Report Corporate Governance b Amortisation of development costs Capitalised development costs are subject to amortisation over the estimated useful life and reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount may not be recoverable.
+The estimated useful life of these assets is based on managements estimates of the period over which the assets are expected to generate revenue and are periodically reviewed to confirm they are still appropriate.
+Loans and derivative liabilities are measured at fair value which is dependent on future outcomes and market rates.
+Any process which attempts to estimate future outcomes is subject to uncertainty.
+See Note 21 for more detail.
+Judgements a Revenue recognition Social publishing revenue is recognised as the service is delivered.
+This is considered to be when the player buys credits to play the game on the basis that there is no further service to be delivered.
+In addition revenue generated from in app advertisements is recognised when the advertisement is displayed or offer has been completed by the customer and confirmed by thirdparty reports.
+The identification of development costs that meet the criteria for capitalisation is dependent on managements judgement and knowledge of the work done.
+Development costs of gaming software platforms are separately identified.
+Key judgements relate to the separately identified projects the expected future benefits and the useful economic life and are based on the information available at each period end.
+Economic success of any development is assessed on a reasonable basis but remains uncertain at the time of recognition.
+Deferred tax assets and liabilities are recognised for temporary differences and for tax loss carryforwards.
+The assessment of temporary differences and tax loss carryforwards is based on managements estimates of future taxable profits against which the temporary differences and loss carryforwards may be utilised.
+The Group has not recognised a deferred tax asset in respect of their losses as there is no track record of taxable profits at this time.
+Deferred tax assets will be recognised when the Group has established a track record of expected future taxable profit.
+Expenses by nature Loss before tax includes Employee benefit expenses see Note 8 7018634 7197142 Sharebased payments 149810 993349 Operating lease payments 281871 253945 Depreciation of property plant and equipment 173638 120789 Amortisation of intangible assets 4932699 3979941 Exceptional restructuring costs 735257 Exceptional restructuring costs  sharebased payment 145000 Foreign exchange lossgain 35771 167938 Adjusted EBITDA Adjusted EBITDA is stated before exceptional items as follows Adjusted EBITDA  Total 786402 2010766 Profit on disposal  318834 Adjusted EBITDA  discontinued 892046 1140187 Restructuring costs 880257 EBITDA 985901 2832119 Profit on prior year disposal Disposal of thirdparty platform driven website properties On 4 March 2016 the Group disposed of its thirdparty platform driven website properties for a total consideration of 2.4m.
+Black Spark Media Limited paid the Group an upfront cash payment of 1.2m with the remaining 1.2m payable by Silverspin Media Limited settled by way of waiving the final earn out payment to the previous shareholders of Blueburra Holding Limited.
+Chris Phillips and Scott Logan shareholders of Silverspin Media and who were Directors of the Companys subsidiaries Blueburra Holdings Limited and Digital Blue Limited at the time of the disposal are therefore classified as related parties.
+The above waiving of 1.2m contingent consideration in exchange for the disposal of assets constitutes a major noncash transaction in the year.
+An additional 500000 was receivable under a transitional services agreement over a 5month period with Black Spark Media Limited.
+The value of net assets disposed totalled 2.4m resulting in a loss on disposal of 19452.
+Gaming Realms plc Annual Report and Accounts 2017 30 Adjusted EBITDA continued Disposal of digital marketing agency On 6 June 2016 the Group entered into a strategic partnership with digital marketing company Ayima Limited.
+Under the terms of the partnership the Group has agreed to contribute assets comprising its external digital marketing agency to Ayima Limited.
+As consideration for the disposal of the Assets the Group were issued shares to 10% of the enlarged issued share capital of Ayima Limited.
+The 10% shares were valued at approximately 540000 based on a valuation performed by an external advisor.
+This is a level 3 valuation as defined by IFRS 13.
+The investment is now held as an available for sale investment see Note 14.
+The value of net assets disposed of totalled 0.2m resulting in profit on disposal of 338286.
+Discontinued
+The Affiliate marketing CGU has been reclassified as held for sale as management were actively seeking a sale of this business as at 31 December 2017.
+The sale concluded in March 2018 see Note 30.
+Restructuring costs During 2017 the Group closed the Seattle office.
+Restructuring costs relate to the closure costs associated with this including employee severance payments.
+Auditors remuneration During the year the Group obtained the following services from the Companys auditor Fees payable to the Companys auditor for the audit of the companys annual accounts 25000 25000 Fees payable to the Companys auditor for the audit of the subsidiarys financial statements 75000 75000 Fees payable to the Companys auditor for other services Corporate finance 46224 Tax compliance services 40000 57630 Tax advisory services 3490 13735 189714 171365 Key management personnel remuneration During the year the Group paid the following remuneration to the key management personnel which include Directors of the consolidated entity Shortterm benefits of key management personnel 2500272 2118036 Postemployment benefits of key management personnel 47251 50475 Sharebased benefits of key management personnel 46238 478237 2593762 2646748 Directors remuneration The following table presents the Directors remuneration of the Company for the year ended 31 December 2017.
+Salary and fees
+Total
+Total
+Michael Buckley 360000  360000 335000 Patrick Southon 250600 12995 263595 230203 Simon Collins 150600 7995 158595 147517 Mark Segal 171433 622 172056 150659 Jim Ryan 40000  40000 40000 Mark Wilson 40000  40000 40000 Atul Bali 842225 11502 853727 351974 Chris Bell 10000  10000 1864858 33114 1897972 1295353 The remuneration for Michael Buckley includes consulting fees of 300000 2016 275000 paid to Dawnglen Finance Limited a company controlled by Michael Buckley.
+The directors of Dawnglen believe that the company incurred in excess of 100000 on expenses wholly for the benefit of Gaming Realms plc repayment of which is included as part of the fees paid to Dawnglen.
+Consulting fees to Dawnglen have been reduced to 120000 per annum before expenses effective 1 January 2018.
+Notes to the Consolidated Financial Statements for the year ended 31 December 2017 continued 31 Financial Statements Strategic Report Corporate Governance During 2017 Atul Bali received 214265 169198 in salary and benefits and 65000 as a Director.
+The balance represents severance payments for loss of office as an executive director under his contract of 625315 474510 of which 375000 285844 is payable in 2018 together with a onetime noncash equity grant of shares to be issued with an estimated value of 145000 as at the date of these accounts.
+Directors interests in longterm incentive plans The Directors ordinary shares in the Company were as follows 0.10 ordinary shares
+Number of shares Michael Buckley 23000000 22000000 Patrick Southon 12417319 11735501 Simon Collins 10806742 10624924 Mark Segal 740761 740761 Jim Ryan 1384615 1384615 Mark Wilson 384615 384615 Atul Bali 1825000 1825000 50559052 48695416 The Directors interests in share options over ordinary shares in the Company were as follows Option at 1 Jan 2017
+Options
+Option at 31 Dec 2017
+Hurdle price Date of grant Michael Buckley 5769230   5769230 0.01 0.20 01Aug13 Patrick Southon 5769230   5769230 0.01 0.20 01Aug13 Simon Collins 4615384   4615384 0.01 0.20 01Aug13 Mark Segal 3076923   3076923 0.01 0.20 01Aug13 Jim Ryan 769230   769230 0.13  01Aug13 Mark Wilson 769230   769230 0.13  01Aug13 Atul Bali 5750000   5750000 0.23  17Jun14 10Oct15 On the 1 August 2013 the Company granted options to B Shares under the Gaming Realms 2013 EMI plan.
+The B Share value will be 20 pence less than the prevailing price of the ordinary shares and will therefore have no value unless the value of the new ordinary shares exceeds 20 pence.
+EMI options can only be granted to employees who meet the statutory working time requirement and cannot normally be exercised before 15 July 2015.
+All options granted under the New Share Option Scheme on Admission will be exercisable over B Shares at their nominal value of 0.01 and will be capable of exercise subject to certain exceptions after two years of the date of grant.
+On the 1 August 2013 the Company granted Unapproved Options which have the same rights as the options granted over the B Shares under Gaming Realms 2013 EMI plan save that the exercise price will be 13 pence per ordinary share.
+On the 17 June 2014 the Company granted Unapproved Options which have the same rights as the options granted over the B Shares under Gaming Realms 2013 EMI plan save that the exercise price will be 23 pence per ordinary share.
+On the 10 October 2015 the Company granted Unapproved Options which have the same rights as the options granted over the B Shares under Gaming Realms 2013 EMI plan save that the exercise price will be 23 pence per ordinary share.
+Employee benefit expenses Employee benefit expenses including Directors comprise Wages and salaries 9061213 8827513 Sharebased payment expense Note 7 and 26 4810 993349 Social security contributions and similar taxes 593759 604086 Pension contributions 144228 135455 9794390 10560403 Staff costs capitalised in respect of internally generated intangible assets 2780566 2369912 7013824 8190491 The Group makes contributions to defined contribution plans and has no further payment obligations once the contributions have been paid.
+The contributions are recognised as employee benefit expense when they are due.
+The assets of the individual schemes are held separately from those of the Group in independently administered funds.
+Gaming Realms plc Annual Report and Accounts 2017 32 Employee benefit expenses continued
+Number
+The average number of persons including Directors Operational 41 50 Development 53 52 Marketing 8 18 Management and administrative .
+Segment information The Board is the Groups chief operating decisionmaker.
+Management has determined the operating segments based on the information reviewed by the Board for the purposes of allocating resources and assessing performance.
+The Group has four reportable segments.
+The social publishing segment provides freemium games to the US and Europe.
+Licensing segment includes IP brand and content licensing to partners in the US and Europe.
+The real money gaming division operates our brands direct to the end user.
+In 2016 the Group disposed of its white label and agency business which formed part of the RMG segment.
+It has been separated in the revenue by product table below for information.
+The Affiliate marketing segment provides digital marketing and referrals for group and third party brands and has been classed as held for sale during the year see Note 19.
+Revenue by product Real money gaming 22717729 21543708 Disposed white label and agency business  1928451 Social publishing 6878760 7884101 Licensing 839541 786843 Other 179315 45515 Total  continuing 30615345 32188618 Affiliate marketing  discontinued 1322713 1769500 31938058 33958118 Segmental revenue includes 291506 2016 NIL of intersegment Licensing revenue.
+This is shown as an Operating Expense under the Real Money Gaming segment and eliminates on consolidation.
+There were no customers who generated more than 10% of total revenue.
+Geographical information The Group considers that its primary geographic regions are the UK including Channel Islands US and the Rest of World.
+No revenue was derived from real money gaming in the US.
+Revenues from customers outside the UK including Channel Islands and US are not considered sufficiently significant to warrant separate reporting.
+All noncurrent assets are based in the UK.
+External revenue by location of customers External revenue by location of customers UK including Channel Islands 23751919 23925469 US 6780327 6754016 Rest of the World 1114306 3278633 31646552 33958118 Notes to the Consolidated Financial Statements for the year ended 31 December 2017 continued 33 Financial Statements Strategic Report Corporate Governance Segmental reporting for the year is as below Real money gaming
+Social publishing
+Other
+Intragroup
+Total 2017 Revenue 22717729 1322713 6878760 839541 179315 291506 31646552 Marketing expense 8022410 128316 2171341  109514  10431581 Operating expense 8867787 76316 1754450 24961  291506 10432008
+Sharebased payments     149810  149810 Adjusted EBITDA 2674310 892046 57195 221772 2650797  786402 Restructuring costs 735257 Restructuring costs sharebased payment 145000
+EBITDA  discontinued
+Amortisation of Intangible assets 4932699 Depreciation of property plant and equipment 173638 Finance expense 752600 Finance income Loss before tax The affiliate marketing segment has been treated as a discontinued operation in the income statement for the year ended 31 December 2017 and 31 December 2016.
+Prior year affiliate marketing segment included white label and agency revenue of 1928451 and EBITDA of 454642.
+Affiliate revenue of 1769500 and EBITDA of 1140187 has therefore been shown as discontinued for 2016.
+See Note 19.
+Real money gaming
+Social publishing
+Other
+Intragroup
+Total 2016 Revenue 21543708 3697951 7884101 786843 45515  33958118 Marketing expense 9685716 1161390 3937053  26756  14810915 Operating expense 7464252 264810 1608789    9337851 Administrative expense 3138644 676922 4140794 343488 2526921  10826769 Sharebased payments     993349  993349 Adjusted EBITDA 1255096 1594829 1802535 443355 3501511  2010766 Profit on disposal
+EBITDA  discontinued
+Amortisation of Intangible assets 3979941 Depreciation of property plant and equipment 120789 Finance expense 1178154 Finance income Loss before tax Other segment noted above includes unallocated head office activities.
+Management do not report segmental assets and liabilities internally and as such an analysis is not reported.
+Gaming Realms plc Annual Report and Accounts 2017 34 Finance income and expense Finance income Interest received 1294 3022 Foreign exchange movement on deferred consideration 238309 Total finance income 239604 3022 Finance expense Bank interest expense paid 272613 36850 Deferred consideration movement 479987 292212 Foreign exchange movement on deferred consideration  849092 Total finance expense 752600 1178154 The deferred consideration in relation to the acquisition from RealNetworks Inc. is denominated in USD and was settled on 15 December 2017.
+The retranslation of this balance resulted in a 238309 gain in the current year 2016 849092 loss.
+Tax credit Tax credit Current tax Adjustment for over provision in prior periods 67 4451 Current tax credit for the period 389354 27961 Total current tax 389287 23510 Deferred tax expense Origination and reversal of temporary differences 223617 Total deferred tax 223617 Total tax credit 612903 23510 The reasons for the difference between the actual tax credit for the period and the standard rate of corporation tax in the UK applied to profits for the year are as follows Loss for the period 8840570 6967794 Expected tax at effective rate of corporation tax in the UK of 19.3% 2016 20% 1701507 1393559 Expenses not deductible for tax purposes 7840 224896 Effects of overseas taxation 179516 224795 Adjustment for over provision in prior periods 67 4451 Research and Development tax credit 389354 27961 Tax losses for which no deferred tax assets have been recognised 1290535 1144517 Total tax credit 612903 272451 Changes in tax rates and factors affecting the future tax charge At Summer Budget 2015 the government announced legislation setting the Corporation Tax rate at 19% for the years starting 1 April 2017 2018 and 2019 and at 18% for the year starting 1 April 2020.
+At Budget 2016 the government announced a further reduction to the Corporation Tax rate for the year starting 1 April 2020 setting the rate at 17%.
+Accordingly deferred tax balances as at 31 December 2017 have been recognised at 17% 2016 20%.
+There are unused tax losses carried forward as at the balance sheet date of 32.0m 2016 24.8m equating to an unrecognised deferred tax asset of 6.1m 2016 5.0m.
+No deferred tax asset has been recognised in respect of these losses as the recoverability of any asset is dependent upon sufficient profits being achieved in future years to utilise this asset.
+The timings of such profits are uncertain.
+Notes to the Consolidated Financial Statements for the year ended 31 December 2017 continued 35 Financial Statements Strategic Report Corporate Governance Deferred tax liability At 1 January 1202889 1232597 Unwind of deferred tax recognised on business acquisitions 223617 248941 FX movement 97761 219233 881511 1202889 Loss per share Basic loss per share is calculated by dividing the loss attributable to ordinary shareholders by the weighted average number of shares in issue during the year.
+For fully diluted loss per share the weighted average number of ordinary shares in issue is adjusted to assume conversion of dilutive potential ordinary shares.
+The Groups potentially dilutive securities consist of share options performance shares and a convertible bond.
+As the Group is lossmaking none of the potentially dilutive securities see Note 26 are currently dilutive.
+Loss after tax  continuing 5992332 7835530 Lossprofit after tax  discontinued 2235335 1140187 Loss after tax  total 8227667 6695343 Number Number Weighted average number of ordinary shares used in calculating basic loss per share 278166853 262432743 Weighted average number of ordinary shares used in calculating dilutive loss per share 278166853 262432743 Pence Pence Basic and diluted loss per share pence  continuing 2.15 2.99 Basic and diluted lossprofit per share pence  discontinued 0.80 0.43 Basic and diluted loss per share pence  total 2.95 2.56 Intangible assets
+Customer database
+Development costs
+Intellectual
+Property
+Total
+Cost
+Balance at 1 January 2016 18092116 4543648 1091241 2888724 363401 5354379 32333509 Acquired through business combination 75413  217216    292629 Additions    3969611   3969611 Disposals 2513765 698446     3212211 FX Movement 892100 266769 230043  66217 1047051 2502180 At 31 December 2016 16545864 4111971 1538500 6858335 429618 6401430 35885718 Additions    3197971   3197971
+Reclassified as held for sale 5420262 2343632     7763894 FX Movement 480045 141830 134559 9198 35287 558338 1359257 At 31 December 2017 10645557 1626509 1403941 10047108 394331 5843092 29960538
+Balance at 1 January 2016  2055945 135717 919856 45581 248609 3405708 Amortisation charge  1156153 440219 1517989 132965 732615 3979941 Disposals  452365     452365 FX Movement  81939 67052 260 20386 120960 290597 At 31 December 2016  2841672 642988 2438105 198932 1102184 7223881 Amortisation charge  916459 490691 2627075 135287 763187 4932699
+Reclassified as held for sale  2343632     2343632 FX Movement  86841 76019 3918 21606 128196 316580 At 31 December 2017  1327658 1057660 5061262 312613 1737175 9496368 Gaming Realms plc Annual Report and Accounts 2017 36
+Customer database
+Development costs
+Intellectual
+Property
+Total
+Net book value At 1 January 2016 18092116 2487703 955524 1968868 317820 5105770 28927801 At 31 December 2016 16545864 1270299 895512 4420230 230686 5299246 28661837 At 31 December 2017 10645557 298851 346281 4985846 81718 4105917 20464170
+In accordance with IAS 36 the Group regularly monitors the carrying value of its intangible assets for impairment.
+A detailed impairment test was undertaken at 31 December 2017 to assess whether the carrying value of assets was supported by its recoverable amount.
+The Group has 4 CGUs 2016 3 for which the carrying amount of goodwill is allocated.
+During the year the Group split its RMG and Affiliate marketing CGUs in preparation for sale.
+The Affiliate marketing CGU has subsequently been transferred to HFS see Note 19.
+The recoverable amount is the higher of the CGUs fair value less costs of disposal and value in use.
+The recoverable amount of the Affiliate marketing CGU was assessed based on fair value less costs to sell.
+This resulted in an impairment of 3.1m which has been treated as discontinued.
+See Note 19 for further information cause of impairment and basis for fair value.
+All other CGUs are based on value in use.
+Value in use is calculated as the net present value of future cash flows derived from those assets and is based on several assumptions which feed into a forecast model based on past player lifetime values and experience.
+Cash flow projections have been prepared for a fiveyear period following which a longterm growth rate of 5% 2016 2% has been assumed.
+A discount rate of 1620% 2016 25% has been used in discounting the projected cash flows and is based on the Groups specific risk adjusted Weighted Average Cost of Capital.
+The discount rates used have been considered based on the risks involved in each of the underlying business units and terminal growth rates and reflect the expected growth in underlying EBITDA expected from these units.
+These CGUs have been considered for impairment and sensitivities have been calculated around the terminal growth rates and discount factors used together with specific scenarios including the loss of revenue where those revenues might be considered to be at risk.
+No indicators of impairment have arisen as a result as the impact of all sensitivities were judged to be within tolerable levels.
+The key assumptions of the forecasts were as follows number of new player depositing registrations rate of retention of existing players spending patterns of players and CPA or installs from different acquisition sources.
+The above assumptions are based on the trends noted to date industry standard measurements and managements experience.
+The carrying amount of goodwill is allocated to the CGUs as follows Real money gaming Affiliate marketing previously RMG  5420262
+Social publishing The goodwill allocation between licencing and social publishing in the prior year financial statements has been reassessed in the current year financial statements.
+This restatement does not result in any changes to the conclusion on management impairment reviews in current or prior year.
+Headroom and sensitivities
+Headroom
+Sensitised headroom
+Real money gaming
+Licensing
+VIU
+Social publishing
+Discount rate increased to 23%.
+Longterm growth rate reduced to 2%.
+As indicated by the sensitivities above the Directors do not believe any reasonably possible change in the key assumptions would lead to an impairment of the carrying amount of the CGUs.
+Notes to the Consolidated Financial Statements for the year ended 31 December 2017 continued Intangible assets continued 37 Financial Statements Strategic Report Corporate Governance Availableforsale investments
+At 1 January 2016 Additions 540000 At 31 December 2016 540000 Change in fair value 207222 At 31 December 2017 747222 The availableforsale investment comprises a 6.6% interest in Ayima Group AB Ayima.
+The shares of Ayima are quoted on AktieTorget a Nordic stock exchange www. ktietorget. e.
+The investment is remeasured each reporting period to fair value based on the quoted share price.
+As at 31 December 2017 the quoted share price was SEK 23.80 2.15.
+This is a level 1 valuation as defined by IFRS 13.
+Property plant and equipment
+Computers and related equipment Office furniture and equipment
+Cost
+Balance at 1 January 2016 86329 123633 60802 270764 Acquired through business combination   8549 8549 Additions 196096 48141 45019 289256 Disposals  13568  13568 FX Movement 11550 3889 3876 19315 At 31 December 2016 293975 162095 118246 574316 Additions 3373 73324 2885 79582 Disposals  4872 12483 17355 FX Movement 2770 917 2771 6458 At 31 December 2017 294578 229630 105877 630085 Accumulated deprecation Balance at 1 January 2016 16496 50522 14094 81112 Depreciation charge 58322 40304 22163 120789 Disposals  7037  7037 FX Movement 3256 1855 1034 6145 At 31 December 2016 78074 85644 37291 201009 Depreciation charge 93426 53550 26662 173638 Disposals  2442 2861 5303 FX Movement 1047 561 720 2328 At 31 December 2017 170453 136191 60372 367016 Net book value At 1 January 2016 69833 73111 46708 189652 At 31 December 2016 215901 76451 80955 373307 At 31 December 2017 124125 93439 45505 263069 Other assets Other Assets 163865 152000 Other assets represent the rental deposit on operating leases and deposits held with thirdparty suppliers.
+Gaming Realms plc Annual Report and Accounts 2017 38 Notes to the Consolidated Financial Statements for the year ended 31 December 2017 continued Trade and other receivables Trade and other receivables 2463000 2736039 Allowance for doubtful debts 1477 1478 2461523 2734561 Prepayments and accrued income 1447824 613034 3909347 3347595 All amounts shown fall due for payment within one year.
+Cash and cash equivalents Cash and cash equivalents 2283302 2616267 Restricted cash 18702 18802 Overdraft Note 20 945501 Cash and cash equivalents for Statement of Cash Flows 1319098 2597465 The Group has restricted cash of 18702 2016 18802 relating to funds held in Swiss subsidiaries which are currently in liquidation.
+The funds are restricted and are not included in the consolidated statement of cash flows.
+Assets and liabilities classfified as held for sale During H2 2017 the Board concluded to pursue the sale of the affiliate marketing business.
+Advisors were appointed and offers invited which were actively being discussed during late 2017.
+The group has therefore reclassified this business as held for sale as at 31 December 2017.
+As a result an impairment of 3.1m has been recognised based on the recoverable amount of goodwill attributable to this segment.
+Recoverable amount has been calculated as fair value less the costs of disposal.
+Fair value is measured at 2.4m based on active offers received during late 2017.
+The impairment has been included in discontinued operations as below.
+In March 2018 the Group sold its Affiliate business for total consideration of 2.4 million to First Leads Ltd.
+First Leads has paid 2.0m on closing and a further 0.4m will be payable on 31 December 2018 based on the achievement of performance targets.
+Net carrying amount of disposal group 5420262 Impairment of held for sale goodwill 3127381 Discontinued operations Revenue 1322713 1769500 Marketing expenses 128316 284143 Operating expenses 76316 117467 Administrative expenses 226035 227703 EBITDA 892046 1140187 Impairment of held for sale assets 3127381 Loss for the financial year  discontinued 2235335 1140187 39 Financial Statements Strategic Report Corporate Governance Cash flow from discontinued operations
+Cash flows from operating activities ProfitLoss for the period 2235335 1140187 Adjustments for Impairment 19 3127381 Net cash flows from operating activities 892046 1140187 The Affiliate marketing segment did not have any material financing or investing cash flows in the current or prior year.
+Trade and other payables Trade and other payables 5655862 2012196 Bank Overdraft 945501 Accruals 2270675 4681212 Player liabilities 397693 365373 9269732 7058781 The carrying value of trade and other payables classified as financial liabilities measured at amortised cost approximates fair value.
+The Groups bank overdraft is repayable on demand and is secured over the Groups assets.
+The agreed facility at the reporting date was 1m however this has been renewed during 2018 with an increased facility of 2m available for two years which will be reduced in certain circumstances.
+Arrangement with Jackpotjoy Group In December 2017 the group entered into a 3.5m secured convertible loan agreement with Jackpotjoy plc and group companies together Jackpotjoy Group alongside a 10year framework services agreement for the supply of various real money services.
+Under the framework services agreement the first 3.5m of services are provided freeofcharge within the first 5 years.
+This will be recognised as revenue as it is utilised.
+The convertible loan has a duration of 5 years and carries interest at 3month LIBOR plus 5.5%.
+It is secured over the Groups Slingo assets and business.
+At any time after the first year Jackpotjoy Group may elect to convert all or part of the principal amount into ordinary shares of Gaming Realms Plc at a discount of 20% to the share price prevailing at the time of conversion.
+To the extent that the price per share at conversion is lower than 10p nominal value then the shares can be converted at nominal value and the difference paid in cash.
+Under this arrangement the maximum dilution to Gaming Realms shareholders will be approximately 12% assuming the convertible loan is converted in full.
+The number of shares is variable.
+The option therefore violates the fixedforfixed criteria for equity classification and as a result is classified as a liability.
+The fair value of the conversion feature is determined at each reporting date with changes recognised in profit or loss.
+The fair value as at 31 December 2017 was 0.6m based on a probability assessment of conversion and future share price.
+This is a level 2 valuation as defined by IFRS 13.
+The remaining 2.9m of proceeds plus an estimate for freeofcharge services is accounted for as an interestbearing loan.
+The interest rate used to discount the loan was calculated as 30.8%.
+Other
+Creditors
+Derivative
+Liability
+Total
+At 1 January 2017 Proceeds from issue of convertible debt 2900000 600000 3500000 Cost relating to issue of convertible debt 96763  96763 Effective interest 30.8% 40232  40232 At 31 December 2017 2843469 600000 3443469 Gaming Realms plc Annual Report and Accounts 2017 40 Arrangement with Jackpotjoy Group continued The proceeds are first allocated to the fair value of the derivative liability.
+The key assumptions used to estimate the derivative liability are as follows Future share price Probability assessment of expected conversion Timing and proportion converted to shares by JackpotJoy Group The proceeds are then allocated between the use of the free services and the interestbearing loan.
+The key assumptions used to estimate this split are Timing and amount of usage of the free services Future 3month LIBOR rates Key sensitivities in the calculation of the above values include For every 0.5m reduction in the estimate of free services there will be an equal reduction in the interest expense over the term Each 1% increase in 3month LIBOR would result in an additional 35k interest payable per annum or 140k in total assuming no capital is repaid or converted to shares If the share price does not exceed 12p there will be no value in the conversion element meaning the carrying value of the loan will increase by 0.6m and interest expense will decrease by 0.6m Financial instruments and risk management  Group The Group is exposed through its operations to risks that arise from use of its financial instruments.
+The Groups financial assets and liabilities are shown on the face of the consolidated statement of financial position and in the table below and they can be classified wholly as either loans and receivables other assets or other liabilities.
+Amortised cost Fair Value Availableforsale Financial assets Cash and cash equivalents 2283302 2616267 Trade and other receivables 2461523 2734561 Other assets 163865 152000 Available for sale investments     747222 540000 Financial liabilities Trade and other payables 5655862 2012196 Accruals 2270675 4681212 Player liabilities 397693 365373 Other creditors 2843529 Derivative liability   600000 Deferred consideration  3135356 Financial assets and financial liabilities are recognised on the balance sheet when the Group becomes a party to the contractual provisions of the instrument.
+The Group classifies its financial instruments in the following categories Available for sale Loans and receivables at amortised cost Other financial liabilities at amortised cost and Financial assets and liabilities at fair value through profit or loss.
+The classification depends on the purpose for which the financial assets and liabilities were acquired.
+Management determines the classification of its financial instruments at initial recognition or in certain circumstances on modification.
+Financial assets of the Group classified as loans and receivables or available for sale.
+Financial liabilities are held at amortised cost or fair value.
+In the Directors opinion there is no material difference between the book value and the fair value of any of the financial instruments.
+The Group has some exposure to credit risk and liquidity risk.
+There has been no material change to the financial instruments used within the business during the year except for contingent consideration and therefore no material changes to the risk management policies put in place by the Board which are now discussed below.
+Notes to the Consolidated Financial Statements for the year ended 31 December 2017 continued 41 Financial Statements Strategic Report Corporate Governance The Board has overall responsibility for the determination of the Groups risk management objectives and policies.
+Whilst acknowledging this responsibility it has delegated the authority and day to day responsibility for designing and operating systems and controls which meet these risk management objectives to the finance and administration function.
+The Board regularly reviews the effectiveness of these processes in meeting its objectives and considers any necessary changes in response to changes within the business or the environment in which it operates.
+Currency risk The Group is exposed to currency risk on translation and on sales and purchases that are denominated in a currency other than Pounds Sterling
+The currency in which these transactions are primarily denominated is US Dollars USD.
+The Groups policy is where possible to allow group entities to settle liabilities denominated in their functional currency with the cash generated from their own operations in that currency.
+Where group entities have liabilities denominated in a currency other than their functional currency cash already denominated in that currency will where possible be transferred from elsewhere in the Group.
+As of 31 December 2017 the Groups net exposure to foreign exchange risk was as follows Net foreign currency financial assetsliabilities
+Sterling
+US Dollar US Dollar
+Other
+Sterling
+US Dollar 543998 2706802    41322 Other 37837 3881 581834 2710683    41322 The effect of a 20% strengthening of the US Dollar against Sterling at the reporting date on the US Dollar denominated receivables carried at that date would all other variables held constant have resulted in a decrease in losses and an increase in net assets of 116367 2016 increase in losses and decrease of net assets of 542137.
+A 20% weakening in the exchange rate would on same basis increase loss after tax and decrease net assets by 116367.
+2016 decrease loss after tax and increase net assets by 542137.
+Liquidity risk The Groups policy is to ensure that it will always have sufficient cash to allow it to meet its liabilities when they become due.
+Customer funds are kept in dedicated client accounts separately from the Groups operational bank accounts.
+The following table sets out the undiscounted contractual cash flows At 31 December 2017 Within 1 year 12 years Over 2 years Trade and other payables 5655862 Accruals 2270675 Player liabilities 397693 Other creditors 225578 227500 4282158 Total 8549809 227500 4282158 At 31 December 2016 Within 1 year 12 years Over 2 years Trade and other payables 2012196 Accruals 4681212 Player liabilities 365373 Deferred consideration 3135356 Total 10194137 Credit risk At 31 December 2017 the analysis of trade and other receivables that were past due but not impaired is as follows
+030 days
+30 and 60 days
+61 and 90 days
+91 days Trade and other receivables 2136080 120827 1833 204259 Allowance for doubtful debts    1477 At 31 December 2017 2136080 120827 1833 202782 Trade and other receivables 1887870 407374 251210 189585 Allowance for doubtful debts    1478 At 31 December 2016 1887870 407374 251210 188107 Gaming Realms plc Annual Report and Accounts 2017 42 Financial instruments and risk management  Group continued Financial liabilities measured at fair value The fair value hierarchy of financial liabilities measured at fair value is provided.
+The fair value of derivative liabilities totalling 0.6m was based on a probability assessment of conversion and future share price.
+This is a level 2 valuation as defined by IFRS 13.
+The fair value measurement hierarchy is based on the inputs to valuation techniques used to measure fair value.
+The inputs are categorised into three levels with the highest level level 1 given to inputs for which there are unadjusted quoted prices in active markets for identical assets or liabilities and the lowest level level 3 given to unobservable inputs.
+Level 2 inputs are directly or indirectly observable inputs other than quoted prices.
+Capital management The Group is funded through shareholders funds a 3.5m facility with JackpotJoy Group Note 21 and a 1m overdraft facility with Barclays Note 20.
+In the prior year the primary funding was through shareholders funds.
+The Group monitors its capital structure which comprises all components of equity i. and retained earnings and monitors external debt.
+The Group is not subject to any externally imposed capital requirements.
+Changes in liabilities The Group has adopted the amendments to IAS 7 for the first time in the current year.
+The amendments require an entity to provide disclosures that enable users of financial statements to evaluate changes in liabilities arising from financing activities including both cash and noncash changes.
+The Groups liabilities arising from financing activities consist of JPJ Arrangement Note 21 Derivative liability Note 21 and deferred consideration.
+A reconciliation between the opening and closing balances of these items is provided below.
+Consistent with the transition provisions of the amendments the Group has not disclosed comparative information for the prior year.
+JPJ Arrangement Derivative liability
+Consideration
+Opening balance   3135356 Cash 122966 Transaction costs 96763 Noncash transaction 2777034 600000 3377034 Unwind of discount 40232  479987 Foreign exchange movement   238309 Carried forward 2843469 600000 Share capital Ordinary shares
+Number
+Ordinary shares of 10 pence each 284428747 28442874 274133292 27413329 On 11 August 2017 10295455 shares were issued at 0.11 per share for a total consideration of 1132500.
+On 2 March 2016 7625000 shares were issued at 0.20 per share for a total consideration of 1525000.
+On 9 June 2016 4800000 shares were issued at 0.25 per share to the previous shareholders of Blueburra Holdings Limited to satisfy the final 1200000 share element of vendor consideration.
+On 2 September 2016 12500000 shares were issued at 0.20 per share for a total consideration of 2500000.
+Movements in share capital
+At 1 January 2016 249208292 24920829 Ordinary shares issued for cash consideration 20125000 2012500 Ordinary shares issued in the acquisition of Blueburra 4800000 480000 At 31 December 2016 274133292 27413329 Ordinary shares issued for cash consideration 10295455 1029545 At 31 December 2017 284428747 28442874 Notes to the Consolidated Financial Statements for the year ended 31 December 2017 continued 43 Financial Statements Strategic Report Corporate Governance
+The following describes the nature and purpose of each reserve within equity Reserve Description and purpose Share premium Amount subscribed for share capital in excess of nominal value.
+Merger reserve Adjustments arising on the reverse transaction and the excess of the fair value over nominal value for shares issued in business combinations qualifying for merger relief under the Companies Act 2006.
+Retained earnings All other net gains and losses and transactions with owners not recognised elsewhere.
+Foreign exchange reserve Gainslosses arising on retranslating the net assets of overseas operations into sterling.
+Available for sale reserve Gainslosses arising on recognising changes in fair value of available for sale assets.
+Leases
+The Group has future lease payments under noncancellable operating leases on land and buildings and other leases.
+The total future value of minimum lease payments is due as follows Not later than one year 250099 293107 Later than one year and not later than five years 1184790 833390 Later than five years 1434889 1126497 Sharebased payments Gaming Realms 2013 EMI Plan On 1 August 2013 the Company adopted the Gaming Realms 2013 EMI Plan to allow at the discretion of the Board any eligible employee to be granted EMI or nonEMI qualified options at an exercise price to be determined by the Board but not to be less than the nominal value of a share and will vest subject to such time based and share price performancebased conditions as the Board may determine.
+Options to acquire ordinary shares under the EMI plan may be granted up to a maximum of 3000000 based on the market value of the shares placed under option at the date of the grant.
+No consideration is payable for the grant to of the option and the options are not transferable or assignable.
+Cash consideration is paid to the Company by the employee at the point that the share options are exercised.
+In 2013 the Company granted options for B Shares under the Gaming Realms 2013 EMI plan.
+B Share value will be 20 pence less than the prevailing price of the ordinary shares and will therefore have no value unless the value of the new ordinary shares exceeds 20 pence.
+EMI options can only be granted to employees who meet the statutory working time requirement and cannot normally be exercised before 15 July 2015.
+All options granted under the New Share Option Scheme on Admission will be exercisable over B Shares at their nominal value of 0.01 and will be capable of exercise subject to certain exceptions after two years of the date of grant.
+Options are not exercisable later than midnight on the day before the tenth anniversary of the date of grant.
+Options were fair valued using the BlackScholes option pricing model or where there are marketbased performance conditions a Monte Carlo simulation pricing model.
+Expected volatility was determined by calculating the historical volatility of the Companys competitors in the sector.
+The following information is relevant in the determination of the fair value of options granted during the prior year under the equitysettled sharebased remuneration schemes operated by the Group.
+EMI Option
+Options Option scheme
+Option pricing model used BlackScholes BlackScholes Weighted average share price at grant date in pence 20 20 Exercise price in pence 20 20 Expected life years 7 7 Risk free rate 0.13% 0.13% Expected dividend yield IFRS 2 Sharebased payments requires that the fair value of such equitysettled transactions is calculated and systematically charged to the statement of comprehensive income over the vesting period.
+The total fair value that was charged to the income statement in relation to the equitysettled sharebased payments was a credit of 149810 2016 charge 993349.
+Gaming Realms plc Annual Report and Accounts 2017 44 Sharebased payments continued
+Weighted average exercise price pence Outstanding at 1 January 2016 48814391 11.24 Granted during the year 2638696 20.00 Forfeited during the year 3333044 25.76 Number of options outstanding at 31 December 2016 48120043 10.71 Granted during the year Forfeited during the year 3735156 25.30 Number of options outstanding at 31 December 2017 44384887 9.48 Exercisable at 31 December 2017 19271854 4.26 Options to subscribe under various schemes including those noted in Directors interests in Note 7 are shown in the table below Date granted Exercise price pence Exercisable between Number of shares Number of shares Approved 1 August 2013 0.01 31 July 2015 to 31 July 2023 26153837 26153837 Unapproved 1 August 2013 13.00 31 July 2015 to 31 July 2023 1538460 1538460 Approved 2 April 2014 23.00 1 April 2017 to 1 April 2024 4208315 4297445 Unapproved 17 June 2014 23.00 16 June 2016 to 16 June 2024 750000 750000 Approved 17 June 2014 28.88 16 June 2016 to 16 June 2024 467391 467391 Approved 19 February 2015 33.00 19 February 2018 to 19 February 2025 422475 583081 Approved 15 October 2015 25.13 15 October 2018 to 15 October 2025 5970000 9025000 Approved 10 November 2015 25.00 10 November 2018 to10 November 2025 2340713 2693633 Approved 28 July 2016 20.00 28 July 2018 to 28 July 2026 2326196 2326196 Unapproved 28 July 2016 20.00 28 July 2018 to 28 July 2026 207500 285000 44384887 48120043 Business combinations completed in prior periods Acquisition of Hullabu Inc On 22 July 2016 Blastworks Inc acquired 62.5% of the share capital of Hullabu Inc a company that develops and publishes social games.
+Hullabu Inc in conjunction with Blastworks Inc developed published and marketed the Hidden Artefacts game.
+The acquisition of Hullabu Inc is expected to expedite the development and growth of Hidden Artefacts.
+The existing shareholders of Hullabu Inc issued new shares equating to 62.5% of the overall share capital of Hullabu Inc in exchange for a loan note of 500000.
+The loan has now been repaid in full.
+Goodwill recognised in the acquisition of Hullabu Inc relates to the presence of certain intangible assets such as an experienced workforce which do not qualify for separate recognition.
+Prior to acquisition for the period 1 January 2016 to 21 July 2016 the revenue generated was 111123 and loss after tax was 34670.
+Since acquisition Hullabu Inc generated 124285 in revenue and loss after tax of 109604.
+Related party transactions Atul Bali was appointed as an advisor of Gamerail Entertainment LLC a social lottery gaming company.
+During the year Blastworks Inc. services.
+During the year Blastworks Inc.
+31 December 2017 the balance owed to Blastworks Inc. was 253454 2016 206089.
+Atul Bali is an advisor to Instant Win Gaming.
+In April 2016 Instant Win Gaming entered into an agreement with Bear Group Limited to supply Instant Win Games on its online gaming websites.
+During the year the total revenue share payable by Bear Group Limited for the supply of game content totalled 93995 2016 55221 with 4925 owed at 31 December 2017 2016 6679.
+In addition Instant Win Gaming has entered into a licensing agreement with Blastworks Limited for the Slingo Brand.
+Instant Win Game licensed the Slingo Brand to create and distribute Slingo Branded Instant Win Games.
+During the year the total licence fees earned were 17998 2016 4063 with 2220 due at 31 December 2017 2016 4063.
+Jim Ryan is a nonexecutive Director of the Company and the CEO of Pala Interactive.
+On 22 March 2016 Pala Interactive launched a real money online bingo site in New Jersey.
+The Bingo software is provided by AlchemyBet Limited on a revenue share basis.
+During the year the total licence fees earned were 44000 2016 NIL with 5431 due at 31 December 2017 2016 advance of 16667.
+Notes to the Consolidated Financial Statements for the year ended 31 December 2017 continued 45 Financial Statements Strategic Report Corporate Governance Jim Ryan is a nonexecutive Director of JackpotJoy Group.
+In December 2017 the group entered into a 10year framework services agreement and a 5year convertible loan agreement for 3.5m with the Jackpotjoy Group see Note 21.
+Gaming Realms has also entered into an agreement to provide JackpotJoy Group a white label sitesite During the year Bear Group Limited billed 75000 to JackpotJoy Group in respect of site design and build works which was outstanding as at 31 December 2017.
+During the year 300000 2016 275000 of consulting fees were paid to Dawnglen Finance Limited a company controlled by Michael
+No amounts were owed at year end.
+The details of key management compensation are set out in Note 6.
+Subsidiaries
+The subsidiaries of the Company all of which have been included in these consolidated financial statements are as follows Name Registered Office Country of Incorporation Principal activity Proportion held by Parent Company
+Quickthink Digital Limited formerly Bingo Realms Limited 1 Valentine Place London SE1 8QH UK Marketing services 100% 100% Blastworks Limited 1 Valentine Place London SE1 8QH UK IP owner 90.66% 100% AlchemyBet Limited 1 Valentine Place London SE1 8QH UK Software Developer 88.85% 100% Bear Group Limited Inchalla Le Val Alderney GY9 3UL Alderney Real money gaming operator 100% 100% Blueburra Holdings Limited 49 Victoria Street Douglas Isle of Man IM1 2LD Isle of Man Marketing services 100% 100% Digital Blue Limited 49 Victoria Street Douglas Isle of Man IM1 2LD Isle of Man Marketing services 0% 100% Blastworks Inc 300 Deschutes Way SW Tumwater WA 98501 USA Social publishing operator 100% 100% Backstage Technologies Inc 808 Douglas Street Victoria BC V8W 2B6 Canada Software Developer 100% 100% Hullabu Inc 848 N Rainbow Blvd Las Vegas NV 89101 USA IP owner 0% 62.5% Blastmedia LLC Prospekt Masherova 6a Brest
+Belarus Software Developer 0% 62.5% The Group held 100% interest in the following subsidiaries which were in the process of being liquidated at the balance sheet date Name Registered Office Country of Incorporation Principal activity Proportion held by Parent Company
+PDX Businessgroup AG Vordergasse 53 8200 Schaffhausen Switzerland In liquidation 100% 100% PDX Technologies AG Switzerland In liquidation 0% 100% PDX Management AG Switzerland In liquidation 0% 100% PDX Public Health and Safety AG Switzerland In liquidation 0% 100% BFX Solutions AG Switzerland In liquidation 0% 100% DDX Solutions AG Switzerland In liquidation 0% 100% Post balance sheet events After the balance sheet date the Group renewed and increased its overdraft facility with Barclays to 2m available for two years with a reducing facility.
+In March 2018 the Group sold its Affiliate CGU for total consideration of 2.4 million to First Leads Ltd.
+First Leads has paid 2.0m on closing and a further 0.4m will be payable on 31 December 2018 based on the achievement of performance targets.
+Gaming Realms plc Annual Report and Accounts 2017 46 Parent Company Statement of Financial Position as at 31 December 2017
+31 December 31 December
+Noncurrent assets Investment in subsidiary undertakings 2 13297262 20737593 Availableforsale investment 2 747222 540000 Tangible assets 131717 214015 Intangible assets 1708 3416 Other assets 120000 120000 14297909 21615024 Current assets Trade and other receivables 3 23804493 18918168 Cash and cash equivalents 71319 94090 23875812 19012258 Total assets 38173721 40627282
+Current liabilities Trade and other payables 4 6537936 3440386 6537936 3440386 Noncurrent liabilities Other Creditors 5 2843529 Derivative liabilities 5 600000 Total liabilities 9981465 3440386 Net assets 28192256 37186896
+Share capital 6 28442874 27413329 Share premium 87918410 87815455 Merger reserve 2683702 2683702 Available for sale reserve 207222 Shares to be issued 145000 Retained earnings 91204952 80725590 Total equity 28192256 37186896 As permitted by section 408 of the Companies Act 2006 a separate profit and loss account of the Company is not presented.
+The Companys loss for the financial year was 10329552 2016 7275492.
+The financial statements were approved and authorised for issue by the Board of Directors on 4 June 2018 and were signed on its behalf by Patrick Southon Chief Executive Officer 47 Financial Statements Strategic Report Corporate Governance Share capital Share premium Merger reserve Available for sale reserve Shares to be issued
+Total equity 1 January 2016 24920829 85127955 2683702   74443447 38289039 Loss for the year      7275492 7275492 Shares issued as part of the consideration in a business combination 480000 720000     1200000 Shares issued as part of the capital raising 2012500 2012500     4025000 Cost of issue of Ordinary Share capital  45000     45000 Sharebased payment on share options      993349 993349 31 December 2016 27413329 87815455 2683702   80725590 37186896 Loss for the year      10329552 10329552 Other comprehensive income    207222   207222 Shares issued as part of the capital raising 1029545 102955     1132500 Sharebased payment to Director Note 7     145000  145000 Sharebased payment on share options      149810 149810 31 December 2017 28442874 87918410 2683702 207222 145000 91204952 28192256 The notes on pages 48 to 50 form part of these financial statements.
+Parent Company Statement of Changes in Equity for the year ended 31 December 2017 Gaming Realms plc Annual Report and Accounts 2017 48 Principal accounting policies These financial statements present the results of Gaming Realms plc for the year ended 31 December 2017.
+These financial statements were prepared in accordance with Financial Reporting Standard 101 Reduced Disclosure Framework FRS 101.
+The financial statements are prepared under the historical cost convention.
+No profit and loss account is presented by the Company as permitted by Section 408 of the Companies Act 2006.
+The financial statements are prepared in Sterling.
+Basis of preparation The accounting policies which follow set out those policies which apply in preparing the financial statements for the year ended 31 December 2017.
+The Company has taken advantage of the following disclosure exemptions under FRS 101 IFRS 2 Sharebased Payment disclosure the sharebased payment arrangement concerns its own equity instruments and its separate financial statements are presented alongside the consolidated financial statements of the Group.
+IFRS 7 Financial Instruments disclosures given that equivalent disclosures are included in the consolidated financial statements of the Group in which the entity is consolidated.
+IFRS 13 Fair Value Measurement disclosures.
+Certain disclosures required by IAS 1 Presentation of Financial Statements including certain comparative information in respect of share capital movements. e IAS 7 Statement of Cash Flows and related notes. f IAS 24 Related Party Disclosures relating to key management personnel compensation.
+IAS 24 Disclosure of related party transactions entered into between two or more members of a group given that any subsidiary which is a party to the transaction is wholly owned by such a member.
+Investments
+Investments in subsidiaries are stated at cost less provision for impairment in value except for investments acquired before 1 October 2013 where shares issued to effect business combinations and the conditions of the Companies Act 2006 are met merger relief was applied and the resulting investment is recorded at the nominal value of the shares issued.
+Availableforsale investments Nonderivative financial assets not included in the above categories are classified as availableforsale and comprise principally the Groups strategic investments in entities not qualifying as subsidiaries associates or jointly controlled entities.
+They are carried at fair value with changes in fair value other than those arising due to exchange rate fluctuations and interest calculated using the effective interest rate recognised in other comprehensive income and accumulated in the availableforsale reserve.
+Exchange differences on investments denominated in a foreign currency and interest calculated using the effective interest rate method are recognised in profit and loss.
+Taxation
+Current tax including UK corporation tax is provided at amounts expected to be paid or recovered using the tax rates and laws that have been enacted or substantively enacted by the balance sheet.
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the balance sheet date where transactions or events that result in an obligation to pay more tax in the future or a right to pay less tax in the future have occurred at the balance sheet date.
+A net deferred tax asset is recognised as recoverable and therefore recognised only when on the basis of all available evidence it can be regarded as more likely than not that there will be suitable taxable profits against which to recover carried forward tax losses and from which the future reversal of underlying timing differences can be deducted.
+Deferred tax is measured at the average tax rates that are expected to apply in the period in which the timing differences are expected to reverse based on tax rates and laws that have been enacted or substantively enacted by the balance sheet date.
+Foreign currencies Transactions denominated in foreign currencies are recorded at exchange rates as of the date of the transaction.
+Monetary assets and liabilities denominated in foreign currencies at the balance sheet date are reported at the rates of exchange prevailing at that date.
+Financial liabilities Financial liabilities held by the company consist of trade payables deferred consideration longterm borrowings and other shortterm monetary liabilities which are held at amortised cost and derivative liabilities which are held at fair value through profit and loss.
+Notes to the Parent Company Financial Statements for the year ended 31 December 2017 49 Financial Statements Strategic Report Corporate Governance Investments and assets available for sale
+Undertakings
+Available for Sale Investment At 1 January 2016 23012004 Additions  540000 Disposals 2274411 At 31 December 2016 20737593 540000 Change in Fair Value  207222 Impairment 7440330 At 31 December 2017 13297263 747222 Disposals during the prior year relate to the sale of the digital agency business and the entity Quickthink Media Limited to Ayima Limited.
+In exchange for the disposal the company acquired 10% investment in Ayima Limited which diluted to 6.6% upon listing of Ayima Limited.
+Refer to Note 14 of the consolidated financial statements for further details.
+Details of the Companys investments can be found in Note 29 of the consolidated financial statements.
+During the year the group has classified its Affiliate marketing business as held for sale.
+As a result the investment in Blueburra Holdings Limited has been impaired by 7.4m.
+Please see Note 19 of the consolidated financial statements for further information.
+Debtors
+Amounts due from Group companies 23590304 18778182 Other debtors 66085 42037 Prepayments and accrued income 148104 97949 23804493 18918168
+Creditors amounts falling due within one year Amounts due to Group companies 4924851 Trade creditors 325710 82026 Overdraft 945501 Other creditors 25655 42229 Accruals and deferred income 316219 180775 Deferred consideration  3135356 6537936 3440386 Gaming Realms plc Annual Report and Accounts 2017 50 Other creditors and derivative liability See Note 21 of the consolidated accounts for further information.
+Called up share capital Allotted called up and fully paid 284428747 2016 274133292 ordinary shares of 10 pence each 28442874 27413329 Allotted and fully paid As at 1 January 2017 27413329 Issued during the year As at 31 December 2017 On 11 August 2017 10295455 shares were issued at 0.11 per share for a total consideration of 1132500.
+Employee information The Company had a monthly average of 11 2016 10 employees during the year.
+The employee costs for the Company were 1090741 2016 1068345.
+Details of Directors remuneration can be found in Note 7 of the consolidated financial statements.
+Leases
+The Company has future lease payments under noncontrollable operating leases on land and buildings and other leases.
+The total future value of minimum lease payments is due as follows Not later than one year 125000 125000 Later than one year and not later than five years 35959 160959 Later than five years 160959 285959 Related party transactions During the year 300000 2016 275000 of consulting fees were paid to Dawnglen Finance Limited a company controlled by Michael Buckley.
+The details of key management compensation are set out in Note 6.
+Notes to the Parent Company Financial Statements for the year ended 31 December 2017 continued 51 Financial Statements Strategic Report Corporate Governance
+Michael Buckley Chairman
+Patrick Southon Chief Executive Officer
+Simon Collins Executive Director Mark Segal Chief Financial Officer Atul Bali Nonexecutive Director Jim Ryan Nonexecutive Director Mark Wilson Nonexecutive Director Chris Bell Nonexecutive Director Company Secretary Mark Segal
+BDO LLP 55 Baker Street London W1U 7EU
+Barclays Bank plc 1 Churchill Place London E14 5HP Nominated advisors Peel Hunt 120 London Wall London EC2Y 5ET
+Memery Crystal LLP 44 Southampton Buildings London WC2A 1AP
+Computershare Investor Services PLC The Pavilions Bridgwater Road Bristol BS13 8AE Registered office One Valentine Place London SE1 8QH Registered Number Company Information Gaming Realms plc Annual Report and Accounts 2017 52 Notes Designed and produced by Instinctif Partners creative.
+One Valentine Place SE1 8QH
