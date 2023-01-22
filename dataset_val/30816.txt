@@ -1,0 +1,893 @@
+Cloudcall Group plc 2017 Annual Report and Financial Statements Cloudcall Group plc Registered number
+Highlights   1 Group overview   2 Strategic Report   5
+Chairmans Statement   5
+Chief Executives review   7 Key performance indicators   11 Financial review   13 Principal risks and uncertainties   17 Directors report   21 Corporate governance  21 The Board   23 Directors remuneration report   27 Statement of Directors Responsibilities   32 Independent Auditors Report to the members of Cloudcall Group plc   34 Consolidated Statement of Comprehensive Income   38 Consolidated and Company Statements of Financial Position   39 Consolidated and Company Statements of Changes in Equity   40 Consolidated and Company Cash Flow Statements   43 Notes to the Financial Statements   44 Cloudcall Group plc 2017 Annual Report and Financial Statements Cloudcall Group plc Registered number
+Revenues up 42% to 6.9m 2016 4.9m Recurring revenues up 55% compared to 2016 87% of income now either recurring or repeating 2016 85% Gross margin 80% 2016 79% EBITDA loss excl.
+5.7m new equity raised during the year before issue costs 4.9m cash at yearend 2016 3.2m 1.85m undrawn revolving credit facility with Barclays Net cash absorbed by operating activities down 34% year on year to 1.6m 23520 users as at 31 December 2017  up 45% 2016 16200 875 customers 2016 750 Average customer size increased to 27 users  up 24% year on year Increased investment takes headcount up to 119 from 89 last year Strengthening relationship with Bullhorn offers further opportunities for growth following Bullhorns acquisitions of Connexys during the year and Talentrover and Jobscience in early 2018 New unified communications architecture successfully launched to Bullhorn customers in Q4 Launch of new Microsoft Dynamics CRM integration built on CloudCalls new unified communications architecture Instant Messaging  SMS functionality moves into testing ahead of expected launch during Q218 Recurring revenue is that related to contracted subscription based products.
+Repeating revenue is related to payasyougo telephony revenue which whilst not directly contracted has a high degree of visibility and predictability.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Cloudcall Group plc Registered number Group overview Cloudcall Group plc CloudCall or the Company is a UK registered company quoted on the AIM market of the London Stock Exchange LSE CALL.
+The principal activity of the Company is to act as the holding company.
+CloudCall and its subsidiaries the Group operate as a software and unified communications business that has developed and provides a suite of cloudbased integrated software and telephony products and services under the name CloudCall.
+The Groups principal activity is to provide products and services designed to improve business performance by enabling client communications to be driven by the data held within Customer Relationship Management CRM software.
+The CloudCall suite of products allows companies to fully integrate their telephony systems into their existing CRM software enabling calls to be made recorded logged and categorised from within the CRM system from which detailed activity reports can be easily generated.
+The Groups software and telephony platform is currently enabling over 23500 users across 875 customers to drive more effective communications directly from the intelligence that exists within their CRM system.
+The Group has approximately 120 staff based predominantly in Leicester UK Boston US and Minsk
+The Groups Head Office and Registered Office address is 1 Colton Square Leicester LE1 1QH
+Further information can be found on our website site Our business model CloudCall is a software company that designs develops and operates integrated communications services for CRM systems.
+Due to the unique way that the CloudCall system is built with its own Application Programming Interface API it has the capability to readily integrate with multiple CRM systems.
+CloudCall software in combination with its two core telephony platforms sited in the UK and US delivers data driven intelligent cost effective telecoms services directly to the endusers of its customers via their CRM systems.
+Telecoms services can be delivered either by using a customers existing infrastructure overlay or full VoIP whereby the customer deploys CloudCalls infrastructure.
+CloudCall is a fullservice communications provider licensed to operate as a telecoms provider in multiple countries.
+CloudCall provides a robust and effective service built on its own cloudbased technology stack.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Cloudcall Group plc Registered number CloudCall works closely with key CRM partners through which it reaches most of its end customers and their users.
+CloudCalls current geographic reach extends from North America through the UK and mainland Europe.
+Contracts are directly with the endcustomers typically minimum period of 2 years with a small percentage of recurring revenues being paid to the relevant CRM partner as long as their customer remains a CloudCall customer.
+CloudCall services are invoiced monthly on a per user per month basis.
+Telephony services are either charged out via allinclusive call packages or on a pay as you go PAYG per minute basis.
+87% of the Groups revenues are therefore either recurring or repeating in nature.
+Professional services are delivered as network discovery configuration and training fees charged to new customers and for existing customers adding additional users or functionality.
+These service fees facilitate effective onboarding which in turn leads to higher levels of user adoption and a demonstrably faster return on investment for customers.
+All new customers are regularly contacted throughout the onboarding process to ensure they remain satisfied and engaged.
+Following delivery they are also routinely contacted for postimplementation feedback looking to identify and resolve any ongoing issues.
+Existing customers are treated and followed up in a similar way.
+CloudCall provides strong and effective customer support working to reduce issues which may cause customers to churn.
+CloudCalls software development and engineering function is mostly located in Leicester UK but it also operates offshore software development offices in Karachi Pakistan and Minsk Belarus.
+Our market The overall market size for CRM software is estimated to be more than 36bn per annum.
+It is estimated that the market for CTI Computer Telephony Integration software is as much as 4050% of the overall CRM market in terms of its potential size.
+CloudCall operates directly in North America through its office in Boston MA and in Europe through its UK head office in Leicester.
+Currently the Group primarily focuses its products and services on two core CRM partners Salesforce and Bullhorn.
+From the beginning of 2018 following the launch of its new Microsoft Dynamics integration focus will additionally be applied to Microsoft Dynamics alongside these two.
+In addition to the focus on the three core partners identified above CloudCall also considers its products and services to be extremely relevant for companies within the staffing and recruitment sector and consequently has partnerships with several smaller staffing and recruitment CRMs.
+To date other than Salesforce there remains little direct competition offering deeply integrated communications services as an end to end offering for many CRM systems.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Cloudcall Group plc Registered number Our strategy The Groups core objectives remain to deliver strong topline growth to continue to drive the business toward EBITDA breakeven to deliver a highquality product and customer experience and to encourage a strong and ethical corporate culture.
+To achieve these objectives it focuses its resources as follows Deeper focus and stronger relationships with its three core CRM partners  Salesforce Bullhorn and Microsoft Dynamics Focus on larger midmarket customers to drive up average revenues per customer and to reduce average customer costs by continuing to improve onboarding processes lowering ongoing costs of support per customer and reducing churn rates Focus on strengthening relationships and growing revenues from existing and future enterprise level customers by expanding CloudCall penetration across their organisations Focus on developing deep understanding and expertise within key industry verticals such as staffing and recruitment to ensure CloudCall products and services not only meet but exceed the needs of those markets Focus on providing the highest standards of customer service and support to increase customer satisfaction levels referenceabilty and brand reputation whilst also reducing churn Continuing to develop CloudCall into a marketleading featurerich service delivering an exceptional valueadding customer experience with high availability and reliability aligned with bestinclass security Fostering a positive corporate culture investing in staff and building relationships with local charities and the community in general Cloudcall Group plc 2017 Annual Report and Financial Statements Strategic Report Cloudcall Group plc Registered number
+Chairmans statement
+I am pleased to report on a strong set of results for the year ending 31 December 2017 that show the excellent progress towards the strategic objectives agreed by the Board at the beginning of the year.
+Business performance Highlights in the period were Total revenues up by 42% to 6.9m compared to 4.9m in FY 2016 Monthly recurring revenues up by 55% compared to FY 2016 Total users increased by 45% since 31 December 2016 Bullhorn expansion and strengthening relationship offers further opportunities for growth Launch of integration into Microsoft Dynamics CRM the second largest CRM in the world In addition to the improvements seen across our key financial growth metrics I am also pleased to report that the Groups focus on client satisfaction and client retention has resulted in steadily improving metrics in these areas.
+Furthermore the Groups relationship with its key strategic partner  Bullhorn CRM  has continued to strengthen across Bullhorns global footprint.
+This presents a significant opportunity for the Group as Bullhorn has recently announced acquisitions which will significantly add to their global footprint.
+In July 2017 we confirmed that the Companys lender Barclays agreed to provide an improved three year revolving credit facility of 1.85m to replace the previous 0.9m twoyear term loan which enabled management to invest in the business with more confidence.
+Following the half year results in September 2017 institutional investor demand was sufficiently strong that the Board were able to recommend a new share placing raising 5.7m of equity finance before costs at a price of 143.5 pence per share.
+This additional funding combined with the enhanced Barclays facility has ensured that the investment capital is now in place to confidently support further product development and sales and marketing expansion in addition to broadening our CRM partner reach during 2018.
+Our strengthened balance sheet when combined with our growing monthly recurring revenue base increasing product capabilities strong user growth and improved customer retention gives the Board comfort that the business is wellplaced to continue delivering its focussed growth strategy through 2018 and beyond.
+This improved position allows for more investment in sales and marketing which combined with product enhancements delivered and planned will create further opportunities to integrate the CloudCall platform with additional CRM platforms creating a broader route to market and facilitating further accelerated growth in users and recurring revenues over time.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Strategic Report Cloudcall Group plc Registered number
+Following our most recent equity raise the Board has conducted a review of the levels of investment in our platform and sales channel development to optimise the cash resources available to ensure our ambitious growth targets are delivered in 2018 and beyond.
+Based on this planning activity the Board is confident that the business is moving into 2018 stronger more resilient and well placed to deliver on its growth strategy.
+I would like to take this opportunity to thank all our staff for their drive and commitment throughout the year and look forward to 2018 being another year of strong progress against the clear and exciting growth strategy that has been set out for the business.
+Peter Simmonds Nonexecutive Chairman CloudCall Group plc Cloudcall Group plc 2017 Annual Report and Financial Statements Strategic Report Cloudcall Group plc Registered number
+Chief Executives review
+Performance overview and financial highlights 2017 was a strong year of progress for CloudCall with revenue growing by 42% to 6.9m and recurring revenue growing by 55% compared to the previous year driven in part by a 45% increase in the number of end users to just over 23500.
+The decision to target sales and marketing activity towards larger midsized businesses has proven to be a successful strategy.
+Over the course of 2017 our average customer size grew by 24% from 21.6 to 26.9 and we are now growing revenues from within a number of significant new customers.
+This trend is particularly marked within the recruitment and staffing sector with several new key accounts growing rapidly making inroads into our top 10 customer list.
+The efficiencies of scale that come with these larger customers means that they are generally more profitable to CloudCall have higher retention rates and enable the opportunity to add more users as the relationship evolves.
+It should be noted however that their enhanced purchasing power with often larger and longer commercial terms being negotiated has had a slight adverse impact on overall average recurring revenue per user.
+Elsewhere across the business we have continued to make good progress.
+Improvements to our customer onboarding processes have helped reduce the average time between order received and go live to approximately 5 weeks meaning that new customers commence billing earlier than has previously been the case.
+Customer satisfaction is continuing to climb evidenced by the fact that our customer support team continues to deliver excellent support ratings averaging 96% and the number of customers required to be managed by our atrisk triaging process has also fallen during the year.
+The net effect of this has been a 10% reduction in monthly churn rates achieved over the course of the year and we continue to see improvements as we enter 2018.
+Constrained growth Whilst these growth rates are impressive our performance was to some extent restricted by a number of constraining factors.
+Indeed 2017 would be better described as being a year of consolidation and preparation with the business focussing on strengthening the foundations that will support future growth.
+Prior to the fundraise in the autumn of which the VCTEIS element received HMRC advance approval on 29 November the Group was undeniably cash constrained with available cash resources only allowing for limited investment in sales and marketing activity.
+Growth rates to date have been achieved with minimal outbound marketing and with sales staff numbers held at minimum viable levels.
+This lack of dedicated resources has historically held back the rate of new customer acquisition particularly in the US where our addressable market is four or five times that of the UK.
+In the run up to the yearend and continuing into 2018 the additional funds raised are allowing us to begin expanding our sales and marketing functions and I look forward to reporting on progress later in the year.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Strategic Report Cloudcall Group plc Registered number Resource limitations were also being keenly felt in product development where for much of the year a significant portion of our software development resource was focussed on rebuilding our core infrastructure into a robust multichannel communications platform that would enable us to scale more quickly in 2018.
+This exercise naturally restricted our ability to launch new revenue impacting products and services in 2017.
+An improved platform to facilitate growth Driven largely by the millennial generation there is an underlying shift from the more traditional methods of communication towards texting and instant messaging.
+To allow the Group to take advantage of this trend it was necessary to rebuild the underlying architecture to efficiently expand its product beyond supporting just voice communications to include texting and messaging capabilities as part of a multichannel unified communications solution.
+Historically CloudCall built bespoke solutions for each CRM partner resulting in differing levels of functionality and an ongoing development overhead associated with maintaining these multiple bespoke software bases.
+Continuing with this approach would have necessitated building bespoke iterations of any new feature such as SMS or messaging for each supported CRM integration.
+The new platform architecture is designed with the software components broken down into modules and held centrally as a software library.
+This allows CRM integrations to be built as simpler frameworks that pull their required functionality modules from this central software library.
+This approach has multiple benefits in that it improves consistency lowers maintenance overheads allows for faster deployment of new functionality and increases the ease and speed of new integrations with additional CRMs.
+The updated solution also significantly improves the user interface and provides a more intuitive user journey.
+In November our latest Bullhorn integration was released on this new platform.
+Since then we have also released a new integration with Microsoft Dynamics CRM on the new platform and expect to have finished upgrading our Salesforce integration by May 2018.
+Feedback from customers using the new platform has been extremely positive.
+Now that this fundamental architectural change has been made we are able to move forward at a much faster pace.
+Im pleased to be able to report that since the yearend development work on building our SMS and instant messaging services has been progressing well and we are currently on schedule to release this functionality in May 2018.
+We are already aware of considerable interest from both existing customers and prospective customers and so when launched we anticipate an increase in revenues from both existing customers and improving new customer signup rates.
+Strengthening ties with Bullhorn Our relationship with Bullhorn has continued to strengthen and its staffs knowledge of and confidence in the CloudCall service noticeably improved when it selected us as its own telecoms provider which is already improving lead flow to CloudCall from Bullhorns own sales teams.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Strategic Report Cloudcall Group plc Registered number Prior to Bullhorns acquisition of Connexys in September 2017 our penetration of Bullhorns user base stood at 25% in Europe and 6% in North America.
+However adjusting for that acquisition repositions our penetration of their revised total EMEA users to 14%.
+In March 2018 Bullhorn announced that it had completed the acquisitions of both Talentrover and Jobsciencesite platform like Connexys.
+Whilst it remains very early days in terms of quantifying exactly what this means for CloudCall in terms of addressable market it is very clear to see that our strong relationship with Bullhorn in conjunction with their recent acquisition driven growth represents a very significant opportunity to CloudCall.
+Increasing our focus on recruitment and staffing Further segmentation of the global CRM market has enabled us to identify a vibrant recruitment and staffing sector employing over 12 million people globally.
+CloudCalls suite of integrated communications products is a strong fit for this sector and is appreciated by firms looking to adopt technology that helps them increase their speed in contacting candidates.
+This is something that CloudCalls solution excels at.
+The Groups success in this sector its strong relationship with Bullhorn with its enhanced customer base together with CloudCalls growing reputation has led the Board to decide to focus more heavily on this sector before exploring other markets.
+Our culture Over the year staff numbers increased from 89 to 119 reflecting our desire to capitalise on the market opportunity that exists today.
+We are continuing to focus on creating a caring and inclusive culture and are investing more in improving our staff mentoring training and support mechanisms.
+Im delighted to say that the various charity and community initiatives we launched in 2016 are now flourishing. which made me particularly proud.
+Im also keen that CloudCall acts as a responsible employer and a caring neighbour wherever it is represented around the world because I firmly believe that following this path generates benefits that extend well beyond the obvious.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Strategic Report Cloudcall Group plc Registered number
+As we continue to grow our recurring revenue it is clear that growth in the first half of the year has a far greater cumulative impact on the years total revenue number than growth in the latter part of a year.
+Im therefore pleased to announce that whilst we dont expect to see full contribution from our newly hired sales heads until Q2 our existing sales team have had a strong January and February and that trading is in line with expectations.
+Simon Cleaver
+Chief Executive Officer
+Cloudcall Group plc Cloudcall Group plc 2017 Annual Report and Financial Statements Strategic Report Cloudcall Group plc Registered number Key performance indicators The following Key Performance Indicators KPIs are used by the Group to measure progress towards our core strategic and financial objectives.
+Where appropriate employee incentives are directly connected to these KPIs.
+Key Performance Indicators KPIs KPI Link to strategic goals 31 Dec 31 Dec
+Revenue Growth in revenues and particularly recurring revenues demonstrates effective and targeted new customer acquisition and greater upsell and retention within existing customers.
+Quality and focus within service delivery and customer support drives more efficient implementation reduces churn and better customer satisfaction all of which are revenue enhancing.
+4.86m 6.87m 42% Gross Margin Strong gross margins within the Groups operating units are indicative of focus on delivering higher value implementation services an effective mix of prepaid vs payasyougo telephony effective partner management and better procurement from upstream telecoms partners.
+79% 80% 1%
+Loss excl.
+Share Based
+Reducing operating losses show a strong commitment toward prudent cost management and ensuring that operating expense growth is contained to the minimum level required to support the Groups growth and quality of customer experience objectives.
+For a SaaS business that is beginning to scale operating cost growth will be much lower than revenue growth once the core infrastructure is built although periods of investment in the business will take operating expenses higher as and when that investment takes place.
+3.03m 1.89m 38% Net Loss after tax Losses and ultimately profits are reflective of policies focused on revenue growth cost of sales efficiencies and operating expenditure containment.
+Depreciation amortisation financing costs taxation and other one time nonoperating costs will also impact bottomline profitability.
+3.01m 2.01m 33% Cloudcall Group plc 2017 Annual Report and Financial Statements Strategic Report Cloudcall Group plc Registered number KPIs continued KPI Link to strategic goals 31 Dec 31 Dec
+Net Cash
+Operating
+Activities
+In maturing preprofit SaaS businesses cash outflows from operating activities sometimes referred to as cash burn reduce as revenues outgrow operating costs.
+SaaS companies tend to see new customer acquisitions increase cash burn in the shortterm as most customer acquisition costs are incurred before a new customer is implemented.
+Once implemented and billing a customer will generate cash monthly usually recovering the initial outflow in a 69month period.
+Focus on maximising professional services income delivery efficiencies and billing and credit management tools helps to reduce operating cash outflows.
+It should be noted that periods of investment to facilitate further growth will temporarily increase cash burn in the short term.
+2.37m 1.57m 34% Cash and
+Equivalents
+The Group needs to ensure that it has sufficient cash reserves to support its operations through to breakeven at which point it becomes cash generative and self funding.
+Cash balances need to be considered in the context of any debt that may mature during the fiscal period.
+3.17m 4.87m 54% No of End
+User counts are taken at the point an order is signed and growth is indicative of both strong sales activity into larger new clients as well as successful customer account management driving uplifts from the current customer base.
+16217 23520 45%
+Recurring
+Revenue Per User RRPU Strength in new product  feature development and successful upselling from within the existing customer base and to new customers will drive growth in RRPU however this will be naturally diluted as larger customers negotiate better pricing arrangements and geographic expansion into the US will also dilute as VOIP costs per user are typically lower in a more mature market.
+31.46 28.00 11%
+New
+Users per
+Improving monthly net new user growth provides a good indication of improving sales performance from both new business and existing customer accounts plus reduced user losses through better retention and churn management.
+568 609 7%
+Users
+Per
+Customer
+Increasing average users per customer shows clearly the impact of the strategy to increase the average size of our customers by actively driving the growth of the customer base towards larger companies offering greater economies of scale and reduced churn resulting in enhanced margins and cost efficiencies as well as greater opportunities for expansion revenues.
+21.7 26.9 24% Cloudcall Group plc 2017 Annual Report and Financial Statements Strategic Report Cloudcall Group plc Registered number Key Performance Indicators  Note The Board considers the key performance indicators KPIs identified above as key to understanding the performance of the business and reports these KPIs externally as part of its half yearly updates.
+When calculating user numbers the Group considers the receipt of a signed order for an ongoing subscription as a sale.
+Financial review
+Revenue
+Revenues grew by 42% from 4.9m to 6.9m in 2017 The Group derives all its revenues from the provision of integrated communications software and services to customers in the UK mainland Europe and North America.
+In 2017 the Groups North American operation again delivered strong growth with revenues up 56% to 2.0m from 1.3m in 2016.
+Notable also is the level of growth in revenues generated in mainland Europe increasing 96% to 0.6m in 2017.
+With 87% of revenues that are either recurring or repeating in nature recurring revenue from subscription services grew 55% in 2017 compared to the prior year.
+This strong top line and recurring revenue growth underpins the Boards view that the strategy to focus on key CRM partnerships and industry verticals larger midmarket customers and growth from within the existing customer bases continues to deliver positive results.
+On a constant currency basis growth in revenue was 40%.
+Further analysis regarding revenues can be found in Note 5 to the financial statements.
+Gross margin Gross margin improved from 78.5% in 2016 to 80.0% The Groups continued focus on delivering more valueadding network discovery training and implementation services to our new customers together with better partner management and more efficient procurement of upstream telecoms capacity has seen a further improvement in gross margin to 80% in 2017.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Strategic Report Cloudcall Group plc Registered number Operating costs excluding depreciation amortisation and share based payments Operating costs grew from 6.8m to 7.4m in 2017 Growth in operating expenditure of 8% year onyear in the context of a 42% growth in revenues for the same period continues to demonstrate the SaaS Software as a Service model whereby revenue growth outstrips operating expenditure growth which can be held at a much lower level as the revenue generating assets are substantively in place and the business begins to scale.
+It is worth noting that periods of greater investment in the business designed to accelerate growth will naturally lead to greater operating expenditure and increased operating losses whilst that investment takes time to flow through to increased revenue.
+On a constant currency basis growth in operating costs was 6%.
+Reported operating costs should be read in the context of a further 0.9m of costs incurred in the development of new products and services and capitalised to the balance sheet under IAS 38 accounting treatment.
+The adjusted operating cost including this expenditure would be 8.3m an increase of 20% against the IAS 38 adjusted operating spend in 2016.
+The additional expenditure is reflective of the investment being made in the company both in the run up to and after the fund raise event in October.
+EBITDA loss before sharebased payments was 1.9m down by 38% from 3.0m in 2016.
+Research and development costs Development costs capitalised 0.91m 2016 0.15m Investment in the development of new and improved products and applications and the protection of the intellectual property of such development work is considered key to the further improvement of CloudCalls competitive position.
+In Q3 2016 because of its improved internal systems and software development methodologies the Group was able to begin capitalising software development costs as an intangible asset in accordance with the requirements of IAS 38.
+The proportion of research and development costs that can now be identified for capitalisation as a software asset increased throughout 2017 bringing the Group into line with its peers.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Strategic Report Cloudcall Group plc Registered number Further to the adoption of IAS 38 the Group confirms that as a result of new products coming into service during 2017 IAS 38 related amortisation charged in 2017 amounted to 35k 2016 nil.
+Further details can be found in the Principal risks and uncertainties section on pages 17 to 20 and Note 11 on intangibles.
+Debt and financing expenses The Company has no outstanding debt 2016 0.9m and a net financing expense of 73k 2016 71k On 12 July 2017 the Company announced that it had secured a new revolving loan facility the Facility with Barclays Bank replacing its previous sterling term loan facility of 900000 which was fully drawn and due for repayment in February 2018.
+The new Barclays revolving credit facility RCF or the Facility provides borrowing facilities of up to 1.85 million for a 3year term.
+Interest is set at 7.45% above 3month LIBOR rate for funds drawn.
+Funds can be drawn as required by the Company typically for fixed periods of 3 6 or 12 months.
+Interest is payable upon settlement of each tranche drawn.
+The Facility also incorporates a non utilisation fee whereby undrawn funds are charged at a rate of 2.98% per annum.
+The facility is secured over the assets of the Group.
+As at 31 December 2017 the Facility was fully undrawn.
+Because of the debt drawn down under the previous term loan during part of 2017 and the non utilisation charges incurred on the new revolving credit facility the Groups net financing expense increased marginally to 73k compared to 71k in 2016.
+Cash and working capital The Group had 4.9m net cash at the end of the year 2016 3.2m.
+SaaS companies that deliver recurring revenue streams tend to see new customer acquisitions increase cash burn in the shortterm as most customer acquisition costs are incurred before a new customer is live for billing.
+Once onboarded and billing a customer will generate cash monthly in line with the month in arrears billing terms usually recovering the initial outflow in a 6 to 9 month period.
+It is for this reason that SaaS companies looking to accelerate growth will typically accelerate cashburn in the shortterm whilst new customer acquisition is funded.
+The Groups balance sheet includes an RandD tax credit receivable of 0.6m.
+As has been the case in recent years this is expected to be received in cash in June or July 2018.
+Net cash absorbed by operating activities was 1.6m down from 2.4m in 2016.
+This improvement should be considered in the context of the additional investment expenditure incurred during the year of 1.08m 2016 0.24m.
+The Group continues to invest for future growth and with the support of its shareholders acknowledges that the execution of its strategy is likely to delay its expected break even date.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Strategic Report Cloudcall Group plc Registered number During 2017 the Group incurred 170k of capital expenditure other than intangibles up from 96k in 2016.
+Whilst the Group continues to leverage a greater proportion of web based service providers such as AWS to host some of its core technology services capital expenditure is still expected to climb slightly over the coming year due to a planned relocation to a new larger office in Minsk Belarus and other planned equipment refreshes and resilience related activities.
+Share capital Total issued share capital at the yearend comprised 24069504 ordinary shares of 20 pence each.
+In October 2017 the Company successfully raised new capital amounting to 5.7m before fees and expenses to allow the Group to capitalise on a number of near term growth initiatives which the Board believe will generate further shareholder value.
+In addition to underpinning further growth the additional funding further derisks the Groups strategy whilst simultaneously enabling the Group to accelerate its product development plans.
+This new capital raise was fulfilled by the issue of 3963000 new ordinary shares in the Company at a price of 143.5 pence per share.
+The shares were issued in two tranches October and December to allow for processing the necessary EIS  VCT preassurance approval by HMRC.
+During the year the Company also received new capital amounting to 38k in relation to exercised share options and warrants.
+Further details can be found in Note 20 Equity Settled Share Based Payments.
+Earnings per share and dividends Loss per share for the year was 10 pence 2016 20 pence.
+As the business continues to be in a preprofit highgrowth investment phase the Board does not recommend the payment of a dividend 2016 nil.
+Going concern The Directors confirm that as disclosed in Note 1 on page 44 they have a reasonable expectation that the Group has adequate resources to continue in operational existence for the foreseeable future.
+For this reason they continue to adopt the going concern basis in preparing the financial statements.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Strategic Report Cloudcall Group plc Registered number Principal risks and uncertainties The Group is exposed to several potential risks which may have a material effect on its reputation financial or operational performance.
+The Board recognises that the nature and scope of risks can change and it is not possible to identify or anticipate every risk that may affect the Group or the materiality of that risk however the principal risks and uncertainties faced by the Group are set out below.
+The Board continually reviews the risks facing the Group the controls in place to mitigate any potential adverse impacts and assurance sought to check that the controls are working effectively.
+Operational risks Key areas for ongoing operational risk management are Revenues  The business remains in a high growth phase but is still considered subscale and is therefore lossmaking as it continues to invest resources to grow to a scale that generates an optimum balance of cash and shareholder returns.
+The prospects of the Group continue to be dependent upon the development of the revenue model although this dependency reduces as monthly recurring and repeating revenues eventually grow to a sustainable level which is above the level of costs necessary to deliver and maintain an effective service effectively creating a cash generative business albeit with lower growth prospects.
+Through the Groups performance dashboards and internal reporting and review systems the management team monitors incoming orders and customer account provisioning daily while net recurring revenue growth is tracked and analysed regularly throughout each month.
+The Group keeps its pricing and sales commission models under constant review and discounts and requests for credit notes and account cancellations are monitored and approved on a case by case basis.
+The
+Group operates an effective Atrisk process for individual customers that may be experiencing issues and will devote extensive resources to ensuring those customers remain satisfied and on board.
+Business continuity  The Group is dependent on the efficient functioning of its internal systems website and customer portals as well as accessibility to the wider internet infrastructure key technology partner systems and assets on which they depend.
+Business disruption contingency plans are prepared and reviewed and work continues to improve the resilience of our systems and core platform.
+Whilst the Group insures itself against potential significant business interruption it would undoubtedly suffer significant reputational damage and lose a significant number of customers should such an event come to pass.
+Staff retention and recruitment  given the importance of knowhow no individual has sole responsibility for any critical element of the Groups business albeit it is recognised that the loss of certain key personnel would clearly be disruptive to the business.
+The Group actively works to crossskill resources wherever it identifies a single point of failure and continues to make progress in this regard.
+Staff retention is encouraged by a range of staff benefits including competitive salaries variable pay schemes share based incentive plans health care pensions death in service benefits and excellent office locations facilities and social events.
+Staff
+Cloudcall Group plc 2017 Annual Report and Financial Statements Strategic Report Cloudcall Group plc Registered number performance is regularly reviewed and training mentoring support and career development provided wherever necessary and appropriate.
+Commercial partners vendors  the Group has partnerships and agreements with several third parties.
+Whilst these partnerships are secured by contracts and in most cases alternative partners could be found in the short to medium term a loss of support or disruption of service from any key partner could have a short term detrimental impact on CloudCalls reputation and business.
+The Groups policy is to ensure it only works with recognised industry leading technology partners with the appropriate resources to provide strong and resilient services with exceptional customer support.
+The Group continues to actively monitor its commercial partners and works with them to ensure commercial operational and geopolitical risks are minimised.
+Commercial partners sales  the Group has partnerships and agreements with several thirdparty CRM vendors.
+Whilst these partnerships are secured by mutually beneficial agreements underpinned by appropriate commission arrangements there remains the risk that partner relationships could be terminated if alternative unified communications vendors secure exclusive arrangements with those CRM vendors or if those CRM vendors elect to develop and provide their own integrated telephony solution.
+The Group also recognises the financial risks that exist should key partners chose to unilaterally change commercial terms on renewal of their contractual arrangements.
+The Group continues to actively monitor and strengthen its relationships with its commercial CRM partners and works hard to ensure that those relationships are managed appropriately mutually beneficial and that customer expectations are met and exceeded wherever possible.
+Political risks Given the recent political events such as the election of President Trump in the US and the ongoing economic uncertainty of the Brexit negotiations in mainland Europe the Group recognises that it is also at risk of financial market or personnel losses because of political decisions or disruptions.
+Whilst the Group cannot necessarily quantify and negate these risks at this point in time it is fully engaged in active conversations with all its stakeholders to ensure it has as much warning as possible of any potential impact to specific commercial arrangements.
+To date the Groups commercial activities are unaffected by both the Brexit issue and the work to date of the Trump administration barring the impact to the value of sterling as discussed in the currency risk section below.
+Financial risks The major financial risks faced by the Group are liquidity risk market risk currency risk credit risk and interest rate risk.
+The Board regularly reviews these risks and approves policies covering overall risk limits and the use of financial instruments where appropriate to manage financial risk.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Strategic Report Cloudcall Group plc Registered number Liquidity risk The key liquidity risk facing the Group continues to be the sufficiency of working capital to continue with its investment plans until cash breakeven is reached.
+The Board has detailed approved budgets investment plans and rolling business forecasts including cash flow projections which it keeps under regular review at least monthly to ensure the adequacy of working capital at all times.
+Furthermore in mitigation the Board recognises that growth related expenditure can be turned off sufficiently quickly without necessarily impacting revenues in the short term thereby reducing cash burn quickly and potentially returning the Group to cash positive operating relatively quickly.
+As at 31 December 2017 the Group has in place a revolving credit facility with Barclays Bank whereby Barclays has provided a revolving sterling credit facility in an amount of 1.85m the Facility.
+Interest
+The Facility also incorporates a nonutilisation fee whereby undrawn funds are charged at a rate of 2.98% per annum.
+At 31 December 2017 the Facility remains undrawn.
+The Facility is secured over the assets of the Group.
+There is a debenture over all the assets of the group and a cross guarantee in place in favour of Barclays Bank plc under which the Companys subsidiaries undertake to repay any bank debt arising under the Facility should it be required.
+Market risks The market sector the Group operates in is competitive.
+The impact of competitors having more features increased financial backing better brand recognition and better global coverage increases the risk to the Groups business model.
+The Group continues to grow revenues yearon year and is investing to deliver new product features industry sector expertise bestinclass customer support and service oerings enhanced brand recognition best in class employee benefits improved service delivery and global expansion to attract new customers and to protect its key employees from competitor approaches.
+Currency risk The greater part of the Groups revenues and costs are denominated in sterling however the Group is exposed to foreign exchange risk principally through balance sheet translation and cash flows incurred in US dollars by the Groups US subsidiary as it continues to grow.
+The foreign exchange risk is partly addressed by matching income and costs denominated in US dollars monthly although as the value of the intercompany payable between Cloudcall Inc. it becomes ever more sensitive to FX movements between USD and GBP on translation.
+Management closely monitors exchange rate fluctuations and will use forward contracts when considered appropriate to reduce this risk.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Strategic Report Cloudcall Group plc Registered number Credit risk The Groups billing cycle ensures minimal credit risks as the clear majority of customers pay monthly via direct debit or recurring credit card authority which minimises the amount of credit outstanding.
+As our customers increase in size there is more tendency for them to require monthly billing to account which increases the risk of delayed payments and subsequent credit control activity.
+Each customer account has an individually assigned credit limit which if breached results in suspension of service until the account is paid or revised credit agreed.
+There were no balances representing over 10% of the total trade receivables at the year end.
+As at 31 December 2017 the Groups funds were held at Barclays Bank A rated as a condition of its ongoing credit facilities.
+Interest rate risk Under the revolving credit facility agreement with Barclays dated 17 July 2017 the Group is exposed to interest rate risk such that a change in the UK base rate of interest will directly increase or decrease the interest payable on any funds drawn down under the terms of the Facility although the Board notes that this impact is not expected to be material.
+By order of the board Simon Cleaver
+Chief Executive Officer
+Paul Williams Chief Financial Officer Cloudcall Group plc 2017 Annual Report and Financial Statements Directors Report Cloudcall Group plc Registered number Directors report The Directors present their annual report and the audited financial statements for the year ended 31 December 2017.
+Corporate governance
+Governance Statement
+The Companys shares are listed on the AIM market of the London Stock Exchange.
+The Company is subject to the AIM Rules for Companies and consequently is not required to comply with the corporate governance provisions within the UK Corporate Governance Code the Code.
+The Board acknowledges that whilst it does not currently fully comply with the Code it does support the principles of good governance and it aims to comply with the Code to the extent that the Board considers it appropriate taking into account the Companys size and stage of development.
+Internal control The Board has overall responsibility for the Groups system of internal control and for reviewing its effectiveness.
+The processes to identify and manage the key risks of the Group are an integral part of the internal control environment.
+Such processes which are regularly reviewed and improved as necessary include strategic planning review and approval of annual budgets regular monitoring of performance against budget including full investigation of significant variances control of capital expenditure ensuring that proper accounting records are maintained the appointment of senior management and the setting of high standards for health safety and environmental performance.
+The effectiveness of the internal control system and procedures is monitored regularly by management the results of which are reported to and considered by the Audit Committee.
+The system of internal control comprises those controls established to provide assurance that the assets of the Group are safeguarded against unauthorised use or disposal and to ensure the maintenance of proper accounting records and the reliability of financial information used within the business or for publication.
+Any system of internal control can only provide reasonable but not absolute assurance against material misstatement or loss as it is designed to manage rather than eliminate the risk of failing to achieve the business objectives of the Group.
+Relations with regulatory bodies The Group sets out to ensure that it is aware of and take steps to comply with relevant laws policies and regulations at all times.
+Where this is necessarily complex such as in the field of telecoms compliance or international taxation the Group will employ the services of specialist advisors to support it.
+Relations with shareholders The Company encourages twoway communications with all its shareholders and responds quickly to all requests or queries received.
+Communication is primarily through the Companys website and the Annual General Meeting which shareholders are encouraged to attend and where participation is encouraged so that the Board may answer questions.
+All shareholders have at least twentyone clear Cloudcall Group plc 2017 Annual Report and Financial Statements Directors Report Cloudcall Group plc Registered number days notice of the Annual General Meeting.
+All shareholders will receive a copy of the Annual Report electronic or hard copy depending on shareholder preference and an interim report at the half year will be available on the Companys website.
+In addition the Company delivers its Annual and Interim results via a webinar which is open to all shareholders.
+A copy of the Companys latest investor presentation can be located on the Rule 26 page which can be found in the Investor Relations section of the Companys website siteinvestorrule26.
+Corporate social responsibility The Group strives to ensure that its business activities positively benefit all stakeholders by committing to conduct its business in a fair and responsible manner to treat its employees fairly supporting personal growth and development and to have a positive impact in its local community.
+Customers
+The Group strongly values its customers and seeks to deliver a worldclass product backed by class leading customer service and support.
+The Group routinely seeks customer feedback and performance appraisal inputs and takes active steps to remedy any instances of customer dissatisfaction.
+Key customers are also routinely invited to provide product improvement inputs and in some cases to test key features or functionality prior to general release.
+The Group commits to provide a fair and transparent pricing structure so that customers can be confident that the Groups core software and telephony services are providing cost effective integrated communications.
+Employees
+The Group is an Equal Opportunity Employer and its policy is to ensure that all employees and job applicants will be given equal opportunities in all aspects of employment and training irrespective of their gender ethnic origin disability age marital status sexual orientation or religious affiliation.
+Cloudcall encourages where possible the employment of disabled people and the retention of those who become disabled during their employment with the Group.
+The Group recognises the benefit of involving employees in target setting and keeping employees informed of progress.
+Due to the size of the Group regular consultations with senior management take place.
+The views of employees are considered when making decisions which are likely to affect their interests.
+Communities
+The Group participates in various charitable activities in the communities in which it operates.
+Whilst it is not Group policy to make direct financial contributions to charities Group employees are actively encouraged to take two additional paid leave days each and donate them for the support of charitable projects in the community.
+The Group partners with Leicester Cares and Boston Cares who act as facilitators for these activities.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Directors Report Cloudcall Group plc Registered number The Board The role of the Board The Board of Directors is responsible for formulating reviewing and approving the Groups strategies budgets and corporate actions.
+The Board has overall responsibility for risk management and internal controls and is supported by the Audit Committee.
+The Board meets regularly and eighteen Board Meetings were held in 2017.
+The Board has a formal schedule of matters referred to it for decision these include Approval of the Companys overall commercial strategy and a review of progress to date Financial matters including the approval of budget and financial plans changes to the Groups capital structure major investments such as capital expenditures acquisitions and disposals Stock Exchange related issues including the approval of communications to the Stock
+Meeting Companies Act requirements including the approval of financial statements dividends and changes in accounting practices and policies Other policy matters including health and safety declarations of interest and operational controls.
+Operational control is delegated by the Board to the Executive Directors.
+NonExecutive Directors are in regular communication with the Executive Directors.
+All the Directors have direct access to the advice and services of the Company Secretary and can take independent advice if necessary at the Companys expense.
+The Company maintains liability insurance for the Directors and officers of all Group companies.
+The Board of Directors The Board of Directors currently consists of three Executive and three NonExecutive Directors.
+The
+Directors believe the Board provides an appropriate balance of skills and that it uses them effectively to provide leadership to the Group.
+The Directors who held office during the year were as follows Appointed  Reelected Peter Simmonds Simon Cleaver Reelected 22 May 2017 Paul Williams Andrew Jones Appointed 22 May 2017 Sophie Tomkins Gary Browning Reelected 22 May 2017 Cloudcall Group plc 2017 Annual Report and Financial Statements Directors Report Cloudcall Group plc Registered number Peter Simmonds retiring by rotation and Andrew Jones will offer themselves for reelection and election respectively at the forthcoming AGM.
+Director profiles Peter Simmonds 59 NonExecutive Chairman Peter is a Chartered Certified Accountant who retired from the role of CEO of dotdigital Group plc in June 2015 after 8 years.
+He has 35 years of experience at senior management and board level principally in the areas of banking insurance finance information technology and outsourcing.
+He has considerable business entrepreneurial experience having been involved at startup or early stage of several companies in various industry sectors including consultancy services vehicle leasing computer software and internet solutions sectors.
+He is currently Chairman of D4T4 plc NonExecutive director of dotdigital Group plc and on the board of the Quoted Companies Alliance.
+Simon Cleaver 57
+Chief Executive Officer
+Simon is an entrepreneur and highly experienced director who has built developed and sold several successful companies in both the private and the public arenas.
+He has specialist knowledge of acquiring and turning around companies or assets often under distressed circumstances.
+Businesses that he has built and sold include Serve Logic plc Business Serve plc RDP Ltd and Dalehart Ltd.
+Prior to setting out on his own Simon worked in the City for Bailey Shatkin working in the field of derivatives.
+Paul Williams 48 Chief Financial Officer Paul Williams is a Chartered Management Accountant with over 20 years experience in the technology services sector having worked previously for IBM ECsoft Group plc and most recently Ciber as Group Financial Controller and Interim CFO of the International Division.
+Paul was involved in multiple acquisitions and startups achieved SarbanesOxley compliance successfully implemented several companywide ERP systems controlled audit and external reporting and was instrumental in the creation of a new IT Outsourcing operation.
+Andrew Jones 53 Chief Revenue Officer Andrew is a highly experienced Sales professional with over 30 years in sales training operations and general management.
+After an initial five years with US company Pitney Bowes and having worked at length in the formative telecoms sector with ACC Redstone Telecom and BandX Andrew went on to lead successful revenue turnaround and change management initiatives in managed solution and software markets from senior roles within Redstone Managed Solutions and Magnetic North Ltd.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Directors Report Cloudcall Group plc Registered number Sophie Tomkins 48 NonExecutive Director Sophie is an experienced finance professional with approximately 20 years experience in equity research and sales gained with Cazenove and Co Collins Stewart Ltd and latterly Fairfax I.
+PLC where she was Head of Equities from 2009 to 2012.
+She has advised an extensive range of public and private companies on investor relations finance matters and strategy.
+She is a qualified Chartered Accountant and a fellow of the Chartered Institute for Securities and Investment.
+Sophie is currently a Non Executive director and Chair of the Audit Committee at Hotel Chocolat Group PLC.
+Gary Browning 57 NonExecutive Director After a career leading building and acquiring companies Gary who is experienced in both corporate transformation work and MandA is now advising both public and private companies on that journey.
+Gary has extensive experience working at board level within Plcs.
+After joining Penna Consulting Plc in 2002 he was appointed to the board as Chief Executive in 2005.
+Gary stepped down as Chief Executive in August 2016 after successfully negotiating the sale of the company to Adecco.
+His earlier career included 12 years with the WPP Group where from 1997 to 2002 he was Group Managing Director of BDG McColl Ltd a brand communications consultancy employing 200 people.
+Gary has run HR consultancy and recruitment businesses and personally consults on a wide range of talent management issues.
+Gary is a member of the Institute of Chartered Accountants in England and Wales has sat on the Investors in People UK Human Capital Management standards group board and qualified with KPMG having studied for his degree at Warwick University.
+Board committees Audit Committee The Audit Committee is comprised of Sophie Tomkins Chair Gary Browning and Peter Simmonds.
+All three are independent NonExecutive Directors.
+The Board is satisfied that Sophie as Chair has recent and relevant financial experience.
+The Committee meets at least twice a year and more frequently if required and has unrestricted access to the Groups auditor.
+During 2017 two meetings were held.
+The Committee is responsible for monitoring the quality of internal controls ensuring the financial performance of the Company is being properly measured and reported on meeting with the auditors and reviewing reports from the auditors relating to accounting and internal controls.
+The Chief Financial Officer routinely attends the Audit Committee meetings by invitation but other Executive Directors or members of the management team may also be invited to attend meetings as required.
+The Non Executive Directors are provided an opportunity at the Audit Committee meetings to discuss matters with the Auditors without the presence of the Executive Directors.
+The Audit Committee keeps under review the independence and performance of the Groups auditor monitors the provision of nonaudit services and also advises the Board on their fees.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Directors Report Cloudcall Group plc Registered number Remuneration Committee The Remuneration Committee is made up of Gary Browning Chair Sophie Tomkins and Peter
+During 2017 four meetings were held.
+The Committee reviews the performance of Executive Directors and senior management sets the scale and structure of their remuneration and reviews the basis of their service agreements incentive plans and other employment related benefits with due regard to the interests of the shareholders.
+Executive Directors and other members of the management team may be invited to attend meetings.
+The Remuneration Committee will also make recommendations to the Directors concerning the allocation of share options to Directors and employees.
+No Director is permitted to participate in discussions concerning their own remuneration.
+The remuneration and terms of appointment of NonExecutive Directors are set by the Board as a whole.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Directors Report Cloudcall Group plc Registered number Directors remuneration report Details of Key Managements remuneration including employers NICs are set out in Note 7 full details of directors remuneration shareholdings and share options and service contracts are set out below.
+Directors remuneration Year ended 31 December 2017
+Other
+Bonus
+Pension
+Other
+Total
+Total
+Simon Cleaver Paul Williams Andrew Jones Peter Simmonds Sophie Tomkins Gary Browning Mark Seemann Alan Graham Ward
+Retired 14 October 2016 Retired 31 December 2016 Since appointment on 22 May 2017 For the period to 31 March 2017 Peter Simmonds provided his services through a personal services contract pursuant to an agreement dated 20 February 2015 under which he is paid 40000 for the role of NonExecutive Chairman.
+From 1 April 2017 Peter Simmonds receives his agreed fees and expenses through the Company payroll.
+Sophie Tomkins receives her agreed fees and expenses through the Company payroll.
+Gary Browning provides his services through Vikaas Talent Ltd.
+October 2016 under which Vikaas Talent Ltd is paid 25000 per annum plus expenses.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Directors Report Cloudcall Group plc Registered number Management incentive plan During 2017 the Boards Remuneration Committee put forward a new LongTerm Incentive Plan LTIP the Plan for the Executive Directors that clearly aligns the interests and resulting remuneration of the executive management team with the creation of shareholder value.
+The Plan was formally approved by shareholders at the Annual General Meeting on 22 May 2017 and was fully executed with effect from 31 August 2017.
+The new Plan provides for awards of a new class of shares in Cloudcall Limited to eligible executives.
+The value of those shares is based on performance of Company share price and number of enduser targets.
+The Company may buy back the new Plan shares using Cloudcall Group Plc shares or with cash.
+If targets are satisfied on a sliding scale from the lower to upper thresholds the maximum potential Company shares available are set out below.
+Target
+Company Share Price Number of
+Maximum available Company
+Percentage of fully diluted Company share capital 2.50 40000 0.20 1% 5.00 60000 2.25 9.7% Assuming consideration satisfied in full by Cloudcall Group Plc shares.
+The operation of the new Plan will be supervised by the Remuneration Committee.
+Further details on the plan are set out in Note 20 to the financial statements.
+Directors rights to subscribe for shares According to the register of Directors interests there were no rights to subscribe for shares in or debentures of Group companies granted to any Directors during the financial year ended 31 December 2017.
+None of the Directors or their immediate families exercised any such rights during the financial year.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Directors Report Cloudcall Group plc Registered number Directors rights to subscribe for shares in the Company pursuant to the Cloudcall Group plc 2011 Share Option Plan are indicated below Opening shares on appointment on 22 May 2017 There were no options granted during the year.
+Further details on the plan are set out in Note 20 to the financial statements.
+Information in the strategic report The company has chosen in accordance with the Companies Act 2006 s414C11 to set out in the strategic report certain information required by the Large and Mediumsized Companies and Groups Accounts and Reports Regulations 2008 Sch.
+7 to be contained in the directors report.
+Results for the year and future developments The results for the year and future developments are discussed in the strategic report on pages 5 to Directors interests Directors of the Company and their immediate relatives control 5.70% per cent of the voting shares of the Company as at 28 February 2018.
+At 31
+Granted
+Surrendered
+At 31
+Weighted average exercise price
+Number
+Number
+Number
+Pence
+Simon Cleaver Paul Williams Andrew Jones Total 100000 Cloudcall Group plc 2017 Annual Report and Financial Statements Directors Report Cloudcall Group plc Registered number The Directors who held office during the financial year had the following interests in the ordinary shares of Cloudcall Group plc per the register of Directors interests at 28 February 2018
+Number
+Simon Cleaver 814896 804896 Paul Williams 120947 110304 Andrew Jones Peter Simmonds 258055 228055 Sophie Tomkins 39984 39984 Gary Browning 50000 50000 Appointed 22 May 2017 The company maintains directors and officers liability insurance.
+Share capital The number of ordinary shares in issue on 1 January 2017 was 20060348.
+On 17 October 2017 the Board approved the issue of 2457884 new ordinary shares in the Company pursuant to a firm placing at 143.5 pence the Placing to raise a total of 3.5m before fees and expenses.
+In addition the Company also announced that it had conditionally raised approximately 2.2 million before expenses by way of a placing of 1505226 new Ordinary Shares at 143.5 pence each the VCTEIS Placing subject to receipt of advanced assurance from HMRC and to the passing of Resolutions at the General Meeting.
+On 7 November 2017 shareholders approved the allotment of 1505226 new ordinary shares in the Company pursuant to the firm placing dated 17 October 2017.
+HMRC advance assurance was duly received on 29 November 2017 and the Board duly approved the issue of the outstanding 1505226 shares that were contingent on that qualifying status.
+During the course of 2017 the Board approved the issue of 46156 new ordinary shares for total consideration amounting to approximately 38k in respect of various small exercises of share options under the Companys 2011 Share Option Plan and warrants issued as compensation to N1 Singer during the firm placing that took place in April 2015.
+As a result of these events the number of shares in issue on 31 December 2017 was 24069504.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Directors Report Cloudcall Group plc Registered number Substantial shareholders So far as is known to the Company the only persons excluding Directors who directly or indirectly were interested in three per cent or more of the Companys share capital as at 28 February 2018 were as follows Shares % of Issued Share Capital ISPartners Investment Solutions AG 2965000 12.31% Miton Asset Management Limited 1816661 7.54% Herald Investment Management Limited 1635986 6.79% Canaccord Genuity Group Inc 1402390 5.82% BlackRock Investment Management UK Ltd.
+1238780 5.14% Legal and General 1146000 4.76% City Financial Investment Company Limited 1033781 4.29% Hargreaves Lansdown Asset Management 988140 4.10% Jason Kendall 755183 3.14% 12981921 53.89% Proposed dividend The Directors do not recommend the payment of a dividend 2016 nil.
+Events after the reporting period There are no events after the date of this report or the date the financial statements were approved by the Board of Directors which impact on the figures as presented.
+Auditors
+RSM UK Audit LLP acted as auditors during the year.
+In accordance with Section 489 of the Companies Act 2006 a resolution for the reappointment of RSM UK Audit LLP as auditors of the Group is to be proposed at the forthcoming Annual General Meeting.
+Disclosure of information to auditors The Directors who held office at the date of approval of this Directors report confirm that so far as they are each aware there is no relevant audit information of which the Groups auditors are unaware and each Director has taken all the steps that they ought to have taken as a Director to make themselves aware of any relevant audit information and to establish that the Groups auditors are aware of that information.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Directors Report Cloudcall Group plc Registered number Annual General Meeting The Annual General Meeting of the Group will take place on Monday 21 May 2018 at 11.00 am at the offices of Cloudcall Group plc 1 Colton Square Leicester LE1 1QH.
+Statement of Directors Responsibilities The directors are responsible for preparing the Strategic Report the Directors Report and the Group and Parent Company financial statements in accordance with applicable law and regulations.
+Company law requires the Directors to prepare Group and Parent Company financial statements for each financial year.
+As required by the AIM rules of the London Stock Exchange they are required to prepare the Group financial statements in accordance with IFRSs as adopted by the EU and have elected under company law to prepare the Parent Company financial statements on the same basis.
+The financial statements are required by law and IFRSs as adopted by the EU to present fairly the financial position of the Group and the Company and the financial performance of the Group.
+The
+Companies Act 2006 provides in relation to such financial statements that references in the relevant part of that Act to financial statements giving a true and fair view are references to their achieving a fair presentation.
+Under company law the Directors must not approve the financial statements unless they are satisfied that they give a true and fair view of the state of affairs of the Group and Parent Company and of their profit or loss for that period.
+In preparing each of the Group and Parent Company financial statements the Directors are required to select suitable accounting policies and then apply them consistently make judgements and estimates that are reasonable and prudent state whether they have been prepared in accordance with IFRSs as adopted by the EU and prepare the financial statements on the going concern basis unless it is inappropriate to presume that the Group and the Parent Company will continue in business.
+The Directors are responsible for keeping adequate accounting records that are sufficient to show and explain the Group and Companys transactions and disclose with reasonable accuracy at any time the financial position of the Group and Company and enable them to ensure that its financial statements comply with the Companies Act 2006.
+They are also responsible for safeguarding the assets of the Group and the Company and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Directors Report Cloudcall Group plc Registered number The Directors are responsible for the maintenance and integrity of the corporate and financial information included on the Companys website.
+Legislation in the UK governing the preparation and dissemination of financial statements may differ from legislation in other jurisdictions.
+By order of the board Simon Cleaver
+Chief Executive Officer
+Date 20 March 2018 1 Colton Square
+LE1 1QH Cloudcall Group plc 2017 Annual Report and Financial Statements Financial Statements Cloudcall Group plc Registered number Independent Auditors Report to the Members of Cloudcall Group plc
+We have audited the financial statements of Cloudcall Group plc the Company and its subsidiaries the Group for the year ended 31 December 2017 which comprise the Consolidated Statement of Comprehensive Income Consolidated and Company Statements of Financial Position Consolidated and Company Statements of Changes in Equity Consolidated and Company Statements of Cash Flows and notes to the financial statements including a summary of significant accounting policies.
+The financial reporting framework that has been applied in their preparation is applicable law and International Financial Reporting Standards IFRSs as adopted by the European Union and as regards the Company financial statements as applied in accordance with the provisions of the Companies Act 2006.
+In our opinion the financial statements give a true and fair view of the state of the Groups and of the Companys affairs as at 31 December 2017 and of the Groups loss for the year then ended the Group financial statements have been properly prepared in accordance with IFRSs as adopted by the European Union the Company financial statements have been properly prepared in accordance with IFRSs as adopted by the European Union and as applied in accordance with the Companies Act 2006 and the financial statements have been prepared in accordance with the requirements of the Companies Act 2006.
+Basis for opinion We conducted our audit in accordance with International Standards on Auditing UK ISAs UK and applicable law.
+Our responsibilities under those standards are further described in the Auditors responsibilities for the audit of the financial statements section of our report.
+We are independent of the Group in accordance with the ethical requirements that are relevant to our audit of the financial statements in the UK including the FRCs Ethical Standard as applied to SME listed entities and we have fulfilled our other ethical responsibilities in accordance with these requirements.
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+Conclusions relating to going concern We have nothing to report in respect of the following matters in relation to which the ISAs UK require us to report to you where the directors use of the going concern basis of accounting in the preparation of the financial statements is not appropriate or the directors have not disclosed in the financial statements any identified material uncertainties that may cast significant doubt about the Groups or the Companys ability to continue to adopt the going concern basis of accounting for a period of at least twelve months from the date when the financial statements are authorised for issue.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Financial Statements Cloudcall Group plc Registered number Key audit matters Key audit matters are those matters that in our professional judgement were of most significance in our audit of the financial statements of the current period and include the most significant assessed risks of material misstatement whether or not due to fraud we identified including those which had the greatest effect on the overall audit strategy the allocation of resources in the audit and directing the efforts of the engagement team.
+These matters were addressed in the context of our audit of the financial statements as a whole and in forming our opinion thereon and we do not provide a separate opinion on these matters.
+Revenue recognition  We focused on the recognition of revenue as the timing of revenue recognition and its presentation in the statement of comprehensive income is subject to inherent complexities in the software industry.
+We considered the controls over the recognition of revenue and whether these continued to be appropriate and consistently applied.
+We performed controls testing cutoff testing and substantive analytical review procedures to validate the recognition of revenue throughout the year.
+We also considered the adequacy of the Groups revenue recognition accounting policy given in Note 1.
+Development costs  We focused on the capitalisation of development costs due to its impact on reported earnings and the judgements involved in assessing whether the IAS 38 criteria for capitalisation have been suitably met.
+We reconfirmed our understanding of managements basis for capitalising development costs and reviewed whether the costs had been appropriately capitalised in accordance with IAS 38.
+Our procedures included an assessment over the appropriateness of any management judgements including the future expected economic benefit of capitalised projects and substantive testing of the costs capitalised.
+We also assessed the reasonableness of the amortisation policies in place potential impairment and the level of taxation credits recognised for eligible expenditure.
+Our application of materiality When establishing our overall audit strategy we set certain thresholds which help us to determine the nature timing and extent of our audit procedures and to evaluate the effects of misstatements both individually and on the financial statements as a whole.
+During planning we determined a magnitude of uncorrected misstatements that we judge would be material for the financial statements as a whole
+During planning FSM was calculated as 160000 which was not changed during the course of our audit.
+We agreed with the Audit Committee that we would report to them all unadjusted differences in excess of 5000 as well as differences below those thresholds that in our view warranted reporting on qualitative grounds.
+An overview of the scope of our audit Our Group audit approach focused on the Company and the two key trading subsidiaries one based in the UK and one in the US.
+The UK entities are subject to a local statutory audit completed to the Group reporting timetable.
+The US entity is not subject to local statutory audit and has been subject to full scope audit to Group materiality.
+The US entity audit was undertaken by the same team as the UK statutory audits.
+These audits covered 100% of Group revenue 89% of Group loss before tax and 99% of Group total assets.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Financial Statements Cloudcall Group plc Registered number Other information The directors are responsible for the other information.
+The other information comprises the information included in the annual report other than the financial statements and our auditors report thereon.
+Our
+In connection with our audit of the financial statements our responsibility is to read the other information and in doing so consider whether the other information is materially inconsistent with the financial statements or our knowledge obtained in the audit or otherwise appears to be materially misstated.
+If we identify such material inconsistencies or apparent material misstatements we are required to determine whether there is a material misstatement in the financial statements or a material misstatement of the other information.
+If based on the work we have performed we conclude that there is a material misstatement of this other information we are required to report that fact.
+We have nothing to report in this regard.
+Opinions on other matters prescribed by the Companies Act 2006 In our opinion based on the work undertaken in the course of the audit the information given in the Strategic Report and the Directors Report for the financial year for which the financial statements are prepared is consistent with the financial statements and the Strategic Report and the Directors Report have been prepared in accordance with applicable legal requirements.
+Matters on which we are required to report by exception In the light of the knowledge and understanding of the Group and the Company and its environment obtained in the course of the audit we have not identified material misstatements in the Strategic Report or the Directors Report.
+We have nothing to report in respect of the following matters in relation to which the Companies Act 2006 requires us to report to you if in our opinion adequate accounting records have not been kept by the Company or returns adequate for our audit have not been received from branches not visited by us or the Company financial statements are not in agreement with the accounting records and returns or certain disclosures of directors remuneration specified by law are not made or we have not received all the information and explanations we require for our audit.
+Responsibilities of directors As explained more fully in the directors responsibilities statement set out on pages 32 and 33 the directors are responsible for the preparation of the financial statements and for being satisfied that they give a true and fair view and for such internal control as the directors determine is necessary to enable the preparation of financial statements that are free from material misstatement whether due to fraud or error.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Financial Statements Cloudcall Group plc Registered number In preparing the financial statements the directors are responsible for assessing the Groups and the Companys ability to continue as a going concern disclosing as applicable matters related to going concern and using the going concern basis of accounting unless the directors either intend to liquidate the Group or the Company or to cease operations or have no realistic alternative but to do so.
+Auditors responsibilities for the audit of the financial statements Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement whether due to fraud or error and to issue an auditors report that includes our opinion.
+Reasonable assurance is a high level of assurance but is not a guarantee that an audit conducted in accordance with ISAs UK will always detect a material misstatement when it exists.
+Misstatements can arise from fraud or error and are considered material if individually or in the aggregate they could reasonably be expected to influence the economic decisions of users taken on the basis of these financial statements.
+A further description of our responsibilities for the audit of the financial statements is located on the Financial Reporting Councils website at httpwww. rc. iteauditorsresponsibilities.
+This description forms part of our auditors report.
+This report is made solely to the Companys members as a body in accordance with Chapter 3 of Part 16 of the Companies Act 2006.
+Our audit work has been undertaken so that we might state to the Companys members those matters we are required to state to them in an auditors report and for no other purpose.
+To the fullest extent permitted by law we do not accept or assume responsibility to anyone other than the Company and the Companys members as a body for our audit work for this report or for the opinions we have formed.
+Neil Stephenson Senior Statutory Auditor For and on behalf of RSM UK Audit LLP Statutory Auditor Chartered Accountants Suite A 7th Floor City Gate East Tollhouse Hill Nottingham NG1 5FS 20 March 2018 Cloudcall Group plc 2017 Annual Report and Financial Statements Financial Statements Cloudcall Group plc Registered number Consolidated Statement of Comprehensive Income For year ended 31 December 2017
+Group
+Notes
+Revenue
+Cost of sales Gross profit Operating costs Loss from operating activities before depreciation amortisation and sharebased payment charges Depreciation and amortisation Share based payment charges Operating loss Net financing expense Loss before tax
+Loss for the year attributable to owners of the parent Other comprehensive income Exchange differences on translation of foreign operations Other comprehensive income Total comprehensive income for the year attributable to owners of the parent Loss per share
+Pence
+Basic and fully diluted loss per share 22 The notes on pages 44 to 73 are an integral part of these consolidated financial statements.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Financial Statements Cloudcall Group plc Registered number Consolidated and Company Statements of Financial Position At 31 December 2017
+Group
+Company
+Companytel
+Notes
+Noncurrent assets Property plant and equipment
+Other intangible assets Investment in subsidiaries Current assets
+Trade and other receivables Research and development tax credit receivable Cash and cash equivalents Total assets Current liabilities Trade and other payables Noncurrent liabilities Bank loan Total liabilities Net assets Equity attributable to shareholders Share capital Share premium account Translation reserve Warrant reserve Retained earnings Total equity attributable to shareholders The Company is taking advantage of the exemption in S408 of the Companies Act 2006 not to present its individual statement of comprehensive income and related notes.
+The Company incurred a loss of 278000 for the year 2016 55000.
+The notes on pages 44 to 73 are an integral part of these consolidated financial statements.
+These financial statements were approved by the Board on 20 March 2018 and were signed on its behalf by Simon Cleaver Chief Executive Officer Cloudcall Group plc 2017 Annual Report and Financial Statements Financial Statements Cloudcall Group plc Registered number Consolidated and Company Statements of Changes in Equity For year ended 31 December 2017
+Share capital
+Translation reserve
+Retained earnings Total equity attributable to shareholders Notes 000 Balance at 1 January 2016 Loss for the period Other comprehensive income Exchange differences on translation of foreign operations Total comprehensive income for the year Transactions with owners recognised in equity Equity settled share based payments Issue of equity shares 21 1311 Issue costs of equity shares Total transactions with owners recognised in equity Balance at 31 December 2016 Cloudcall Group plc 2017 Annual Report and Financial Statements Financial Statements Cloudcall Group plc Registered number
+Share capital
+Translation reserve
+Retained earnings Total equity attributable to shareholders Notes 000 Balance at 1 January 2017 Loss for the period Other comprehensive income Exchange differences on translation of foreign operations Total comprehensive income for the year Transactions with owners recognised in equity Equity settled share based payments Issue of equity shares 21 802 Issue costs of equity shares Total transactions with owners recognised in equity Balance at 31 December 2017 Share capital represents the nominal value of shares issued and paid up.
+Share premium account represents the excess of consideration received over the nominal value of shares issued net of directly attributable issue costs.
+Warrant reserve represents the cumulative charge in respect of warrants issued over the Companys shares.
+Retained earnings represents the cumulative retained earnings  losses of the Group and Company.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Financial Statements Cloudcall Group plc Registered number
+Share capital
+Warrant reserve
+Total equity attributable to shareholders Notes 000 Balance at 1 January 2016 Loss for the period Transactions with owners recognised in equity Equity settled share based payments Issue of equity shares 21 1311 Issue costs of equity shares Total transactions with owners recognised in equity Balance at 31 December 2016 Balance at 1 January 2017 Loss for the period Transactions with owners recognised in equity Equity settled share based payments Issue of equity shares 21 802 Issue costs of equity shares Total transactions with owners recognised in equity Balance at 31 December 2017 The notes on pages 44 to 73 are an integral part of these consolidated financial statements.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Financial Statements Cloudcall Group plc Registered number Consolidated and Company Cash Flow Statements For year ended 31 December 2017
+Group
+Company
+Companytel
+Notes
+Cash flows from operating activities Loss for the year after tax Adjustments for Depreciation and amortisation Foreign exchange losses on operating activities Financial expenses Equity settled sharebased payment expenses
+Operating loss before changes in working capital and provisions Increase in trade and other receivables Decrease in inventory Increase  decrease in trade and other payables Cash absorbed by operations Tax received Net cash absorbed by operating activities Cash flows from investing activities Investment in subsidiaries Acquisition of property plant and equipment Development expenditure capitalised Net cash absorbed by investing activities Cash flows from financing activities Net interest paid Net proceeds from the issue of share capital Repayment  proceeds from new loan Net cash from financing activities Net increase in cash and cash equivalents Cash and cash equivalents at start of period Effect of exchange rate fluctuations on cash held Cash and cash equivalents at end of period The notes on pages 44 to 73 are an integral part of these consolidated financial statements.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Financial Statements Cloudcall Group plc Registered number Notes to the Financial Statements Accounting policies Accounting convention and basis of preparation Cloudcall Group plc the Company is a public limited company incorporated and domiciled in England and Wales.
+The address of the registered office is 1 Colton Square Colton Street Leicester LE1 1QH.
+The
+Company and its subsidiaries are referred to as the Group.
+The Groups principal activity is to provide products and services designed to enable organisations to use their communications more effectively.
+The ordinary shares of the Company are traded on the AIM market of the London Stock Exchange.
+The consolidated financial statements consolidate those of the Group.
+The Company financial statements present information about the Company as a separate entity and not about the Group.
+These financial statements have been prepared in accordance with all International Financial Reporting Standards IFRS as adopted by the European Union and IFRIC interpretations applicable as at 31 December 2017 and with those parts of the Companies Act 2006 applicable to those companies reporting under IFRS.
+The financial statements are prepared on the historical cost basis.
+The results are presented in round thousands of pounds unless otherwise noted.
+The accounting policies set out below have unless otherwise stated been applied consistently to all periods presented in these consolidated financial statements.
+Judgements made by the Directors in the application of these accounting policies that have significant effect on the financial statements and estimates with a significant risk of material adjustment in the next year are discussed in Note 3.
+Going concern The accounts have been prepared on a going concern basis.
+The Group made a loss of 2012k 2016 3011k in the year ended 31 December 2017.
+As at 31 December 2017 the Group had cash reserves of 4872k 2016 3169k which have increased following a successful placement in the year.
+The Directors have prepared projections covering two years.
+Such forward looking projections are inevitably subjective and sensitive to changes in the underlying assumptions and the Directors have sensitised these projections accordingly in particular to factor in a delay in the growth of revenue.
+These projections as sensitised indicate that based on the assumptions underlying the projections sufficient working capital will be available to settle liabilities as they fall due for at least 12 months from the date of approving these accounts.
+The Directors remain confident in their assertion that the current trajectory of the Groups sales income combined with expense restraint existing cash at bank and other expected cash inflows is enough to deliver the Group to cash breakeven without the need to raise further funds.
+However the Group also negotiated a 1.85m revolving credit facility with Barclays until July 2020 which is currently unutilised.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Financial Statements Cloudcall Group plc Registered number This together with a successful track record in raising new capital are key factors in providing further comfort that the Group will have sufficient access to the funding it needs to execute its strategy and meet its financial commitments.
+For these reasons the Directors have adopted the going concern basis in preparing the annual financial statements.
+Basis of consolidation The consolidated financial statements incorporate the financial statements of the Company and its subsidiary undertakings.
+The results of subsidiaries are included in the consolidated financial statements from the date that the Group obtains control until the date that control ceases.
+The acquisition method of accounting is used to account for the acquisition of subsidiaries by the Group.
+The consideration transferred in a business combination is measured as the fair value of the assets given equity instruments issued contingent consideration and liabilities incurred or assumed at the date of exchange.
+Costs directly attributable to the acquisition are expensed as incurred.
+Identifiable assets acquired and liabilities and contingent liabilities assumed in a business combination are initially measured at fair value at the acquisition date.
+Revenue
+Revenues represent the amounts excluding value added tax derived from the provision of goods and services to customers during the period.
+Revenues from monthly call charges and subscriptions are billed at the end of the month and recognised at that point in time.
+Revenue from setup costs and other upfront delivery services is recognised as the services are provided based on the actual services delivered at the period end as a proportion of the total services to be delivered.
+Revenue from the sale of goods is recognised in profit or loss when the significant risks and rewards of ownership have been transferred to the buyer.
+No revenue is recognised if there are significant uncertainties regarding recovery of the consideration due associated costs or the possible return of goods.
+Foreign currency Transactions in foreign currencies are translated to the respective functional currencies of Group entities at the foreign exchange rate ruling at the date of the transaction.
+Monetary assets and liabilities denominated in foreign currencies at the reporting date are retranslated at the rate at the reporting date.
+Foreign exchange differences arising on translation are recognised in profit or loss.
+Nonmonetary assets and liabilities that are measured in terms of historical cost in a foreign currency are translated using the exchange rate at the date of the transaction.
+The functional currency of the Group is Sterling.
+Exchange differences arising from the translation of foreign operations are taken directly to the balance sheet translation reserve.
+Exchange differences arising from a monetary item receivable from or payable to a foreign operation the settlement of which is neither planned nor likely in the foreseeable future are considered to form part of a net investment in a foreign operation and are recognised directly in equity in the translation reserve.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Financial Statements Cloudcall Group plc Registered number Classification of financial instruments issued by the Group Following the adoption of IAS 32 financial instruments issued by the Group are treated as equity only to the extent that they meet the following two conditions they include no contractual obligations upon the Company or Group as the case may be to deliver cash or other financial assets or to exchange financial assets or financial liabilities with another party under conditions that are potentially unfavourable to the Company or Group and where the instrument will or may be settled in the Companys own equity instruments it is either a nonderivative that includes no obligation to deliver a variable number of the Companys own equity instruments or is a derivative that will be settled by the Companys exchanging a fixed amount of cash or other financial assets for a fixed number of its own equity instruments.
+To the extent that this definition is not met the proceeds of issue are classified as a financial liability.
+Where the instrument so classified takes the legal form of the Companys own shares the amounts presented in these financial statements for called up share capital and share premium account exclude amounts in relation to those shares.
+Where a financial instrument that contains both equity and financial liability components exists these components are separated and accounted for individually under the above policy.
+Finance payments associated with financial liabilities are dealt with as part of finance expenses.
+Finance payments associated with financial instruments that are classified in equity are dividends and are recorded directly in equity.
+Nonderivative financial instruments Nonderivative financial instruments comprise investments in equity and debt securities trade and other receivables cash and cash equivalents loans and borrowings and trade and other payables.
+Cash and cash equivalents Cash and cash equivalents comprise cash balances and call deposits.
+The Group does not have bank overdraft facilities.
+Investments
+Investments in subsidiaries are recorded at cost less any impairment provisions in the Statement of Financial Position.
+They are tested for impairment when there is objective evidence of impairment.
+Any impairment losses are recognised in profit or loss in the period they occur.
+Property plant and equipment Property plant and equipment are stated at cost less accumulated depreciation and impairment losses.
+Depreciation is charged to profit or loss to write off the cost less any estimated residual values on a straightline basis over the estimated useful lives of the assets concerned.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Financial Statements Cloudcall Group plc Registered number The estimated useful lives are as follows Technical plant and equipment 2  10 years Office and business equipment 2  10 years Depreciation methods useful lives and residual values are reviewed at each reporting date.
+The carrying values of property plant and equipment are reviewed for impairment when events or changes in circumstances indicate the carrying value may not be recoverable.
+If any indication exists the carrying values are written down to the recoverable amount.
+Intangible assets and goodwill All business combinations are accounted for by applying the purchase method.
+Goodwill represents the difference between the cost of the acquisition and the fair value of the identifiable net assets acquired.
+Goodwill is stated at cost less any accumulated impairment losses.
+Goodwill is allocated to cash generating units and is not amortised but is tested annually for impairment.
+The Group assesses the fair value of intangible assets arising on acquisitions.
+These include intellectual property arising from software development.
+An intangible asset will be recognised if the asset is identifiable and its fair value can be measured reliably.
+An intangible asset is identifiable if it is separable or if it was obtained through contractual or legal rights.
+Amortisation is provided on the fair value of the asset and is calculated on a straightline basis over its useful life.
+All intangible assets except goodwill are amortised.
+Research costs are expensed as incurred.
+Expenditure on development activities is capitalised if and only if the product or process is technically and commercially feasible and the Group intends to complete the intangible to use or sell it is probable the intangible asset will generate future economic benefit the expenditure attributable to the intangible asset during its development can be measured reliably and the Group has the technical ability and sufficient resources to complete development.
+Development activities involve a plan or design to produce new or substantially improved products or processes.
+The expenditure capitalised includes the cost of materials direct labour and an appropriate proportion of direct overheads.
+Other development expenditure is recognised in profit or loss as an expense as incurred.
+Capitalised development expenditure is stated at cost less accumulated amortisation and impairment losses.
+Other intangible assets that are acquired by the Group are stated at cost less accumulated amortisation and impairment losses.
+Amortisation
+Amortisation is charged to operating expenses on a straightline basis over the estimated useful lives of intangible assets from the date they are available for use.
+The estimated useful lives are as follows Acquired IPR 5 years Capitalised development costs 5 years
+3 years Cloudcall Group plc 2017 Annual Report and Financial Statements Financial Statements Cloudcall Group plc Registered number Trade and other receivables Trade and other receivables are initially recognised at fair value and subsequently at amortised cost using the effective interest method less any impairment provision.
+An impairment provision is made against a trade receivable only when there is objective evidence that the Group may not be able to recover the whole invoiced amount as a result of events occurring after the initial recognition of the asset.
+Inventories
+Inventories are stated at the lower of cost and net realisable value.
+Cost is based on the weighted average principle and includes expenditure incurred in acquiring the inventories and bringing them to their existing location and condition.
+Impairment
+The carrying amounts of the Groups assets are reviewed at each reporting date to determine whether there is any indication of impairment.
+If any such indication exists the assets recoverable amount is estimated.
+For goodwill and intangible assets that are not yet available for use the recoverable amount is estimated at each reporting date.
+An impairment loss is recognised whenever the carrying amount of an asset or its cashgenerating unit exceeds its recoverable amount.
+Impairment losses are recognised in profit or loss.
+Impairment losses recognised in respect of cashgenerating units are allocated first to reduce the carrying amount of any goodwill allocated to cashgenerating units and then to reduce the carrying amount of the other assets in the unit on a pro rata basis.
+A cash generating unit is the smallest identifiable group of assets that generates cash inflows that are largely independent of the cash inflows from other assets or groups of assets.
+Reversals of impairment An impairment loss in respect of goodwill is not reversed.
+In respect of other assets an impairment loss is reversed when there is an indication that the impairment loss may no longer exist and there has been a change in the estimates used to determine the recoverable amount.
+An impairment loss is reversed only to the extent that the assets carrying amount does not exceed the carrying amount that would have been determined net of depreciation or amortisation if no impairment loss had been recognised.
+Such a reversal is recognised in profit or loss.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Financial Statements Cloudcall Group plc Registered number Employee benefits Sharebased payment transactions The cost of equity settled transactions with employees is measured by reference to the fair value on the date they are granted.
+Where there are no market conditions attaching to the exercise of the options the fair value is determined using a range of inputs into the BlackScholes pricing model.
+Where there are market conditions attaching to the exercise of the options a Monte Carlo option pricing model is used to determine fair value based on a range of inputs.
+The fair value of equitysettled transactions is charged to the Statement of Comprehensive Income over the period in which the service conditions are fulfilled with a corresponding credit to a sharebased payments reserve in equity.
+At the end of each reporting period the Group revises its estimates of the number of options that are expected to vest based on the nonmarket vesting conditions and service conditions.
+It recognises the impact of the revision to original estimates if any in profit or loss with a corresponding adjustment to equity.
+On the exercise of share options an amount equal to the fair value of the option at the date it was granted is transferred from the sharebased payments reserve into retained earnings.
+Where the Company grants options over its own shares to the employees of its subsidiaries it recognises in its individual financial statements an increase in the cost of investment in its subsidiaries equivalent to the equitysettled sharebased payment charge recognised in its consolidated financial statements with the corresponding credit being recognised directly in equity.
+Retirement benefits The Group operates a defined contribution pension scheme for certain employees.
+The assets of the scheme are held separately from those of the Group in independently administered funds.
+Contributions are charged in the Statement of Comprehensive Income as they become payable.
+Trade and other payables Trade and other payables are recognised initially at fair value.
+After initial recognition they are measured at amortised cost using the effective interest method.
+Operating lease payments Payments made under operating leases are recognised in profit or loss on a straightline basis over the term of the lease.
+Lease incentives received are recognised in profit or loss as an integral part of the total lease expense.
+Net financing costs Net financing costs comprise interest payable and interest receivable on funds invested.
+Interest income and interest payable is recognised in profit or loss as it accrues using the effective interest method.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Financial Statements Cloudcall Group plc Registered number
+Tax on the profit or loss for the year comprises current and deferred tax.
+Tax is recognised in profit or loss except to the extent that it relates to items recognised directly in equity in which case it is recognised in equity.
+Current tax is the expected tax payable on the taxable income for the year using tax rates enacted or substantively enacted at the reporting date and any adjustment to tax payable in respect of previous periods.
+Tax credits for research and development expenditure are recognised in the year to which they arise as the Group has established a pattern of claims.
+Deferred tax is provided on temporary differences between the carrying amounts of assets and liabilities for financial reporting purposes and the amounts used for taxation purposes.
+The following temporary differences are not provided for the initial recognition of goodwill the initial recognition of assets or liabilities that affect neither accounting nor taxable profit other than in a business combination and differences relating to investments in subsidiaries to the extent that they will probably not reverse in the foreseeable future.
+The amount of deferred tax provided is based on the expected manner of realisation or settlement of the carrying value of assets and liabilities using tax rates enacted or substantively enacted at the reporting date.
+A deferred tax asset is recognised only to the extent that it is probable that future taxable profits will be available against which the asset can be utilised.
+Changes to accounting policies and disclosures There are no new standards or amendments to standards which are mandatory for the first time for the financial year which had a significant impact on the Group.
+IFRSs issued but not yet effective The following future changes are considered the most significant to the Group IFRS 9 Financial Instruments effective for periods commencing on or after 1 July 2018.
+Management expects this standard to not have a material impact although some additional disclosure will arise.
+IFRS 16 Leases effective for periods commencing on or after 1 January 2019.
+Management expects this standard to have an impact on the Group financial statements when it is adopted.
+At 31 December 2017 the Group had total minimum lease payments of 2034k on leases extending beyond 12 months which would need to be recognised in the Statement of Financial Position.
+IFRS 15 Revenue from customer contracts is effective for periods beginning on or after 1 January 2018.
+The standard will be adopted by the Group for the first time in the year ending 31 December 2018.
+The standard permits a choice of two possible transition methods for the initial application of the requirements of the new standard 1 retrospectively to each prior reporting period presented in accordance with IAS 8 Accounting Policies Changes in Accounting Estimates and Errors or 2 retrospectively with the cumulative effect of initially applying the standard recognised on the date of initial application being 1 January 2018 for the Group the cumulative catchup approach.
+The Group currently has not selected the transition method for applying the new standard.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Financial Statements Cloudcall Group plc Registered number The adoption of IFRS 15 will not alter the total contract value or timing of cashflows but there are two key areas where the adoption of IFRS 15 will change current revenue recognition Technical installation and set up fees Under current accounting policies revenue from technical installation and set up fees are recognised upfront at the point of delivery.
+Under IFRS 15 technical installation and set up services do not meet the criteria to be a distinct performance obligation.
+The fees associated with these services will thus be combined with other services in the contract and recognised over the contract term.
+This will result in a reduction of revenue previously recognised an increase in deferred income and an increase in monthly recurring revenue going forward.
+Contract fulfilment assets The costs associated with the set up and installation of the technology platform for each contract have previously been expensed to the statement of comprehensive income as incurred.
+Under IFRS 15 these costs will be capitalised as contract fulfilment assets within trade and other receivables and amortised over the life of the contract.
+The Directors have concluded that although there will be a deferral of both revenue and costs in relation to set up and technical installation services the impact on profit or loss is expected to be immaterial.
+Critical accounting estimates and judgements The following accounting judgements and estimates have been made by the Directors in interpreting treatment of amounts included in these financial statements in accordance with IFRSs.
+Development costs Management judgement is required in assessing the fair value of development costs capitalised including the future economic benefit expected to be generated by the assets and in calculating the attributable costs.
+Management judgement is also required in assessing the useful economic lives of these assets for the purposes of amortisation.
+The carrying value of development costs at the Statement of Financial Position date was 1020000.
+Impairment
+The requirement for the Directors to ensure that the Group and Companys assets are not carried at more than their recoverable amount i. is covered by IAS 36 Impairment of Assets.
+The fair values in respect of the valuation of the Group and Companys assets in relation to the future value of the returns those assets are predicted to generate have been estimated using a discounted cash flow model.
+The assumptions used as inputs to the model are by their nature areas of judgement see Note 11.
+Based on the historic sales performance of the business and actions being taken to grow the business further the directors do not currently assess any of these assets as impaired.
+The carrying value of intangible assets and property plant and equipment at the Statement of Financial Position date was 1359000 and 281000 respectively.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Financial Statements Cloudcall Group plc Registered number Share based payments The Group measures the cost of equitysettled transactions with employees by reference to the fair value of the equity instruments at the date at which they are granted.
+Judgement is required in determining the most appropriate valuation model and the most appropriate inputs into the model including the level of volatility and the expected life of the option.
+Further information is given in Note
+Financial Risk Management
+The major financial risks faced by the Group are liquidity risk currency risk credit risk and interest rate risk.
+Further information about the Groups approach to the management of these risks can be found in the Strategic Report Risk Management section on pages 1720.
+Capital management The Company will raise additional funds as and when required subject to market conditions and availability and having due regard to the prevailing equity price and dilution effect when considering any equity placing.
+Typically where available debt will be used for shorter term financing requirements with equity favoured for the longerterm financing needs of the Group.
+The Board is keen that employees are interested in the Companys growth and as such they are encouraged to hold shares in the Company through participation in the Cloudcall Group plc.
+2011 Share Option Plan.
+The number of Ordinary Shares which may be utilised within any 10year period under the Share Option Plan and under any other discretionaryexecutive share option plans established by the Company shall not normally exceed 10% of the issued Ordinary Share Capital of the Company from time to time.
+Currently the Group has 1.85m of agreed but unutilised external borrowings through a loan agreement with Barclays the terms of which are described more fully on page 15 within the Financial Review as part of the Strategic Review and working capital is currently funded from equity.
+As a condition of its loan facilities with Barclays the Group is required to maintain a cash balance that is not less than 500000.
+The Group has no plans to make dividend payments.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Financial Statements Cloudcall Group plc Registered number
+The directors consider that the Group has a single business segment being the provision of hosted telecom solutions.
+The operations of the Group are managed and reported centrally with groupwide functions covering sales and marketing development professional services customer support and finance and administration.
+An analysis of revenue by type is given below.
+Revenue by location of customer
+Group
+UK
+USA
+Rest of Europe Total revenues Revenue by type
+Group
+Recurring subscriptions PAYG Telephony Nonrecurring services and hardware Total revenues Revenue by product All revenue is attributable to the Groups main activity the provision of hosted telecoms solutions.
+Information about major customers The Group had no customers for continuing operations which represented more than 10% of sales in the period to 31 December 2017.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Financial Statements Cloudcall Group plc Registered number Expenses and auditors remuneration Expenses before nonrecurring items and share based payments
+Group
+Wages and salaries Note 7 Foreign exchange losses and gains Other operating costs included in wages and salaries above is 652k 2016 1283k relating to research and development costs expensed.
+Depreciation and amortisation
+Group
+Amortisation of intangible assets Depreciation of property plant and equipment 22telAuditors remuneration
+Group
+Amounts receivable by auditors and their associates in respect of Audit of these financial statements Audit of financial statements of subsidiaries pursuant to legislation Other assurance services Other services relating to taxation  compliance services Tax advisory services Accounting services Other services Cloudcall Group plc 2017 Annual Report and Financial Statements Financial Statements Cloudcall Group plc Registered number Directors and employees The average number of persons employed by the Group including Directors during the year analysed by category was as follows Number of employees Group Group Company
+Engineering
+Development
+Customer support Sales and marketing
+Admin and finance
+The aggregate payroll costs including employers NICs of these persons were as follows
+Group Company Company Aggregate payroll costs all employeestel 2016 Wages and salaries Social security costs Share based payments see Note 20 Other pension costs
+4809 585 629 Capitalised wages and salaries
+The Group operates a defined contribution pension scheme for all qualified employees.
+The assets of the scheme are held separately from those of the Group in an independently administered fund.
+Costs totalling 178k 2016 90k were charged during the year and an amount of 12k 2016 17k is payable into the fund at the year end and are included in nontrade payables and accrued expenses.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Financial Statements Cloudcall Group plc Registered number The table below includes the aggregate payroll costs including employers NICs of those employees including directors considered to comprise the key management in the year as follows Aggregate payroll costs key management employees Wages and salaries Share based payments Other pension costs
+Social security costs
+The total remuneration of the directors including fees for the year was as follows Directors remuneration Directors remuneration Directors pension contributions
+Number of directors accruing benefits under defined contribution schemes Included in emoluments are 165k 2016 182k in respect of the highest paid director.
+Further details of Directors emoluments and share interests are shown in the Directors Remuneration Report on pages 27 to 30.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Financial Statements Cloudcall Group plc Registered number Finance income and expense
+Group
+Finance income Interest income  bank Total finance income
+Group
+Finance expenses Loan interest and arrangement fees Total finance expense Net finance expense Cloudcall Group plc 2017 Annual Report and Financial Statements Financial Statements Cloudcall Group plc Registered number
+Recognised in the Consolidated Statement of Comprehensive Income
+Group
+Current income tax Overseas income tax charge for the current year Current year tax credit
+Deferred income tax credit for the current year Total tax credit recognised in the current year Reconciliation of effective tax rate Loss before tax Tax credit using the Groups effective tax rate of 19.25% 2016 20% Tax losses not recognised Depreciation in excess of capital allowances Nondeductible expenses Origination and reversal of temporary timing differences Deferred tax not recognised RandD tax credit
+Different tax rates in overseas jurisdictions Adjustments in respect of prior years Total tax Legislation to reduce the main rate of corporation tax to 19% from 1 April 2017 and 17% from 1 April 2020 was enacted in September 2016.
+The impact of this change on the Groups financial statements is not significant as it has no recognised tax liabilities or assets whether deferred or current at the year end.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Financial Statements Cloudcall Group plc Registered number Property plant and equipment The Company has no property plant and equipment and hence no separate Company property plant and equipment note is presented.
+Group
+Technical plant and equipment Office and business
+Cost
+Balance at 1 January tel986
+Balance as at 31 December tel1082 Balance at 1 January tel1082 Exchange adjustments
+Balance as at 31 December tel1242
+Balance at 1 January 2016 Depreciation charge for the period Balance as at 31 December 2016 Balance at 1 January 2017 Depreciation charge for the period Balance as at 31 December 2017 Net Book Value At 31 December At 31 December tel281 Cloudcall Group plc 2017 Annual Report and Financial Statements Financial Statements Cloudcall Group plc Registered number Intangible assets
+Goodwill
+Patents and trademarks
+IPR
+Software development costs
+Cost
+Balance at 1 January 2016 Internally developed Balance at 31 December Balance at 1 January Internally developed Balance as at 31 December 2017
+Balance at 1 January 2016 Amortisation for the year Balance at 31 December Balance at 1 January Amortisation for the year Balance as at 31 December 2017 Net Book Value At 31 December 2016 At 31 December 2017 The acquired IPR arose on the acquisition of Cloudcall Limited and represents the fair value of the proprietary software developed within Cloudcall.
+The carrying amount of ongoing development projects on which amortisation has not yet commenced was 550k 2016 145k.
+The weighted average remaining amortisation period for software and websites is 4.8 years 2016 5 years.
+The Company has no intangible assets.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Financial Statements Cloudcall Group plc Registered number
+Goodwill arose on the acquisition of Cloudcall Limited and represents the excess of the initial and contingent consideration over the fair value of the net assets acquired.
+The goodwill was tested for impairment at 31 December 2017 by comparing the carrying value of the cashgenerating unit with the recoverable amount.
+The recoverable amount was determined using a value in use methodology based on discounted cash flow projections.
+The key assumptions used in the value in use calculations were as follows The operating cash flows of the business for the two years to 31 December 2019 were taken from the plan approved by the Board which is closely linked with recent historical performance and current sales opportunities Growth in operating cash flows of 2.4% has been assumed for the remainder of the value in use calculation period A pretax discount rate of 10% has been used Based on the above assumptions over a 10year projection period the recoverable amount of the CGU based on value in use is estimated to exceed the carrying amount by 21424k 2016 11687k.
+Future annual operating cash inflows which are most sensitive to the level of new business sales would need to be consistently 16% below the growth assumption used in the value in use calculation over a 10year projection period to cause the carrying amount to exceed the recoverable amount.
+Based on the historic sales performance of the business and actions being taken to grow the business further the directors do not currently expect this to be the case.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Financial Statements Cloudcall Group plc Registered number Investment in subsidiaries The Company has the following investments in subsidiaries
+Country of
+Class of share held Cloudcall Limited England and Wales Ordinary 100% 100% Cloudcall BY.
+LLC
+Belarus Ordinary 100% 100% Cloudcall Inc.
+USA Ordinary 100% 100% Cloudcall Inc. is indirectly owned being a 100% subsidiary of Cloudcall Limited.
+Each of the subsidiary companies is engaged in the Groups principal activity to provide products and services designed to enable organisations to use their communications more effectively.
+The registered office for each subsidiary is Cloudcall Limited 1 Colton Square Colton Street Leicester LE1 1QH UK Cloudcall BY LLC Minsk  Dzerzinskogo av.
+5711 Belarus Cloudcall Inc.
+320 Congress Street Boston Massachusetts 02110 USA Movement on cost and net book value of investments in subsidiaries Shares in subsidiaries Balance at 1 January 2016 Formation of Cloudcall BY.
+LLC
+Capital contributions to subsidiary companies Balance at 31 December 2016 Capital contributions to subsidiary companies Balance at 31 December 2017 Deferred tax assets and liabilities Recognised deferred tax liabilities Deferred tax in respect of the timing difference arising on the recognition of software development costs fairvalued at 1448k on the acquisition of Cloudcall Limited is now fully recognised in profit or loss and there is now no provision at 31 December 2017 2016 nil.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Financial Statements Cloudcall Group plc Registered number No deferred tax asset has been recognised in respect of the cumulative losses of the Company or the Group in relation to unrelieved trading losses or temporary differences on share based payments accelerated capital allowances and intangible assets as in accordance with IAS 12 there is at present insufficient evidence that sufficient taxable profits will be available in the near future to recover the assets.
+This is due to the early stage of commercialisation of product and the position will be reviewed each year.
+The amount not recognised is 2.2m 2016 2.4m.
+The Group did not recognise deferred tax in respect of
+Group
+Accelerated capital allowances Share based payments Intangible assets Trading losses Noncurrent assets by location
+Group
+UK
+USA
+Rest of Europe Total noncurrent assets
+Group
+Group
+Company
+Companytel
+Cost
+Goods for resale Writedown to net realisable value Net Inventories Cost of inventory recognised as an expense within cost of sales Cloudcall Group plc 2017 Annual Report and Financial Statements Financial Statements Cloudcall Group plc Registered number Trade and other receivables
+Group
+Company
+Companytel
+Trade receivables Other receivables and prepayments Amounts receivable due from group undertakings All trade and other receivables are expected to be recovered in less than 12 months except for the amounts due from group undertakings.
+Cash and cash equivalents
+Group
+Company
+Companytel
+Bank  current account Bank  deposit account Trade and other payables
+Group
+Company
+Companytel
+Trade payables Nontrade payables and accrued expenses 46telOther taxes and social security 26tel107telAll trade and other payables are payable in less than 12 months.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Financial Statements Cloudcall Group plc Registered number Bank Loan On 17 February 2016 the Company agreed a 900000 loan facility with Barclays Bank the Loan.
+Interest on the Loan which was for a fixed twoyear term expiring in March 2018 was set at 8.7% above base rate and was payable quarterly.
+Repayment was by a single repayment of the principal in full on the final repayment date in March 2018.
+The loan was repaid in full in September 2017.
+On 11 July 2017 the Company agreed a revolving credit facility with Barclays Bank for an amount of 1.85m which expires on 11 July 2020.
+Interest is set at 7.45% above base rate and the nonutilisation fee is set at 2.98%.
+There is a debenture over all the assets of the Group and a cross guarantee in place in favour of Barclays Bank plc under which the Companys subsidiaries undertook to repay the bank debt should it be required.
+Equity settled share based payments The employee option scheme shares in existence in the year resulted in a total share based payments charge of 140k 2016 116k for the Group in the year and a charge of 39k 2016 6k for the Company in the year.
+Cloudcall Group plc Long Term Incentive Plan On 31 August 2017 the Group set up a Long Term Incentive Plan to which four senior employees were issued with 36 B shares in the capital of Cloudcall Limited representing 1.2% of the Companys share capital.
+Holders of the B shares are entitled to participate in any return of capital if certain targets are met by the Group.
+A capital return to B shareholders is possible in the event of a sale of shares liquidation or reduction of capital share buy back dissolution or winding up.
+The B shares can be put to the Group after the end of a vesting period which runs for four years after 31 August 2017 if certain targets are met.
+The minimum target is for the average midmarket closing price of the 20p ordinary share of the Company for the 90 days prior to 31 August 2021 to equal or exceed 2.50 and during the month prior to 31 August 2021 the number of active users must equal or exceed 40000.
+The return to the B shareholders is calculated on a prorata basis based on the terms included in the Articles of Association of Cloudcall Limited.
+The B shares can also be put to the Group if an offer has been made to acquire a controlling interest in the Group.
+If the put option is exercised a B shareholder obliges the Group to buy the B shares in return for cash or shares in the Group.
+The form of consideration is at the discretion of the Group.
+All B shares will convert automatically to Deferred shares on the fifth anniversary of the issue.
+The Deferred shares will carry no voting rights or dividend rights and have no economic value.
+Set out below is the number of shares which each of the senior employs received on the Award Date
+Number
+Simon Cleaver Paul Williams Andrew Jones Jason Kendall Cloudcall Group plc 2017 Annual Report and Financial Statements Financial Statements Cloudcall Group plc Registered number The fair value of the B shares issued was calculated using the Monte Carlo model with the following assumptions Date of grant  31 August 2017 Share price at grant  1.135 Date of put option exercise  31 August 2021 Expected volatility  49.3% Expected dividend yield  0.0% Risk free interest rate  0.3% Percentage employees expected to stay over the life of the plan  100% Estimated number of active users at exercise date  50000 The expected volatility is based upon the historic volatility of the Companys share price over the 4 year period to on 31 August 2017.
+The expected dividend yield is based upon the Company historically not paying a dividend.
+The risk free rate is based on a zerocoupon UK government bond as at 31 August 2017.
+This resulted in a charge of 30k for the Company and the Group in the year.
+Cloudcall Group plc 2011 Share Option Plan The Company operates the Cloudcall Group plc 2011 Share Option Plan.
+The number of Ordinary Shares which may be utilised within any 10year period under the Share Option Plan and under any other discretionaryexecutive share option plans established by the Company shall not normally exceed 10% of the issued Ordinary Share Capital of the Company from time to time.
+The principal terms are summarised below Options to subscribe for Ordinary Shares of the Company may be granted at the discretion of the Board or the Remuneration Committee of the Board to selected employees or Directors of or consultants to the Group.
+The options granted in June 2011 vest 13 on the expiry of 12 months from the date of grant.
+Thereafter an equal percentage of the options vest each month until the expiry of three years from the date of grant when 100 per cent of the options will have vested.
+All other options will vest 25 per cent on the expiry of 12 months from the date of grant.
+Thereafter an equal percentage of the options will vest each month until the expiry of three years from the date of grant when 100 per cent of the options will have vested.
+All options are equity settled by physical delivery of shares.
+Options lapse 3 months after leaving employment if not exercised.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Financial Statements Cloudcall Group plc Registered number The following options were issued in the year Effective date of award
+Life
+28 February 2017 10 years 31 May 2017 10 years 31 August 2017 10 years 30 November 2017 10 years The number and weighted average exercise prices of share options for the Group are as follows Year ended 31 December 2017
+Weighted average exercise price
+Outstanding at the beginning of the period Granted during the period Exercised during the period Surrendered during period Outstanding at the end of the period Exerciseable at the end of the period The options outstanding at the yearend have an exercise price in the range of 80 to 300 pence and a weighted average contractual life of 8.0 years.
+The fair value of options granted was measured using a BlackScholes share option valuation model and using the following assumptions as inputs Expected options life  5 years Expected dividend rate  nil Risk free interest rate  1.5%2.5% Expected volatility  73147% %age employees expected to stay over the life of the plan  70% The expected volatility is based on the historic volatility up to the date of grant adjusted for any expected changes to future volatility due to publicly available information.
+There are no market conditions associated with the share option grants.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Financial Statements Cloudcall Group plc Registered number
+Group
+Company
+Year ended 31 December
+Weighted average exercise price
+No. of instruments
+Pence
+Outstanding at the beginning of the period Granted during the period Exercised during the period Outstanding at the end of the period Exerciseable at the end of the period There were no new warrant awards granted during 2017.
+Share Capital The issued called up and fully paid share capital of the Company at 31 December was as follows Number of sharestel Allotted called up and fully paid Ordinary shares of 0.20 each Cloudcall Group plc 2017 Annual Report and Financial Statements Financial Statements Cloudcall Group plc Registered number The movement in the issued share capital in the year was as follows Number of shares
+In issue at 31 December 2016  fully paid Issued in consideration for additional shares placed In issue at 31 December 2017  fully paid The holders of ordinary shares are entitled to receive dividends as declared from time to time and are entitled to one vote per share at meetings of the Company.
+On 9 August 2017 6818 ordinary shares were issued in respect of share options exercised at a price of 82.5 pence per share.
+On 11 September 2017 31291 ordinary shares were issued in respect of warrants exercised at a price of 90 pence per share.
+On 17 October 2017 1000 ordinary shares were issued in respect of share options exercised at a price of 64 pence per share.
+On 24 October 2017 6047 ordinary shares were issued in respect of share options exercised at a price of 82.5 pence per share.
+On 24 October 2017 2457774 ordinary shares were issued for cash at a price of 143.5 pence per share to fund further development and working capital in the Group.
+On 21 November 2017 1000 ordinary shares were issued in respect of share options exercised at a price of 20 pence per share.
+On 8 December 2017 1505226 ordinary shares were issued for cash at a price of 143.5 pence per share to fund further development and working capital in the Group.
+The total share issue costs during the year ended 31 December 2017 of 390k 2016 277k have been deducted from the share premium account.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Financial Statements Cloudcall Group plc Registered number Earnings per share Basic earnings per share The calculation of basic loss per share at 31 December 2017 of 9.8 pence 2016 19.5 pence was based on the loss for the year attributable to owners of the parent of 2012k 2016 3011k and a weighted average number of Ordinary Shares outstanding during the period of 20638000 2016 15423000 calculated as follows Thousands of shares Issued ordinary shares at start of period Issued for cash on 12th October 2016 Issued for cash on 25th August 2016 Issued for cash on 24 October 2017 Issued for cash on 8 December 2017 Issued in respect of warrants and options Weighted average number of ordinary shares Diluted earnings per share The weighted average number of shares and the loss for the year for the purposes of calculating diluted earnings per share are the same as for the basic loss per share calculation.
+This is because the outstanding share options would have the effect of reducing the loss per share and would not therefore be dilutive under the terms of IAS 33.
+Financial instruments Exposure to currency and credit risk arises in the normal course of business.
+Qualitative disclosures in respect of the nature and extent of the Groups and Companys exposure to risks arising from financial instruments along with the methods used to measure the risks and the objectives policies and processes employed for managing the exposure are described in Note 4.
+Credit risk The carrying value of financial assets at the reporting date represents the maximum credit exposure.
+The maximum exposure to credit risk at the reporting date was Cloudcall Group plc 2017 Annual Report and Financial Statements Financial Statements Cloudcall Group plc Registered number Cash and cash equivalents
+Group
+Company
+Companytel
+Bank  current account Bank  deposit account Trade and other receivables
+Group
+Company
+Companytel
+Trade receivables Other receivables Loans receivable due from group undertakings No collateral or security is held in relation to amounts shown within trade and other receivables.
+There is little significant concentration of credit risk by customer and geography and the Group considers the possibility of significant loss in the event of nonperformance by a commercial counterparty to be unlikely.
+An analysis of trade receivables ageing based on due date is set out below
+Group
+Company
+Companytel
+Not yet overdue 1  30 days overdue 30  60 days overdue 60 days overdue Allowance for doubtful debtors Cloudcall Group plc 2017 Annual Report and Financial Statements Financial Statements Cloudcall Group plc Registered number Liquidity risk The contractual maturity of financial liabilities at year end approximates to carrying value.
+Interest rate risk The Groups and Companys interestbearing financial instruments at the yearend were
+Group
+Company
+Companytel
+Variable rate instruments Cash and cash equivalents The Group and Company invest surplus cash in short term money market or deposit accounts to achieve the highest possible interest rates but having regard to the credit rating of the banking institutions and the currencies required by the Group.
+The Group has in place a revolving credit arrangement with Barclays details of which can be found within the Strategic Review on page 15.
+Cash flow sensitivity analysis for variable rate instruments A change of 100 basis points in interest rates at the reporting date would have increaseddecreased equity and profit or loss by an amount which is deemed to be immaterial.
+Foreign currency risk The Group undertakes operations using  sterling and US dollars.
+Exchange differences arising on the settlement of invoices are taken to profit or loss as incurred.
+Exchange gains or losses on the retranslation of monetary items at the reporting date are also taken to profit or loss.
+Most of the Groups intercompany debt is denominated in Sterling between Cloudcall Group plc and Cloudcall Limited however there exists an intercompany debt of 3430k 2016 2657k payable by Cloudcall Inc. to Cloudcall Limited.
+Over the course of the year the movement of GBP to USD FX rates has resulted in a charge to the operating statement of 84k 2016 76k credit and a credit to other comprehensive income of 276k 2016 73k charge.
+Fair values Due to the shortterm nature of the assets and liabilities it is considered that the carrying amount equals fair value.
+Cloudcall Group plc 2017 Annual Report and Financial Statements Financial Statements Cloudcall Group plc Registered number Operating leases Amounts payable under short term operating leases Amounts due
+Group
+Company
+Companytel
+Less than one year Between two and five years Greater than five years
+During the year 486k 2016 302k was recognised as an expense in respect of operating leases.
+Company
+During the year 56k 2016 nil was recognised as an expense in respect of operating leases.
+Related parties Cloudcall Group plc is the parent company of the Group.
+There is no overall control of Cloudcall Group plc.
+During the year the Company provided finance to Cloudcall Limited of 2260k 2016 1795k.
+During the year the Company charged management fees to Cloudcall Limited and Cloudcall Inc.
+699k 2016 858k and 158k 2016 nil respectively.
+The balances due to the Company at the year end are as follows Cloudcall Limited Cloudcall Inc.
+During the year the Group incurred costs of 13k 2016 nil in respect of services provided by Dotmailer Limited a company in which P Simmonds is a director.

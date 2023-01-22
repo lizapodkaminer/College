@@ -1,0 +1,1048 @@
+Annual Report and Accounts 2017 Corero Network Security plc A leader in realtime high performance DDoS protection.
+Corero Network Security plc Annual Report and Accounts 2017 What is a DDoS attack A Distributed Denial of Service attack is a cyberthreat in which multiple computer systems attack a target such as a server website or other network asset and cause a denial of service for users of the targeted resource.
+The flood of incoming messages connection requests or malformed packets to the target system forces it to slow down or shut down thereby denying service to legitimate users or systems.
+DDoS attacks are a threat to service availability network security brand reputation and ultimately lead to lost revenues.
+Attackers are continuing to leverage DDoS attacks as part of their cyberthreat arsenal to either disrupt business operations or provide a smokescreen while they access sensitive corporate information and they are doing it in increasingly creative ways that circumvent traditional security solutions or reduce the previous effectiveness of DDoS scrubbing centres.
+49% of companies discovered a virus following a DDoS attack 27 % increase in breach incidents experienced in concert with DDoS attacks per hour revenue at risk in the face of a DDoS attack 90% of organisations report some form of breach or associated activity with DDoS attacks Corero Network Security is a leader in realtime highperformance Distributed Denial of Service DDoS defence solutions.
+Service providers cloud providers and digital enterprises rely on Coreros award winning SmartWall Network Threat Defense System SmartWall technology to eliminate the DDoS threat to their environment through automatic attack detection and mitigation coupled with network visibility analytics and reporting.
+The impact of DDoS attacks Why is there a need for businesses to address DDoS threats Availability and security of Internet services and applications is essential for digital  online businesses Downtime or compromise equates to Lost revenues and additional operational costs Unhappy customers with increased costs for retention of existing customers and acquisition of new customers Brand and reputation damage Legal liability and fines Source Neustar Global DDoS Attacks and Cyber Security Insights Report October 2017 As estimated by 49% of over 1sitesite
+Overview
+01 Highlights 02 Corero at a glance 03 What we do 05 Our proposition Strategic Report 06 Chief Executives strategic update 10 Market overview 12 Our business model 14 Our strategy 17 Principal risks and uncertainties 18 Financial review
+20 Board of Directors
+22 Chairmans Introduction
+23 Corporate Governance Report 26 Directors Report 29 Statement of Directors Responsibilities Financial statements
+30 Independent Auditors Report
+34 Consolidated Statement of Comprehensive Income 35 Consolidated Statement of Financial Position 36 Company Statement of Financial Position 37 Consolidated Statement of Cash Flows 38 Consolidated Statement of Changes in Equity 39 Company Statement of Changes in Equity 40 Notes to the Financial Statements Corporate Directory 64 Corporate Directory
+Customer wins across the SmartWall target markets  service providers cloud providers and digital enterprises.
+Operating highlights Strong performance of flagship SmartWall product Existing customer addon orders up 320% over the prior year High customer delight with 95% renewal rates for support and services First two 1.0 million customers Encouraging uptake of DDoS protection asaservice launched in late 2016
+2016 8.8 million c ompr is es the oper a tin g loss less unr ealis e d f or eign e x chan g e differ enc es on an in ter c ompan y loan depr ecia tion amor tisa tion and impairmen t of g oodwill.
+The Dir ec t ors c onsider EBITD A t o be a bet ter meas ur e of pr ofitabilit y as it e x cludes non c ash items.
+The 2016 EBITD A has been adjuste d t o be on a c onsisten t basis.
+Recurr in g r e v enue c ompr is es main ten anc e  suppor t s er vic es and aaS r ec ognis e d r e v enue .
+Legacy SmartWall SmartWalltel 7 tel 2017 SmartWall revenue growth 43% over the prior year Signed partnerships with global bluechip technology companies to accelerate revenue growth strategy Juniper Networks McAfee Gigamon New technology launched following twoyear development programme Added 100Gbps capacity product Launched vNTD virtual software appliance Recurring revenue growth 125% over the prior year Re duc e d EBITD A loss 2016 6.4 million Loss per share 2016 9.0 cents Net cash at 31 December 2017 2016 2.9 million Revenue  000 Recurring revenue  000 Financial Statements Corporate Directory Governance Strategic Report Corero at a glance Corero is dedicated to improving the security and availability of the Internet through the deployment of innovative DDoS mitigation solutions.
+DDoS attacks continue to rise in size frequency and complexity impacting the security and availability of the Internet.
+35% increase in attacks per quarter attacks per customer per day 71% attacks 10 minutes or less 96% attacks 5Gbps or less Service providers cloud providers and Internet connected businesses require realtime protection against this evolving threat landscape.
+The Corero SmartWall family of products can be deployed in various topologies inline or scrubbing.
+The SmartWall family of products utilises modern DDoS mitigation architecture to automatically and surgically remove DDoS attack traffic while allowing good user traffic to flow uninterrupted.
+Coreros key operational centres are in Marlborough Massachusetts in the USA and Edinburgh in the UK with the Companys registered office in Uxbridge in the UK.
+The goal of the Corero realtime DDoS mitigation solution is to protect the customers service availability and ultimately revenues and brand reputations from harmful DDoS attacks.
+The Corero solutions are among the highest performing in the industry while providing the most automated DDoS protection at unprecedented scale with the lowest total cost of ownership to the customer.
+These solutions are designed to provide realtime attack mitigation with continuous threat visibility enabling the monetisation of DDoS protection asaservice offering for service providers.
+The Corero SmartWall protects against the latest breed of DDoS attacks in seconds not minutes including volumetric and multivector attacks.
+Source Corero DDoS Trends Report Q2Q3 2017 Corero Network Security plc Annual Report and Accounts 2017 02 Why We believe in a safe Internet protected from cyberattacks.
+We strive to eliminate the threat of DDoS attacks.
+How
+We do this by combining our patents algorithms more than a decade of cybersecurity experience and our threat analytics.
+What
+Our SmartWall product detects and mitigates DDoS attacks in seconds or less allowing our customers to stay open for business during an attack.
+What we do Automatic Realtime DDoS Protection Product Overview
+Available for rapid deployment within the providers own infrastructure delivering compelling ROI Revenue and reputation protecting realtime DDoS mitigation product for digital enterprises Solves for the scalability and accuracy demands of both service cloud providers and digital enterprise businesses Coreros product mitigates attacks in less than one second unlike competing technologies which mitigate attacks in c.20 minutes
+Raw Internet Good Traffic Allowed Attack Traffic Blocked
+Network
+Corero has a market leading SmartWall product portfolio endorsed by 90 customers recommended by NSS Labs the worlds leading independent product testing laboratory and selected by Juniper Networks as a Juniper Technology Alliance Partner.
+This product portfolio has been further enhanced for 2018 with the deliverables from a twoyear development program.
+1RU  11020 Gbps 1RU  4080 Gbps 4RU  160320 Gbps
+NTD1100 n x 100 Gbps 1RU  100 Gbps 10RU  1tbps
+N N N N N N N
+KVM vmware Financial Statements Governance Corporate Directory Strategic Report Corero is a leader in realtime high performance scalable DDoS defence solutions for Service Providers Cloud Providers and Digital Enterprises.
+Corero protects organisations online systems information data revenues and brand reputations against the growing cyberthreat of DDoS attacks with dedicated technology for realtime mitigation of DDoS attacks in seconds versus minutes allowing good user traffic to flow uninterrupted.
+When an organisation selects Corero to protect their assets in the face of DDoS attacks they strengthen their Internet facing security defences and ensure service availability.
+Corero customers can utilise this DDoS protection for their own business needs and Service Provider and Cloud Provider customers can monetise a DDoS protection service to their customers enabled through the Corero Service Portal.
+Automatic Realtime DDoS Protection Block ed Allo w e d Corero Customer  multiple attacks over 24 hour period Corero Customer  single large attack
+530am 800am 1200pm 400pm 800pm 600am 630am
+Friday February 9 2018 Thursday February 8 2018 Corero Network Security plc Annual Report and Accounts 2017 04 What we do How we do it Our proposition Corero provides dedicated technology for realtime mitigation of DDoS attacks in seconds versus minutes allowing good user traffic to flow uninterrupted.
+Corero enables revenue protection customer retention and competitive differentiation in the face of DDoS attacks for Internet Service Provider Cloud Provider and Digital Enterprise customers.
+With varied deployment topologies inline or scrubbing the SmartWall family of solutions utilise modern DDoS mitigation architecture to automatically and surgically remove DDoS attack traffic.
+The Corero solutions are among the highest performing in the industry while providing the most automatic security coverage at unprecedented scale with the lowest total cost of ownership to the customer.
+Protection is provided in cost effective scaling increments from 1Gbps to 10Gbps and 100Gbps to support bandwidth and inspection requirements.
+The SmartWall technology provides configurable policies to selectively enable a broad range of specific protection mechanisms to defend critical network assets against DDoS attack traffic.
+Corero enables Service Providers and Cloud Providers to protect their infrastructure from DDoS attacks and to deliver high value DDoS protection services to their customers allowing for incremental service revenues.
+Corero protects Digital Enterprises from DDoS attacks thereby ensuring availability and security of Internet services and applications essential for digital  online businesses and in the process Protecting revenues by avoiding downtime and avoiding additional post DDoS attack remediation costs Keeping customers happy and avoiding increased costs for retention of existing customers and acquisition of new customers Protecting brand and reputation damage Avoiding the risk of noncompliance legal liability and fines.
+The Corero SmartProtect program allows for monthly subscription procurement options to acquire SmartWall technology.
+The Corero Service Portal allows for provider and tenant visibility for traffic and attack dashboards.
+Providers can assign subscribertenant service levels and distribute reporting and analytics to showcase the value of the protection they are receiving.
+Robust reporting and analytics powered by Splunk transforms sophisticated DDoS event data into easily consumable dashboards.
+The Corero SecureWatch service is a tiered offering comprised of configuration optimisation monitoring and mitigation response services.
+These services delivered by the Corero Security Operations Centre are customised to meet the security policy requirements and business goals of each SmartWall customer that engages in a SecureWatch service plan.
+Financial Statements Governance Corporate Directory Strategic Report
+Corero revenue for the year ended 31 December 2017 was 8.5 million 2016 8.8 million with SmartWall revenue up 43% over the prior year whilst legacy product revenues declined as expected.
+Smartwall recurring revenue increased to 3.4 million 2016 1.5 million.
+The
+EBITDA loss reduced to 5.1 million 2016 EBITDA loss 6.4 million.
+Revenue and the EBITDA loss for the year ending 31 December 2017 was impacted by delays in worldwide implementation schedules for a large digital enterprise customer win in Q3 2017 and an existing customers ongoing deployment with the majority of the revenue from these two customers now expected in the first half of 2018.
+Market dynamics Cybersecurity risks are growing both in their prevalence and in their disruptive potential.
+Another growing trend is the use of cyberattacks to target critical infrastructure and strategic industrial sectors raising fears that attackers could trigger a breakdown in systems that are essential to modern society.
+The
+World Economic Forum Global Risks Landscape for 2018 ranks cyberattacks as the third most likely risk in its top 10 risk analysis behind extreme weather events and natural disasters.
+The head of the National Cyber Security Centre NCSC Ciaran Martin recently commented that while the UK is fortunate to have avoided a socalled category one cyberattack so far it is only a matter of time before a catastrophic cyberattack is launched on its critical infrastructure or election setup.
+A recent report from Neustar revealed that many businesses viewed unsecured Internet of Things IoT devices as a major concern.
+This is hardly surprising given the recent developments in IoT botnets and the huge potential for unsecured IoT devices to be turned into a botnet army and used by hackers to launch DDoS attacks.
+IoT devices still suffer from basic security vulnerabilities and it is precisely this lack of security that makes them so attractive to hackers.
+But its not just a password problem anymore.
+Attackers understand that manufacturers and users are waking up to the problem of passwords on IoT devices and so are seeking more complex ways to access them.
+As this trend continues and hackers become increasingly inventive when searching for new devices and ways to enlist them there is really no limit to the size and scale of future DDoS attacks driven by IoT botnets.
+Any device that has an Internet connection and a processor can be exploited.
+In an ideal world all devices should be forced to go through some sort of network configuration before being used rather than being exploitable from a default position.
+Businesses and government departments can protect their networks from DDoS attacks fuelled by IoTdriven botnets by deploying a realtime automated solution at the network edge which can instantaneously detect and mitigate DDoS activity thereby eliminating threats from entering a network.
+As with all DDoS threats clear visibility is a crucial step in detecting and defending against attacks.
+The Corero SmartWall solution is this realtime automated solution providing rich actionable analytics.
+As organisations develop their businesses to harness the benefits and power of technology we are seeing companies reassess their security architecture including DDoS protection as traditional approaches will not be sufficient to protect enterprises.
+Government regulations Corero welcomes the investment and attention that governments are committing to the cybersecurity of Critical National Infrastructure CNI particularly recent guidance from the US Government which sets out detailed recommendations on how to boost resilience and ensure suitable protections and mitigation systems are deployed.
+Corero recently submitted a response to the Joint Committee on the National Security Strategys inquiry Cyber Security UK National Security in a Digital World and recommended the following actions are taken Chief Executives strategic update Corero is well positioned to deliver on its goal of being the leading player in the realtime DDoS mitigation market with SmartWall solution validation from over 90 customers.
+Corero Network Security plc Annual Report and Accounts 2017 06 Operating performance against strategy Our performance against our 2017 strategic objectives is summarised below Establish SmartWall as the leading solution for realtime DDoS mitigation Continued progress in growing our customer base to 90 customers and the addition of a number of high profile customers including Coreros first US federal government customer two one million dollar customers first Australian customer and first potentially significant revenue share contract with a Tier 1 service provider.
+Improve Smartwall DDoS defence technology SmartWall software releases in 2017 have added new attack defence and improved forensics and analytics capabilities.
+New products to address the evolving requirements of the target market Corero further enhanced its market leading SmartWall product portfolio in 2017 with the deliverables from a twoyear development program with a new SmartWall 100Gbps capable product to capture growth in customer demand for 100Gbps connectivity and SmartWall virtual software appliance to capture demand for hybrid onpremises  Cloud DDoS mitigation deployments.
+Corero announced the first sales of the 100Gbps product totalling 0.4 million in early January 2018.
+Target market focus Customer wins in 2017 have continued to validate the target market for realtime automatic DDoS mitigation solutions namely service providers cloud providers and digital enterprises.
+Expand routes to market Coreros strategy is to work with leading IT and network technology vendors to make DDoS mitigation an integral component of any wellengineered Internet facing network design thereby increasing our gotomarket opportunities.
+In
+2017 Corero signed agreements with major global technology companies including Juniper Networks Gigamon and McAfee.
+The technology alliance partnership with Juniper Networks a US based multinational corporation that develops and markets networking and security products has provided benefits in 2017 with the opportunity for Corero to expand its market reach by leveraging Juniper Networks global footprint.
+Develop sales models to attract new target customers The DDoS protection asaservice model launched in late 2016 has gained traction in 2017 with 16 customers by the year end.
+In addition the Service Portal a turnkey solution for service provider customers to manage the delivery of DDoS mitigation services to their customers has been an important competitive differentiator.
+DDoS attacks on CNI particularly frequent lowvolume and short duration attacks must be a priority area for Government Government must take advantage of opportunities such as that provided by the implementation of the NIS Directive to fulfil its ambition of becoming the safest place in the world to live and work online The implementation of the Directive on Security of Network and Information Systems NIS Directive should not be treated as a tick box exercise but instead should be grasped as an opportunity for the UK to lead the world in the strength of its cybersecurity regulatory framework Government should look at international best practice and adopt a more attackspecific and specialistled approach towards cybersecurity moving away from generic wide ranging statements Government must set out and rigorously enforce detailed cyber security requirements for operators of critical national infrastructure and Government should clarify Departmental cybersecurity responsibilities and allocate further resource to the NCSC.
+We were driven to seek out a DDoS mitigation solution due to the increasing severity and frequency of DDoS attacks against our hosted client base.
+DDoS attacks can create service interruptions for customers and create unpredictable work efforts for the engineers tasked with resolving them.
+Larry Patterson Chief Technology Officer and Cofounder Atomic Data Strategic Report Financial Statements Governance Corporate Directory Fund raise On 5 April 2018 Corero will announce a conditional placing and subscription to raise 4.0 million 5.2 million Equity Fund Raise.
+In addition Corero is in advanced discussions with a UK bank to provide a term loan of 3.0 million 4.2 million Bank Loan contingent on the Equity Fund Raise.
+The Bank Loan is expected to be finalised and drawn down following the completion of the Equity Fund Raise.
+Outlook
+Corero enters 2018 with the foundations in place for continued acceleration of SmartWall revenue growth as a result of strong market demand from the growing awareness of the threat and impact of DDoS attacks and increased risk associated with the projected growth of IoT deployments pending regulations in the US UK and Europe including the NIS Directive which comes into force for all EU member states on the 9th May 2018 are expected to positively impact demand for DDoS mitigation investment in 2018 particularly by Digital Enterprises including critical national infrastructure providers Corero gotomarket partner recruitment and enablement efforts with partners is expected to contribute to revenue in 2018 and investment in channel sales development to grow Coreros routes to market in 2018.
+This gives us confidence Corero will deliver revenue growth in 2018.
+Ashley Stephenson
+Chief Executive Officer
+4 April 2018 Corero enters 2018 with confidence following a year of strong growth in SmartWall revenue with proof points of multiple 1.0 million plus customers a growing catalogue of industry awards and several disruptive contract wins against competitors.
+In addition Corero also expanded its ecosystem of world class partners and introduced an enhanced product portfolio.
+We are excited about the prospects for the future of the business.
+Ashley Stephenson C hi e f E x e c u t i v e O ffi c e r Chief Executives strategic update continued Corero Network Security plc Annual Report and Accounts 2017 08 KEY INSIGHT IoT Botnets should be a grave concern Despite its advantages the Internet of Things comes with a host of security challenges.
+IoT devices are usually poorly managed patched and secured.
+They are thus prime targets for hacker infiltration and takeover aside from the personal privacy and security concerns that result from these security gaps.
+The big danger is that these connected devices can be harnessed by hackers for a variety of nefarious purposes in many cases hackers use them to form a botnet to carry out DDoS attacks.
+Strategic Report Financial Statements Governance Corporate Directory 09 A wide range of critical cybersecurity issues face every Internet connected enterprise or organisation.
+These threats include denial of service hacking breach phishing fraud data theft and exfiltration.
+These threat vectors present themselves via the essential Internet connections that are required to support the online business.
+Today the vast majority of the leading Internet service providers sell raw Internet transit capacity.
+This capacity usually sold via 1Gbps 10Gbps and increasingly 100Gbps transport connections carries good customer traffic and malicious bad traffic without discrimination.
+If an enterprise data centre or hosting facility connects to these raw transit providers they will be exposed to Internet borne cyberthreats and the enterprises information security posture should be prepared to detect and protect against the associated malicious intent.
+Corero has focused on one specific category of these cyberthreats encompassing denial of service and has developed a real time DDoS detection and mitigation solution that can provide automatic detection and protection against DDoS attacks.
+In contrast to legacy approaches to DDoS mitigation which often require tens of minutes to detect and react the Corero solution can block DDoS attack traffic in seconds eliminating critical service latency and downtime.
+The broad range of motivations for executing a DDoS attack coupled with the relative ease with which they can be performed means that they are carried out by a variety of actors including criminal gangs activists terrorist groups and nation state bad actors.
+Aside from those who are focused purely on disrupting services many of those who carry out DDoS attacks do so as a form of extortion or as a smokescreen to steal data map other vulnerabilities or plant malware or ransomware.
+Both businesses and publicsector organisations are vulnerable to DDoS attacks and recent years have seen some of the worlds bestknown companies fall victim with notable UK examples including TalkTalk the BBC and HSBC.
+Similarly the vulnerability of Government services was highlighted in October 2016 when Dyn a company that provides DNS services to some of the worlds largest digital brands was subject to a DDoS attack resulting in downtime for a range of Government services.
+Market overview DDoS attacks are accelerating in purpose sophistication complexity scale and frequency.
+Attacks are increasing both in prevalence and disruptive potential.
+In addition cybercriminals have an exponentially increasing number of potential targets because the use of cloud services continues to accelerate and the Internet of Things is expected to expand from an estimated 8.4 billion devices in 2017 to a projected 20.4 billion in 2020.
+The Global Risks Report 2018 13th Edition World Economic Forum Corero Network Security plc Annual Report and Accounts 2017 10 Low volume short duration attacks While the frequency of attacks is concerning the size of and duration of attacks are also important to highlight.
+Approximately 96% of mitigated DDoS attacks were less than 5Gbps in volume in both Q2 and Q3 2017.
+The average duration is also cause for concern.
+65% of attacks in Q2 2017 lasted 10 minutes or less and in Q3 71% were 10 minutes or less.
+Q4 2016 Q1 2017 Q2 2017 Q3 2017 A ttack s per d a y 71% 10 minutes or less 95% Renewal rate 35% Increase in attacks per quarter 96% Attacks 5Gbps or less DDoS market drivers DDoS attacks represent the dominant threat observed by the vast majority of service providers.
+Source NetScout Arbors 13th Annual Worldwide Security Report October 2017 Attack sizes have generally risen but half average less than 10Gbps which reveals determined targeting.
+Source
+Neustar Global DDoS Attacks and Cyber Security Insights Report October 2017 Service providers deployment of inline DDoS detectionmitigation systems grew in 2017 an ongoing trend driven by the increased use of best practice hybrid DDoS defence solutions.
+Source NetScout Arbors 13th Annual Worldwide Security Report October 2017 DDoS attacks ranked as the third most costly form of cyberattack behind malware and webbased attacks with companies spending on average 1.6 million on DDoS attacks Source Ponemon Institute 2017 Cost of cybercrime Study.
+QUARTERLY
+A ve r a ge
+D D o S At t a c k s Size Q4 2016 Q4 2016 Q4 2016 Q4 2016 1G 79% 80% 82% 81% 1G  5G 18% 15% 15% 15% 5G  10G 4% 4% 2% 3% 10G 1% 2% 1% 1% A ve r a ge D u r a ti o n of D D o S At t a c k s Minutes Q4 2016 Q4 2016 Q4 2016 Q4 2016 0  5 57% 56% 51% 58% 6  10 17% 16% 14% 13% 11  20 7% 6% 13% 11% 21  30 11% 12% 7% 6% 31  60 4% 5% 8% 6% 60 5% 5% 7% 6% Average Attack per customer
+Corero is targeting a high growth security market the market for DDoS prevention appliances is forecast by IHS Markit Technology research a leading analyst to reach 1.4 billion by 2021 with a CAGR of 15.6% in the period to 2021.
+Our Customers Coreros customers are delighted with our ability to protect their brand and revenues in the face of DDoS attacks.
+Because of this we have an extremely high renewal rate.
+Source Corero DDoS Trends Report Q2Q3 2017.
+Strategic Report Financial Statements Governance Corporate Directory Strategic Report Our business model The Corero business model comprises the development marketing and sale of network security products and services to provide customers with protection from DDoS attacks.
+We apply our sources of competitive advantage
+Mitigation
+Goal 99% no cus tomer intervention required
+Cost effec tiv e en tr y poin t  leadership priceperformance
+Modular and distr ibute d pa y as you grow
+Imme dia te protection seconds vs minutes
+Lowest false positive r a tes elimin a te collateral damage Investing in the Corero SmartWall TDS system is the best solution to more effectively monitor and mitigate DDoS threats automatically inline and in realtime.
+We plan to use the new DDoS mitigation capabilities to create new service offerings that would benefit customers with enhanced service level agreements supported by further secured core networks.
+Tim Berelsman CEO CNI Independents 40% 38% 22% Sales order intake for the year ended 31 December 2017 Service providers Digital enterprises Cloud providers Corero Network Security plc Annual Report and Accounts 2017 12 To our chosen target markets To create value Direct sales
+Providers
+System integrator partners
+Enterprises
+Channel partners distributors and resellers
+Providers
+GTM partners Routes to Market Corero has in 2017 focused on developing and expanding its routes to market which include Corero sales team selling directly and indirectly with value added distributor and reseller partners in its chosen markets of North America Europe and
+Gotomarket GTM partners meetinthemarket relationships with leading IT and network technology vendors to leverage these partners customer and geographic market reach and System integrator partners relationships with leading systems integrators to leverage their customer and geographic market reach.
+Corero sells the SmartWall technology to customers in the form of either a an appliance sale and perpetual software license plus annual SecureWatch services b as a software subscription for its virtual appliance software or c asaservice which enables the customer to utilise the technology on a subscription or revenue share basis without owning the appliance and software.
+SecureWatch services include Updates delivered to the Corero appliances and software instances in customer networks to provide proactive ongoing protection from the latest DDoS threats and 24x7x365 monitoring and support services including DDoS attack mitigation services delivered by the Corero Security Operations Centre.
+Strategic Report Financial Statements Governance Corporate Directory The Corero strategy is to develop software and provide services to protect against a continuously evolving DDoS threat landscape that threatens any Internet connected business or the providers that serve them.
+Our strategy Maintain competitive advantage in realtime DDoS mitigation New DDoS attack defences Additional forensics and analytics capabilities Expand routes to market Generate first  revenues from GTM partners Leverage the channel to broaden enduser customer reach Explore licensing opportunities for the SmartWall virtual appliance software Grow customer base Sell the new SmartWall NTD1100 100Gbps and TDS220 virtual appliance software Develop the digital enterprise market opportunity through targeted system integrator and GTM partner leverage Continue to focus on customer delight Superior customer service and support Target world class support and services renewal rates of 90%
+Go To
+At Corero our most deeply ingrained shared value is Customer Delight.
+Far from being a marketing gimmick delivering on customer delight simply makes good business sense.
+This becomes ever more true with our increasing levels of recurring business being driven by our support and service renewals in our growing base of SmartWall customers and DDoS Protection asaService business model.
+Our experience is that delighted customers renew their subscriptions they buy more products as their businesses grow and they are happy to share their positive experiences with their industry colleagues.
+We measure Customer Delight using our
+The science behind this tool is consistent with that promoted by Bain Consultings Net Promoter Score
+At Corero we do not explicitly track NPS as each customer relationship is important to us.
+As such we frequently take a DelightoMeter reading scaled from 0 to 10.
+Our
+This delight is reflected in our worldclass renewal rates.
+Delighted customers are also an important contributor to finding new customers for Coreros products and services.
+Our Customer Journey typically begins with Strangers being enticed to follow our published content e. become Followers.
+Our marketing automation investments allow us to identify these Followers and to qualify them as Prospects.
+In turn the efforts of our direct and channel sales teams are focussed upon persuading these Prospects to become Customers.
+Whilst a new customer order is always a cause for celebration this event is the starting point for what we hope will become a lasting relationship.
+Our goal is to deliver a delighted customer who is happy to be an Advocate for us in the market.
+Our Advocates who inform other Strangers close the virtuous circle of our Customer Journey.
+Many of Coreros sales wins in 2017 came via such referrals.
+MARKETING
+LED
+SALES
+LED
+CUSTOMER
+SERVICES
+LED
+Strangers
+Advocates
+Customers
+Followers
+Prospects
+Corero Network Security plc Annual Report and Accounts 2017 14 RDoS Ransom Denial of Service RDoS made a significant comeback in Q3 2017.
+A widespread wave of RDoS threats from the Phantom Squad hacker group kicked off in September.
+These threats targeted companies throughout the US Europe and Asia with targets spanning a number of industries  banking hosting providers online gaming and SaaS organisations.
+KEY INSIGHT This extortion campaign launched messages demanding Bitcoin payment with a threat to execute attacks on September 30 unless the demands were met.
+Most solutions focus on recovery from such attacks rather than defeating or blocking them.
+Strategic Report Financial Statements Governance Corporate Directory 15 Over a third of CNI organisations in the UK 39% have not completed basic cybersecurity standards issued by the UK government according to data revealed to Corero in August 2017 under the Freedom of Information Act by 163 CNI organisations in the UK including fire and rescue services police forces ambulance trusts NHS trusts energy suppliers and transport organisations out of a total of 338 requests.
+It suggests that some of these organisations could be liable for fines of up to 17m or 4% of global turnover under the UK governments proposals to implement the EUs Network and Information Systems NIS directive.
+This research suggests that CNI organisations are not as cyberresilient as they should be and must take proactive steps in deploying dedicated real time mitigation and visibility solutions to stay ahead of the threat.
+DDoS attacks against national infrastructure have the potential to inflict significant reallife disruption and prevent access to critical services that are vital to the functioning of our economy and society.
+Boards and IT professionals of CNI organisations will be worrying about the implications of the NIS Directive which will come into effect in May 2018.
+It could mean monetary fines for CNI organisations that experience service outages due to a cyberattack.
+Regulations and compliance KEY INSIGHT Over a third of CNI organisations in the UK 39% have not completed basic cybersecurity standards.
+Freedom of Information data reveals lack of cyberresilience among Critical National Infrastructure CNI organisations CNI organisations could be ignoring 90% of the DDoS attacks on their networks by not mitigating short duration DDoS attacks which are frequently used by hackers to distract from data theft attempts Corero Network Security plc Annual Report and Accounts 2017 16 Corero is dependent on revenue growth to deliver on its strategy.
+Lower sales growth will reduce the Companys cash resources which could impact the investment in product development.
+Principal risks and uncertainties Coreros business success depends on growing SmartWall product and Secure Watch Service sales to new customers in its target market of service providers cloud providers and digital enterprises.
+If Corero is not successful in identifying customer prospects with a business need Corero can solve or developing gotomarket partner and channel partner relationships which generate revenue this will compromise growth plans and success.
+To be successful Corero will Focus its lead generation and sales resources and product development on its target markets Develop relationships with gotomarket partners channel partners and system integrators to expand its routes to market.
+Corero is an emerging player in the DDoS prevention market and competes with much larger organisations.
+If Corero is not successful in connecting with the market and raising its profile this will compromise growth plans.
+To raise market awareness of Corero and its DDoS mitigation solutions the Group will invest in targeted public relations and marketing.
+The DDoS mitigation market is competitive and characterised by constant changes in technology customer requirements and frequent new product introductions and improvements.
+Cyber security and DDoS attacks are constantly evolving and changing as attackers develop new methods and tools to evade defences.
+To be a market leader and to grow Corero needs to be focused on its chosen market and deliver continuous innovation by adding new DDoS attack defences.
+Retaining and recruiting people with the necessary skills and experience.
+To grow and address the challenges resulting from technology change and innovation in the DDoS mitigation market the Company needs to retain and recruit the required sales business development and technical product development skills.
+Corero operates in a high growth market with new players emerging.
+If Corero is unable to recruit and retain the right skills this will compromise growth plans.
+Sales growth
+People
+Technology change and innovation Strategic Report Financial Statements Governance Corporate Directory SmartWall revenue of 7.9 million grew 43% over the prior year with the contribution from legacy product revenue only 0.6 million 2016 SmartWall revenue of 5.5 million and legacy product revenue of 3.3 million.
+Revenue for the year ending 31 December 2017 was however impacted by delays in worldwide implementation schedules for a large digital enterprise customer win in Q3 2017 and an existing customers ongoing deployment with the majority of the revenue from these two customers now expected in the first half of 2018.
+SmartWall order intake for the year ending 31 December 2017 was 9.3 million with 50% representing recurring revenue in the form of support services and asaservice contracts 2016 SmartWall order intake was 6.7 million including recurring revenue order intake of 2.6 million.
+The loss for the year after taxation amounted to 8.6 million 2016 17.2 million including an impairment to goodwill acquired of 9.0 million and includes Unrealised exchange loss of 0.6 million 2016 gain 1.2 million arising on an intercompany loan Finance costs of 0.004 million 2016 0.006 million.
+Review of performance and performance indicators The Directors monitor a number of metrics both financial and nonfinancial on a monthly basis.
+The most important financial metrics are as follows Sales order intake 9.3 million for the year ended 31 December 2017 2016 7.1 million Gross margin 75% for the year ended 31 December 2017 2016 76%.
+The
+2016 revenue included support revenue of 3.3 million from the legacy product the recognition of support revenue from multiyear contracts.
+Support revenue gross margins are high with margins of c.100%.
+The equivalent revenue in 2017 was 0.6 million Operating expenses gross of research and development costs capitalised and before unrealised foreign exchange differences on an intercompany loan depreciation and amortisation 13.7 million for the year ended 31 December 2017 2016 15.6 million gross of research and development costs capitalised and before unrealised foreign exchange differences on an intercompany loan depreciation amortisation and impairment of goodwill.
+Following the midyear completion of the SmartWall NTD1100 and vNTD virtual software appliance development Corero optimised its development resources by reducing the size of the development team in the US and increasing the Edinburgh based team with the additional benefit of grant funding for the increased Edinburgh investment.
+In addition lower management bonuses were awarded in 2017 versus 2016 and a provision relating to an indemnity provided in relation to the sale of Corero Business Systems in 2013 was released in 2017 Research and development 2.2 million 2016 2.5 million was spent on the continuing development of the SmartWall product portfolio.
+These costs relate to i the SmartWall NTD120  11020 Gbps product SmartWall NTD1100 100Gbps product and the virtual software appliance and ii the Smartwall Service Portal which is sold as an addon for Service provider and Cloud provider customers and Cash and cash equivalents 1.4 million at 31 December 2017 2016 2.9 million.
+The order intake in 2017 comprised 9.3 million of SmartWall orders an increase of 38% over the prior year 2016 6.7 million.
+The average perpetual license order value in 2017 was 250000 2016 200000 and the average asaservice contract value was 40000 per annum 2016 40000 per annum.
+The 2017 operating loss of 8.7 million 2016 17.3 million includes amortisation of capitalised development expenditure of 2.4 million 2016 2.3 million.
+The 2016 operating loss included an impairment to goodwill of 9.0 million.
+Cash and Treasury The closing cash balance was 1.4 million 2016 2.9 million.
+Corero had no debt at 31 December 2017 2016 0.
+The net reduction in cash from operating activities in the year ended 31 December 2017 was 6.0 million 2016 5.5 million.
+In the year ending 31 December 2017 the Company raised 7.0 million before expenses of which the Chairman contributed 4.4 million to fund the further development of the SmartWall product and sales and marketing activities.
+On 5 April 2018 Corero will announce a conditional placing and subscription to raise 4.0 million 5.2 million.
+In addition Corero is in advanced discussions with a UK bank to provide a term loan of 3.0 million 4.2 million contingent on the Equity Fund Raise.
+The
+Bank Loan is expected to be finalised and drawn down following the completion of the Equity Fund Raise.
+The Strategic Report on pages 6 to 19 is signed by order of the Board.
+Duncan Swallow Company Secretary 4 April 2018
+Financial review
+Corero ended the year strongly with a record final quarter SmartWall order intake.
+Corero Network Security plc Annual Report and Accounts 2017 18 SmartWall revenue increased 43% over the prior year whilst legacy product revenue reduced as expected.
+Andrew Miller C hi e f F i n a n c i a l O ffi c e r The drivers and target customers for the DDoS market are an everwidening and diversifying group as enterprises invest in products for onpremises and hybrid deployments and as service providers upgrade capacity because of massive attacks network upgrades and demand from customers for managed DDoS services.
+IHS Markit Technology research DDoS Prevention Appliances Biannual Market Tracker November 2017 Financial highlights
+2016 8.8 million EBITD A loss bef or e unr ealis e d f or eign e x chan g e differ enc es on an in ter c ompan y loan depr ecia tion amor tisa tion impairment of goodwill and fin ancin g 2016 6.4million SmartWall revenue 43% Increase over the prior year whilst legacy product revenues declined as expected.
+Groups net assets at 31 December 2017 2016 18.2 million Loss per share 2016 9.0 cents Strategic Report Financial Statements Governance Corporate Directory Corero Network Security plc Annual Report and Accounts 2017 20 Board of Directors Jens Montanana NonExecutive Chairman Age 57 Appointed 9 August 2010 Jens is the founder and CEO of Datatec Limited established in 1986.
+Between 1989 and 1993 Jens served as Managing Director and VicePresident of US Robotics UK Limited a wholly owned subsidiary of US Robotics Inc. which was acquired by 3Com.
+In 1993 he cofounded US startup Xedia Corporation in Boston an early pioneer of network switching and one of the market leaders in IP bandwidth management which was subsequently sold to Lucent Corporation in 1999 for 246 million.
+In
+1994 Jens became CEO of Datatec Limited which listed on the Johannesburg Stock Exchange in 1994 and on AIM in 2006.
+He has previously served on the boards and subcommittees of various public companies.
+Jens is Chairman of the Corero Remuneration Committee.
+Richard Last Independent NonExecutive Director Age 60 Appointed 22 May 2008 Richard is Chairman of ITE Group plc and the British Smaller Technology Companies VCT 2 plc both of which are quoted on the London Stock Exchange.
+He is also Chairman of a number of AIM listed companies including Gamma Communications plc a UK telecommunications service provider Tribal Group plc a technology group Arcontech Group plc a provider of IT solutions for the financial services sector Lighthouse Group plc a financial services
+Richard is also a Director of a number of private companies.
+Richard is a Fellow of the Institute of Chartered Accountants in England and Wales
+Richard is Chairman of the Corero Audit Committee.
+Ashley Stephenson
+Chief Executive Officer
+Age 58 Appointed 6 September 2013 Ashley is an IT industry executive and Internet technology entrepreneur with operating experience in the United States Europe and Asia.
+Previously he was CEO of Reva Systems acquired by ODIN and Xedia Corporation acquired by Lucent.
+He has provided strategic advisory services to a number of leading multinational IT companies including technology vendors distributors and services companies.
+Ashley began his career at IBM Research and Development in the UK.
+He is a graduate of Imperial College London with a degree in Physics and an Associate of the Royal College of Science.
+Strategic Report Financial Statements Governance Corporate Directory Andrew Lloyd President and Executive Vice President Sales and Marketing Age 52 Appointed 3 January 2017 Andrew has been involved in the IT software and systems sector for more than 30 years.
+His career has included roles in early stage companies highgrowth preIPO ventures such as Workplace Systems as well as large corporations such as Computer Associates and Oracle.
+Andrew has a BSc Hons Electronic and Electrical Engineering from HeriotWatt University Scotland.
+Andrew Lloyd was appointed an Executive Director on 3 January 2017.
+He was previously a NonExecutive Director appointed 19 November 2012.
+Andrew Miller Chief Financial Officer Age 54 Appointed 9 August 2010 Prior to joining the Company Andrew was with the Datatec Limited group in a number of roles between 2000 and 2009 including the Logicalis Group Operations Director and Corporate Finance and Strategy Director.
+He led the Logicalis acquisition strategy acquiring and integrating 12 companies in the US UK Europe and South America.
+Prior to this Andrew gained considerable corporate finance experience in London with Standard Bank West Deutsche Landesbank and Coopers and Lybrand.
+He trained and qualified as a Chartered Accountant and has a bachelors degree in Commerce from the University of Natal South Africa.
+Duncan Swallow Company Secretary Age 53 Appointed 1 November 2007 Duncan is responsible for the Company secretarial function and is also the Group Financial Controller.
+Prior to joining the Company Duncan was Divisional Financial Controller for CCH a Wolters Kluwer business specialising in providing books online information software CPD and fee protection to tax and accounting professionals.
+He is a fellow of the Association of Chartered Certified Accountants.
+Corero Network Security plc Annual Report and Accounts 2017 22
+The cybersecurity and DDoS market growth fundamentals remain very strong fuelled by rampant cybercrime and a growing awareness of the significant threat posed by cyberattacks including DDoS as well as pending regulations.
+Corero has a market leading SmartWall product portfolio which has been further enhanced in 2017 with new SmartWall 100Gbps and virtual appliance software products.
+Our employees and values Successful companies have a strong culture and deeply rooted shared values.
+In common with most intellectual property businesses at Corero we know that the skills experiences and passion of our employees are genuinely what make our products and services work.
+The Corero culture has been shaped by our decade long experience in the United States and our more recent expansion in Europe.
+Coreros team in Scotland is especially diverse we have team members from seven European nations based in Edinburgh.
+With a growing business the level of team diversity and multisite operations we have recognised the importance of our culture and values.
+During the year we invested in bringing the whole company to Scotland for a meeting that we called The Gathering.
+At The Gathering the team agreed Coreros values and refined the definition of these values.
+Coreros agreed values are
+Customer delight
+Open and honest communications
+More recently Corero invested in an online tool known as Kudos which is being used to acknowledge reinforce and measure the valuessupporting behaviours and actions taken by team members.
+Board changes The notice of AGM will include a resolution to reappoint Jens Montanana and Andrew Miller who retire by rotation in accordance with the Companys Articles of Association.
+Looking ahead With its market leading SmartWall product and the significant investment made in the SmartWall technology and the strategy of expanding Coreros routes to market through channels and go to market partners the business is well placed to deliver on its strategic goals and become a leading player in the DDoS mitigation market.
+I would like to give special thanks to our institutional and private investors for their continued support of the Companys strategy and funding requirements.
+Finally thank you to all our employees for their hard work and commitment.
+Jens Montanana
+29 March 2018
+Chairmans Introduction
+I am confident the business will deliver on its strategic goals and become a leading player in the DDoS mitigation market.
+Jens Montanana
+Corero is well placed for continued SmartWall revenue growth.
+Strategic Report Financial Statements Governance Corporate Directory Corero has taken note of the UK Corporate Governance Code the UK Code published in April 2016.
+The UK Code and associated guidance can be found on the Financial Reporting Council website at www. rc. iterporateukcgcode. fm.
+The rules of the London Stock Exchange do not require companies that have securities traded on AIM to formally comply with the UK Code and the Company does not seek to formally comply nor give a statement of compliance.
+However the Board is accountable to the Companys shareholders for good governance and has sought to apply those principles of corporate governance commensurate with the Companys size.
+The Companys approach is set out below.
+The Board Corero recognises its responsibility to provide entrepreneurial and responsible leadership to the Group within a framework of prudent and effective controls described below allowing assessment and management of the key issues and risks impacting the business.
+The Board sets Coreros overall strategic direction reviews management performance and ensures that the Group has the necessary financial and human resources in place to meet its objectives.
+The Board is satisfied that the necessary controls and resources exist within the Group to enable these responsibilities to be met.
+Operational management of the Group is delegated to the Chief Executive Officer.
+The Board of Directors comprises the NonExecutive Chairman three Executive Directors and one NonExecutive Director whose Board and Committee responsibilities as at 4 April 2018 are set out below The composition of the Board of Directors is reviewed regularly.
+Appropriate training briefings and induction are available to all Directors on appointment and subsequently as necessary taking into account existing qualifications and experience.
+Executive Directors normal retirement age is 60 and NonExecutive Directors normal retirement age is 65.
+One third of all Directors are subject to annual reappointment by shareholders as well as any Director appointed by the Board in the period since the last AGM.
+Jens Montanana and Andrew Miller will be offering themselves for reelection at the forthcoming AGM.
+The Board of Directors meets on average once a quarter and additional meetings are held each year to review and approve the Groups strategy and financial plans for the coming year.
+Each Director is provided with sufficient information to enable them to consider matters in good time for meetings and enable them to discharge their duties properly.
+All Directors have access to the advice and services of the Company Secretary.
+There is also a procedure in place for any Director to take independent professional advice if necessary at the Companys expense.
+The Board also ensures that the principal goal of the Company is to create shareholder value while having regard to other stakeholder interests and takes responsibility for setting the Companys values and standards.
+There is a documented schedule of matters reserved for the Board the most significant of which are Corporate Governance Report Board Audit Remuneration Jens Montanana Chairman Member Chairman Ashley Stephenson Member Andrew Lloyd Member Andrew Miller Member Richard Last Member Chairman Member responsibility for the overall strategy and management of the Group approval of strategic plans and budgets and any material changes to them approval of the acquisition or disposal of subsidiaries and major investments projects and contracts oversight of the Groups operations ensuring competent and prudent management sound planning and management of adequate accounting and other records changes relating to the Groups capital structure final approval of the annual and interim financial statements and accounting policies approval of the dividend policy ensuring an appropriate system of internal control and risk management is in place approval of changes to the structure size and composition of the Board review of the management structure and senior management responsibilities with the assistance of the Remuneration Committee approval of remuneration policies across the Group delegation of the Boards powers and authorities consideration of the independence of the NonExecutive Directors and receiving reports on the views of the Companys shareholders In the year ended 31 December 2017 the Board received monthly briefings on the Groups performance including detailed commentary and analysis key issues and risks affecting the Groups business.
+Corero Network Security plc Annual Report and Accounts 2017 24 Remuneration Committee The Remuneration Committee comprises Jens Montanana who is the Committee Chairman and Richard Last.
+The Remuneration Committee meets at least twice a year and reviews and advises upon the remuneration and benefits packages of the Executive Directors.
+The remuneration of the Chairman and NonExecutive Directors is decided upon by the Board of Directors.
+In the year ended 31 December 2017 the Remuneration Committee Board met on four scheduled occasions further meetings and conference calls were held as and when necessary.
+The attendance of individual Committee members at Remuneration Committee meetings in the year to 31 December 2017 is shown in the table below Corporate Governance Report continued The Company maintains liability insurance for its Directors and Officers.
+The Company has also entered into indemnity agreements with the Directors in terms of which the Company has indemnified its Directors subject to the Companies Act limitations against any liability arising out of the exercise of the Directors powers duties and responsibilities as a Director or Officer.
+In the year ended 31 December 2017 the Board met on 5 scheduled occasions further meetings and conference calls were held as and when necessary.
+Details of Directors attendance at scheduled meetings in the year to 31 December 2017 is shown in the table below
+Jens Montanana 55 Ashley Stephenson 55 Andrew Miller 45 Richard Last 55 Andrew Lloyd 55 Board Committees The Company has an Audit Committee and Remuneration Committee details of which are set out below.
+Audit Committee The Audit Committee members comprise Richard Last who is the Committee Chairman and Jens Montanana and meets twice a year.
+The Group Chief Financial Officer and Group Financial Controller and the Companys external auditors attend the meetings.
+The Audit Committee considers the adequacy and effectiveness of the risk management and control systems of the
+It reviews the scope and results of Andrew Miller was unable to attend one scheduled Board meeting due to illness. and the objectivity of the auditors.
+It also reviews prior to publication the interim financial statements preliminary results announcement the annual financial statements and the other information included in the annual report.
+The Audit Committee met twice in the year ended 31 December 2017.
+The attendance of individual Committee members at Audit Committee meetings in the year to 31 December 2017 is shown in the table below
+Jens Montanana 22 Richard Last 22
+Jens Montanana 44 Richard Last 44 Nominations Committee Due to the size of the Board of Directors the Directors do not consider there to be any need for a nominations committee.
+Issues that would normally be dealt with by a nominations committee are handled by the Board of Directors.
+The Board of Directors will review the need for a nominations committee on a regular basis.
+Internal controls The Directors are responsible for the Groups system of internal control and for reviewing its effectiveness whilst the role of management is to implement policies on risk management and control.
+The Groups system of internal control is designed to manage rather than eliminate the risk of failure to achieve the Groups business objectives and can only provide reasonable and not absolute assurance against material misstatement or loss.
+The Board continually reviews the effectiveness of other internal controls including financial operational compliance controls and risk management.
+There were no specific reports tabled during the year ended 31 December 2017.
+The Group operates a risk management process which is embedded in normal management and governance processes.
+As part of the annual and budgeting process the Group documents the significant risks identified the probability of those risks occurring their potential impact and the plans for managing and mitigating each of those risks.
+The Group operates a series of controls to meet its needs.
+These controls include but are not limited to the annual strategic planning and budgeting process a clearly defined organisational structure with authorisation limits reviews by senior management of monthly financial and operating information including comparisons with budgets monthly treasury and cash flow reports and forecasts to the Board.
+Strategic Report Financial Statements Governance Corporate Directory The Audit Committee receives reports from management and observations from the external auditors concerning the system of internal control and any material control weaknesses.
+Significant risk issues if any are referred to the Board of Directors for consideration.
+The Board of Directors makes an annual assessment of the effectiveness of the Groups internal control system including financial operational and compliance controls before making this statement.
+The Board of Directors also considers issues included in reports received during the year how the risks have changed during the year and reviews any reports prepared on internal controls by management and any issues identified by external auditors.
+The Board of Directors does not believe it is currently appropriate to establish a separate independent internal audit function given the size of the Group.
+Remuneration report
+The Remuneration Committees principal function is to set remuneration of the Groups Executive Directors and management to ensure they are fairly compensated.
+Basic salaries are set to ensure high quality Executive Directors and management are attracted and retained by the Group.
+They reflect the knowledge skill and experience of each individual Director.
+Bonuses are nonpensionable and only payable if the Remuneration Committee assesses the Directors achievements as worthy of the award.
+The Remuneration Committee is also responsible for ensuring the Groups share option schemes are operated properly.
+Details of Directors share options at 31 December 2017 are disclosed in note 25 of the financial statements.
+Details of Directors remuneration for the year ended 31 December 2017 is set out in note 22 of the financial statements.
+Jens
+Montanana has elected to waive the fees payable to him for the financial year ended 31 December 2017.
+Ashley Stephenson Executive Director has a service agreement which provides for the payment of six months base salary if the agreement is terminated by the Company without cause.
+Andrew Lloyd Executive Director has an employment agreement which can be terminated by either party on not less than three months written notice increasing by one month at the end of each complete 12 month period of continuous employment provided that the notice period shall not exceed six months in total.
+The agreement contains provisions for early termination in certain circumstances.
+Andrew Miller Executive Director has an employment agreement which can be terminated by either party on not less than three months written notice increasing by one month at the end of each complete 12 month period of continuous employment provided that the notice period shall not exceed six months in total.
+The agreement contains provisions for early termination in certain circumstances.
+Despite continued discussions about nation state attackers security professionals believe that criminal extortionists are the most likely group to inflict a DDoS attack against their organisations with 38% expecting attacks to be financially motivated.
+By contrast just 11% believe that hostile nations would be behind a DDoS attack against their organisation.
+Corero survey conducted at InfoSecurity 2017 None of the NonExecutive Directors has a service agreement.
+Letters of appointment for Jens Montanana and Richard Last are for 12 month terms and provide that the appointment may be terminated by either party giving to the other not less than three months notice.
+Corero Network Security plc Annual Report and Accounts 2017 26 Directors Report Group results The Groups Statement of Comprehensive Income on page 34 shows a loss for the year of 8.6 million 2016 17.2 million.
+Going concern The financial position and cash flows are described in the Financial Review on pages 18 and 19.
+An indication of likely future developments affecting the Company is included in the Strategic Report on pages 6 to 19.
+On 5 April 2018 Corero will announce a conditional placing and subscription to raise 4.0 million 5.2 million.
+In addition Corero is in advanced discussions with a UK bank to provide a term loan of 3.0 million 4.2 million contingent on the Equity Fund
+The Bank Loan is expected to be finalised and drawn down following the completion of the Equity Fund Raise.
+A circular containing a notice of General Meeting will be sent to shareholders on 5 April 2018.
+At the General Meeting to be convened on 26 April 2018 Corero shareholders will be asked to approve the Equity Fund Raise.
+Since the participants in the Equity Fund Raise include shareholders which at 4 April 2018 held more than 75% of the Companys issued shares it is anticipated that the resolutions to approve the Equity Fund Raise will be duly passed.
+The Board are confident that the Equity Fund Raise and Bank Loan will be completed successfully.
+The Directors believe that on the basis of a successful Equity Fund Raise and draw down of the Bank Loan that the Company and the Group have or have access to the necessary financial resources to continue operating for the foreseeable future.
+The Directors are of the opinion that the Group and Company has adequate working capital to continue as a going concern for the foreseeable future and in particular for a period of at least 12 months from the date of approval of these financial statements.
+On this basis the Directors have therefore concluded that it is appropriate to prepare the financial statements on a going concern basis.
+However in the absence of certainty that the Equity Fund Raise and Bank Loan will successfully complete as anticipated a material uncertainty exists which may cast significant doubt over the Groups and Companys ability to continue as a going concern.
+The financial statements do not include the adjustments that would result if the Group and Company was unable to continue as a going concern.
+Further details are included within note 2 to the financial statements on page 40.
+Dividends
+The Directors have not recommended a dividend 2016 nil.
+Share capital The issued share capital of the Company together with details of movements in the Companys issued share capital during the financial period are shown in note 20 to the financial statements.
+As at the date of this report 315417642 ordinary shares of 1p each ordinary shares were in issue and fully paid with an aggregate nominal value of 3.2 million.
+The market price of the ordinary shares at 31 December 2017 was 6.75p and the shares traded in the range 5.05p to 12.875p during the year.
+Issue of shares At the AGM held on 20 June 2017 shareholders granted authority to the Board under the Articles and section 551 of the Companies Act 2006 the Act to exercise all powers of the Company to allot relevant securities up to an aggregate nominal amount of 678058.
+Also at the AGM held on 20 June 2017 shareholders granted authority to the Board under the Articles and section of the Act to exercise all powers of the Company to allot equity securities wholly for cash up to an aggregate nominal amount of 203418 without application of the statutory preemption rights contained in section 561 1 of the Act.
+Substantial shareholdings The Company has been notified of the following holdings that are 3% or more of the Groups ordinary share capital as at 4 April 2018 Ordinary shares of 1 pence each Number % Jens Montanana 138000000 43.8 Miton UK Microcap Trust PLC 28185555 8.9 Richard John Koch 26370500 8.4 Herald Investment Management 25006406 7.9 Sabvest Capital Holdings Limited 20500000 6.5 Peter Kennedy Gain 17433333 5.5 of which 25987889 are held in the name of JPM International Limited which is wholly owned by Jens Montanana and 94258302 are held in the name of The New Millennium Technology Trust of which Jens Montanana is a beneficiary. of which 4900000 shares are held in the name of Draper Gain Investments Ltd.
+Strategic Report Financial Statements Governance Corporate Directory Directors indemnities The Company has qualifying third party indemnity provisions in place for the benefit of its Directors.
+These remain in force at the date of this report.
+Directors and Directors interests The Directors who served in office during the year and up to the date of this report and their interests in the Companys shares were as above.
+The biographical details of the current Directors of the Company are given on pages 20 and 21.
+Jens Montanana Ashley Stephenson Andrew Miller Richard Last and Andrew Lloyd hold share options details of which are shown in note 25 to the financial statements.
+Financial risk management objectives and policies The Groups business activities expose it to a variety of financial risks.
+The policies for managing these risks are described below Liquidity risk  arises from the Groups management of working capital and finance charges.
+It is a risk that the Group will encounter difficulty in meeting its financial obligations as they fall due.
+Liquidity risk is managed by the finance function.
+Budgets are agreed by the Board annually in advance enabling the Groups cash flow requirements to be anticipated.
+Credit risk  arises from cash and cash equivalents and from credit exposures to the Groups customers including outstanding receivables and committed transactions.
+Credit risk is managed with regular reports of exposures reviewed by management.
+The Group does not set individual credit limits but will seek to ensure that customers enter into legally enforceable contracts that include settlement terms that demonstrate the customers commitment to the transaction and minimise this risk exposure.
+The amounts of trade receivables presented in the Statement of Financial Position are shown net of allowances for doubtful accounts estimated by management based on prior experience and their assessment of the current economic environment note 14.
+The Group has no significant concentration of credit risk with exposure spread over a number of customers.
+The credit risk on liquid funds and financial instruments is limited because the counterparties are banks with acceptable credit ratings assigned by international credit rating agencies.
+Cash flow interest rate risk  the Groups policy is to minimise interest rate cash flow risk exposure on its financing.
+The
+Groups policy is to balance the risk in relation to cash balances held by spreading these across a number of financial institutions as opposed to maximising interest income Currency risk  there is no material impact on the Groups profit or loss for the year from exchange rate movements as foreign currency transactions are entered into by Group companies whose functional currency is aligned with the currencies in which it transacts.
+An exchange rate risk does arise in relation to equity fund raises which are in GBP given the Companys AIM listing to the extent these funds are required to support US dollar denominated funding requirements.
+The Group has not hedged such GBP fund raises in the past but will review this policy based on the expected timing of US dollar and GBP operational funding requirements.
+The principal risk which applies to the parent Companys financial statements is the risk that the returns generated by the subsidiaries might not support the carrying value of the cost of the investments in subsidiaries.
+The carrying value is tested at least annually for impairment and if necessary impaired.
+Capital management The Group monitors its available capital which it considers to be all components of equity against its expected requirements.
+The Groups objectives when maintaining capital are to safeguard the entitys ability to continue as a going concern so that it can continue to provide returns for shareholders and benefits for other stakeholders and to ensure that sufficient funds can be raised for investing activities.
+In order to maintain or adjust the capital structure the Company may return capital to shareholders issue new shares or sell assets.
+The Group does not review its capital requirements according to any specified targets or ratios.
+Directors shareholdings 4 April 2018 31 December 2017 31 December 2016 Number % Number % Number % Jens Montanana 138000000 43.8 138000000 43.8 69303990 34.1 Ashley Stephenson 35000 0.0 38000 0.0 38000 0.0 Andrew Miller 1091437 0.4 1091437 0.4 891437 0.4 Richard Last 1316667 0.4 1316667 0.4 1316667 0.7 Andrew Lloyd 300000 0.1 300000 0.1   Corero Network Security plc Annual Report and Accounts 2017 28 Treasury management The objectives of Group treasury policies are to ensure that adequate financial resources are available for development of the business while at the same time managing financial risks.
+Financial instruments are used to reduce financial risk exposures arising from the Groups business activities and not for speculative purposes.
+The Groups treasury activities are managed by the Group Financial Controller who reports to the Board on the implementation of Group treasury policy.
+Environment
+The Groups activities are primarily office based and as such the Directors believe that there is no significant environmental impact arising from the Groups activities.
+The
+Group complies with local WEEE regulations.
+No environmental performance indicators are therefore included within this report.
+The Groups environmental policy states We endeavour to recycle appropriate materials where possible and to efficiently use natural resources and energy supplies so as to minimise our environmental impact.
+We will comply with the relevant statutes and legislation.
+Furthermore employees are encouraged to be environmentally aware.
+Company cars are not provided.
+Research and development The development of computer software is an integral part of the Groups business and the Group continues to develop its core software in response to user demand and particularly the changing IT security threat landscape and changes in software technology.
+During the year the Group enhanced its existing products and developed new products.
+A capital investment of 2.2 million 2016 2.5 million was made during the year.
+Amortisation of 2.4 million 2016 2.3 million and costs not capitalised of 1.5 million 2016 2.4 million were charged to the Statement of Comprehensive Income during the year.
+Employees
+The quality and commitment of the Groups employees has played a major role in the Companys progress.
+This has been demonstrated in many ways including strong customer satisfaction the development of new product offerings and the flexibility employees have shown in adapting to changing business requirements.
+The Group operates sales commission incentive bonus plans and share option plans to provide incentives for achievements which add value to the business.
+Post balance sheet event On 5 April 2018 Corero will announce a conditional placing and subscription to raise 4.0 million 5.6 million before expenses.
+This Equity Fund Raise is subject to shareholder approval at a general meeting of the Company on 26 April 2018.
+Annual General Meeting A circular including the notice convening the AGM together with the details of the business to be considered will be sent to shareholders in due course.
+Auditors
+In so far as each Director is aware there is no relevant audit information of which the Companys auditors are unaware and the Directors have taken all the steps that they ought to have taken to make themselves aware of any relevant audit information and to establish that the Companys auditors are aware of that information.
+By order of the Board Duncan Swallow Company Secretary 4 April 2018 According to Gartner the cybersecurity industry will break another record in 2017 for spendinganalysts predict organizations worldwide will shell out 90 billion.
+Despite this increased spending the cost of cybercrime continues to outpace investments in enterprise security and risk products in 2016 cybercrime cost the worldwide economy 450 billion.
+Cybercrime is a dark industry and it is making money hand over fist by probing for weaknesses in enterprise security infrastructure.
+NSS Labs January 2018 Directors Report continued 29 Strategic Report Financial Statements Governance Corporate Directory Statement of Directors Responsibilities The Directors are responsible for preparing the Annual Report and Financial Statements in accordance with applicable law and regulations.
+Company law requires the Directors to prepare financial statements for each financial year.
+Under that law the Directors have elected to prepare the Group and Company financial statements in accordance with International Financial Reporting Standards as adopted by the European Union IFRSs.
+The Directors have chosen to prepare the Company financial statements in accordance with
+Under company law the Directors must not approve the financial statements unless they give a true and fair view of the state of affairs of the Group and parent company and of the profit or loss of the Group for that period.
+The Directors are also required to prepare financial statements in accordance with the rules of the London Stock Exchange for companies trading securities on the AIM.
+In preparing these financial statements the Directors are required to select suitable accounting policies and then apply them consistently make judgements and estimates that are reasonable and prudent state whether they have been prepared in accordance with IFRSs as adopted by the European Union subject to any material departures disclosed and explained in the financial statements and prepare the financial statements on the going concern basis unless it is inappropriate to presume that the Group will continue in business.
+The Directors are responsible for keeping adequate accounting records that are sufficient to show and explain the Groups transactions and disclose with reasonable accuracy at any time the financial position of the Group and enable them to ensure that the financial statements comply with the Companies Act 2006.
+They are also responsible for safeguarding the assets of the Group and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+The Directors are responsible for ensuring the annual report and the financial statements are made available on a website.
+Financial statements are published on the Companys website in accordance with legislation in the United Kingdom governing the preparation and dissemination of financial statements which may vary from legislation in other jurisdictions.
+The maintenance and integrity of the Companys website is the responsibility of the Directors.
+The
+Directors responsibility also extends to the ongoing integrity of the financial statements contained therein.
+Independent Auditors Report
+Opinion
+We have audited the financial statements of Corero Network Security plc the parent company and its subsidiaries the Group for the year ended 31 December 2017 which comprise the consolidated statement of comprehensive income the consolidated statement of financial position the company statement of financial position the consolidated statement of cash flows the consolidated statement of changes in equity the company statement of changes in equity and notes to the financial statements including a summary of significant accounting policies.
+The financial reporting framework that has been applied in the preparation of the Group financial statements is applicable law and International Financial Reporting Standards IFRSs as adopted by the European Union.
+The financial reporting framework that has been applied in the preparation of the parent company financial statements is applicable law and United Kingdom Accounting Standards including Financial Reporting Standard 101 Reduced Disclosure Framework United Kingdom Generally Accepted Accounting Practice.
+In our opinion the financial statements give a true and fair view of the state of the Groups and of the parent companys affairs as at 31 December 2017 and of the Groups loss for the year then ended the Group financial statements have been properly prepared in accordance with IFRSs as adopted by the European Union the parent company financial statements have been properly prepared in accordance with United Kingdom Generally Accepted Accounting Practice and the financial statements have been prepared in accordance with the requirements of the Companies Act 2006.
+Basis for opinion We conducted our audit in accordance with International Standards on Auditing UK ISAs UK and applicable law.
+Our responsibilities under those standards are further described in the Auditors responsibilities for the audit of the financial statements section of our report.
+We are independent of the Group and the parent company in accordance with the ethical requirements that are relevant to our audit of the financial statements in the UK including the FRCs Ethical Standard as applied to listed entities and we have fulfilled our other ethical responsibilities in accordance with these requirements.
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+Material uncertainty related to going concern We draw attention to note 2 in the financial statements which states that the Group and the parent company is reliant on securing additional funding which it has planned to secure by means of an Equity Fund Raise and Bank Loan.
+The planned Equity Fund Raise is subject to Corero shareholder approval at a General Meeting which will be convened after the date of these financial statements and may or may not be forthcoming.
+In addition the Company has received a credit approved Bank Loan offer which is subject to final agreement of loan documentation and is contingent on the Equity Fund Raise.
+If finalised it will only be drawn down after the date of these financial statements.
+These events or conditions indicate that material uncertainties exist that may cast significant doubt on the Group and the parent companys ability to continue as a going concern.
+Our opinion is not modified in respect of this matter.
+Given the conditions and uncertainties noted above we considered going concern to be a key audit matter.
+We have performed the following work as part of our audit we reviewed the terms of the Bank Loan and Equity Fund Raise documents to understand the conditions attached to both the Bank Loan and Equity Fund Raise we reviewed the Bank Loan covenant terms and whether these are likely to be met based upon cash flow forecasts we considered whether the terms of the Bank Loan and Equity Fund Raise are in line with the disclosures in the financial statements and we reviewed and challenged the Directors forecasts used to assess the Groups and Companys ability to meet its financial obligations as they fall due for a period of at least 12 months from the date of approval of the financial statements taking in to account the additional funding expected to be received.
+Use of our report This report is made solely to the parent companys members as a body in accordance with Chapter 3 of Part 16 of the Companies Act 2006.
+Our audit work has been undertaken so that we might state to the parent companys members those matters we are required to state to them in an auditors report and for no other purpose.
+To the fullest extent permitted by law we do not accept or assume responsibility to anyone other than the parent company and the parent companys members as a body for our audit work for this report or for the opinions we have formed.
+Corero Network Security plc Annual Report and Accounts 2017 30 Key audit matters In addition to the matter described in the material uncertainty related to going concern section key audit matters are those matters that in our professional judgment were of most significance in our audit of the financial statements of the current period and include the most significant assessed risks of material misstatement whether or not due to fraud we identified including those which had the greatest effect on the overall audit strategy the allocation of resources in the audit and directing the efforts of the engagement team.
+These matters were addressed in the context of our audit of the financial statements as a whole and in forming our opinion thereon and we do not provide a separate opinion on these matters.
+Key audit matter How we addressed the Key Audit Matter in the Audit Revenue recognition See accounting policy at note 2.5.
+The Group generates revenue primarily from the sale of hardware and associated software and related maintenance and support contracts.
+It does this through arrangements with direct endusers either through the sale of hardware and a software licence or by selling the software asaservice as well as to distributors.
+We considered there to be a significant audit risk arising from the allocation of the value of the transaction between the multiple elements or deliverables included in the sale as well as the timing of revenue recognition with regard to proper deferral of support revenues.
+Our audit procedures included assessing the appropriateness of the revenue recognition policy in accordance with IAS 18.
+We gained an understanding of the detail of the Groups methodology in determining the fair value of the different deliverables in multiple element arrangements as set out in note 2.5 and interrogated the approach comparing the quantitative measures by which BESP was determined to actual pricing practices used by the company to ensure it provided a suitable basis on which to recognise revenues.
+For each type of revenue we selected a sample of contracts for testing.
+We assessed whether the revenue recognised was calculated in accordance with the Groups accounting policy.
+We also tested the accuracy of the deferred income balance which arises most commonly on deferred maintenance and support income and tested a sample of transactions around the year end to ensure that they were recorded in the correct period.
+Finally in relation to the Groups SaaS revenues a sample of contracts was obtained and the revenue recognition in relation to these contracts was confirmed as appropriate.
+Goodwill and intangible asset impairment risk See accounting policy at note 2.12 and note 8.
+In accordance with IAS 36 goodwill is tested for impairment annually and other noncurrent tangible assets with finite lives are tested for impairment whenever an indicator of impairment arises.
+Management performed an impairment review over its sole cash generating unit CGU  Corero Network Security CNS  as at 31 December 2017 using a discounted cash flow model to calculate fair value less costs to sell.
+The impairment review necessitates significant management judgement over the timing and degree of certainty attaching to future net cash flows and the rate at which those cash flows should be discounted to present value.
+The recoverable amount of the Groups CNS CGU was assessed as being higher than its carrying value at the reporting date.
+Management concluded that the goodwill and intangible assets were not impaired at the reporting date.
+Our work on the impairment reviews prepared by management had a dual focus firstly to ensure the model was mechanically accurate and prepared in accordance with the detailed requirements of IAS36 and secondly to ensure that the assumptions regarding future cash flows and the rate at which they had been discounted were appropriate to the Groups circumstances.
+We used specialists in order to assist with our interrogation of the model and to support our assessment of the treatment of future tax savings arising from available losses.
+This work also included comparison to industry data historic trading and macroeconomic factors.
+Our audit procedures relating to the review of operating cash flows included verification of the existence of selected future sales opportunities which are expected to drive growth in 2018 as well as a comparison of previous performance to expectations.
+We took into account previous shortfalls against sales targets and discussed key sensitivities with those charges with governance.
+Fundamental to this evaluation was a comparison of the forecasts in the impairment review to recent financial performance and budgets approved by the Board verifying that the sensitivities prepared by management were sufficiently challenging.
+We also examined development cost intangible assets and property plant and equipment to determine that there no additional impairment indicators in respect of specific assets within the CGU.
+Strategic Report Financial Statements Governance Corporate Directory Independent Auditors Report continued to the members of Corero Network Security plc Our application of materiality We apply the concept of materiality both in planning and performing our audit and in evaluating the effect of misstatements.
+For planning we consider materiality to be the magnitude by which misstatements including omissions could influence the economic decisions of reasonable users that are taken on the basis of the financial statements.
+In order to reduce to an appropriately low level the probability that any misstatements exceed materiality we use a lower materiality level performance materiality to determine the extent of testing needed.
+Importantly misstatements below these levels will not necessarily be evaluated as immaterial as we also take account of the nature of identified misstatements and the particular circumstances of their occurrence when evaluating their effect on the financial statements as a whole.
+Level of materiality applied and rationale We consider EBITDA to be the most appropriate performance measure for the basis of materiality in respect of the audit of the Group as this measure reflects the Groups profitability excluding the impact of nonoperating charges.
+EBITDA is calculated for this purpose as Operating Loss adjusted for depreciation and amortisation.
+Using this benchmark we set materiality at 291000 2016 255000 being 5% of EBITDA.
+Materiality in respect of the audit of the parent company has been set at 145000 based on 50% of Group materiality.
+Performance materiality was set at 75% of materiality for both the Group and parent company audits.
+In setting the level of performance materiality we considered a number of factors including the expected total value of known and likely misstatements based on past experience and other factors and managements attitude towards proposed adjustments.
+Component materiality We set materiality for the Corero Network Security Inc. of the Groups external revenue generating activities.
+UK components were audited to a lower materiality of between 10% and 50% of Group materiality.
+In the audit of each component we further applied a performance materiality level of 75% of the component materiality level to our testing to ensure that the risk of errors exceeding component materiality was appropriately mitigated.
+Agreement with the Audit Committee We agreed with the Audit Committee that we would report to the Committee all audit differences individually in excess of 14000 2016 13000.
+We also agreed to report differences below this threshold that in our view warranted reporting on qualitative grounds.
+An overview of the scope of our audit Our Group audit was scoped by obtaining an understanding of the Group and its environment including the Groups system of internal control and assessing the risks of material misstatement in the financial statements at the Group level.
+We obtained an understanding of the entitylevel controls of the Group as a whole which assisted us in identifying and assessing risks of material misstatement due to fraud or error as well as assisting us in determining the most appropriate audit strategy.
+A full scope audit was performed for each component included in the consolidation.
+All audit work was undertaken by the Group audit team.
+Other information The directors are responsible for the other information.
+The other information comprises the information included in the annual report other than the financial statements and our auditors report thereon.
+Our opinion on the financial statements does not cover the other information and except to the extent otherwise explicitly stated in our report we do not express any form of assurance conclusion thereon.
+In connection with our audit of the financial statements our responsibility is to read the other information and in doing so consider whether the other information is materially inconsistent with the financial statements or our knowledge obtained in the audit or otherwise appears to be materially misstated.
+If we identify such material inconsistencies or apparent material misstatements we are required to determine whether there is a material misstatement in the financial statements or a material misstatement of the other information.
+If based on the work we have performed we conclude that there is a material misstatement of this other information we are required to report that fact.
+We have nothing to report in this regard.
+Opinions on other matters prescribed by the Companies Act 2006 In our opinion based on the work undertaken in the course of the audit the information given in the strategic report and the directors report for the financial year for which the financial statements are prepared is consistent with the financial statements and the strategic report and the directors report have been prepared in accordance with applicable legal requirements.
+Corero Network Security plc Annual Report and Accounts 2017 32 Matters on which we are required to report by exception In the light of the knowledge and understanding of the Group and the parent company and its environment obtained in the course of the audit we have not identified material misstatements in the strategic report or the directors report.
+We have nothing to report in respect of the following matters in relation to which the Companies Act 2006 requires us to report to you if in our opinion adequate accounting records have not been kept by the parent company or returns adequate for our audit have not been received from branches not visited by us or the parent company financial statements are not in agreement with the accounting records and returns or certain disclosures of directors remuneration specified by law are not made or we have not received all the information and explanations we require for our audit.
+Responsibilities of directors As explained more fully in the directors responsibilities statement the directors are responsible for the preparation of the financial statements and for being satisfied that they give a true and fair view and for such internal control as the directors determine is necessary to enable the preparation of financial statements that are free from material misstatement whether due to fraud or error.
+In preparing the financial statements the directors are responsible for assessing the Groups and the parent companys ability to continue as a going concern disclosing as applicable matters related to going concern and using the going concern basis of accounting unless the directors either intend to liquidate the Group or the parent company or to cease operations or have no realistic alternative but to do so.
+Auditors responsibilities for the audit of the financial statements Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement whether due to fraud or error and to issue an auditors report that includes our opinion.
+Reasonable assurance is a high level of assurance but is not a guarantee that an audit conducted in accordance with ISAs UK will always detect a material misstatement when it exists.
+Misstatements can arise from fraud or error and are considered material if individually or in the aggregate they could reasonably be expected to influence the economic decisions of users taken on the basis of these financial statements.
+A further description of our responsibilities for the audit of the financial statements is located on the Financial Reporting Councils website at www. rc. iteauditorsresponsibilities.
+This description forms part of our auditors report.
+Julian Frost Senior Statutory Auditor For and on behalf of BDO LLP Statutory Auditor
+4 April 2018 BDO LLP is a limited liability partnership registered in England and Wales with registered number OC.
+Strategic Report Financial Statements Governance Corporate Directory Consolidated Statement of Comprehensive Income for the year ended 31 December 2017
+Total
+Total
+Revenue 4 8531 8772 Cost of sales 2126 2071 Gross profit 6405 6701 Operating expenses before highlighted items 12157 11847 Depreciation and amortisation of intangible assets 91011 2938 3128 Impairment of goodwill 8  8992 Operating expenses 15095 23967 Operating loss 8690 17266 Finance income 5 9 Finance costs 4 6 Loss before taxation 8689 17263 Taxation 6 116 85 Loss for the year 8573 17178 Other comprehensive expense Items that will or may be reclassified to profit and loss Difference on translation of UK functional currency entities 805 2355 Total comprehensive expense for the year 7768 19533 Total loss for the year attributable to Equity holders of the parent 8573 17178 Total 8573 17178 Total comprehensive expense for the year attributable to Equity holders of the parent 7768 19533 Total 7768 19533 Basic and diluted loss per share
+Cents
+Basic and diluted loss per share 7 3.1 9.0 DDoS asaservice depreciation charged to cost of sales The notes on pages 40 to 63 form part of these financial statements.
+Corero Network Security plc Annual Report and Accounts 2017 34 Consolidated Statement of Financial Position as at 31 December 2017
+Assets
+Noncurrent assets Goodwill 8 8991 8991 Acquired intangible assets 9 37 82 Capitalised development expenditure 10 7664 7901 Property plant and equipment 11 770 970 Trade and other receivables 14 76 80 17538 18024 Current assets Inventories 13 94 65 Trade and other receivables 14 2955 2227 Cash and cash equivalents 1365 2940 4414 5232
+Current Liabilities Trade and other payables 15 1305 1728 Deferred income 18 2896 2457 4201 4185 Net current assets 213 1047 Noncurrent liabilities Deferred income 18 287 855 Net assets 17464 18216 Total equity attributable to owners of the parent Ordinary share capital 20 4556 3119 Capital redemption reserve 7051 7051 Share premium 21 73239 67681 Share options reserve 322 301 Translation reserve 1318 2123 Retained earnings 66386 57813 Total equity 17464 18216 These financial statements were approved by the Board of Directors on 4 April 2018 and signed on their behalf.
+Andrew Miller
+The notes on pages 40 to 63 form part of these financial statements.
+Strategic Report Financial Statements Governance Corporate Directory Company Statement of Financial Position Company number as at 31 December 2017
+Assets
+Noncurrent assets Investments in subsidiaries 12 21015 21137 Trade and other receivables 14 7043 5409 28058 26546 Current assets Cash and cash equivalents 680 2504 Net assets 28738 29050
+Ordinary share capital 20 4556 3119 Capital redemption reserve 7051 7051 Share premium 21 73239 67681 Share options reserve 322 301 Translation reserve 10019 13157 Retained earnings 46411 35945 Total equity 28.
+738 29050 The Company financial statements were prepared in accordance with Financial Reporting Standard 101 Reduced Disclosure
+The Company has taken advantage of the following disclosure exemptions The requirements of IAS 7 Statement of Cash Flows IFRS 7 Financial Instruments Disclosures and IAS 24 Related Party
+The Company has taken advantage of section 408 of the Companies Act 2006 and has not included an income statement in these financial statements.
+The parent Companys loss for the year was 10.5 million 2016 loss 20.0 million.
+These financial statements were approved by the Board of Directors on 4 April 2018 and signed on their behalf.
+Andrew Miller
+The notes on pages 40 to 63 form part of these financial statements.
+Corero Network Security plc Annual Report and Accounts 2017 36 Consolidated Statement of Cash Flows for the year ended 31 December 2017 Cash flows from operating activities Note
+Loss for the year 8573 17178 Adjustments for noncash movements Amortisation of acquired intangible assets 9 55 325 Impairment loss on intangible assets 8  8992 Amortisation and impairment of capitalised development expenditure 10 2408 2252 Depreciation 11 548 551 Loss on sale of property plant and equipment  9 Finance income 5 9 Finance expense 4 6 Taxation 6 116 85 Qualifying research and development expenditure tax credit 116 Sharebased payment charge 25 21 19 Decrease in inventories and asaservice assets 127 596 Increasedecrease in trade and other receivables 33 1605 Decrease in payables 596 2623 Net cash used in operating activities 6044 5540 Cash flows from investing activities Purchase of intangible assets 9 10 32 Capitalised development expenditure 10 2171 2533 Purchase of property plant and equipment 11 497 644 Net cash used in investing activities 2678 3209 Cash flows from financing activities Net proceeds from issue of ordinary share capital 6995 11392 Finance income 5 9 Finance expense 4 6 Net cash from financing activities 6996 11395 Effects of exchange rates on cash and cash equivalents 151 2412 Net decreaseincrease in cash and cash equivalents 1575 234 Cash and cash equivalents at 1 January 2940 2706 Cash and cash equivalents at 31 December 1365 2940 The notes on pages 40 to 63 form part of these financial statements.
+Strategic Report Financial Statements Governance Corporate Directory Consolidated Statement of Changes in Equity for the year ended 31 December 2017
+Capital redemption reserve
+Share options reserve
+Retained earnings
+1 January 2016 2573 7051 56835 282 232 40635 26338 Loss for the year      17178 17178 Other comprehensive income     2355  2355 Total comprehensive expense for the year     2355 17178 19533 Contributions by and distributions to owners Sharebased payments    19   19 Issue of share capital 546  10846    11392 Total contributions by and distributions to owners 546  10846    11392 31 December 2016 and 1 January 2017 3119 7051 67681 301 2123 57813 18216 Loss for the year      8573 8573 Other comprehensive income     805  805 Total comprehensive expense for the year     805 8573 7768 Contributions by and distributions to owners Sharebased payments    21   21 Issue of share capital 1437  5558    6995 Total contributions by and distributions to owners 1437  5558 21   7016 31 December 2017 4556 7051 73239 322 1318 66386 17464 The share capital comprises the nominal values of all shares issued.
+The capital redemption reserve comprises the amount transferred from deferred shares on redemption of the deferred shares.
+The share premium account comprises the amounts subscribed for share capital in excess of the nominal value.
+The share options reserve represents the cost to the Group of share options.
+The translation reserve arises on retranslating the net assets of UK operations into US dollars.
+The retained earnings are all other net gains and losses and transactions with owners not recognised elsewhere.
+The notes on pages 40 to 63 form part of these financial statements.
+Corero Network Security plc Annual Report and Accounts 2017 38 Company Statement of Changes in Equity for the year ended 31 December 2017
+Capital redemption reserve
+Share options reserve
+Retained earnings
+1 January 2016 2573 7051 56835 282 3755 15970 47016 Loss for the year      19975 19975 Other comprehensive income     9402  9402 Total comprehensive expense for the year     9402 19975 29377 Contributions by and distributions to owners Sharebased payments    19   19 Issue of share capital 546  10846    11392 Total contributions by and distributions to owners 546  10846 19   11411 31 December 2016 and 1 January 2017 3119 7051 67681 301 13157 35945 29050 Loss for the year      10466 10466 Other comprehensive income     3138  3138 Total comprehensive expense for the year     3138 10466 7328 Contributions by and distributions to owners Sharebased payments    21   21 Issue of share capital 1437  5558    6995 Total contributions by and distributions to owners 1437  5558 21   7016 31 December 2017 4556 7051 73239 322 10019 46411 28738 The notes on pages 40 to 63 form part of these financial statements.
+Strategic Report Financial Statements Governance Corporate Directory Notes to the Financial Statements General information Presentation currency These consolidated financial statements are presented in US dollars  which represents the presentation currency of the Group.
+The average GBP sterling GBP exchange rate used for the conversion of the Statement of Comprehensive Income for the 12 months ended 31 December 2017 was 1.29 2016 1.36.
+The closing GBP exchange rate used for the conversion of the Groups assets and liabilities at 31 December 2017 was 1.35 2016 1.23.
+Corero Network Security plc is a public limited company incorporated in the United Kingdom under the Companies Act 2006 and registered in England and Wales.
+The functional currency of the Company is GBP.
+Significant accounting policies 2.1 Basis of preparation The Group financial statements have been prepared in accordance with EU endorsed International Financial Reporting Standards IFRS International Financial Reporting Interpretations Committee IFRIC interpretations and those parts of the Companies Act 2006 applicable to companies reporting under IFRS.
+The parent Company financial statements have been prepared in accordance with FRS 101 Financial Reporting Standard 101 Reduced Disclosure Framework.
+2.2 Going Concern The financial statements have been prepared on a going concern basis.
+The Directors have prepared detailed income statement balance sheet and cash flow projections for the period to 31 December 2019.
+These include cash of 4.0 million 5.6 million to be raised by the proposed Equity Fund Raise to be announced by the Company on 5 April 2018 and Bank Loan of 3.0 million 4.2 million which is expected to be drawn down following the completion of the Equity Fund Raise.
+The cash flow projections have been subjected to sensitivity analysis at the revenue cost and combined revenue and cost levels.
+The cash flow projections show that the Group and Company will maintain a positive cash balance until at least December 2019.
+A circular containing a notice of General Meeting will be sent to shareholders on 5 April 2018.
+At the General Meeting to be convened on 16 April 2018 Corero shareholders will be asked to approve the Equity Fund Raise.
+Since the participants in the Equity Fund Raise include shareholders which at 4 April 2018 held more than 50% of the Companys issued shares it is anticipated that the resolutions to approve the Equity Fund Raise will be duly passed.
+The Board are confident that the Equity Fund Raise will be completed successfully.
+On this basis the Directors have therefore concluded that it is appropriate to prepare the financial statements on a going concern basis.
+However in the absence of certainty that the Equity Fund Raise and Bank Loan will successfully complete as anticipated a material uncertainty exists which may cast significant doubt over the Groups and Companys ability to continue as a going concern.
+The financial statements do not include the adjustments that would result if the Group and Company was unable to continue as a going concern.
+2.3 Basis of consolidation The consolidated financial statements incorporate the results assets liabilities and cash flows of the Company and each of its subsidiaries for the financial year ended 31 December 2017.
+Subsidiaries are entities controlled by the Group.
+Control is deemed to exist when the Group has all of the following elements a power over the subsidiary b exposure or rights to variable returns from that subsidiary c ability to use its power to affect the amount of the return from the subsidiary.
+The results assets liabilities and cash flows of subsidiaries are included in the consolidated financial statements from the date control commences until the date that control ceases.
+Where necessary adjustments are made to the financial statements of subsidiaries to bring the accounting policies used into line with those used by the Group.
+Intragroup balances and transactions are eliminated on consolidation.
+2.4 Business combinations The acquisition method is used to account for all acquisitions.
+The cost of an acquisition is measured at the fair values on the date of exchange of assets given liabilities incurred or assumed and equity instruments issued.
+At the date of acquisition the identifiable assets and liabilities and contingent liabilities of a subsidiary are measured at their fair values.
+Any excess of the cost of acquisition over the fair values of the identifiable net assets acquired is recognised as goodwill.
+Corero Network Security plc Annual Report and Accounts 2017 40 2.5 Revenue Revenue is measured at the fair value of the consideration received or receivable and represents the amounts receivable for services provided in the normal course of business net of all related discounts and sales tax.
+The Group has adopted the following policy in respect of revenue recognition Hardware and Software Products When a sales arrangement contains multiple elements such as combined hardware and software products licenses andor services the Group allocates revenue to each element based on a selling price hierarchy having evaluated each deliverable in an arrangement to determine whether they represent separate units of accounting.
+A deliverable constitutes a separate unit of accounting when it has standalone value.
+The selling price for a deliverable is based on its vendor specific objective evidence VSOE if available third party evidence TPE if VSOE is not available or best estimated selling price BESP if neither VSOE nor TPE is available.
+In multiple element arrangements where morethanincidental software deliverables are included revenue is allocated to each separate unit accounting for each of the nonsoftware deliverables and to the software deliverables as a group using the relative selling prices of each of the deliverables in the arrangement based on the aforementioned selling price hierarchy.
+The Group establishes the VSOE of selling price using the price charged for a deliverable when sold separately.
+The TPE of selling price is established by evaluating similar and interchangeable competitor products or services in standalone sales to similarly situated customers.
+As Coreros hardware product with embedded software is generally not sold on a standalone basis the Company determined that VSOE cannot be obtained.
+Management has also determined that third party pricing for similar products sold separately is not obtainable or reliable so TPE cannot be used therefore BESP is used note 3.
+DDoS Protection asaService contracts Revenue is recognised on a straight line basis over the life of the agreement.
+Consulting and Professional Services Revenue from the provision of consultancy and professional services is recognised as the work is performed.
+Maintenance and Support Services Revenue is recognised on a straight line basis over the life of the agreement.
+2.6 Government grants Government grants are recognised at fair value when there is reasonable assurance that the Group will comply with the conditions attaching to them and the grant will be received.
+Grants related to purchase of assets are treated as deferred income and allocated to the Statement of Comprehensive Income over the useful lives of the related assets while grants related to expenses are netted off against the related item of expenditure in the Statement of Comprehensive Income  Profit and Loss.
+2.7 Cost of sales Cost of sales includes all direct costs associated with revenue generation including goods directly related to revenue services delivery operation costs DDoS asaservice depreciation and amounts charged by external third parties for services.
+Examples of such costs would include but not be limited to royalties and third party hardware and software costs.
+2.8 Foreign currencies Transactions in foreign currencies are translated at the exchange rate ruling at the date of each transaction.
+Foreign currency monetary assets and liabilities are retranslated using the exchange rates at the reporting date.
+Gains and losses arising from changes in exchange rates after the date of the transaction are recognised in profit or loss in the Statement of Comprehensive Income.
+Nonmonetary assets and liabilities that are measured in terms of historical cost in a foreign currency are translated at the exchange rate at the date of the original transaction.
+In the consolidated financial statements the net assets of the Groups UK operations are translated from GBP into US dollars at the exchange rate at the reporting date.
+Income and expense items are translated into US dollars at the average exchange rates for the period.
+The resulting exchange differences are recognised in the translation reserve.
+Strategic Report Financial Statements Governance Corporate Directory 2.
+Significant accounting policies continued 2.9 Intangible assets Internally generated intangible assets The Groups internally generated intangible asset relates to its development expenditure.
+Development expenditure is capitalised only when it is probable that future economic benefit will result from the project and the following criteria are met the technical feasibility of the product has been ascertained adequate technical financial and other resources are available to complete and sell or use the intangible asset the Group can demonstrate how the intangible asset will generate future economic benefits and the ability to use or sell the intangible asset can be demonstrated it is the intention of management to complete the intangible asset and use it or sell it and the development costs can be measured reliably.
+Expenditure not meeting these criteria is expensed in the Statement of Comprehensive Income  Profit and Loss.
+After initial recognition internally generated intangible assets are carried at cost less accumulated amortisation and any impairment losses.
+Amortisation is charged once the asset is capable of generating economic benefits.
+Acquired intangible assets Identifiable intangible assets acquired as part of a business combination are initially recognised separately from goodwill irrespective of whether the assets have been recognised by the acquiree before the business combination.
+An intangible asset is considered identifiable only if it is separable or if it arises from contractual or other legal rights regardless of whether those rights are transferable or separable from the entity or from other rights and obligations.
+Intangible assets acquired as part of a business combination and recognised by the Group are computer software customer contracts and the related customer relationships.
+Purchased computer software is carried at cost less accumulated amortisation and any impairment losses.
+Customer contracts and the related customer relationships are carried at cost less accumulated amortisation and any impairment losses.
+Amortisation
+Intangible assets are amortised on a straight line basis to reduce their carrying value to zero over their estimated useful lives.
+The following useful lives were applied during the year Computer software acquired  3 years straight line Capitalised development expenditure  5 years straight line Amortisation costs are included within operating expenses in the Statement of Comprehensive Income.
+Methods of amortisation and useful lives are reviewed and if necessary adjusted at each reporting date.
+2.10 Property plant and equipment Depreciation commences when an asset is available for use.
+Depreciation is calculated so as to write off the cost or value of an asset net of anticipated disposal proceeds over the useful life of that asset as follows Leasehold improvements  period of the lease straight line Computer equipment evaluation units and DDoS Protection asaservice units  3 years straight line Fixtures and fittings  5 years straight line Property plant and equipment is stated at cost less accumulated depreciation and any impairment losses.
+Cost comprises the purchase cost of property plant and equipment together with any directly attributable costs.
+Evaluation units are used by customers during proof of concept trials.
+Evaluation units are stated at cost less accumulated depreciation.
+When an evaluation unit is retained by a customer as part of a sale the net book value of the evaluation unit is charged to cost of sales.
+DDoS asaservice depreciation is charged to cost of sales.
+Subsequent costs are included in an assets carrying value or are recognised as a separate asset when it is probable that future economic benefits associated with the additional expenditure will flow to the Group and the cost of the item can be measured reliably.
+All other costs are charged to the Statement of Comprehensive Income  Profit and Loss as incurred.
+Methods of depreciation residual values and useful lives are reviewed and if necessary adjusted at each balance sheet date.
+The gain or loss arising from the disposal or retirement of an item of property plant and equipment is determined as the difference between the net disposal proceeds and the carrying amount of the item and is included in the Statement of Comprehensive Income  Profit and Loss.
+Notes to the Financial Statements continued Corero Network Security plc Annual Report and Accounts 2017 42 2.11 Inventory Inventory is stated at the lower of cost or net realisable value.
+Cost is computed using standard cost which approximates actual cost on a firstin firstout basis.
+Rapid technological change and new product introductions and enhancements could result in excess or obsolete inventory the value of which may not be recoverable.
+To minimise this risk the Group evaluates inventory levels and expected usage on a periodic basis and records valuation allowances as required.
+2.12 Impairment At each reporting date the Group assesses whether there is any indication that its assets have been impaired.
+If any such indication exists the recoverable amount of the asset is estimated in order to determine the extent of any impairment.
+If it is not possible to estimate the recoverable amount of the individual asset the recoverable amount of the cashgenerating unit to which the asset belongs is determined.
+The recoverable amount of an asset or a cashgenerating unit is the higher of its fair value less costs to sell and its value in use.
+The recoverable amount is calculated using the present value of the future cash flows expected to be derived from an asset or cashgenerating unit.
+This present value is derived using a cost of capital rate that reflects current market assessments of the time value of money and of the risks specific to the asset for which future cash flow estimates have not been adjusted.
+If the recoverable amount of an asset is less than its carrying amount the carrying amount of the asset is reduced to its recoverable amount.
+That reduction is recognised as an impairment loss.
+An impairment loss relating to assets carried at cost less any accumulated depreciation or amortisation is recognised immediately in the Statement of Comprehensive Income  Profit and Loss.
+Goodwill acquired in a business combination is from the acquisition date allocated to each of the cashgenerating units or groups of cashgenerating units that are expected to benefit from the synergies of the combination.
+Goodwill is tested for impairment at least annually and whenever there is an indication that the asset may be impaired.
+An impairment loss is recognised for cashgenerating units if the recoverable amount of the unit is less than the carrying amount of the unit.
+The impairment loss is allocated to reduce the carrying amount of the assets of the unit by first reducing the carrying amount of any goodwill allocated to the cashgenerating unit and then reducing the carrying amounts of the other assets of the unit pro rata.
+If an impairment loss subsequently reverses the carrying amount of the asset is increased to the revised estimate of its recoverable amount but limited to the carrying amount that would have been determined had no impairment loss been recognised in prior years.
+A reversal of an impairment loss is recognised in the Statement of Comprehensive Income  Profit and Loss.
+Impairment losses on goodwill are not subsequently reversed.
+2.13 Leases Where substantially all of the risks and rewards incidental to ownership of a leased asset are transferred to the Company a finance lease the asset is treated as if it had been purchased outright.
+The amount initially recognised as an asset is the lower of the fair value of the leased property and the present value of the minimum lease payments payable over the term of the lease.
+The corresponding lease commitment is shown as a liability.
+Lease payments are analysed between capital and interest.
+The interest element is charged to the Statement of Comprehensive Income  Profit and Loss over the period of the lease and is calculated so that it represents a constant proportion of the lease liability.
+The capital element reduces the balance owed to the lessor.
+Where substantially all of the risks and rewards incidental to ownership are not transferred to the Company an operating lease the total rentals payable under the lease are charged to the Statement of Comprehensive Income  Profit and Loss on a straightline basis over the lease term.
+The aggregate benefit of lease incentives are recognised as a reduction of the rental expense over the lease term on a straightline basis.
+2.14 Investments in subsidiaries In the Companys separate financial statements investments in subsidiaries are carried at cost less any impairment provisions.
+2.15 Taxation The tax expense represents the sum of current tax and deferred tax.
+Strategic Report Financial Statements Governance Corporate Directory 2.
+Significant accounting policies continued Current tax Current tax is based on taxable profit for the year and is calculated using tax rates enacted or substantively enacted at the reporting date.
+Taxable profit differs from accounting profit either because items are taxable or deductible in periods different to those in which they are recognised in the financial statements or because they are never taxable or deductible.
+Deferred tax Deferred tax on temporary differences at the reporting date between the tax bases of assets and liabilities and their carrying amounts for financial reporting purposes is accounted for using the balance sheet liability method.
+Using the balance sheet liability method deferred tax liabilities are recognised in full for all taxable temporary differences and deferred tax assets are recognised to the extent that it is probable that taxable profits will be available against which deductible temporary differences can be utilised.
+However if the temporary difference arises from the initial recognition of goodwill or the initial recognition of an asset or liability in a transaction other than a business combination that at the time of the transaction affects neither accounting nor taxable profit it is not recognised as deferred tax asset or liability.
+Deferred taxation is measured at the tax rates that are expected to apply when the asset is realised or the liability settled based on tax rates and laws enacted or substantively enacted at the reporting date.
+2.16 Provisions A provision is recognised when as a result of a past event the Group has a legal or constructive obligation it is probable that an outflow of resources embodying economic benefits will be required to settle the obligation and a reliable estimate of the amount of such an obligation can be made.
+Provisions are measured at the best estimate of the expenditure required to settle the obligation at the reporting date.
+When the effect is material the expected future cash flows required to settle the obligation are discounted at the pretax rate that reflects the current market assessments of the time value of money and the risks specific to the obligation.
+2.17 Postretirement benefits The Group makes contributions in respect of certain employees to defined contribution pension plans under which it is required to pay fixed contributions to group and personal pension funds.
+Contributions to the schemes are based on a proportion of the employees earnings and are charged to the Statement of Comprehensive Income  Profit and Loss when incurred.
+The Group has no obligation beyond these contributions.
+2.18 Financial instruments The Group classifies financial instruments or their component parts on initial recognition as a financial asset a financial liability or an equity instrument in accordance with the substance of the contractual arrangement.
+Financial assets and financial liabilities are recognised in the Groups Statement of Financial Position when the Group becomes party to the contractual provisions of the instrument.
+The particular recognition and measurement methods adopted for the Groups financial instruments are disclosed below Trade and other receivables Trade and other receivables are stated at their fair value at time of initial recognition reflecting where material the time value of money.
+A provision for impairment of trade receivables is established when there is evidence that the Group will not be able to collect all amounts due according to the original terms of these receivables.
+The amount of the provision is the difference between the carrying value and the present value of estimated future cash flows discounted at the original effective interest rate.
+Cash and cash equivalents Cash and cash equivalents include cash in hand and deposits on call with banks.
+Trade and other payables Trade and other payables are not interest bearing and are stated at their fair value at time of initial recognition.
+Thereafter they are accounted for at amortised cost.
+2.19 Equity instruments An equity instrument is any contract that evidences a residual interest in the assets of the Company after deducting all its liabilities.
+Equity instruments issued by the Company are recorded at the proceeds received net of directly attributable issue costs.
+Notes to the Financial Statements continued Corero Network Security plc Annual Report and Accounts 2017 44 2.20 Employee share option schemes The Group operates an equitysettled sharebased compensation plan.
+The fair value of the employees services received in exchange for the grant of share options is measured at grant date and recognised as an expense on a straight line basis over the vesting period based on the Groups estimate of shares that will eventually vest.
+Fair value is determined by reference to the BlackScholes option pricing model.
+At each reporting date the Group revises its estimate of the number of options that are expected to become exercisable.
+When share options are exercised the proceeds received net of any transaction costs are credited to share capital nominal value and share premium.
+2.21 Receivablesbacked working capital facility The Group has use of a receivablesbacked working capital facility.
+Trade receivables are recognised as the Group retains the significant risks and benefits.
+The related funding is shown as a financial liability and accounted for on an amortised cost basis.
+2.22 Standards and Interpretations not yet effective The following standards and interpretations that have been issued but are not yet effective have not been applied by the Group in these financial statements IFRS 9  Financial Instruments.
+Effective date periods beginning after 1 January 2018 IFRS 15  Revenue from Contracts with Customers.
+Effective date periods beginning after 1 January 2018 IFRS 16  Leases.
+Effective date periods beginning after 1 January 2019 The effect on the financial statements of the application of the standards and interpretations that are expected to have a significant impact or are relevant to the Group is IFRS 15  Revenue from Contracts with Customers The standard requires an analysis of 5 key steps Identify the contract with the customer Identify the performance obligations in the contract Determine the transaction price Allocate the transaction price to the separate performance obligations and Recognise revenue when or as each performance obligation is satisfied.
+The Management have applied the 5 steps to each of the sources of revenue and concluded that no change will be required to the current revenue recognition.
+The standard also requires consideration of the incremental costs of obtaining a contract including sales commission.
+Sales commission relating to the deferred element of a sale will be capitalised and amortised over 5 years which has been assessed as the period of a customer relationship.
+The value of deferred commission at 31 December 2017 not deferred was 0.16 million.
+The Group will adopt the Retrospective Method of adoption for IFRS 15 in the 2018 Financial Statements and restate the operating expenses for the effect of deferred commissions.
+No changes will be made to the reported revenues.
+Management are in the process of evaluating IFRS 9 and 16 and will report on the impact once known.
+Critical accounting judgements and key sources of estimation uncertainty 3.1 Critical judgements in applying the Groups accounting policies In the process of applying the Group accounting policies the following judgements have had a significant effect on the amounts recognised in the financial statements Internally generated research and development costs Management monitors progress of internal research and development projects.
+Judgement is required in distinguishing the research phase from the development phase.
+Development costs are recognised as an asset when all criteria are met and a project has passed the feasibility phase whereas research costs are expensed as incurred.
+Management monitors whether the recognition requirements for development costs continue to be met.
+This is necessary as the economic success of any product development is uncertain.
+3.2 Key accounting estimates and assumptions Key assumptions concerning the future and other key sources of estimation uncertainty that have a significant risk of causing a material adjustment to the carrying amounts of assets and liabilities within the next financial year are as follows Strategic Report Financial Statements Governance Corporate Directory 3.
+Critical accounting judgements and key sources of estimation uncertainty continued Impairment of intangible assets and property plant and equipment The Group tests goodwill at least annually for impairment and whenever there is an indication that the asset may be impaired.
+All other intangible assets and property plant and equipment are tested for impairment when indicators of impairment exist.
+Impairment is determined with reference to the higher of fair value less costs to sell and value in use.
+Fair value less costs to sell is estimated using discounted future cash flows.
+Significant assumptions are made in estimating future cash flows about future events including future market conditions future growth rates and appropriate discount rates.
+Changes in these assumptions could affect the outcome of impairment reviews.
+Details of the main assumptions used in the assessment of the carrying value of the Groups cash generating unit is set out in note 8.
+Impairment of investments and intercompany balances applies to the Company Financial Statements only The Directors have reviewed the carrying value of the intercompany balances and cost of investments in subsidiaries of the Company with reference to current and future trading conditions.
+The investment and intercompany balances between the Company and Corero Network Security Inc. in conjunction with the goodwill impairment review.
+Going Concern The Directors have reviewed the future profit and cash flow projections in conjunction with the current economic climate in order to express an opinion on the adequacy of working capital and the ability to continue as a going concern for the foreseeable future.
+The methodology contained in the projections is detailed in the note 2.2.
+Best Estimated Selling Price  Revenue Recognition On a quarterly basis the Group analyses the selling prices for each deal compared to the current BESP.
+Analysis includes grouping similar deals based on qualitative factors such as customer profile size and region followed by quantitative comparison to the then current BESP.
+BESP fair value prices are adjusted for future quarters if management identifies a pattern of variances greater than 10% between actual selling prices versus the then current BESP.
+Segment reporting Business segments The Group is managed according to one business unit Corero Network Security which makes up the Groups reportable operating segment.
+This business unit forms the basis on which the Group reports its primary segment information to the Board which management consider to be the Chief Operating Decision maker for the purposes of IFRS 8 Operating Segments.
+The Groups revenues from external customers and its noncurrent assets are divided into the following countries
+Noncurrent assets
+Noncurrent assets USA 5660 17360 5151 17890 UK 1866 178 2135 134 Belgium   507 Other European countries 596  788 Australia 395 APAC   45 Total 8531 17538 8772 18024 Revenues from external customers are identified on the basis of invoicing systems and adjusted to take into account the difference between invoiced amounts and deferred revenue adjustments required by IFRS.
+The revenue is analysed as follows for each revenue category Hardware and licence revenue 4510 4019 DDoS Protection asaservice revenue 323 Maintenance and support services revenue 3698 4753 Total 8531 8772 Notes to the Financial Statements continued Corero Network Security plc Annual Report and Accounts 2017 46 5.
+Loss for the year The following items have been included in arriving at the loss for the year before taxation DDoS asaservice depreciation 74 Unrealised lossgain on intercompany loan 627 1217 Development expenditure not capitalised 1486 2401 Impairment of goodwill note 8  8992 Amortisation of acquired intangible assets note 9 55 325 Amortisation of capitalised development expenditure note 10 2408 2252 Depreciation of property plant and equipment note 11 548 551 Operating lease rentals payable 319 325 Auditors remuneration Remuneration received by the Companys auditor for the audit of these Financial Statements 84 76 The audit of the accounts of other group companies 23 18 Fees payable to the Companys auditor for corporate services 8 9 Fees payable to the Companys auditor for taxation compliance services 27 24 Fees payable to the Companys auditor for taxation advisory services 3 Tax on loss on ordinary activities Current tax credit 116 Deferred tax credit for the year  85 Total 116 85 The tax assessed on the loss on ordinary activities for the year differs from the weighted average UK corporate rate of tax of 19.25% 2016 20.0%.
+The differences are reconciled below Total tax reconciliation Loss before taxation 8689 17263 Theoretical tax credit at UK Corporation tax rate 19.25% 2016 20.0% 1673 3453 Effect of expenditure that is not tax deductible 53 1806 RandD tax credits 116 35 accelerated capital allowances 15 11 other timing differences 1 1 losses not utilised 1634 1694 deferred tax credit  85 Actual taxation credit 116 85 Factors affecting future tax charges As at 31 December 2017 the Groups cumulative fixed asset timing differences were 426000 2016 62000 and no deferred tax asset has been recognised in respect of these items.
+In addition the tax losses at that date amounted to 82.0 million 2016 72.8 million.
+This comprised UK tax losses of 12.5 million and US tax losses of 69.5 million.
+9.0 million of the tax losses relate to preacquisition US tax losses which can be offset against taxable profits over 15 years there is a limit on the utilisation of preacquisition tax losses of 0.7 million per annum and any unused loss may be carried forward to subsequent periods.
+All other US tax losses will expire in 20 years from the end of the accounting period in which the loss arose.
+UK tax losses do not expire.
+The deferred tax assets of 2.1 million 2016 2.1 million at a rate of 17.0% relating to the UK tax losses and the deferred tax assets of 14.6 million 2016 21.3 million at a rate of 21% relating to the US tax losses and taxable temporary fixed asset differences have not been recognised due to uncertainties as to the extent and timing of their future recovery.
+Strategic Report Financial Statements Governance Corporate Directory 7.
+Loss per share Loss per share is calculated by dividing the earnings attributable to ordinary shareholders of the Company by the weighted average number of ordinary shares in issue during the year.
+The effects of antidilutive ordinary shares resulting from the exercise of share options are excluded from the calculation of the loss per share.
+Therefore the diluted loss per share is equal to the loss per share.
+Thousand loss per share
+Thousand loss per share
+Basic and diluted loss per share 8573 280130 3.1 17178 189959 9.0
+Group
+Cost
+At 1 January 2016 17983 At 31 December 2016 17983 At 31 December 2017 17983
+At 1 January 2016 At 31 December 2016 8992 At 31 December 2017 8992 Carrying amount At 31 December 2017 8991 At 31 December 2016 8991 At 1 January 2016 17983 Goodwill is tested at least annually for impairment and whenever there are indications that goodwill might be impaired.
+Goodwill is allocated to the Groups single cashgenerating unit CGU Corero Network Security CNS.
+The recoverable amount for the CNS CGU was determined based on a discounted cash flow calculation to calculate fair values less costs to sell using cash flow projections over a 10 year period 2016 10 year period.
+The discounted cash flow approach is a level 3 fair value calculation in the IFRS 13 fair value hierarchy.
+The key assumptions for the discounted cash flow calculation are those regarding revenue growth and discount rates as summarised in the table below and commented on below 2017 2016 Forecast cash flow period Years 12 Years 12 Extrapolated cash flow period Years 310 Years 310 Cumulative annual growth rate CAGR for revenue used for the forecastextrapolated periods 17.8% 19.6% Average revenue growth rates used for the forecastextrapolated periods Year 12 forecast period 36.1% 33.1% Years 35 extrapolated period 24.9% 28.2% Years 610 extrapolated period 7.4% 9.9% Revenue growth rate used beyond the extrapolated period 2.5% 2.5% Discount rate 17.7% 16.5% Notes to the Financial Statements continued Corero Network Security plc Annual Report and Accounts 2017 48 The pretax cash flows for the forecast period are derived from the most recent financial budget for the year ending 31 December 2018 and the plan for the year ending 31 December 2019 approved by the Board with a sensitivity to reflect prior years forecast inaccuracies 35% applied to the 2018 budget and 40% to the 2019 plan.
+The extrapolation for the period 2020 to 2027 is based on management estimates with the key assumptions set out below.
+The future pretax cash flows are discounted by a WACC of 17.7%.
+The key assumptions underlying the cash flow projections and which the recoverable amount is most sensitive to are i the revenue growth rates forecast and extrapolated for the period 2019 to 2023 and ii the discount rate.
+The cash flow forecasts assume a CAGR revenue growth of 29.3% in the period 2017 to 2022 36.1% for the period 2017 to 2019 and 7.4% for the period 2022 to 2027 a CAGR of 17.8% for 10year forecast period.
+These growth rates reflect a sensitivity of 35% applied to the CNS 2018 budget revenues and a sensitivity of 40% applied to the 2019 plan revenues and a sensitivity of 17.5% to 2018 operating costs and a sensitivity of 20% to 2019 operating costs to reflect risk associated with historic forecast accuracy.
+The management of the Group believe these growth rates are appropriate for the forecasts given the expected impact from the SmartWall sales traction in 2017 the focus on delivering sales growth through channel partners the expected contribution from gotomarket partners to expand the opportunities Corero can sell into and the 100Gbps and virtual software products introduced in late 2017 all of which are expected to deliver a step change in revenue in the forecast period.
+These growth rates are supported by the fact that the IT security market is forecast to grow strongly for the foreseeable future.
+According to IDC one of the leading global IT analyst firms the global spending on securityrelated hardware software and services was forecast to grow 83.5bn in 2017 an increase of 10.3% over 2016 and to 119.9bn in 2021 a CAGR of 9.6% over the 20162021 forecast period.
+Source IDC Update to Worldwide Semiannual Security Spending Guide published 19 October 2017.
+The DDoS appliance market is expected to reach 1.4bn by 2021  a CAGR or 15.6% in the period 2016 to 2021.
+Source IHS Market Technology research  DDoS Prevention Appliances Worldwide Biannual Market Tracker November .
+These security market growth rates contrast with Gartners Q4 2017 Worldwide IT Spending Forecast which shows IT spend will grow from 3.5 trillion in 2017 to 4.0 trillion in 2021 a CAGR 3.3% over the 20172021 forecast period.
+The above market growth rates used in the future cash flow assumptions reflect that CNS is in the early stages of the commercial exploitation of its intellectual property.
+In addition the business strategy is to continue to develop its product and solution offerings to remain a market leader in its chosen markets thereby providing the opportunity to generate above market average growth rates.
+The growth rate assumed in the period beyond the 10year extrapolation period of 2.5% is considered reasonable as historically IT spend has exceeded GDP growth.
+The discount rate is based on a cost of equity using the Capital Asset Pricing Model with the key inputs being a riskfree interest rate estimate of 2.48% based on 10year US government bonds 2016 2.44% comparable company betas an equity risk premium of 7.4% 2016 7.4% and small company risk premium of 4.5% 2016 4.5%.
+The WACC has been assessed based on that fact that the Company had no gearing at 31 December 2017.
+The WACC used in the valuation reflects current market assessments of the time value of money and the risks specific to CNS.
+As stated above the valuation to support the value in use of the CNS CGU is highly sensitive to changes in cash flow forecasts and discount rate assumptions and there is no guarantee that the expected growth will be achieved.
+If the discount rate is increased by 50% which in the assessment of management is reasonably possible from 17.7% to 26.6% this would result in an impairment of goodwill with the result that the goodwill would be fully impaired.
+If the sensitivity of 35% applied to the CNS 2018 budget and 40% to the 2019 plan revenues and a sensitivity of 17.5% to CNS Budget 2018 operating costs and 20% to the 2019 Plan operating costs was increased to 50% for revenue and a sensitivity of 25% to operating costs which in the assessment of management is reasonably possible this would result in an impairment of goodwill with the result that the goodwill would be fully impaired.
+Apart from the considerations in determining the value in use of the CNS CGU described above the management of the Group is not currently aware of any other reasonably possible changes that would necessitate changes in its key estimates.
+Strategic Report Financial Statements Governance Corporate Directory 9.
+Acquired intangible assets
+Computer software
+Total
+Cost
+At 1 January 2016 5961 197 6158 Additions 32  32 At 31 December 2016 and at 1 January 2017 5993 197 6190 Additions 10  10 At 31 December 2017 6003 197 6200
+At 1 January 2016 5648 135 5783 Charge for year 263 62 325 At 31 December 2016 and at 1 January 2017 5911 197 6108 Charge for year 55  55 At 31 December 2017 5966 197 6163 Net book value At 31 December 2017 37  37 At 31 December 2016 82  82 At 1 January Company The Company has no intangible fixed assets 2016 nil.
+Capitalised development expenditure
+Total
+Cost
+At 1 January 2016 13135 Additions 2533 At 31 December 2016 and at 1 January 2017 15668 Additions 2171 At 31 December 2017 17839
+At 1 January 2016 5515 Charge for year 2252 At 31 December 2016 and at 1 January 2017 7767 Charge for year 2408 At 31 December 2017 10175 Net book value At 31 December 2017 7664 At 31 December 2016 7901 At 1 January 2016 7620
+The Company has no capitalised development expenditure 2016 nil.
+Notes to the Financial Statements continued Corero Network Security plc Annual Report and Accounts 2017 50 11.
+Property plant and equipment
+Computer
+Equipment
+Evaluation units
+Fixtures and
+Office
+Equipment
+Leasehold
+Improvements
+Total
+Cost
+At 1 January 2016 2688 546  94 131 77 3536 Additions  23 644 Disposals 841   67 131 77 1116 Foreign currency translation 6   1  1 8 At 31 December 2016 and at 1 January 2017 2 22 3056 Additions 213 149 135    497 Transfers  187 187 Disposals  228 4    232 Foreign currency translation 9  1  1 11 At 31 December 2017 2 23 3332
+At 1 January 2016 2240 115  84 127 77 2643 Charge for year 378 161  8 1 3 551 Disposals 835   67 128 77 1107 Foreign currency translation 1      1 At 31 December 2016 and at 1 January 2017 1782 276  25  3 2086 Charge for year 223 230 74 13  8 548 Transfers  68 68 Disposals  76     76 Foreign currency translation 3     1 4 At 31 December 2017 2008 362 142 38  12 2562 Net book value At 31 December tel238 32  11 770 At 31 December tel62 44  19 970 At 1 January tel 10 4  893
+The Company has no property plant and equipment 2016 nil.
+Strategic Report Financial Statements Governance Corporate Directory 12.
+Investments in subsidiaries
+Net book value At 1 January 21137 28797 Additional investment in Corero Network Security Inc.
+4580 5576 Investment in Corero Network Security UK Limited 4064 12038 Provision against investment in subsidiaries 10789 20565 Foreign currency translation 2023 4709 At 31 December 21015 21137 The Directors have reviewed the carrying value of the cost of investments in subsidiaries of the Company with reference to current and future trading conditions and a valuation based on a discounted free cash flow which the Directors consider to be an appropriate valuation methodology in conjunction with the goodwill impairment review note 8 and concluded that an impairment of the investment balances was required.
+As at 31 December 2017 the provision against investment in subsidiaries was 50.2 million 2016 36.0 million.
+Included in the Companys investment in Corero Network Security Inc. is a loan note instrument.
+These loan notes bear interest at 5% per annum that at the election of Corero Network Security Inc. is payable quarterly or added to the principal amount.
+In
+November 2016 the loan notes repayment date was amended to 31 October 2021 previously 31 October 2016.
+Loan note instrument 7341 6378 The Company owns 100% of the issued share capital of Corero Network Security Inc. a company incorporated in Delaware USA.
+The companys business address is 225 Cedar Hill Street Marlborough MA 01752 USA.
+The principal business of the company consists of the development and sale of hardware and software security products.
+100% of the issued share capital of Corero Group Services Limited a company incorporated and registered in England and
+The companys business address is Regus House Highbridge Oxford Road Uxbridge Middlesex UB8 1HR.
+The principal business of the company consists of providing administration services to the Group.
+100% of the issued share capital of Corero Network Security UK Limited a company incorporated and registered in England and Wales.
+The companys business address is 3rd Floor 53 Hanover Street Edinburgh EH2 2PJ.
+The principal business of the company consists of providing development and sales and marketing services on behalf of Corero Network Security Inc.
+Inventories
+Group
+Group
+Gross inventory 207 232 Less provision for impairment 113 167 Net inventory 94 65 Net inventory comprises finished goods and raw materials.
+Company
+The Company holds no inventory 2016 nil.
+Notes to the Financial Statements continued Corero Network Security plc Annual Report and Accounts 2017 52 14.
+Trade and other receivables
+Group
+Company
+Company
+Trade receivables 2181 1495 Less provision for impairment Net trade receivables 2181 1495 Amounts owed by subsidiaries   6967 5340 Other debtors Prepayments and accrued income 713 674 3031 2307 7043 5409 The banking facility of the Group summarised in note 16 is secured by assets of Corero Network Security Inc.
+Up to 80% of the trade receivables of Corero Network Security Inc. credit enhancements.
+None of the Companys trade and other receivables are secured by collateral or credit enhancements.
+Amounts due from Group undertakings are recoverable after more than one year from the reporting date.
+The age of trade receivables not impaired but past due are as follows
+Group
+Not more than 3 months 18telThe Directors consider that the carrying amount of trade and other receivables approximates their fair value.
+The maturity profile of trade and other receivables is set out in the table below
+Group
+Company
+Company
+In one year or less or on demand 2955 2227 In more than one year but not more than five years 76 80 7043 5409 3031 2307 7043 5409 Balances due in more than one year but not more than five years are presented as noncurrent in the Statement of Financial Position.
+The analysis of trade and other receivables by foreign currency is set out in the table below
+Group
+Company
+Company
+US dollars 2749 2023 UK pound 282 284 7043 5409 3031 2307 7043 5409 The Groups foreign currency receivables are denominated in the functional currency of the subsidiaries in which they arise.
+There is no impact on the loss for the year from exchange rate movements on such financial instruments.
+Strategic Report Financial Statements Governance Corporate Directory 15.
+Trade and other payables
+Group
+Company
+Company
+Trade payables 720 767 Other payables 16 23 Accruals 569 938 1305 1728 None of the Group or Companys trade and other payables are secured by collateral or credit enhancements.
+The Directors consider that the carrying amount of trade and other payables approximates its fair value.
+90% 2016 76% of the trade and other payables are due in less than 3 months.
+The analysis of trade and other payables by foreign currency is set out in the table below
+Group
+US dollars 903 1178 UK pound 402 550 1305 1728 The Groups foreign currency payables are denominated in the functional currency of the subsidiaries in which they arise.
+There is no impact on the loss for the year from exchange rate movements on such financial instruments.
+Borrowings
+The Group and Company borrowings were nil 2016 nil.
+The accounts receivable financing facility was not utilised at the year end.
+The facility bears interest at c.16.8% of the financed value with a limit of US1.5 million or 80% of the eligible accounts receivable balance.
+The funding is secured by a first lien on the corporate assets of Corero Network Security Inc. and is guaranteed by Corero Network Security plc.
+All receipts for financed assets are payable to a lockbox account held with the provider of the financing facility.
+The accounts receivable assets are exposed to the risk of non or late payment by customers.
+There are no restrictions on the use of the financed accounts receivable assets.
+At 31 December 2017 the Groups liabilities have contractual maturities which are summarised below.
+These contractual maturities reflect the payment obligations which may differ from the carrying values of the liabilities at the balance sheet date.
+Group
+In one year or less or on demand Trade and other payables 1305 1728 Total 1305 1728 Notes to the Financial Statements continued Corero Network Security plc Annual Report and Accounts 2017 54 17.
+Financial instruments The Groups financial instruments are categorised as shown below
+Book Value Book Value Financial assets Loans and Receivables Trade and other receivables 2268 1576 Cash 1365 2940 3633 4516
+Book Value Book Value Financial liabilities Financial liabilities at amortised cost Trade and other payables 1305 1728 1305 1728 The Group manages liquidity and credit risk in line with the Financial risk management objectives and policies on page 27.
+At the present time the Group does not have significant exposure to foreign exchange or interest rate risk.
+There are no differences between the fair values and book values held by the Group.
+Deferred income
+Current 2896 2457 More than one year but less than five years 287 855 3183 3312 The Groups deferred income balance will be recognised as revenue evenly over the remaining term of the support agreements in place.
+Support agreements expire at various times throughout the year with no particular seasonality.
+Company
+The Company has no deferred income 2016 nil.
+Pensions
+The Groups pension arrangements are operated through defined contribution schemes.
+Defined contribution schemes Defined contribution pension costs 125 93 Strategic Report Financial Statements Governance Corporate Directory 20.
+Share capital Authorised share capital The authorised share capital comprises 745821970 2016 745821970 ordinary shares of 1p 1.35c each.
+Issued ordinary share capital 1 January 2016 165637416 ordinary shares of 1p each 2573
+37773560 ordinary shares of 1p each 1.54c 546 6666 ordinary shares of 1p each 1.32c 31 December 2016 and at 1 January 2017 203417642 ordinary shares of 1p each 3119
+112000000 ordinary shares of 1p each 1.28c 1437 31 December 2017 315417642 ordinary shares of 1p each 4556 On 10 May 2016 37773560 ordinary shares with a nominal value of 1p were issued at 22p 34c per share by way of a subscription placing and open offer.
+On 15 September 2016 6666 ordinary shares with a nominal value of 1p were issued at 15p 20c per share as the result of the exercise of an option.
+On 25 April 2017 112000000 ordinary shares with a nominal value of 1p were issued at 5p 6c per share by way of a subscription and placing.
+On 5 April 2018 Corero will announce a conditional placing and subscription.
+This Equity Fund Raise is subject to shareholder approval at a general meeting of the Company.
+Share premium 1 January 2016 56835 37773560 ordinary shares of 22p each 34c less issue costs 10845 6666 ordinary shares of 15p each 20c 1 31 December 2016 and at 1 January 2017 67681 112000000 ordinary shares of 5p each 6c less issue costs 5558 31 December 2017 73239 Consideration received in excess of the nominal value of the 11200000 shares issued on 25 April 2017 as a result of the subscription and placing has been included in share premium less registration commission and professional fees of 193000.
+The amount of such directly attributable costs deducted from share premium in 2016 was 622000.
+Notes to the Financial Statements continued Corero Network Security plc Annual Report and Accounts 2017 56 22.
+Employees and Directors Employee expenses during the period
+Total
+Total
+Wages and salaries 7846 9337 Social security costs 753 840 Other pension costs note 19 125 93 8724 10270 Average monthly numbers of employees including Directors employed
+Number
+Sales and marketing 19 19 Technical support and services 32 38 Management operations and administration Company The Company has no employees 2016 nil.
+Directors being the Key Management personnel
+Bonus
+Benefits
+Pension
+Subtotal
+Options
+Company
+National
+Insurance
+Contributions
+Total
+Total
+Executive Directors Ashley Stephenson 270 54 15 Andrew Lloyd 243 31  Andrew Miller Jens Montanana 34    34 2  36 39 Richard Last 26    055 783 Bonus payments of 124000 were awarded during the period to 31 December 2017 2016 63000.
+Andrew Miller has a service contract with a 6 month notice period.
+A subsidiary company provides for pension contributions included in the table above of 10% of basic salary payable to a personal pension plan.
+Andrew Lloyd was appointed an Executive Director on 3 January 2017.
+He has a service contract with a 3 month notice period. defined pension plan.
+One Director is accruing benefits from the Groups defined contribution pension arrangements 2016 nil.
+The Company makes contributions to Andrew Millers personal pension scheme.
+Post the year end Jens Montanana notified the Company that he wished to waive his NonExecutive Director fees for the year ended 31 December 2017 of 34000.
+Jens Montanana waived his NonExecutive Director fees for the year ended 31 December 2016 of 35000.
+Strategic Report Financial Statements Governance Corporate Directory 23.
+Operating lease commitments The Group has total future minimum lease payments under noncancellable operating leases totalling 360000 2016 593000 analysed by year of expiry as follows Land and building agreements expiring Within one year 83 21 Within two to five years 53 215 Other agreements expiring Within one year 1 1 Within two to five years 22telOther operating leases agreements relate to the costs of a colocation provider.
+Company
+The Company has no operating lease commitments 2016 nil.
+Contingent liabilities Corero Network Security UK Limited was in December 2015 awarded a grant of up to 600000 for a development project over three years from Scottish Enterprise.
+Any monies becoming repayable by Corero Network Security UK Limited under the terms typical for such a grant including not complying with the grant conditions which include requirements to hire employees in Scotland progress on the project is not satisfactory a change of control are guaranteed by the Company.
+Share options The Company has the following share option schemes Enterprise Management Incentive Scheme for its employees which has been approved by HMRC 2010 Executive Enterprise Management Incentive Scheme which has been approved by HMRC 2010 Unapproved Share Option Scheme and Deferred Payment Share Plan In August 2010 1257000 options were granted to certain Directors and employees under the 2010 Executive Enterprise Management Incentive scheme and 2010 Unapproved Share Option Scheme.
+The options granted vested immediately upon grant.
+All other options granted in 20102017 have a three year vesting period vesting one third on the first anniversary of grant one third on the second anniversary of grant and one third on the third anniversary of grant.
+There are no vesting conditions.
+Shares acquired on the exercise of an option may not be sold until the expiry of the second anniversary following the date of option grant.
+If an option holder ceases to be in employment or hold office within the Group options granted shall immediately lapse unless such cessation is because of the option holders death the option holders ill health or disability the company that employs the option holder ceasing to be under the control of the Company or such company ceasing to be within the Group the transfer of sale of the undertaking or partundertaking in which the option holder is employed to a person who is neither under the control of the Company nor within the Group or any other reason that the Board in its absolute discretion shall determine.
+On a cessation of employment or office as set out above options shall be exercisable to the extent they have vested according to the terms of the option agreement and the provisions of the relevant share option scheme and must be exercised within 30 days following such cessation unless it is by reason of death whereby the option holders personal representatives must exercise the option within 12 months following the date of the option holders death.
+On the 18 March 2014 the Enterprise Management Incentive Scheme was extended by 10 years to 20 April 2021.
+Notes to the Financial Statements continued Corero Network Security plc Annual Report and Accounts 2017 58 Share options granted at 31 December 2017 were as follows
+Holders
+Date granted
+Exercise price
+1 January 2017 Granted Exercised
+At 31
+Enterprise Management Incentive Scheme
+Holders March 2011 March 2021 40p 65c 40000   40000 March 2012 March 2022 54.5p 89c 25000   25000 September 2012 September 2022 43p 70c 110000   110000 April 2013 April 2023 25p 38c 85000   85000 May 2014 May 2024 25p 42c 40000   40000 September 2014 September 2024 25p 41c 10000   10000 April 2015 April 2025 15p 23c 750000   250000 500000 October 2015 September 2025 15p 23c 57000   57000 January 2016 January 2026 20p 29c 1067000   1067000 May 2016 May 2026 22.5p 33c 31305   31305 April 2017 April 2027 8p 10c  1620569  7000 1613569 June 2017 June 2027 13.6 18c  1715305   1715305 September 2017 September 2027 9.1p 12c  542000   542000 2010 Executive Enterprise Management Incentive Scheme Andrew Miller August 2010 August 2020 25p 41c 476000    476000 September 2012 March 2022 54.5p 89c 80000    80000 April 2013 April 2023 25p 38c 250000    250000 May 2014 May 2024 25p 42c 362570    362570 Andrew Lloyd April 2017 April 2027 8p 10c  3124999   3124999 2010 Unapproved Share Option Scheme
+Montanana August 2010 August 2020 25p 41c 165000    165000 March 2012 March 2022 54.5p 89c 30000    30000 April 2013 April 2023 25p 38c 80000    80000 January 2016 January 2026 20p 29c 150000    150000 April 2017 April 2027 8p 10c  994000   994000 Richard Last March 2012 March 2022 54.5p 89c 20000   20000 April 2013 April 2023 25p 38c 60000   60000 January 2016 January 2026 20p 29c 100000   100000 April 2017 April 2027 8p 10c  450000   450000 June 2017 June 2027 13.6 18c  180000   180000 Andrew Lloyd April 2013 April 2023 25p 38c 60000   60000 May 2014 May 2024 25p 42c 40000   40000 January 2016 January 2026 20p 29c 100000   100000 April 2017 April 2027 8p 10c  870001   870001 June 2017 June 2027 13.6 18c  200000   200000
+Stephenson March 2012 March 2022 54.5p 89c 180000   180000 April 2013 April 2023 25p 38c 400000   400000 Strategic Report Financial Statements Governance Corporate Directory May 2014 May 2024 25p 42c 1720000   1720000 April 2015 April 2025 15p 23c 200000   200000 January 2016 January 2026 20p 29c 700000   700000 April 2017 April 2027 8p 10c  2319000   2319000 June 2017 June 2027 13.6 18c  3200000   3200000 Andrew Miller May 2014 May 2024 25p 42c 387430    387430 April 2015 April 2025 15p 23c 300000    300000 January 2016 January 2026 20p 29c 500000    500000 April 2017 April 2027 8p 10c  1919000   1919000 Other holders August 2010 August 2020 31p 50c 308000    308000 March 2011 March 2021 36p 59c 54750   54750 March 2011 March 2021 40p 65c 290000    290000 September 2011 September 2021 37.5p 61c 163500   123500 40000 March 2012 March 2022 54.5p 89c 206250   66250 140000 September 2012 September 2022 43p 70c 7000   7000 April 2013 April 2023 25p 38c 287000   187000 100000 September 2013 September 2023 25p 40c 40000   40000 May 2014 May 2024 25p 42c 1054416   383750 670666 September 2014 September 2024 25p 41c 120000   115000 5000 April 2015 April 2025 15p 23c 343000   290000 53000 October 2015 September 2025 15p 23c 277000   172000 105000 May 2016 May 2026 20p 29c 1073000   973000 100000 September 2016 September 2026 22.5p 33c 470500   8000 462500 April 2017 April 2027 8p 10c  1239626  343000 896626 June 2017 June 2027 13.6 18c  1371750  275000 1096750 September 2017 September 2027 9.1p 12c  505000   505000 13270721 20251250  8340555 25181416 The closing midmarket price for the Companys shares at 31 December 2017 was 6.75p 8c and the high and low for the year was 12.9p 16c and 5.1p 6c.
+There are no performance conditions to be met before share options are exercisable.
+No options were exercised and 1673500 options were forfeited in the 12 months to 31 December 2017.
+On 9 June 2017 the Company announced the cancellation and regranting of options over Ordinary Shares to certain Directors and employees with an option regrant price of 13.6p New Option Grant Price being the weighted average price of the Companys historic investment rounds.
+A total of 6667055 options were granted on 8 June 2017 at the New Option Grant price in return for the cancellation of existing option grants.
+The new options have the same vesting and share sale conditions as the existing share option grants.
+The Company also announced that it intended to cancel 2356000 options previously granted to Andrew Miller and 425000 options granted to Jens Montanana and grant an equal number of new options to each of them the New Concert Party Options at the New Option Grant Price.
+Andrew Miller and Jens Montanana are considered to be a Concert party under the City Code on Takeovers and Mergers.
+Since the terms of the New Concert Party Options are different from existing options currently held by Andrew Miller and Jens Montanana the Company will require consent from the Panel on Takeovers and Mergers Panel to waive the obligation on them to make a general offer to shareholders under Rule 9 of the Code that could otherwise arise if the New Concert Party Options were exercised.
+The Panels waiver if given will be subject to the approval of independent shareholders being shareholders other than Andrew Miller and Jens Montanana taken on a poll at a general meeting of the Company.
+The Company can confirm that it intends subject to the Panel granting a waiver to seek approval at the 2018 AGM for the grant of the New Concert Party Options and to include the required resolution in the notice of AGM.
+Notes to the Financial Statements continued Share options continued Corero Network Security plc Annual Report and Accounts 2017 60 Share options granted at 31 December 2016 were as follows
+Holders
+Date granted
+Exercise price
+1 January 2016 Granted Exercised Forfeit At 31
+Enterprise Management Incentive Scheme Other Holders March 2011 March 2021 36p 59c 7000   7000 March 2011 March 2021 40p 65c 40000    40000 March 2012 March 2022 54.5p 89c 30000   5000 25000 September 2012 September 2022 43p 70c 110000    110000 April 2013 April 2023 25p 38c 95000   10000 85000 May 2014 May 2024 25p 42c 48000   8000 40000 September 2014
+2024 25p 41c 10000    10000 April 2015 April 2025 15p 23c 750000    750000 October 2015 September 2025 15p 23c 57000    57000 January 2016 January 2026 20p 29c  500000  500000 May 2016 May 2026 22.5p 33c  1072000  5000 1067000 September 2016 September 2026 15p 20c  31305   31305 2010 Executive Enterprise Management Incentive Scheme Andrew Miller August 2010 August 2020 25p 41c 476000    476000 September 2012 March 2022 54.5p 89c 80000    80000 April 2013 April 2023 25p 38c 250000    250000 May 2014 May 2024 25p 42c 362570    362570 2010 Unapproved Share Option Scheme
+Montanana August 2010 August 2020 25p 41c 165000    165000 March 2012 March 2022 54.5p 89c 30000    30000 April 2013 April 2023 25p 38c 80000    80000 January 2016 January 2026 20p 29c  150000   150000 Richard Last March 2012 March 2022 54.5p 89c 20000    20000 April 2013 April 2023 25p 38c 60000    60000 January 2016 January 2026 20p 29c  100000   100000 Andrew Lloyd April 2013 April 2023 25p 38c 60000    60000 May 2014 May 2024 25p 42c 40000    40000 January 2016 January 2026 20p 29c  100000   100000
+Stephenson March 2012 March 2022 54.5p 89c 180000    180000 April 2013 April 2023 25p 38c 400000    400000 May 2014 May 2024 25p 42c 1720000    1720000 April 2015 April 2025 15p 23c 200000    200000 January 2016 January 2026 20p 29c  700000   700000 Andrew Miller May 2014 May 2024 25p 42c 387430    387430 April 2015 April 2025 15p 23c 300000    300000 January 2016 January 2026 20p 29c  500000   500000 Strategic Report Financial Statements Governance Corporate Directory Option
+Date granted
+Exercise price
+1 January 2016 Granted Exercised Forfeit At 31
+Other holders August 2010 August 2020 31p 50c 308000    308000 March 2011 March 2021 36p 59c 54750    54750 March 2011 March 2021 40p 65c 290000    290000 September 2011 September 2021 37.5p 61c 163500    163500 March 2012 March 2022 54.5p 89c 216250   10000 206250 September 2012 September 2022 43p 70c 14500   7500 7000 April 2013 April 2023 25p 38c 307000   20000 287000 September 2013 September 2023 25p 40c 40000    40000 May 2014 May 2024 25p 42c 1432750   378334 1054416 September 2014
+2024 25p 41c 440000   320000 120000 April 2015 April 2025 15p 23c 1803000  6666 1453334 343000 October 2015 September 2025 15p 23c 352000  75000 277000 January 2016 January 2026 20p 29c  700000  700000 May 2016 May 2026 22.5p 33c  1073000   1073000 September 2016 September 2026 15p 20c  470500   470500 11379750 5396805 6666 3499168 13270721 Andrew Miller has a contractual right granted in March 2011 to purchase 140000 ordinary shares in the Company from the Employee Share Ownership Trust at 40p per share pursuant to a grant made to him under the Deferred Payment Share Plan.
+None of the Directors holding office at the balance sheet date exercised options during the year.
+Sharebased payments The Remuneration Committee can grant options to employees of the Group under the Groups share option schemes.
+Options are granted with a fixed exercise price which is equal to the market price at the date of the grant or higher price determined by the Remuneration Committee.
+The contracted life is 10 years from the date of grant.
+Options are valued using the BlackScholes optionpricing model.
+Options granted The value of options granted during the year was calculated using the BlackScholes option pricing model.
+The following variables and ranges were used 2017 2016 Share price at date of grants 8p9p 10c12c 13p21.5p 17c31c Exercise price 8p13.6p 10c18c 15p22.5p 20c33c Expected volatility 0.26% 0.20.26% Years to maturity 9.39.7 9.09.7 Risk free interest rate 0.390.74% 0.351.18% Notes to the Financial Statements continued Share options continued Corero Network Security plc Annual Report and Accounts 2017 62 The following table provides information on all options outstanding at the end of the year Weighted average remaining contractual life 6.8 years Average remaining contractual life 6.4 years Options exercisable 4427499 Exercise price range 8p55p 10c68c Weighted average share price 11p 15c Weighted average exercise price 13p 18c Expected volatility 0.2%6.4% Risk free rate  5 year gilt rate 0.35%2.6% Expected dividend yield Nil Volatility is calculated as the standard deviation of the closing daily share price over a period of 24 months prior to the grant date.
+Operating expenses in the Statement of Comprehensive Income included a charge of 21000 2016 19000 relating to employee sharebased payments.
+Related parties and transactions As part of the subscription and placing on 25 April 2017 Jens Montanana contributed 4.4 million Andrew Miller contributed 13000 and Andrew Lloyd contributed 19000 note 21.
+As part of the subscription and placing on 10 May 2016 Jens Montanana contributed 1.2 million and Andrew Miller contributed 22000 note 21.
+The Directors consider the Groups key management personnel to be the Board of Directors of the Company whose compensation is detailed in note 23.
+Company key management compensation was nil 2016 nil as the key management are employed by subsidiaries.
+Strategic Report Financial Statements Governance Corporate Directory Corporate Directory
+Jens Montanana NonExecutive Chairman Richard Last NonExecutive Director Ashley Stephenson CEO Andrew Lloyd President and EVP Sales and Marketing Andrew Miller CFO Secretary and Registered Office Duncan Swallow Regus House
+Oxford Road
+Middlesex
+UB8 1HR Nominated Adviser and Broker Cenkos Securities plc itesite Corero Network Security plc Annual Report and Accounts 2017 64 Corero Network Security plc Annual Report and Accounts 2017 Registered Office Regus House
+Oxford Road
+Middlesex
