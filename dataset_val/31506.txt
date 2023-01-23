@@ -1,0 +1,1042 @@
+ANNUAL REPORT
+01 TAX SYSTEMS PLC Annual Report 2017 STRATEGIC REPORT Page Highlights for the year 2
+Chairmans Statement 3
+Chief Executive Officers Review 4
+Market Overview 6 Customer Challenge Overview 7 Business Overview 9
+Financial Review 12
+Risk Management and Principal Risks 15 CORPORATE GOVERNANCE Board of Directors 18 Corporate Governance Report 20 Report of the Audit and Risk Committee 21 Report of the Remuneration and Nomination Committee 23
+Directors Remuneration Report 24
+Directors Report 26 FINANCIAL STATEMENTS
+Independent Auditors Report 29
+Consolidated Statement of Comprehensive Income 33 Consolidated Statement of Financial Position 34 Company Statement of Financial Position 35 Consolidated Statement of Changes in Equity 36 Company Statement of Changes in Equity 37 Cash Flow Statements 38 Notes to the Financial Statements 39 Company Information 79 Tax Systems pp01pp05 Page 01 Highlights for the year STRATEGIC REPORT 02 TAX SYSTEMS PLC Annual Report 2017 Tax Systems plc is a leading provider of corporation tax software and services to many of the largest companies and the accounting profession in the UK and Ireland.
+The
+Company is seeking to continue to build on and expand the solutions and services it provides to its clients both organically and through acquisition to help them navigate and comply with the ever increasing regulatory environment.
+A key focus of the Government together with the regulators is to increase tax revenues reduce tax evasion and ensure businesses are paying their fair share of tax in order to support government spending and reduce the annual deficit.
+Strategic
+Acquisition of OSMO Data Technology Limited OSMO on 3 April 2017 for 3.2m in shares adding automation of data extraction from core ERP systems to the Groups capabilities
+Early adoption of IFRS 15 Revenue from Contracts with
+Y earonyear total revenue growth of 17% 2017 15.1m Y earonyear organic and comparable revenue growth of 10% 2017 15.1m 2016 90% of revenue is recurring from software licences 10% from professional services Y earonyear organic and comparable Adjusted EBITDA growth of 11% 2017 7.0m 2016 6.3m representing an Adjusted EBITDA margin of 46% Yearonyear reduction in net debt of 16% 31 December 2017 20.5m 31 December 2016 Net debt now represents less than 3x Adjusted
+Conversion of Adjusted EBITDA to operating cash flow after exceptional items of 98% 1 2016 is on a proforma basis applying IFRS 15 and excluding results from
+2 2016 on a proforma basis including comparable figures for OSMO 3 Adjusted EBITDA is defined as operating profit or loss before exceptional items depreciation amortisation and sharebased payments 4 Net debt is defined as bank borrowings and loan notes recognised as liabilities and the equity element of the loan notes recognised in equity less cash
+Customer retention rate remained high at 95% 114 new annuity licences added to the base Y earonyear average annuity order value growth of 9% Y earonyear average services day rate growth of 25% Continued investment in and enhancement of the core product Alphatax including the successful launch of version 17 which incorporated the largest UK Finance Act update in history Development of new solutions and services including Data Entry designed to help accountancy firms streamline the process of collecting information from data owners and A new solution to help organisations with country bycountry reporting Key strengths A customer base of 1000 large corporates and major accountancy firms including 43 of the FTSE 100 23 of the top 25 UK accountancy firms 90% recurring revenues 95% customer retention 98% conversion of Adjusted EBITDA to operating cash after exceptional items Comprehensive corporation tax engine with over 26 years of intellectual property Substantial amount of sector expertise providing high barrier to entry to the market Find more about Tax Systems business model on page 9 Read more in the Financial Review on page 12 Stay up to date online site Forwardlooking statements This report includes forwardlooking statements.
+Whilst these forwardlooking statements are made in good faith they are based upon the information available to Tax Systems at the date of this report and upon current expectations projections market conditions and assumptions about future events.
+These forwardlooking statements are subject to risks uncertainties and assumptions about the Group and should be treated with an appropriate degree of caution.
+Tax Systems pp01pp05 Page 02 STRATEGIC REPORT 03 TAX SYSTEMS PLC Annual Report 2017
+Chairmans Statement
+Clive Carver During the year under review we met all internal and external targets for the business.
+We are confident in our ability to continue to increase both our capabilities and shareholder value moving forward I am pleased to report to shareholders in respect of the year ended 31 December 2017.
+The year under review saw the Company make encouraging progress to its longerterm objective of being a leading international provider of regulatory compliance software and professional services.
+Our current focus is on the corporation tax software and services market in the UK and Ireland.
+In this business we met all internal and external targets including increasing our revenue contracted annuity base and number of new customers.
+Of particular note has been the level of cash generated from the business which has allowed us the reduce debt levels faster than initially planned.
+Further details of our progress in 2017 is set out in the following CEO and CFO reports.
+We made significant investments during 2017 to maintain update and derisk our solutions and services in light of the increasing regulatory landscape.
+Over time we expect more demand for automation and process control which is where we want to provide enhanced functionality and value.
+We look forward to extending our technology offering by way of continued product development and targeted acquisitions.
+In particular in the shorter term to broaden the range of taxes covered.
+The integration of OSMO acquired in April 2017 was largely completed and considered a successful transition.
+SMOs leading edge technology is now embedded as part of our core value proposition and helps organisations automate the collection of data from large accounting  ERP systems.
+We firmly believe we are well placed to exploit the opportunities that will arise from the evergreater digitalisation of tax compliance and in compliance more generally.
+We look forward to the future with confidence.
+Annual General Meeting The Annual General Meeting of the Company will be held on 20 June 2018 at 11 am at the offices of KandL Gates One New Change London EC4M 9AF.
+Clive Carver NonExecutive Chairman 20 April telTax Systems pp01pp05 Page 03 STRATEGIC REPORT 04 TAX SYSTEMS PLC Annual Report 2017 I am delighted to report on a successful year delivering against our strategic objectives of growth retention acquisitions debt reduction and operational transformation.
+2017 has been a year of significant and exciting activity for the Company on the transformational journey to develop and upgrade our products and services in order to support our customer base of large corporates and accountancy firms in meeting the increasing demands of tax compliance.
+Growth
+During 2017 we achieved yearonyear revenue growth of 17% 10% comparable organic growth and contracted annuity base growth of 12% 6% comparable organic growth through 114 new annuity licenses added and average order value growth of 9%.
+This growth was achieved through a combination of activities including the appointment of a seasoned sales and marketing director increased sales and presales activity incentivisation of sales staff better customer negotiation and the launch of new solutions and services.
+New order intake was driven by additional technology modules increased user licenses and cross selling other portfolio solutions to existing customers.
+In addition several new customers were won.
+New solutions and services launched in the year included Data Entry which is designed to help accountancy firms streamline the process of collecting information from data owners and a new service to help organisations with country bycountry reporting.
+We can further improve the sales and marketing engine but to achieve these results without substantial investment has been a great success and a credit to the team.
+Retention
+During 2017 customer retention remained strong at a rate of 95% in line with managements expectations.
+The high level of retention is largely due to two factors the first being that our core technology solution Alphatax continues to deliver for our customers.
+2017 saw the release of the largest finance bill in UK history and our tax content team did an outstanding job ensuring the legislation was successfully encoded into our core product within a timely manner.
+The architecture of the technology enables us to do this on a continual basis with a team that is well versed in the practice with documented processes and procedures.
+The second is the focus and quality of our local support teams the members of which are experts in both customer service and tax.
+These teams are proud of our Company solutions and services and have a real desire to ensure our customers are responded to effectively and efficiently.
+As well as strong customer retention we also continued to retain our expert employees.
+Key activities completed in the year included restructuring the organisation and individual accountabilities establishing the core leadership team promoting several internal staff recruiting new talent a change of headquarters modernisation of the Company brand and the adoption of agile development methodologies.
+I am very pleased with the way employees have embraced change and would like to thank everyone for their contribution.
+We all continue to be excited about the future and working together to achieve our potential.
+Acquisitions
+During 2017 we defined our vision and strategy which along with having a greater understanding of the market and customer demand highlighted a need to quickly provide a solution to automate the collection of data  the fundamental building block of any compliance process.
+Having evaluated various options we completed the acquisition of OSMO in April 2017 in return for the issue of 4.7 million ordinary shares of the Company valuing OSMO at 3.2 million.
+Chief Executive Officers Review
+Gavin Lyons Tax Systems pp01pp05 Page 04 STRATEGIC REPORT 05 TAX SYSTEMS PLC Annual Report 2017 OSMO is a leading provider of automated data extraction services that currently connects to 310 versions of accounting software packages whether they be cloud on premise or enterprise versions.
+Using OSMOs technology finance and tax teams can significantly decrease the manual workload associated with data collection reduce errors and risk from rekeying data and increase the speed and accuracy of data production.
+OSMOs solution is an ideal addon to the existing software and services that Tax Systems already provides.
+I am pleased with OSMOs progress to date the team delivered against its 2017 performance expectations and have fitted in well both technically and culturally.
+We have one final stage of the integration left which is moving OSMOs core IT systems and processes onto our standard operating platform within shared services.
+This activity has begun and is expected to be finished by the end of H1 2018.
+At that point we can consider the business fully integrated.
+In addition further acquisition targets were identified and considered during the year.
+Disappointingly we declined to proceed with two potential targets after finalising the due diligence process but in both cases it was the right decision for the business.
+We continue to actively evaluate other acquisition opportunities but will only proceed where we believe a business is the right strategic fit and will enhance both the Companys offering and shareholder value.
+Debt reduction During 2017 we reduced our net debt by 16% to 20.5m as a result of our revenue growth customer retention rate and excellent cash conversion.
+In addition we were also successful in recovering 0.6m of VAT relating to the fees payable on the acquisition of T ax Computer Systems Limited TCSL in July 2016.
+Net debt at the end of the year represented less than 3x Adjusted EBITDA.
+By continuing to focus on sustainable growth and customer retention we will be able to further reduce our debt or utilise the facilities to fund further acquisitions.
+Operational transformation A key focus of the business has been on achieving operational excellence through its people processes systems and facilities an absolutely critical requirement of any business but often over looked and lacking due to the size and complexity of the implementation of a target operating model.
+Significant time and effort has been put into defining and achieving this and though there is still some tasks to be completed I am pleased that the majority of this work has been done.
+Outlook
+In summary Im pleased to report that we delivered against all key strategic objectives in the year with the headlines being revenue growth of 17% and debt reduction of 16%.
+Moving forward the Company will continue to focus on the execution of its strategy in order to deliver against its goals and vision.
+Whilst there is still work to be done to get the business to where we would like it to be in order to maximise the market opportunity I am confident in our ability to achieve this.
+We believe we have the right technology platform from which to continue to grow in no small part thanks to the hard work and talent of our people whom I would like to thank for their dedication and contribution to the ongoing success of the business.
+The Board remains confident in the ability of the business to deliver increasing shareholder value over the coming years. excitement.
+Gavin Lyons Chief Executive Officer 20 April telTax Systems pp01pp05 Page 05 STRATEGIC REPORT 06 TAX SYSTEMS PLC Annual Report 2017 Market Overview Regulators and media coverage A key focus of the Government together with the regulators is to increase tax revenues reduce tax evasion and ensure businesses are paying their fair share to support government spending reduce national debt and reduce annual deficits without the need to raise taxes.
+UK debt levels were at 1720 billion for the financial year ending March 2017 which represented 86.7% of Gross Domestic Product GDP.
+UK deficit levels were at 46.9 billion for the same period.
+As a result there is an everincreasing collaboration between governments and agencies especially since the financial crisis of 2007 and Panama Papers in 2016.
+Furthermore regulators are introducing a new wave of local and international compliance obligations along with investing in sophisticated digital platforms for greater data gathering and analysis all of which will assist them in achieving their objectives both efficiently and sustainably.
+In addition and due to tax becoming an everincreasing headline in the media how businesses communicate their approach to tax and the amount of tax paid is a key component in building trust reducing reputational risk and maintaining a good relationship with regulators shareholders and customers.
+When it comes to tax a business focus is no longer just about calculating and submitting the correct tax number rather having an agile tax function that can protect it from financial penalties or reputational damage.
+This tax function needs to be able to respond efficiently and accurately to the regulator in the event of noncompliance or an audit notification whilst offering proactive expert tax advice on strategic activities such as mergers and acquisitions disposals and geographical and operational structures.
+Growing reporting and transparency obligations In 2017 alone the UKs Finance No.2 Act 2017 was the longest in recent memory stretching to 665 pages compared to 187 pages in Finance Act 2018.
+New international reporting including the OECDs Common Reporting Standard CRS and Base Erosion and Profit Shifting BEPS have come in to force in both the UK and
+BEPS requires organisations with a group turnover of greater than 750 million to submit detailed transactional information on operations and group transfer pricing for each country they operate in on an annual basis.
+Furthermore from 2019 HMRCs Making T ax Digital MTD initiative will modernise the way tax is reported starting with VAT and then corporation tax which will result in a fourfold increase in reporting obligations.
+The Irish Revenue will be introducing realtime reporting of payroll taxes from January 2019.
+Last but not least there is now a legal requirement for all large businesses operating in the UK to publish their tax strategy if in the previous tax year the business had a turnover above 200 million or a balance sheet over 2 billion.
+For groups and subgroups its the combined totals of all the relevant bodies that must be used.
+Regulator investment into digital platforms Regulators are leading the way in creating new digital platforms for the submission and gathering of tax data.
+Submission requirements will vary based on each specific country but most will specify a file format a deadline along with the tax and transactions to be included.
+The powerful part of collecting and storing data digitally is what can then be done by the regulators using analytical software.
+Data can be mined matched and shared to ultimately find ways of increasing tax collections and creating new reporting obligations to help meet their objectives.
+Due to the level of data regulators will hold the number of audit notices is likely to increase which will require swift responses from businesses and a greater level of quality and accuracy.
+Ultimately as with any data project this will end up with the regulator wanting to consume more and more data so that they can digest it and analyse how best to monetise the facts presented.
+Ultimately we will end up with the regulator wanting to drill down from any submitted tax number to see how it has been calculated and via what transactions.
+Tax Systems pp06pp17 Page 06 STRATEGIC REPORT 07 TAX SYSTEMS PLC Annual Report 2017 Customer Challenge Overview Pain points currently impacting the current tax function The most commonly cited factors affecting the ability of a tax team to execute are fivefold which in no particular order are as follows The first is coping with the increased volume and complexity of regulations so that the business is protected from financial penalties or reputational damage in the event of non compliance.
+Linked to this is the ability to manage compliance across multiple jurisdictions and the ability to respond to tax authorities when under scrutiny.
+The second is the managing of the speed and accuracy of data  most data is supplied by spreadsheet and requires manual collaboration between the tax and finance teams both locally and internationally.
+Getting consistent and correct data to be input into tax computations takes time and the difficulty in obtaining it can affect the quality of data.
+The third is the substantial manual effort required and often a lack of defined and documented activities processes and controls in order to ensure that a business is compliant with the relevant rules and regulations.
+The fourth is underinvestment in technology to automate manual activities enforce processes and controls manage the risk associated with the completion of the compliance cycle provide insight into continuous improvement and calculate and submit tax computations.
+Last but not least is the level of resources available and the changing nature of the skillset required from tax professionals.
+Such professionals need to have both the technical skills as well as an ability to adapt to and assist with the continuous improvement of processes controls and technology.
+Preparing for future workload Due to the changing regulatory and media landscape businesses need ensure they have an appropriate tax function in place that is capable of dealing with the increased pressure and workloads arising from external compliance and reporting an increasing requirement for internal advice relating to strategic activities as well as increasing internal governance demanding effective processes.
+Ultimately the tax function of the future should have the ability to manage the end to end core tax compliance cycles with limited risk supply accurate data in real time both externally and internally and respond to tax enquiries in an efficient and costeffective manner.
+Ideally a tax function should have the ability to use the same data and methodology in relation to all major tax processes and outputs be that direct tax indirect tax or tax provisioning to name a few.
+In addition the tax function of the future should be fully integrated with the finance function in terms of data workflows and controls thereby increasing efficiency and decreasing the risk of error in exchanging information.
+Technology will be key to achieving all of the above and Tax Systems is ideally placed to be able to build on its existing product set as well as look to develop or acquire new products in order to help businesses do so.
+The customer challenge  outsource insource or cosource the tax function The increased regulatory and media attention and resulting change to tax operating models is driving businesses to question whether they should outsource insource or co source their tax function.
+Tax Systems pp06pp17 Page 07 Customer Challenge Overview continued STRATEGIC REPORT 08 TAX SYSTEMS PLC Annual Report 2017 Outsourcing the tax function to an advisor ensures that the widest range of skills and the highest level of tax expertise can be leveraged provides assurance on the output and removes the effort and challenges associated with finding hiring and retaining an internal tax team.
+However this can come at a significant cost.
+In addition advisors sometimes do not have an indepth understanding of the complexity of each individual business and so the onus is still on the client to ensure the right data is collected and validated.
+Insourcing helps businesses retain control drive their own processes and mitigate tax risk.
+Investing in technology and process as opposed to additional headcount delivers an automated tax function with improved data access reliability and accuracy along with greater business insight.
+Businesses looking to do this will need a solution set such as ours hence this presents a good opportunity for T ax Systems.
+Cosourcing is a hybrid whereby the business has the benefit of controlling and managing its core end to end compliance cycle using technology that they own but still use an external advisor for what would be considered value add and complex areas.
+Tax Systems pp06pp17 Page 08 STRATEGIC REPORT 09 TAX SYSTEMS PLC Annual Report 2017 Business Overview Our history and heritage T ax Systems core operating business was formed in 1991 and has built up an excellent reputation as a trusted supplier of corporation tax technology solutions and services.
+We have achieved local market leadership based on the success of our suite of corporation tax software solutions and services led by our flagship offering Alphatax.
+Since then our solutions have been continually developed and shaped to serve the evolving needs of corporation tax departments.
+The root cause of the companys continued success is fourfold Our focus on customer service Employing expert resources Substantial intellectual property rights investment creating a high barrier to market entry Continuously improving the accuracy of our highly complex compliance engines and complementary solutions Our purpose The reason we exist is to help our customers be compliant with the regulations in the most efficient manner possible and provide tangible intelligence to continuously improve both the end to end compliance process and utilisation of expert resources.
+We enable customers to do this by developing and supporting innovative technology and expert service offerings.
+Our market and geographical focus We operate in the corporation tax compliance and reporting market serving companies in the UK and Ireland.
+We sell directly to our customers via a sales force  we do not sell via any thirdparty distributors or resellers.
+Our customer focus We currently serve and target large multinational corporate companies accountancy firms and credit lenders.
+We have over 800 corporate clients including 43% of the FTSE 100 over 200 accountancy firms including 23 out of the top 25 and 8 high profile credit lenders.
+Our customers key buying criteria Over the years customers have made it clear that their key buying criteria focus is on the quality accuracy and reliability of the product as well as technical expertise.
+Value for money is also considered to be very important but overall there is demand for quality and accuracy rather than low cost.
+The key aspects to get right for our customers are Quality and accuracy of product Ease of use  user experience Technical expertise Customer service Value for money Customer loyalty We have a customer retention rate of over 95% which demonstrates that we are delivering against their requirements above.
+In the event we lose a customer invariably a corporate customer rather than an accountancy firm it is due to one of three reasons If a company decides to outsource the compliance process to a third party accountancy firms If a company wants to move to a single global tax solution i.
+If we do not have a solution to a customer need Our revenue streams We generate revenue from the licensing of software solutions multiple products and sale of professional services.
+A high proportion of our revenue comes from annual licensing of software which means we have good visibility of revenue due to its recurring nature.
+Our cost structure Our business is relatively simple in the sense that circa 75% of our costs relate to people and the remaining costs are associated with infrastructure offices and IT etc.
+Tax Systems pp06pp17 Page 09 Business Overview STRATEGIC REPORT 10 TAX SYSTEMS PLC Annual Report 2017 Business Overview continued Our relationship with HMRC We are committed to working closely with HMRC to ensure a seamless transition to the new ways of working for our current and future users.
+We have witnessed and experienced multiple changes in the UK corporation tax regime before including when XML and Inline Extensible Business Reporting Language iXBRL were introduced.
+We worked closely with HMRC to ensure that we brought to market a fully tested and aligned solution and were the first major corporation tax software supplier to efile under both XML and iXBRL.
+Our goals As a public company we remain continually focused on delivering value for both our shareholders and customers and have four goals that drive our business Increase shareholder value Deliver our market forecasts Define and deliver our customer requirements Live and breathe our culture and values Our vision Longer term we see ourselves as a software and services company specialising in international regulatory compliance technology.
+Our business is currently made up of three types of technology assets Compliance engines and statutory reporting solutions  technologies that automate regulation into databases to drive a compliance output and reporting.
+Right now we have two main compliance engines and over time we expect to develop or acquire other compliance engines.
+Data management engines  technologies that automate and filter data to work with compliance engines.
+Right now we have three data management engines and over time expect the data management engines to be able to work seamlessly with all of our compliance engines so that data is automatically populated into compliance engines for increased efficiency and accuracy.
+Process management and Intelligence solutionsas a result of providing both compliance and data management engines we will naturally provide other complementary solutions around the core compliance process that are required by customers.
+We currently have solutions to help organisations manage their end to end compliance process which also provide intelligence to help people improve this process over time we expect to add to that capability.
+In summary over time we see the business becoming a RegT ech company with multiple compliance engines that help bridge the gap between companies and regulators by providing innovative technology and expert services  all of which will use our data management engines to automate as much of the process as possible.
+There is still work to be done in order to achieve this vision but we are well underway.
+Strategy
+The chosen strategy to help achieve our vision and drive growth is a buy build and partner strategy.
+Buy  meaning that Tax Systems will look to acquire companies that will complement our existing or future customer value proposition.
+Build  meaning that Tax Systems will invest in resources to grow organically by selling existing and new solutions and services to existing and new customers.
+T ax Systems currently has over 1000 customers across a range of verticals and has plenty of scope to retain and penetrate those customers with further solutions as well as acquire new customers.
+During
+2017 we invested over 70% of our wage bill into technical related resources in order to maintain and rearchitect existing solutions develop new solutions new SaaS platform delivery mechanisms and drive interoperability between them.
+Tax Systems pp06pp17 Page 10 STRATEGIC REPORT 11 TAX SYSTEMS PLC Annual Report 2017 Available on a mix of Desktop Hosted and Cloud End to end Compliance Management Data Management
+Accounts integration Data entry for data owner collection Osmo for automated data collection
+Management Suite Process Management Control Suite for due dates workflow risk management audit control and documents
+Control Suite for process intelligence Compliance Suite Compliance Engines Alphatax software for corporate tax compliance Alphatax software for statutory reportingaccounting compliance Statutory reporting solutions
+FACTA
+Services
+Tagging
+CbyCR
+FACTA and CRS Prepare and file
+Partner  meaning that Tax Systems will look to work with complementary third parties to generate revenue and profit from white labelling i. does not dilute our business.
+During 2017 we explored five different partnering opportunities but concluded that in the short term alternative acquisition options were our preference.
+Tax Systems pp06pp17
+Page 11 Financial Review
+Kevin Goggin STRATEGIC REPORT 12 TAX SYSTEMS PLC Annual Report 2017 I am pleased to report the results of T ax Systems for the year ended 31 December 2017 which shown a strong trading performance and good cash conversion.
+We have early adopted IFRS 15 in these financial statements.
+This provides the clearest basis for our investors to evaluate our business going forward embeds the new standard in advance of the implementation deadline and is in line with our strategy of transparency.
+The results for the year ended 31 December 2017 which is the first full year of operations of the Group since the acquisition of TCSL were in line with expectations.
+Cash generation was particularly strong which resulted in a reduction in net debt of 16% from 24.4m as at 31 December 2016 to 20.5m as at 31 December 2017.
+1 The results for the year ended 31 December 2017 are comprised of the results for Tax Systems plc and TCSL for the full year together with the results for OSMO for the nine months from acquisition on 3 April 2017.
+The results for the year ended 31 December 2016 are comprised of the results for Tax Systems plc for the full year together with the results for TCSL for the fivemonth period from acquisition on 26 July 2016.
+Early adoption of IFRS 15 Revenue from Contracts with Customers The new reporting standard on revenue recognition IFRS 15 Revenue from Contracts with Customers IFRS 15 has an effective date of 1 January 2018.
+However the Group has early adopted this standard with an initial application date of 1 January 2017.
+The early adoption of IFRS 15 has resulted in changes in the timing of recognition of revenue.
+Previously the licence fee element of software licence agreements was recognised in the month in which the agreement commenced.
+The early adoption of IFRS 15 for the year ending 31 December 2017 has resulted in a change in our accounting policy to one of recognising revenue from software licence agreements evenly over the term of the agreement.
+The change in policy to IFRS 15 does not impact on the lifetime profitability of contracts nor the cash flows associated with contracts.
+The main consequences of the change in accounting policy are Revenue is phased over the life of the software licences in line with the delivery of outcomes to clients and consequently the timing of profits is reprofiled An increased level of deferred income was recognised.
+At
+31 December 2017 the Groups balance sheet includes deferred income of 6.9m in relation to contracts where outcomes are being delivered over time.
+The majority of deferred income will unwind within 12 months and is expected to be replaced by similar levels subject to changes to the contract portfolio and Tax assets increased by 0.8m as a result of the change in accounting policy.
+As permitted by IFRS 15 the Company has applied the change using a modified retrospective approach for which the comparative results for 2016 have not been restated.
+Instead
+Revenue and gross margin Revenue for the year to 31 December 2017 amounted to 15.1m 2016 5.8m from a mixture of sales of licenced software solutions and services mostly to large bluechip corporates and major accountancy firms.
+89% 2016 87% of revenue was derived in the UK with the balance from Ireland.
+Revenue from annually renewable software licences amounted to 13.5m 2016 5.0m representing 90% 2016 86% of total revenue.
+This revenue stream provides the Group with a strong recurring revenue model.
+The acquisition of OSMO contributed 1.0m to total revenue comprised of 0.8m from licences and 0.2m from professional services.
+Gross profit amounted to 14.0m 2016 5.4m after accounting for cost of sales which comprised of directly attributable staff costs and thirdparty hosting costs.
+The corresponding gross margin is 93% 2016 93%.
+Operating costs T otal operating costs for the year were 14.2m 2016 8.6m.
+The increase was largely driven by the full year impact of the Tax Systems pp06pp17 Page 12 STRATEGIC REPORT 13 TAX SYSTEMS PLC Annual Report 2017 operating costs of TCSL the costs of OSMO since acquisition and the full year charge for amortisation and depreciation of 2017 2016 m m Other administrative expenses 7.1 2.7 Transaction and restructuring costs 0.7 3.3 Amortisation and depreciation 6.4 2.6 T otal operating costs 14.2 8.6 Operating loss EBITDA and Adjusted
+The operating loss for the year was 0.2m 2016 loss 3.2m.
+The Directors use Adjusted EBITDA as a nonGAAP measure in order to assess the underlying performance of the Group and to incentivise management.
+This measure allows management and investors to compare performance without the potentially distorting effects of oneoff items non operational items and the charge for noncash share based payments.
+Adjusted EBITDA is defined as operating profit or loss before exceptional items depreciation amortisation and sharebased payments.
+Adjusted EBITDA amounted to 7.0m 2016 2.7m for the year.
+A reconciliation of operating loss to Adjusted EBITDA is as follows 2017 2016 m m Operating loss 0.2 3.2 Amortisation and depreciation 6.3 2.6 EBITDA 6.1 0.6 Share based payments 0.2 Transaction and restructuring costs 0.7 3.3 Adjusted EBITDA 7.0 2.7 Net finance costs Net finance costs for the year amounted to 1.6m 2016 0.8m principally made up of interest payable on bank borrowings and unsecured loan notes of 1.2m 2016 0.6m together with a noncash effective interest charge of 0.4m 2016 0.2m on the equity settled element of the cost of the loan notes.
+Loss before tax The Group reported a loss before tax of 1.9m in 2017 2016 4.0m.
+The loss for the year is after accounting for an amortisation charge of 6.3m 2016 2.6m as a result of the significant value of intangible assets attributed to customer contracts and intellectual property rights.
+Tax
+The tax credit for the year was 1.4m 2016 0.3m.
+The credit for 2017 was principally represented by adjustments in respect of prior years which mainly arose from the submission of enhanced RandD tax claims.
+Statutory loss after tax The reported loss after tax was 0.5m 2016 loss 3.7m.
+Earnings per share Basic loss per share was 0.59p 2016 9.82p.
+OSMO acquisition On 3 April 2017 the Company completed the acquisition of the entire issued share capital of OSMO for 3.2m settled by the issue of 4701492 ordinary shares of 1p each in the capital of the Company Ordinary Shares at a price of 68p per share.
+Long T erm Incentive Plan and warrants The Groups Long Term Incentive Plan LTIP was established to incentivise certain directors and senior executives of the Group.
+On 2 August 2017 the number of warrants issued to MXC Capital Limited MXC was adjusted to reduce the entitlement of MXC to 4% of the fully diluted share capital down from 6% so that the pool available to management under the LTIP could be increased from 6% to 8% of shareholder value created.
+Tax Systems pp06pp17
+Page 13 Financial Review
+STRATEGIC REPORT 14 TAX SYSTEMS PLC Annual Report 2017 The LTIP awards are structured as Growth Shares in Tax Systems Holdings Limited a wholly owned subsidiary of the
+Beneficiaries will share in a pool of up to 8% of shareholder value which is defined as the growth in value in the market capitalisation of the Company from the date of its readmission to trading on AIM on 26 July 2016 as adjusted for further share issuance and capital returns if any.
+At the reporting date LTIP awards equal to 8.0% 2016 5.3% of the growth in value have been made.
+At 31 December 2017 MXC had warrants to subscribe for 3362641 Ordinary Shares 2016 4851184 Ordinary Shares at a price of 67p and 61p per share.
+The Company also has granted the Business Growth Fund BGF an option to subscribe for 5970149 Ordinary Shares at a price of 67p.
+The Board intends in due course to purchase a limited number of Ordinary Shares to set up a new LTIP scheme principally for the benefit of existing employees not included in the current scheme and staff either yet to join or who will become part of the Group by way of acquisition.
+Cash flow and net debt The Group generated 1.3m 2016 absorbed 2.8m of cash during the year with the key components of the Groups cash flow being 2017 2016 m m Adjusted EBITDA 7.0 2.7 Exceptional items 0.7 3.3 Net change in working capital 0.6 0.5 Operating cash flow 6.9 0.1 Net interest paid 1.2 0.3 Tax paid 0.4 0.4 Capital expenditure 1.6 0.4 Free cash flow 3.7 1.2 Issue of shares  43.8 Acquisitions 2.4 74.0 Cash inflow from borrowings  29.5 Repayment of bank borrowings 4.8 0.9 Net change in cash flow 1.3 2.8 Cash at start of year 2.2 5.0 Cash at end of year 3.5 2.2 Conversion of Adjusted EBITDA to operating cash flow after exceptional items was 98%.
+Net debt at 31 December 2017 amounted to 20.5m 2016 24.4m which comprised of the following 2017 2016 m m Term loans and revolving credit facilities 14.3 19.1 BGF loan notes 10.0 10.0 Gross debt 24.3 29.1 Loan arrangement fees 0.3 0.5 Cash and restricted cash 3.5 4.2 Net debt 20.5 24.4 Kevin Goggin Chief Financial Officer 20 April telTax Systems pp06pp17 Page 14 Risk Management and Principal Risks STRATEGIC REPORT 15 TAX SYSTEMS PLC Annual Report 2017 There are a number of potential risks and uncertainties that could have a material impact on the Groups longterm performance.
+The Board has overall responsibility for managing risk.
+Risks are formally identified and recorded in a risk register which is reviewed by the Board and appropriate processes are in place to implement and monitor mitigating controls.
+The Group has a delegation of authorities that clearly sets out the approval required for key activities including those restricted to the Board and the Executive
+The Audit and Risk Committee which includes the independent NonExecutive Directors monitors and promotes the highest standards of integrity financial reporting risk management and internal control.
+As reported in the CEO statement there has been a significant level of activity at an operating level during 2017 including documenting the Groups longer term goals vision strategy and target operating model.
+From a risk perspective we have a fully aligned organisation with individual accountability and objectives in place to not only grow the business but also manage risk.
+The
+Executive Directors are closely involved in the daytoday management of the business and have oversight of all the controls the business has in place including financial operational and compliance controls as well as overseeing risk management.
+In addition in order to assist with the management of risks the Group continues to recruit individuals who are expert in our markets technology and support disciplines.
+Data protection and privacy practices are essential for the Group.
+The implementation of the EU General Data Protection Regulations GDPR planned for May 2018 is therefore a critical project for us.
+We are working to ensure that we are ready and to help our customers be ready too.
+Subject to specific local data laws GDPR will be the standard against which we will assess all of our future data protection activities.
+The key risks to which the Group is exposed are set out on the following page.
+Risk area and potential impact T arget Operating Model linkage Management of risks Market competition and product development The market in which the Group operates is technology driven and competitive.
+The Group may fail to develop its technology portfolio to meet customer demand.
+Developments by competitors new entrants and alliances may render the Groups current and proposed products and services obsolete.
+Superior technology and increased competition may cause price reductions reduced margins and loss of market share.
+Technology interoperability and architecture contains five objectives.
+Product and services performance and investment decisions contains four specific objectives.
+Market product and services analysis contains five specific objectives.
+For all of the above the CTO is accountable for delivery with delegation of responsibility down to team members.
+The Group is building an integrated end to end tax compliance solution by making substantial investment in the development of its products and services in order to meet the challenge of ever increasing levels of technological advancements.
+This also has the effect of reducing the Groups reliance on
+The Group also continually monitors the market place for competitor developments.
+Tax Systems pp06pp17 Page 15 Risk Management and Principal Risks continued STRATEGIC REPORT 16 TAX SYSTEMS PLC Annual Report 2017 Risk area and potential impact T arget Operating Model linkage Management of risks Breach of data integrity and confidentiality There may be threats to the confidentiality integrity and availability of the information systems and information that the Group holds about and on behalf of its customers and staff.
+This could impact the Groups operations result in fines and undermine customer trust in the Groups business and brand leading to a loss of customers.
+End to end systems data and security infrastructure contains four specific objectives.
+For all of the above the CFO is accountable for delivery with delegation of responsibility down to team members.
+The Group implements and maintains controls processes and tools that ensure continuity of information systems and the confidentiality and integrity of confidential and sensitive information.
+The Groups technical team includes a number of experienced IT security professionals and the Group uses third party providers expertise as appropriate.
+Governmental developments Governments may introduce new tax compliance portals and procedures requiring changes to the Groups technology suite.
+Revision of the frequency and timing of the Chancellors budget statements may impact the Groups ability to respond with updates leading to product inoperability due to noncurrent tax rules being incorporated in the software.
+This may lead to loss of customers and faith in the Groups products.
+Legislation development is a fundamental core of the entire business and doesnt need to be transformed under the Target Operating Model.
+This is therefore listed as a maintain function which links in with release management.
+For all of the above the CTO is accountable for delivery with delegation of responsibility down to team members.
+The Group is a member of HMRCs software development group and therefore it keeps up to date with and has advanced warning of potential changes to the corporation tax regime and timing thereof allowing it to adapt and update its products in a timely fashion.
+Our products are continually being upgraded and extended in order to ensure that we meet timing and transparency demands.
+Undetected defects in the software The Groups business involves providing customers with reliable software.
+If the software contains undetected defects when first introduced or when upgraded or enhanced the Groups customers may suffer incorrect tax computations.
+As a result the Group may lose customers or become liable to its customers for damages.
+Product quality contains two specific objectives.
+Product and services release management contains two specific objectives.
+Product and services maintenance contains two specific measures.
+For all of the above the CTO is accountable for delivery with delegation of responsibility down to team members.
+The Group has dedicated tax and technical teams which focus on product integrity and testing to help reduce errors in tax computations.
+The Group also continues to invest in best of breed development and test automation technologies to ensure there is full visibility and traceability of the end to end software development and management process.
+Tax Systems pp06pp17 Page 16 STRATEGIC REPORT 17 TAX SYSTEMS PLC Annual Report 2017 Risk area and potential impact T arget Operating Model linkage Management of risks Failure to recruit and retain key management and staff The Group may fail to recruit and retain individuals with appropriate skills and experience to deliver the Groups strategy.
+Employer recruitment experience communication and engagement contains ten specific objectives Management and leadership development contains four specific objectives.
+For all of the above the CFO is accountable for delivery with delegation of responsibility down to team members.
+The Group has a senior management team and places a significant emphasis on staff retention.
+Key management and staff are incentivised via bonus plans and share schemes a new Long Term Incentive Scheme was established during the year under review to achieve this.
+Acquisitions
+The Group may fail to execute its acquisition and partnerships strategy successfully which may impact on the Groups ability to build an end to end tax solution and consequently on the Groups financial performance.
+Corporate development contains four specific objectives.
+For all of the above the CEO is accountable for delivery with delegation of responsibility down to team members.
+The Group continually monitors market developments and together with its MandA advisor and broker regularly evaluates potential acquisitions and partners.
+Before an acquisition is made the Group commissions financial and legal due diligence to highlight potential risks and mitigate them where possible.
+Tax Systems pp06pp17 Page 17 CORPORATE GOVERNANCE 18 TAX SYSTEMS PLC Annual Report 2017 Board of Directors Gavin Lyons 40
+Chief Executive Officer CEO
+Gavin is responsible for the planning setting and execution of the Groups strategy as well as identifying and evaluating acquisition opportunities.
+Gavin was Executive Chairman and led the Companys readmission to AIM in July 2016 and became Chief Executive Officer of Tax Systems at the beginning of April 2017.
+Gavin has had a distinguished career in the TMT sector completing close to 20 corporate transactions including three major exits totalling more than Gavin was until recently a partner at MXC Capital Limited the AIM quoted technology investor and advisor but stepped away from his operating role to concentrate his efforts on Tax Systems plc.
+Prior to MXC Capital Limited Gavin was CEO of Accumuli plc a successful buy and build in the IT security sector sold to NCC Group plc for 55m.
+Prior to Accumuli plc Gavin was Head of Telecoms and Utilities at SAP UKandI the global market and technology leader in business management software.
+Prior to SAP Gavin had considerable executivelevel experience derived from his role as Vice President of Sales and Alliances with Identum and three subsequent director positions with Trend Micro.
+Identum was a venture capitalist backed email encryption business that was successfully sold to IT security giant Trend Micro in 2008 for a multimillion dollar sum.
+Gavin has also worked at Xerox Compuware and The Caudwell Group.
+Areas of expertise Gavin Lyons has 17 years of experience in the IT industry specialising in software services and telecoms.
+Gavin has functional and leadership experience in strategy sales marketing commercial and MandA.
+Gavin has experience of PandL ownership with both independent software vendors and service providers.
+Gavin also has experience of running both public and privately owned companies.
+Overall this experience enables Gavin to lead companies on growth journeys.
+Kevin Goggin 55 Chief Financial Officer CFO Kevin joined the group as Chief Financial Officer in April 2017.
+Kevin is a Fellow of the Institute of Chartered Accountants in England and Wales with significant international experience in finance and operations having previously held CFO and MD positions.
+Kevin has worked in both listed and private companies most recently in software and technology and prior to this in media storage and logistics.
+Kevin has completed a number of corporate transactions including two business sales to private equity.
+Before joining Tax Systems Kevin has worked with Monitise plc and was CFO at Bonded Services Group.
+Areas of Expertise Kevin has significant financial and operational experience in international businesses which allows him to ensure that the Group continues to perform while delivering its transformation and growth.
+Clive Carver 57 Independent NonExecutive Chairman Clive is the NonExecutive Chairman having previously been a NonExecutive Director of the Company.
+Clive is a Fellow of the Institute of Chartered Accountants in England and Wales FCA and a Fellow of the Association of Corporate Treasurers FCT with more than 35 years City experience.
+He qualified in the tax department at Coopers and Lybrand and subsequently worked for in the corporate finance departments of Kleinwort Benson and Price Waterhouse.
+He spent 17 years in the corporate broking arena becoming successively head of corporate finance at Seymour Pierce Williams de Broe and finnCap.
+Tax Systems pp18pp28 Page 18 CORPORATE GOVERNANCE 19 TAX SYSTEMS PLC Annual Report 2017 His first appointment as a nonexecutive director was in 2001 and his first appointment as a nonexecutive chairman was in 2007.
+He is currently Executive Chairman and CFO at Caspian Sunrise PLC nonexecutive chairman at Ascent Resources PLC and nonexecutive chairman at appScatter Group PLC.
+Additionally he has a number of board positions in private companies.
+Areas of Expertise Clive has experience both as an adviser and a principal including equity fund raising debt acquisitions public and private disposals public and private IPOs restructurings rescues corporate governance as well as general and financial management.
+Linda Beal 56 Independent NonExecutive Director Linda is a chartered accountant and worked in major accounting firms for 33 years.
+During this time she spent 27 years specialising in tax structuring and tax compliance for UK and international groups.
+Linda was until 30 June 2016 a tax partner at Grant Thornton.
+Prior to Grant Thornton Linda was a tax partner at PwC and one of its legacy firms from 1997 to 2013.
+Linda has significant experience of advising large and medium sized groups operating in the UK and internationally including supporting boards and inhouse tax teams on tax structuring management of tax risk and tax compliance using Alphatax and other tax compliance software.
+Areas of Expertise Linda provides insight from her tax knowledge experience from being a tax partner in two major accounting firms and of working with inhouse tax teams to the Boards strategic discussions.
+Paul Gibson 53 NonExecutive Director Paul Gibson is a partner in MXC Capital Limited and has had a highly successful career in the TMT sector most recently as Chief Operating Officer of Advanced Computer Software plc ACS prior to its acquisition by Vista Equity Partners for In his five years at ACS Paul oversaw a period of exceptional value creation and transformation with responsibility for driving both organic and acquisitive growth.
+Prior to ACS Paul held a number of senior roles in both financial and operational capacities latterly as Finance Director of Redac Limited the Alchemy backed turnaround that was subsequently sold to ACS for 100m.
+The foundations of Pauls career were built at Unigate GrandMet now Diageo and Oracle.
+Areas of Expertise Paul has over 25 years software specific operational financial commercial and MandA experience.
+This experience allows him to provide substantial insight to the discussions of the Board and its Committees.
+Tax Systems pp18pp28 Page 19 CORPORATE GOVERNANCE 20 TAX SYSTEMS PLC Annual Report 2017 Corporate Governance Report The Board is committed to the maintenance of high standards of corporate governance and seeks to implement best practice as appropriate for smaller listed companies by reference to the provisions of the Quoted Companies Alliances Corporate Governance Code for Small and Mid Size Quoted Companies.
+The Board of Directors and Committees The Board is responsible for setting the overall strategy of the business reviewing management performance and ensuring the Group has sufficient financial and human resources to meet its objectives.
+It directs the Groups activities in an effective manner through general Board meetings and monitors performance through timely and relevant reporting procedures.
+Where it deems necessary the Board requests reports on specific areas outside the normal reporting regime.
+The Chairman is responsible for the leadership of the Board and ensuring its effectiveness.
+The Board at present comprises two Executives the CEO and the CFO and three NonExecutive Directors.
+The size of the Board is considered to be appropriate to the current size and character of the Group.
+Clive Carver and Linda Beal are independent of management and any business or other relationships which would interfere with the exercise of their independent judgement.
+Authority for the execution of the business plan and the daily running of the business is delegated to the Executive Directors and the senior management team who meet regularly to review current business performance sales activity operational projects customer service human resourcing matters and other daytoday activities.
+The Board has established two standing committees the Audit and Risk Committee and the Remuneration and Nomination
+Each of these Committees acts within defined terms of reference which are available on the Companys website.
+Formal agendas and reports are provided to the Board on a timely basis in advance of Board and Committee meetings and the Chairman ensures that all Directors are properly briefed on issues to be discussed at Board meetings.
+Directors are able to obtain further advice or seek clarity on issues raised at the meetings from within the Company or from external sources.
+All Directors are subject to appraisal by the Board.
+The Non Executive Directors are responsible for the evaluation of the
+In accordance with the Companys Articles of Association Clive Carver will retire and offers himself for reelection at the forthcoming Annual General Meeting.
+Clive Carver NonExecutive Chairman 20 April 2018 Board meetings and attendance K Goggin and P Gibson were appointed in April 2017 and have attended all meetings after their appointment.
+The biographies of the serving members of the Board are provided on pages 18 and 19.
+Meetings attended Meetings held during the year 11 Clive Carver Chairman 1111 Gavin Lyons 1111 Kevin Goggin Linda Beal 1111 Paul Gibson Tax Systems pp18pp28 Page 20 CORPORATE GOVERNANCE 21 TAX SYSTEMS PLC Annual Report 2017 Role and responsibilities The Audit and Risk Committee is responsible for monitoring the integrity of the Companys financial statements reviewing significant financial reporting issues reviewing the effectiveness of the Groups internal control and risk management systems monitoring the need for or the effectiveness of the internal audit function and overseeing the relationship with the Auditor including advising on their appointment agreeing the scope of the audit and reviewing the audit findings.
+The Audit and Risk Committee also reviews the nature and amount of nonaudit work undertaken by the Auditor if any to satisfy itself that there is no effect on its independence.
+The
+Committee is satisfied that Crowe Clark Whitehill is independent.
+Composition of the Audit and Risk
+The Audit and Risk Committee comprises Linda Beal Clive Carver and Paul Gibson and is chaired by Linda Beal.
+The
+Committee meets at least twice a year at appropriate times in the reporting and audit cycle and otherwise as required.
+The Committee also meets regularly with the Companys
+Risk management and internal controls The Board is responsible for the Groups systems of internal controls and for reviewing its effectiveness.
+The implementation and maintenance of the risk management and internal control systems are the responsibility of the Executive Directors and senior management.
+Such systems are designed to manage rather than eliminate the risk of failure to achieve business objectives and can only provide reasonable and not absolute assurance against material misstatement or loss.
+The Board confirms that there are ongoing processes for identifying evaluating and mitigating the significant risks faced by the Group.
+The key procedures that have been established for internal controls are as follows An established operational management structure with clearly defined responsibilities and regular performance reviews A comprehensive system for reporting financial and non financial information to the Board including review of annual budgets and strategy plans Detailed monthly budgeting and reporting of trading results balance sheets and cash flows with regular review by management and the Board of variances from budget The control of key financial risks through appropriate authorisation levels and segregation of accounting duties and Review of reports issued by the external auditor.
+The Committee regularly reviews the overall assessment of the principal risks and the management actions and mitigation in place as set out in the Risk Register.
+The Risk Register is presented to the Board for formal review on a biannual basis and progress on matters is presented throughout the year through executive reporting.
+Audit and Risk Committee meetings and attendance Paul Gibson was appointed to the audit committee during the year and has attended all meetings since his appointment
+Meetings held during the year 3 Linda Beal Chairman 33 Clive Carver 33 Paul Gibson Report of the Audit and Risk Committee Tax Systems pp18pp28 Page 21 CORPORATE GOVERNANCE 22 TAX SYSTEMS PLC Annual Report 2017 Paul Gibson performs an internal audit role as well as his role as NonExecutive Director with a focus on evaluating and improving the effectiveness of management systems.
+On behalf of the Board the Committee reviews reports from the external auditor together with managements response regarding proposed actions.
+In this manner they have reviewed the effectiveness of the system of internal controls for the period covered by the accounts.
+Investor relations T ax Systems is committed to open communication with all its shareholders.
+The Company believes it is important to explain business development and financial results to its shareholders and to ensure that suitable arrangements are in place so that the issues and concerns of major shareholders are heard and understood.
+Copies of the Annual Report and Accounts are issued to all shareholders who have requested them and copies are available on the Groups investor website site The Groups interim results are also made available on the Companys website.
+The Group makes full use of its investor website to provide information to shareholders and other interested parties.
+Shareholders are given the opportunity to raise questions at the Annual General Meeting and the Directors are available both before and after the meeting for further discussion with shareholders.
+As a matter of policy the level of proxy votes for against and vote withheld lodged on each resolution is declared at the meeting.
+The CEO and CFO are primarily responsible for investor relations.
+Meetings are offered to major institutional shareholders to discuss strategy financial performance and investment activity immediately after the full year and interim results announcements.
+All the NonExecutive Directors are available to meet with major shareholders if such meetings are required.
+Feedback from such meetings with shareholders is provided to the Board to ensure the Directors have a balanced understanding of the issues and concerns of major shareholders.
+Trading updates and press releases are issued as appropriate and the Groups brokers provide briefings on shareholder opinion and compile independent feedback from investor meetings.
+External auditors The Audit and Risk Committee reports to the Board on the effectiveness of the Auditor and receives information from the Executive team in this regard.
+The Audit and Risk Committee and the Board also consider the appointment of the Auditor annually prior to recommending the appointment of the Auditor at the Annual General Meeting in June.
+Significant reporting and accounting matters The Committee met over the course of the year to receive and consider Updates on financial reporting and significant accounting matters.
+The change of accounting policy for revenue recognition was addressed in preparing the Groups financial statements Significant costs were incurred on the business transformation activities for the move to a new operating model and the recognition of these costs as nonrecurring items has been an area of focus The appropriateness of the accounting treatment applied for the acquisition of OSMO together with the judgements and estimations applied Impairment testing and the recoverability of goodwill was considered including the key inputs to forecast future cash flows discount rates and growth rates.
+Following the completion of each of these areas the Committee was satisfied that the accounting policies judgements and estimates applied and the disclosures made about them in the financial statements were appropriate.
+Linda Beal Chair of the Audit and Risk Committee 20 April 2018 Report of the Audit and Risk Committee continued Tax Systems pp18pp28 Page 22 CORPORATE GOVERNANCE 23 TAX SYSTEMS PLC Annual Report 2017 The Remuneration and Nomination Committee is responsible for determining and agreeing with the Board the framework for the remuneration of Executive Directors and other designated senior executives and within the terms of the agreed framework determining the total individual remuneration packages of such persons including where appropriate bonuses incentive payments and share options or other share awards.
+The remuneration of NonExecutive Directors will be a matter for the Executive Directors.
+No director will be involved in any decision as to his or her own remuneration.
+Further details are set out in the Directors Remuneration Report on pages 24 to 25.
+The Remuneration and Nomination Committee comprises Clive Carver Gavin Lyons and Linda Beal and is chaired by Clive Carver.
+The Remuneration and Nomination Committee meets at least twice a year and otherwise as required.
+For nominations the Committee meets as and when necessary to consider the appointment of new executive and nonexecutive directors.
+Clive Carver Chair of the Remuneration and Nomination
+20 April 2018 Remuneration and Nomination Committee meetings and attendance
+Meetings held during the year 2 Clive Carver Chairman 22 Linda Beal 22 Gavin Lyons 22 Report of the Remuneration and Nomination Committee Tax Systems pp18pp28 Page 23 CORPORATE GOVERNANCE 24 TAX SYSTEMS PLC Annual Report 2017 General policy The Remuneration and Nomination Committee determines on behalf of the Board the Companys policy for executive remuneration and the individual remuneration packages for the Executive Directors.
+The Remuneration and Nomination Committee determines the detailed terms of service of the Executive Directors including basic salary incentives and benefits and the terms upon which their service may be terminated.
+The Groups remuneration policy for Executive Directors is designed to attract retain and motivate executives of the highest calibre to ensure the Group is managed successfully to the benefit of shareholders.
+In setting remuneration levels the Remuneration and Nomination Committee takes into consideration remuneration within the Group and the remuneration practices in other companies of a similar size in the markets and locations in which Tax Systems operates.
+The packages are designed to be competitive in value to those offered to the Directors of similar sized public companies in related sectors.
+It is the Boards policy to align the longterm interests of managers with those of our shareholders in the granting of options and other equity rewards.
+Remuneration of Executive Directors The remuneration packages comprise the following components Basic salary Basic salary is based on a number of factors including market rates together with the individual directors experience responsibilities and performance.
+Car allowances form part of an Executive Directors basic salary.
+Bonus scheme The Company operates an annual performance related bonus scheme for Executive Directors.
+The bonus scheme is discretionary and dependent on the performance of the individual and the Group.
+The performance criteria for the year are set by reference to targets for Adjusted EBITDA and net debt.
+Pensions
+The Company makes payments into defined contribution Personal Pension Plans on behalf of the Executive
+These payments were at a rate of 1% and with effect from 1 April 2018 will be at 2% of basic salary.
+LTIP
+Under the LTIP participants are entitled to receive a share of shareholder value created subject to achievement of share price and employment related performance criteria.
+Further information can be found in the Directors Report on page 26 and in note 24 of the financial statements.
+Other benefits The Executive Directors are entitled to receive the benefit of private medical insurance and income protection insurance.
+The CEO and CFO are engaged under service contracts which require a notice period of six months.
+Directors Remuneration Report
+Tax Systems pp18pp28 Page 24 CORPORATE GOVERNANCE 25 TAX SYSTEMS PLC Annual Report 2017 Remuneration of NonExecutive Directors The fees paid to the NonExecutive Directors are determined by the Executive Directors.
+They are not entitled to receive any bonuses or other benefits other than Paul Gibson who is a participant in the LTIP .
+NonExecutive Directors letters of appointment are on a threemonth rolling basis.
+Directors remuneration Salary and fees Bonus Pension Other benefits T otaltelteltel 2016 Executive Directors G Lyons K Goggin G Benson NonExecutive Directors C Carver 66 31       66 31 P Gibson J Swingewood R Oren T otal remuneration 520 140 130    12  662 140 1 In 2017 44000 2016 81000 was paid to MXC Advisory Limited.
+A further 87000 was charged by MXC Capital Advisory Limited in connection with the due diligence and consultancy services provided by Gavin Lyons prior to the Companys acquisition of TCSL.
+See note 29 for further details.
+2 K Goggin was appointed as a director on 3 April 2017.
+3 G Benson resigned as a director on 3 April 2017.
+Salary for 2017 includes an amount of 87000 for compensation for loss of office.
+Prior to the Companys readmission to trading on AIM on 26 July 2017 69000 was paid to Intronovo Limited in respect of consultancy services provided by G Benson.
+4 P Gibson was appointed as a director on 3 April 2017.
+In the year to 31 December 2017 52000 2016 23000 was paid to MXC Advisory Limited and 30000 2016 13000 was paid to P Gibson in respect of his services to the Company.
+5 J Swingewood and R Oren resigned as directors on 23 March 2016 Directors interests in shares The Directors shareholdings in the Company are listed in the Directors Report on page 26.
+On behalf of the Board Clive Carver Chair of the Remuneration and Nomination Committee 20 April telTax Systems pp18pp28 Page 25 CORPORATE GOVERNANCE 26 TAX SYSTEMS PLC Annual Report 2017 26 TAX SYSTEMS PLC Annual Report 2017 Directors Report The Directors present their report and the audited financial statements for the year ended 31 December 2017.
+This
+Directors Report contains certain statutory regulatory and other information and incorporates by reference the Strategic Report and Governance Review included earlier in this document.
+Strategic report This Annual Report and Accounts has been prepared to provide shareholders with a fair and balanced review of the Groups business and the outlook for the future development of the Group as well as the principal risks and uncertainties which could affect the Groups performance.
+Principal activity The principal activity of the Group during the year was the supply of tax compliance software and services to large corporates and the accountancy profession in the UK and
+Results and dividends Details of the Groups results are set out in the Consolidated Statement of Comprehensive Income on page 33.
+The
+Groups loss for the year after taxation amounted to 0.5m 2016 loss 3.7m.
+The Directors do not propose a dividend for the year ended 31 December 2017 2016 nil.
+Directors
+The current Directors of the Company are shown on pages 18 and 19.
+Clive Carver and Linda Beal as Non Executive Chairman and NonExecutive Director respectively were considered to be independent of management and any business or other relationships which could interfere with the exercise of their independent judgement.
+Kevin Goggin and Paul Gibson were appointed to the Board on 3 April 2017.
+Directors interests in shares At 31 December 2017 Gavin Lyons held 149254 ordinary shares representing 0.2% of the issued share capital.
+No other director had a beneficial interest in the ordinary shares.
+LTIP
+An LTIP scheme was introduced in July 2016 to provide an effective mechanism for senior executives to participate in the Companys equity aligning their interests with those of shareholders.
+The LTIP scheme was amended in August 2017 to increase the participation available to management from 6% to 8%.
+At the same time MXC agreed to reduce its warrants over the fully diluted share capital of the Company from 6% to 4%.
+There was therefore no change to the overall dilution to shareholders as a result of this modification.
+Details of the LTIP are set out in note 24 to the financial statements.
+The directors participating in the scheme at the date of this report and their respective entitlement to the growth in value of market capitalisation of the Company are as follows Gavin Lyons 3.2% K Goggin 0.5% Paul Gibson 1.0% Directors indemnity and insurance The Group maintained insurance cover during the year for its Directors and Officers under a Directors and Officers liability insurance policy against liabilities that may be incurred by them while carrying out their duties.
+Substantial shareholders At 29 March 2018 shareholders with a beneficial holding of more than 3% of the Companys issued share capital were as follows Number % of issued of ordinary share shares capital 1798 V olantis 16004466 19.8% MXC Capital 15200718 18.8% Coltrane Asset Management 10149754 12.6% Schroder Investment Management 6729851 8.3% Mr Nigel Wray 5354743 6.6% Premier Fund Management 5228060 6.5% River and Mercantile Asset Management 4600000 5.7% Tax Systems pp18pp28 Page 26 CORPORATE GOVERNANCE 27 TAX SYSTEMS PLC Annual Report 2017 Share capital and reserves Details of changes in the authorised and issued share capital and reserves of the Company are shown in note 23 to the financial statements.
+On 3 April 2018 Tax Systems completed the acquisition of OSMO in return for the issue of 4701492 ordinary shares in the capital of the Company.
+Further details are set out in note 30 to the financial statements.
+Employees
+As at the date of this report the Group employed 90 people.
+The Groups policy is to consult and discuss with employees matters likely to affect employees interests.
+The Group systematically provides employees with information on matters of concern to them consulting them or their representatives regularly so that their views can be taken into account when making decisions that are likely to affect their interests.
+Employee involvement in the Group is encouraged as achieving a common awareness on the part of all employees of the financial and economic factors affecting the Group plays a major role in maintaining its relationship with its staff.
+The Group is committed to employment policies which follow best practice based on equal opportunities for all employees irrespective of ethnic origin religion political opinion gender marital status disability age or sexual orientation.
+Applications for employment by disabled persons are fully considered bearing in mind the respective aptitudes and abilities of the applicants concerned.
+In the event of members of staff becoming disabled every effort is made to ensure that their employment with the Group continues and that appropriate training is arranged.
+It is the policy of the Group that the training career development and promotion of disabled employees should as far as possible be identical with that of other employees.
+Environmental policy The Group acknowledges the importance of environmental matters and where possible uses environmentally friendly policies in its offices such as recycling and energyefficient practices.
+Health and safety The Group aims to provide and maintain a safe working environment for all colleagues and visitors to its premises and to comply with all relevant UK health and safety legislation.
+Health and safety matters are delegated to representatives within the business who can raise any issues arising via a number of means including the corporate risk register whose highest rated risks are reviewed periodically by the Board.
+Financial risk management objectives and policies The Groups financial risk management objectives and policies are described in note 3 to the financial statements.
+Research and development The Group capitalised 1.2m 2016 0.4m during the year on development of software products.
+Charitable and political donations The Group has made no charitable or political donations in the year 2016 nil.
+Going concern The Directors having made suitable enquiries and analysis of the accounts consider that the Group has adequate resources to continue in business for the foreseeable future.
+For this reason the Directors continue to adopt the going concern basis in preparing the financial statements.
+In making this assessment the Directors have considered the Groups budget cash flow forecasts available banking facilities and levels of recurring revenue.
+Disclosure of information to auditors The Directors who held office at the date of approval of this Directors report confirm that so far as they are aware there is no relevant audit information of which the Companys auditor is unaware and all Directors have taken the steps that they ought to have taken to make themselves aware of any relevant audit information and to establish that the Companys auditors are aware of that information.
+Tax Systems pp18pp28 Page 27 CORPORATE GOVERNANCE 28 TAX SYSTEMS PLC Annual Report 2017 Statement of Directors responsibilities The Directors are responsible for preparing the Annual Report and the financial statements in accordance with applicable law and regulations.
+Company law requires the Directors to prepare financial statements for each financial year.
+Under that law the Directors have elected to prepare the financial statements in accordance with International Financial Reporting Standards IFRSs as adopted by the European Union and applicable law.
+Under Company law the Directors must not approve the financial statements unless they are satisfied that they give a true and fair view of the state of affairs of the Group and Company and of the profit or loss of the Group for that period.
+In preparing these financial statements the Directors are required to select suitable accounting policies and then apply them consistently make judgements and accounting estimates that are reasonable and prudent state whether applicable IFRSs as adopted by the European Union have been followed subject to any material departures disclosed and explained and prepare the financial statements on the going concern basis unless it is inappropriate to presume that the Company will continue in business.
+The Directors are responsible for keeping adequate accounting records that are sufficient to show and explain the Companys transactions and disclose with reasonable accuracy at the time the financial position of the Company and enable them to ensure that the financial statements comply with the Companies Act 2006.
+They are also responsible for safeguarding the assets of the Company and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+The Directors are further responsible for ensuring that the Strategic Report and Report of the Directors and other information included in the Annual Report and financial statements are prepared in accordance with applicable law in the United Kingdom.
+The maintenance and integrity of the corporate and financial information included on the Companys website is the responsibility of the Directors the work carried out by the auditors does not involve the consideration of these matters and accordingly the auditors accept no responsibility for any changes that may have occurred to the financial statements since they were presented on the website.
+Legislation in the United Kingdom governing the preparation and dissemination of financial statements may differ from legislation in other jurisdictions.
+Annual General Meeting The Annual General Meeting will be held at 11 a.
+20 June 2018.
+Details and an explanation of the resolutions to be proposed are contained in the Notice of Annual General Meeting and explanatory notes either sent to shareholders with the Annual Report or available on the Companys website site
+Crowe Clark Whitehill LLP have expressed their willingness to continue in office as auditors and a resolution to appoint them and authorise the Directors to determine their remuneration for the ensuing year will be proposed at the forthcoming Annual General Meeting.
+By order of the Board Kevin Goggin Company Secretary 20 April 2018 28 TAX SYSTEMS PLC Annual Report 2017 Directors Report continued Tax Systems pp18pp28 Page 28 FINANCIAL STATEMENTS 29 TAX SYSTEMS PLC Annual Report 2017
+We have audited the financial statements of Tax Systems plc the Parent Company and its subsidiaries the Group for the year ended 31 December 2017 which comprise the Group statement of comprehensive income for the year ended 31 December 2017 the Group and parent company statements of financial position as at 31 December 2017 the Group and parent company statements of cash flows for the year then ended the Group and parent company statements of changes in equity for the year then ended and the notes to the financial statements including a summary of significant accounting policies.
+The financial reporting framework that has been applied in the preparation of the financial statements is applicable law and International Financial Reporting Standards IFRSs as adopted by the European Union.
+In our opinion the financial statements give a true and fair view of the state of the Groups and of the Parent Companys affairs as at 31 December 2017 and of the Groups loss for the period then ended the group financial statements have been properly prepared in accordance with IFRSs as adopted by the European Union the parent company financial statements have been properly prepared in accordance with IFRSs as adopted by the European Union as applied in accordance with the provisions of the Companies Act 2006 and the financial statements have been prepared in accordance with the requirements of the Companies Act 2006.
+Basis for opinion We conducted our audit in accordance with International Standards on Auditing UK ISAs UK and applicable law.
+Our responsibilities under those standards are further described in the Auditors responsibilities for the audit of the financial statements section of our report.
+We are independent of the Group in accordance with the ethical requirements that are relevant to our audit of the financial statements in the UK including the FRCs Ethical Standard and we have fulfilled our other ethical responsibilities in accordance with these requirements.
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+Conclusions relating to going concern We have nothing to report in respect of the following matters in relation to which ISAs UK require us to report to you when The directors use of the going concern basis of accounting in the preparation of the financial statements is not appropriate or The directors have not disclosed in the financial statements any identified material uncertainties that may cast significant doubt about the Groups or the parent companys ability to continue to adopt the going concern basis of accounting for a period of at least twelve months from the date when the financial statements are authorised for issue.
+Overview of our audit approach
+In planning and performing our audit we applied the concept of materiality.
+An item is considered material if it could reasonably be expected to change the economic decisions of a user of the financial statements.
+We used the concept of materiality to both focus our testing and to evaluate the impact of misstatements identified.
+Based on our professional judgement we determined overall materiality for the Group financial statements as a whole to be 350000 which represents 5% of Adjusted EBITDA 2016 300000.
+We used that benchmark because of the importance of Adjusted EBITDA for shareholders in assessing the performance of the Group.
+Independent Auditors report
+Tax Systems pp29pp32 Page 29 FINANCIAL STATEMENTS 30 TAX SYSTEMS PLC Annual Report 2017
+Independent Auditors report
+We use a different level of materiality performance materiality to determine the extent of our testing for the audit of the financial statements.
+Performance materiality is set based on the audit materiality as adjusted for the judgements made as to the entity risk and our evaluation of the specific risk of each audit area having regard to the internal control environment.
+Where considered appropriate performance materiality may be reduced to a lower level such as for related party transactions and directors remuneration.
+We agreed with the Audit Committee to report to it all identified errors in excess of 10000.
+Errors below that threshold would also be reported to it if in our opinion as auditor disclosure was required on qualitative grounds.
+Overview of the scope of our audit Tax Systems Plc and its subsidiaries are accounted for from one operating location in the UK.
+Our audit was conducted from the main operating location and all subsidiary companies were within the scope of our audit testing including Osmo Data Technology Limited which was acquired by the Group in April 2017.
+Key Audit Matters Key audit matters are those matters that in our professional judgement were of most significance in our audit of the financial statements of the current period and include the most significant assessed risks of material misstatement whether or not due to fraud that we identified.
+These matters included those which had the greatest effect on the overall audit strategy the allocation of resources in the audit and directing the efforts of the engagement team.
+These matters were addressed in the context of our audit of the financial statements as a whole and in forming our opinion thereon and we do not provide a separate opinion on these matters.
+This is not a complete list of all risks identified by our audit.
+Key audit matter How the scope of our audit addressed the key audit matter We performed substantive testing to determine whether the change of accounting policy on adoption of IFRS 15 had been correctly applied.
+We also performed substantive testing with respect to the revenue recognised during the year including deferred revenue.
+We assessed the appropriateness of the related disclosures in the financial statements including disclosures related to the adoption of IFRS 15.
+Revenue recognition The board of the Parent Company elected to early adopt IFRS 15 Revenue from Contracts with Customers for the year ended 31 December 2017.
+The
+Group has applied the consequent change in accounting policy using a modified retrospective approach in which the comparative results for 2016 have not been restated instead a cumulative adjustment has been recognised through retained earnings at 1 January 2017 in relation to agreements which still required performance by the Group at that date.
+Tax Systems pp29pp32 Page 30 FINANCIAL STATEMENTS 31 TAX SYSTEMS PLC Annual Report 2017 Key audit matter How the scope of our audit addressed the key audit matter We obtained managements impairment review of the existing goodwill and intangible assets recognised on acquisition of TCSL in the prior year and consider that this continues to support the carrying values of these assets details of which are included in Note 12 to the financial statements.
+We obtained managements assessment of the fair values of the net assets of OSMO acquired by the Group during the year together with the valuation of the intangible assets and goodwill arising as further explained in Note 30 to the financial statements.
+We challenged management on the valuation basis and assumptions.
+We also tested the additions and carrying value of the capitalised development costs set out in Note 12.
+Carrying value of goodwill and other intangible assets The Group acquired Tax Computer Systems Ltd TCSL in the prior year and OSMO Data T echnology Ltd OSMO in the current year.
+As a result intangible assets and goodwill have been recognised in the financial statements.
+TCSL also recognises an intangible asset arising from capitalised software development costs.
+Our audit procedures in relation to these matters were designed in the context of our audit opinion as a whole.
+They were not designed to enable us to express an opinion on these matters individually and we express no such opinion.
+Other information The directors are responsible for the other information.
+The other information comprises the information included in the annual report other than the financial statements and our auditors report thereon.
+Our opinion on the financial statements does not cover the other information and except to the extent otherwise explicitly stated in our report we do not express any form of assurance conclusion thereon.
+In connection with our audit of the financial statements our responsibility is to read the other information and in doing so consider whether the other information is materially inconsistent with the financial statements or our knowledge obtained in the audit or otherwise appears to be materially misstated.
+If we identify such material inconsistencies or apparent material misstatements we are required to determine whether there is a material misstatement in the financial statements or a material misstatement of the other information.
+If based on the work we have performed we conclude that there is a material misstatement of this other information we are required to report that fact.
+We have nothing to report in this regard.
+Opinion on other matter prescribed by the Companies Act 2006 In our opinion based on the work undertaken in the course of our audit the information given in the strategic report and the directors report for the financial year for which the financial statements are prepared is consistent with the financial statements and the directors report and strategic report have been prepared in accordance with applicable legal requirements.
+Matters on which we are required to report by exception In light of the knowledge and understanding of the group and the parent company and their environment obtained in the course of the audit we have not identified material misstatements in the strategic report or the directors report.
+We have nothing to report in respect of the following matters where the Companies Act 2006 requires us to report to you if in our opinion adequate accounting records have not been kept by the parent company or returns adequate for our audit have not been received from branches not visited by us or the parent company financial statements are not in agreement with the accounting records and returns or Tax Systems pp29pp32 Page 31 FINANCIAL STATEMENTS 32 TAX SYSTEMS PLC Annual Report 2017 certain disclosures of directors remuneration specified by law are not made or we have not received all the information and explanations we require for our audit.
+Responsibilities of the directors for the financial statements As explained more fully in the directors responsibilities statement the directors are responsible for the preparation of the financial statements and for being satisfied that they give a true and fair view and for such internal control as the directors determine is necessary to enable the preparation of financial statements that are free from material misstatement whether due to fraud or error.
+In preparing the financial statements the directors are responsible for assessing the groups and parent companys ability to continue as a going concern disclosing as applicable matters related to going concern and using the going concern basis of accounting unless the directors either intend to liquidate the group or the parent company or to cease operations or have no realistic alternative but to do so.
+Auditors responsibilities for the audit of the financial statements Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement whether due to fraud or error and to issue an auditors report that includes our opinion.
+Reasonable assurance is a high level of assurance but is not a guarantee that an audit conducted in accordance with ISAs UK will always detect a material misstatement when it exists.
+Misstatements can arise from fraud or error and are considered material if individually or in the aggregate they could reasonably be expected to influence the economic decisions of users taken on the basis of these financial statements.
+A further description of our responsibilities for the audit of the financial statements is located on the Financial Reporting Councils website at www. rc. iteauditorsresponsibilities.
+This description forms part of our auditors report.
+Use of our report This report is made solely to the companys members as a body in accordance with Chapter 3 of Part 16 of the Companies Act 2006.
+Our audit work has been undertaken so that we might state to the companys members those matters we are required to state to them in an auditors report and for no other purpose.
+To the fullest extent permitted by law we do not accept or assume responsibility to anyone other than the company and the companys members as a body for our audit work for this report or for the opinions we have formed.
+Stephen Bullock Senior Statutory Auditor for and on behalf of Crowe Clark Whitehill LLP Statutory Auditor
+23 April 2018
+Independent Auditors report
+Tax Systems pp29pp32 Page 32 FINANCIAL STATEMENTS 33 TAX SYSTEMS PLC Annual Reporttel Note 000 000 Revenue 5 15109 5753 Cost of sales 1138 377 Gross profit 13971 5376 Administrative expenses 14205 8609 Operating loss 6 234 3233 Finance income 8 14 26 Finance costs 8 1661 787 Loss before income tax 1881 3994 Income tax 9 1411 254 Loss for the year attributable to the owners of the parent 470 3740 Other comprehensive expenseincome that may be reclassified subsequently to profit or loss Currency translation differences on consolidation 1 61 T otal comprehensive expense for the year attributable to the owners of the parent 471 3679 Loss per share attributable to owners of the parent during the year basic and diluted pence 10 0.59p 9.82p 2017 2016 NonGAAP measure Adjusted EBITDA Note 000 000 Operating loss 6 234 3233 Depreciation and amortisation 6 6369 2576 EBITDA 6135 657 Sharebased payments 24 188 38 Exceptional items 6 680 3333 Adjusted EBITDA 7003 2714 Adjusted EBITDA is defined as operating profit or loss before exceptional items depreciation amortisation and sharebased payments.
+The Company has elected to take the exemption under Section 408 of the Companies Act 2006 to not present the parent company Statement of Comprehensive Income see note 31.
+The notes on pages 39 to 78 are an integral part of these financial statements.
+Consolidated Statement of Comprehensive Income for the year ended 31 December telTax Systems pp33pp38 Page 33 FINANCIAL STATEMENTS 34 TAX SYSTEMS PLC Annual Reporttel Note 000 000
+Noncurrent assets Property plant and equipment 11 331 30 Intangible assets 12 79481 81135 Deferred tax assets 21 3 13 79815 81178 Current assets Trade and other receivables 14 3173 2880 Current tax assets 1920 89 Restricted cash 15  2000 Cash and cash equivalents 16 3468 2200 8561 7169 T otal assets 88376 88347
+Current liabilities Trade and other payables 18 2995 2806 Deferred income 32 6855 1518 Current tax liabilities 116 165 Provisions 19 24 Borrowings 20 1730 1730 11720 6219 Noncurrent liabilities Provisions 19 33 Borrowings 20 19985 24293 Deferred tax liabilities 21 9359 9948 T otal liabilities 41097 40460 Net assets 47279 47887
+Capital and reserves attributable to owners of the parent Ordinary shares 23 807 760 Share premium 23 53936 50775 Foreign exchange reserve 23 60 61 Other reserves 23 3623 3446 Accumulated losses 11147 7155 T otal equity 47279 47887 These financial statements on pages 33 to 78 were approved and authorised for issue by the Board of Directors on 20 April 2018 and were signed on its behalf by Gavin Lyons Kevin Goggin
+Chief Executive Officer Chief Financial Officer
+Company number The notes on pages 39 to 78 are an integral part of these financial statements.
+Consolidated Statement of Financial Position as at 31 December telTax Systems pp33pp38 Page 34 FINANCIAL STATEMENTS 35 TAX SYSTEMS PLC Annual Reporttel Note 000 000
+Noncurrent assets Investments in subsidiaries 13 73313 73038 73313 73038 Current assets Trade and other receivables 14 150 834 Restricted cash 15  2000 Cash and cash equivalents 1tel3092 T otal assets 73627 76130
+Current liabilities Trade and other payables 18 2764 2567 Borrowings 20 1730 1730 4494 4297 Noncurrent liabilities Borrowings 20 19985 24293 T otal liabilities 24479 28590 Net assets 49148 47540
+Capital and reserves attributable to owners of the parent Ordinary shares 23 807 760 Share premium 23 53936 50775 Other reserves 23 3623 3446 Accumulated losses 9218 7441 T otal equity 49148 47540 The loss for the financial year of the Company was 1777000 2016 4026000.
+These financial statements on pages 33 to 78 were approved and authorised for issue by the Board of Directors on 20 April 2018 and were signed on its behalf by Gavin Lyons Kevin Goggin
+Chief Executive Officer Chief Financial Officer
+Company number The notes on pages 39 to 78 are an integral part of these financial statements.
+Company Statement of Financial Position as at 31 December telTax Systems pp33pp38 Page 35 FINANCIAL STATEMENTS 36 TAX SYSTEMS PLC Annual Report 2017 Equity Sharebased Foreign Ordinary Share Other element of payment Accumulated exchange T otal shares premium reserve loan notes reserve losses reserve equity Balance at 1 January 2016 4419 3655 444   3588  4930 Loss for the year      3740  3740 Other comprehensive income       61 61 T otal comprehensive expenseincome      3740 61 3679 Issue of Ordinary shares net of expenses 23 672 43129      43801 Restructuring of share capital 23 4331 4331 Recognition of warrants 23  340 340 Fair value of equity element of loan notes    2624  173  2797 Sharebased payments 24     38   38 Balance at 31 December 2016 760 50775 784 2624 38 7155 61 47887 Balance at 1 January 2017 as originally reported 760 50775 784 2624 38 7155 61 47887 Change in accounting policy 31      3522  3522 Balance at 1 January 2017 as restated 760 50775 784 2624 38 10677 61 44365 Loss for the year      470  470 Other comprehensive expense       1 1 T otal comprehensive expense      470 1 471 Issue of Ordinary shares net of expenses 23 47 3150      3197 Cancellation of warrants 23  11 11 Sharebased payments 24     188   188 Balance at 31 December 2017 807 53936 773 2624 226 11147 60 47279 The notes on pages 39 to 78 are an integral part of these financial statements.
+Consolidated Statement of Changes in Equity for the year ended 31 December telTax Systems pp33pp38 Page 36 FINANCIAL STATEMENTS 37 TAX SYSTEMS PLC Annual Report 2017 Equity Sharebased Ordinary Share Other element of payment Accumulated T otal shares premium reserve loan notes reserve losses equity Balance at 1 January 2016 4419 3655 444   3588 4930 Loss for the year and total comprehensive expense 31      4026 4026 Issue of Ordinary shares net of expenses 23 672 43129     43801 Restructuring of share capital 23 4331 4331 Recognition of warrants 23  340 340 Fair value of equity element of loan notes    2624  173 2797 Sharebased payments 24     38  38 Balance at 31 December 2016 760 50775 784 2624 38 7441 47540 Balance at 1 January 2017 760 50775 784 2624 38 7441 47540 Loss for the year and total comprehensive expense 31      1777 1777 Issue of Ordinary shares net of expenses 23 47 3150     3197 Cancellation of warrants 23  11 11 Sharebased payments 24     188  188 Balance at 31 December 2017 807 53936 773 2624 226 9218 49148 The notes on pages 39 to 78 are an integral part of these financial statements.
+Company Statement of Changes in Equity for the year ended 31 December telTax Systems pp33pp38 Page 37 FINANCIAL STATEMENTS 38 TAX SYSTEMS PLC Annual Report 2017 Group Companytel 2016 Cash flows fromused in operating activities Cash generated by operations before exceptional items 26 7540 3230 3501 1340 Exceptional items net 680 3333 463 3103 Cash generatedused by operations after exceptional items 6860 103 3964 1763 Net income tax paid 433 393 Net cash fromused in operating activities 6427 496 3964 1763 Investing activities Acquisition of subsidiary net of cash acquired 30 2384 73988 1913 75061 Interest received 14 26 Purchases of property plant and equipment 351 14 Purchase and capitalisation of intangible assets 1249 417 Net cash generated fromused in investing activities 798 74393 1913 75061 Financing activities Proceeds from issuance of ordinary shares net of expenses  43801  43801 Interest paid 1171 348 1171 348 Proceeds from longterm borrowings  19650  19650 Repayments of longterm borrowings 27 4800 900 4800 900 Proceeds from loan notes  9852  9852 Net cash used infrom financing activities 5971 72055 5971 72055 Net increasedecrease in cash and cash equivalents 1254 2834 94 4769 Cash and cash equivalents at beginning of the year 2200 5027 258 5027 Effect of exchange rate changes 14 7 Cash and cash equivalents at end of the year 16 3468 2200 164 258 The notes on pages 39 to 78 are an integral part of these financial statements.
+Cash Flow Statements for the year ended 31 December telTax Systems pp33pp38 Page 38 Notes to the Financial Statements for the year ended 31 December 2017 FINANCIAL STATEMENTS 39 TAX SYSTEMS PLC Annual Report 2017 General information T ax Systems plc the Company and its subsidiaries together the Group are leading suppliers of corporation tax and associated software and services to large corporates and accountancy firms in both the UK and Ireland.
+The Group is headquartered in the UK and during the year ended 31 December 2017 operated ventures in the UK and Ireland.
+The Company is a public limited company incorporated and domiciled in England and Wales whose shares are publicly traded on the AIM market of the London Stock Exchange AIM.
+The registered number of the Company is  and its registered office is Magna House 1832 London Road StainesuponThames TW18 4BP .
+Summary of significant accounting policies The principal accounting policies applied in the preparation of these consolidated financial statements are set out below.
+The policies are the same as those used in preparing the consolidated financial statements at 31 December 2016 unless otherwise stated.
+Basis of preparation The consolidated financial statements of T ax Systems plc have been prepared in accordance with International Financial Reporting Standards IFRS as adopted by the European Union IFRS as adopted by the EU IFRS Interpretations Committee and the Companies Act 2006 applicable to companies reporting under IFRS.
+The consolidated financial statements have been prepared under the historical cost convention as modified where applicable by the revaluation of financial assets and financial liabilities including derivatives at fair value through profit or loss.
+The preparation of financial statements in conformity with IFRS requires the use of certain critical accounting estimates.
+It also requires management to exercise its judgement in the process of applying the Groups accounting policies see note 4.
+The results for the year ended 31 December 2017 are comprised of the results for Tax Systems plc and Tax Computer Systems Limited and its subsidiaries TCSL for the full year together with the results for Osmo Data Technology Limited OSMO for the nine months from acquisition on 3 April 2017.
+The results for the year ended 31 December 2016 are comprised of the results for Tax Systems plc for the full year together with the results for TCSL for the fivemonth period from acquisition on 26 July 2016.
+Going concern These consolidated financial statements have been prepared on the going concern basis.
+The Group meets its day to day working capital requirements through its existing cash resources and borrowing facilities which are sufficient to meet currently maturing obligations as they fall due.
+The Directors have reviewed the Groups financial projections including sensitivities for at least the next 12 months and have at the time of approving the financial statements a reasonable expectation that the Group will have adequate resources to continue in operational existence for the foreseeable future and accordingly these financial statements are prepared on the going concern basis.
+New standards and interpretations New standards adopted in year The Company has reviewed the way that it accounts for revenue from contracts with customers and has early adopted the new reporting standard on revenue recognition IFRS 15 Revenue from Contracts with Customers IFRS 15.
+The Company has applied a consequent change in accounting policy by using a modified retrospective approach in which the comparative results for 2016 have not been restated instead a cumulative adjustment has been recognised through retained earnings at 1 January 2017 in relation to agreements which still required performance by the Company at that date.
+Further details in relation to the changes are set out in note 32.
+Tax Systems pp39pp78 Page 39 FINANCIAL STATEMENTS 40 TAX SYSTEMS PLC Annual Report 2017 Notes to the Financial Statements for the year ended 31 December 2017 Summary of significant accounting policies continued Future standards The Directors have considered those Standards and Interpretations which have not been applied in the Financial Statements but are relevant to the Groups operations that are in issue but not yet effective and with the exception of IFRS 16 and IFRS 9 referred to below do not consider that any will have a material impact on the future results of the Group.
+IFRS 16 Leases is effective for periods commencing on or after 1 January 2019.
+Under the provisions of the standard most leases including the majority of those previously classified as operating leases will be brought onto the statement of financial position as both a rightofuse asset and a largely offsetting lease liability.
+The rightofuse asset and lease liability are both based on the present value of lease payments due over the term of the lease with the asset being depreciated in accordance with IAS 16 Property Plant and Equipment and the liability increased for the accretion of interest and reduced by lease payments.
+The substantial majority of the Groups operating lease commitments approximately 1074000 on an undiscounted basis see note 28 would be brought on balance sheet and depreciated separately.
+There will be no impact on cash flows although the presentation of the cash flow statement will change significantly.
+Management is currently working on its detailed assessment of the impact of compliance with this accounting standard.
+The Directors are in the process of considering the potential changes that may occur to the financial statements under IFRS 9 Financial Instruments which will apply to periods commencing on or after 1 January 2018.
+It is not expected that the application of IFRS 9 will have a material impact on the Groups results.
+There are no other new or amended accounting standards relevant to the Group that were effective for the first time for the financial year beginning 1 January 2017 that have a material impact on the Groups consolidated financial statements.
+Consolidation
+The financial information consolidates the financial statements of Tax Systems plc and the entities controlled by the Company.
+Subsidiaries are all entities over whose financial and operating policies the Group has the power to govern so as to obtain economic benefits from its activities generally accompanying a shareholding of more than one half of the voting rights.
+The existence and effect of the potential voting rights that are currently exercisable or convertible are considered when assessing whether the Group controls another entity.
+The financial statements of subsidiaries are consolidated from the date on which control is transferred to the Group and cease to be consolidated from the date that control ceases.
+Intercompany transactions balances and unrealised gains on transactions between Group companies are eliminated.
+Accounting policies of subsidiaries are changed where necessary to ensure consistency with the policies adopted by the Group.
+The acquisition method of accounting is used to account for business combinations by the Group.
+The consideration transferred for the acquisition of a subsidiary comprises the fair values of the assets transferred the liabilities incurred and the equity interests issued by the Group.
+The consideration transferred includes the fair value of any asset or liability resulting from a contingent consideration arrangement.
+Acquisition related costs are expensed as incurred.
+Identifiable assets acquired and liabilities and contingent liabilities assumed in a business combination are measured initially at their fair values at the acquisition date.
+The excess of the consideration transferred the amount of any noncontrolling interest in the acquiree and the acquisition date fair value of any previous equity interest in the acquiree over the fair value of the Groups share of the identifiable net assets acquired is recorded as goodwill.
+If this is less than the fair value of the net assets of the subsidiary acquired the difference is recognised directly in the Statement of Comprehensive Income.
+Gains on acquisitions may arise where the acquisition date fair value of any previous equity interest in the acquiree exceeds the book value of that interest.
+Tax Systems pp39pp78 Page 40 FINANCIAL STATEMENTS 41 TAX SYSTEMS PLC Annual Report 2017 Summary of significant accounting policies continued Consolidation continued The Company completed the acquisition of the entire shareholding of OSMO on 3 April 2017 for 3197000 by the issue of shares.
+The Company completed the acquisition of the entire shareholding of TCSL on 26 July 2016 for an enterprise value of 73000000 a reverse acquisition under the AIM Rules.
+Both acquisitions have been accounted for using the acquisition method of accounting.
+See note 30 for more details.
+Revenue
+Revenue comprises the fair value of consideration received and receivable for the sale of goods and services provided to customers net of discounts and value added taxes.
+Revenue is disaggregated into revenue from the sale of licenced software solutions and revenue for professional services.
+Revenue from licenced software solutions Customers predominantly enter into software licences to use the Groups software products.
+Software licenses are contractual arrangements whereby the customer purchases the right to continuously exploit the licenced functionality of the Groups products including the right to be kept continuously updated and supported by the Group over a fixed term of predominantly 12 months.
+Revenue from software licences is recognised evenly over the period of the licences.
+This represents a change in accounting policy for software licences as a consequence of adopting IFRS 15.
+Previously the Groups policy had been to recognise revenue from software licences predominantly on commencement of the licence period.
+Further details of the changes are set out in note 32.
+Revenue from professional services The Group derives revenues from the sale of professional services separate to licensed software solutions.
+The most significant components of professional services revenues are currently derived from iXBRL tagging and from projects involving implementation and installation management and the provision of technical support.
+Contracts with customers for the sale of professional services are predominantly of a short duration and have specific outcomes which the Group considers to comprise its performance obligations.
+Contracts for the sale of professional services can be contracted on a time and materials or fixed fee basis.
+Revenue from both types of contract are recognised on fulfilment of the relevant performance obligation and are invoiced on the agreed basis.
+Amounts which meet the Groups revenue recognition policy which have not yet been invoiced are accounted for as accrued income whereas amounts invoiced which have not met the Groups revenue recognition criteria are deferred and are accounted for as deferred income until such time as the revenue can be recognised.
+Management makes an assessment of the certainty of any accrued revenue amounts in determining how much revenue to recognise.
+Segmental reporting An operating segment is a component of the Group that engages in business activities from which it may earn revenues and incur expenses including revenues and expenses that relate to transactions with any of the Groups other components.
+During the year ended 31 December 2017 the Group had one single operating segment being the provision of software and services to corporates and accountancy firms.
+Tax Systems pp39pp78 Page 41 FINANCIAL STATEMENTS 42 TAX SYSTEMS PLC Annual Report 2017 Notes to the Financial Statements for the year ended 31 December 2017 Summary of significant accounting policies continued Property plant and equipment Property plant and equipment is stated at historical cost less accumulated depreciation and impairment.
+Historical cost includes expenditure that is directly attributable to the acquisition or creation of the items.
+Subsequent costs are included in the assets carrying amount or recognised as a separate asset as appropriate only when it is probable that future economic benefits associated with the item will flow to the Group and the cost of the item can be measured reliably.
+All other repairs and maintenance are charged to the Statement of Comprehensive Income during the financial year in which they are incurred.
+Depreciation on assets is calculated using the straightline method to allocate their costs over their estimated useful lives as follows Estimated useful lives Fixtures and fittings 4 years Computer equipment 3  4 years Leasehold improvements Lower of 10 years or the term of the lease to the first break The residual values and useful lives of assets are reviewed for impairment and adjusted if appropriate at each year end reporting date.
+Impairment is measured by comparing the carrying amount of an asset to its recoverable amount.
+The recoverable amount is the higher of an assets fair value less costs to sell and the value in use by reference to discounted future cash flow.
+Any impairment is recognised in profit or loss immediately.
+Gains and losses on disposals are determined by comparing the proceeds with the carrying amount and are recognised within the Statement of Comprehensive Income.
+Fully depreciated assets are been treated as disposals as they have no residual value.
+Goodwill
+Goodwill arising on the acquisition of an entity represents the excess of the cost of acquisition over the Groups interest in the net fair value of the identifiable assets liabilities and contingent liabilities of the entity recognised at the date of acquisition.
+Goodwill is initially recognised as an asset at cost and is subsequently measured at cost less any accumulated impairment losses.
+It is held in the currency of the acquired entity and revalued at the closing rate at the reporting date.
+Goodwill on acquisition of subsidiaries is included in intangible assets.
+Goodwill is not subject to amortisation but is tested at least annually for impairment or more frequently if events or changes in circumstances indicate a potential impairment.
+On disposal of a subsidiary the attributable amount of goodwill is included in the determination of the profit or loss recognised in the Statement of Comprehensive Income on disposal.
+Other intangible assets Expenditure incurred in the development of software products and their related intellectual property rights is capitalised as an intangible asset only when technical feasibility has been demonstrated adequate technical financial and other resources exist to complete the development which the Group intends to complete and use future economic benefits expected to arise are deemed probable and the costs can be reliably measured.
+Research costs and development costs not meeting these criteria are expensed in the Statement of Comprehensive Income as incurred.
+Capitalised development costs are amortised as a charge to the Statement of Comprehensive Income within amortisation on a straightline basis over their useful economic lives.
+Capitalised development costs for assets which are not yet in use are tested for impairment annually or more frequently if events or changes in circumstances indicate a potential impairment.
+Separately acquired licences have a finite useful life and are carried at cost less accumulated amortisation.
+Tax Systems pp39pp78 Page 42 FINANCIAL STATEMENTS 43 TAX SYSTEMS PLC Annual Report 2017 Summary of significant accounting policies continued Other intangible assets continued Contractual customer relationships and technologyrelated intangible assets purchased or acquired in a business combination are recognised at fair value at the acquisition date.
+These assets have finite useful lives and are carried at cost less accumulated amortisation.
+Amortisation on the assets is calculated using the straightline method over their estimated useful lives as follows Customer relationships 10 years Intellectual property rights 10 years Purchased software licences 3  7 years Capitalised development costs 3  7 years Impairment of nonfinancial assets Assets that have an indefinite useful life for example goodwill are not subject to amortisation and are tested annually for impairment or more frequently if events or changes in circumstances indicate a potential impairment.
+Assets that are subject to amortisation or depreciation are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount may not be recoverable.
+An impairment loss is recognised for the amount by which the assets carrying amount exceeds its recoverable amount.
+The recoverable amount is the higher of an assets fair value less costs to sell and value in use.
+For the purposes of assessing impairment assets are grouped into cashgenerating units at the lowest levels for which there are separately identifiable cash flows.
+Goodwill is allocated to each cashgenerating unit CGU for the purpose of impairment reviews see note 12.
+The Group currently operates under a single CGU which reflects the way that the businesses are managed.
+Nonfinancial assets other than goodwill that suffered impairment are reviewed for possible reversal of the impairment at each reporting date.
+Financial instruments Financial assets The Group classifies its financial assets and cash and cash equivalents as loans and receivables.
+The classification depends on the purpose for which the financial assets were acquired.
+Management determines the classification of its financial assets at initial recognition.
+Loans and receivables are nonderivative financial assets with fixed or determinable payments that are not quoted in an active market.
+They are included in current assets except for maturities greater than 12 months after the end of reporting period date.
+These are classified as noncurrent assets.
+The Groups financial assets are disclosed in notes 14 15 16 and 22.
+Impairment testing of trade receivables is described in note 14.
+Financial liabilities The Group has two categories of financial liabilities which are financial liabilities measured at amortised cost using the effective interest method and financial liabilities at fair value through profit or loss designated on initial recognition.
+Both categories are classified as noncurrent when payments fall due greater than 12 months after the end of the reporting period.
+Financial liabilities are described in further detail in notes 18 20 and 22.
+Tax Systems pp39pp78 Page 43 FINANCIAL STATEMENTS 44 TAX SYSTEMS PLC Annual Report 2017 Notes to the Financial Statements for the year ended 31 December 2017 Summary of significant accounting policies continued Financial instruments continued Financial liabilities continued Derivative financial instruments are initially recognised at fair value on the date a derivative contract is entered into and are subsequently remeasured to their fair value at each reporting date.
+The method of recognising the resulting gain or loss depends on whether the derivative is designated as a hedging instrument and if so the nature of the item being hedged.
+The Group does not currently designate any derivatives as hedging instruments.
+Gains and losses on derivative instruments that are not designated as hedge instruments are recognised immediately in the Statement of Comprehensive Income within finance costs.
+The fair value of financial instruments that are not traded in an active market is determined by using valuation techniques.
+The
+Group uses a variety of methods to determine the fair value including pricing models which reflect the specific instrument.
+Management uses judgement to select a variety of methods and make assumptions that are based on market conditions existing at the end of the reporting period as well as internal information regarding a variety of probable outcomes.
+T rade receivables Trade receivables are initially recognised at fair value and subsequently held at amortised cost using the effective interest rate method.
+Trade receivables with standard payment terms of 30 days are recognised and carried at the lower of their original invoiced or recoverable amount.
+Where the time value of money is material receivables are carried at amortised cost.
+Provision is made when there is objective evidence that the Group will not be able to recover balances in full the amount of the provision being the difference between the assets carrying amount and the present value of estimated future cash flows discounted at the original effective interest rate.
+Balances are written off when the probability of recovery is assessed as being remote.
+Cash and cash equivalents Cash and cash equivalents includes cash in hand deposits held on call with banks and other shortterm highly liquid investments with original maturities of three months or less.
+Restricted cash balances are excluded from cash and cash equivalents.
+Share capital Ordinary shares are classified as equity.
+Share premium recognised on the issue of share capital is stated as the excess consideration received over the nominal value of shares issued net of any costs directly attributable to the issue.
+Trade and other payables Trade payables are recognised initially at fair value and subsequently measured at amortised cost using the effective interest method.
+Borrowings
+Borrowings are recognised initially at fair value net of transaction costs incurred.
+Borrowings are subsequently stated at amortised cost any difference between the proceeds net of transaction costs and the redemption value is recognised in the Statement of Comprehensive Income over the period of the borrowings using the effective interest method.
+Borrowings are classified as current liabilities unless the Group has an unconditional right to defer settlement of the liability for at least 12 months after the reporting date.
+Tax Systems pp39pp78 Page 44 FINANCIAL STATEMENTS 45 TAX SYSTEMS PLC Annual Report 2017 Summary of significant accounting policies continued Current and deferred income tax The current income tax charge is calculated on the basis of the tax laws enacted or substantively enacted at the reporting date in the countries where the Companys subsidiaries operate and generate taxable income.
+Current and deferred tax are recognised in the profit and loss except when they relate to items that are recognised in other comprehensive income or directly in equity in which case the current and deferred tax are also recognised in other comprehensive income or directly in equity respectively.
+Deferred income tax is recognised in full using the liability method on temporary differences arising between the tax bases of assets and liabilities and their carrying amounts in the consolidated financial statements.
+Deferred income tax is not provided on the initial recognition of an asset or liability in a transaction other than a business combination if at the time of the transaction there is no effect on either accounting or taxable profit or loss.
+Deferred income tax is determined using tax rates and laws that have been enacted or substantively enacted by the reporting date and are expected to apply when the related deferred income tax asset or liability is released or settled.
+Deferred income tax assets are recognised to the extent that it is probable that future taxable profit will be available against which the temporary differences can be utilised.
+Deferred income tax assets and liabilities are offset when there is a legally enforceable right to offset current tax assets against current tax liabilities and when they relate to income tax levied by the same taxation authority and the Group intends to settle current tax assets and liabilities on a net basis.
+Pension obligations The Group operates defined contribution plans.
+The Group pays contributions to privately administered pension insurance plans on a contractual basis.
+The Group has no further payment obligations once the contributions have been paid.
+The contributions are recognised as an employee benefit expense when they are due.
+Prepaid contributions are recognised as an asset to the extent that a cash refund or a reduction in the future payments is available.
+Sharebased payments The Group operates an equitysettled long term incentive plan LTIP.
+The fair value of the employee services received in exchange for the grant of the LTIP awards is recognised as an expense.
+The total amount to be expensed over the vesting period is determined by reference to the fair value of the LTIP awards granted.
+At each reporting date the entity revises its estimates of the amount of LTIP awards that are expected to vest.
+It recognises the impact of the revision to original estimates if any in the Statement of Comprehensive Income with a corresponding adjustment to equity.
+The grant by the Company of LTIP awards over its equity instruments to the employees of subsidiary undertakings in the Group is treated as a capital contribution.
+The fair value of employee services received measured by reference to the grant date fair value is recognised over the vesting period as an increase in investments in subsidiary undertakings with a corresponding credit to equity.
+The fair value is determined by use of the Black Scholes model method.
+Leases
+Leases in which a significant portion of the risks and rewards of ownership are retained by the lessor are classified as operating leases.
+Payments made under operating leases net of any incentives received from the lessor are charged to the Statement of Comprehensive Income on a straightline basis over the period of the lease.
+The Group does not hold any assets under finance leases.
+Tax Systems pp39pp78 Page 45 FINANCIAL STATEMENTS 46 TAX SYSTEMS PLC Annual Report 2017 Notes to the Financial Statements for the year ended 31 December 2017 Summary of significant accounting policies continued Foreign currency translation a Functional and presentation currency Items included in the financial statements of each of the Groups entities are measured using the currency of the primary economic environment in which the entity operates the functional currency.
+The consolidated financial statements are presented in thousands of Pounds 000 unless otherwise stated which is the Companys functional and the Groups presentational currency.
+Foreign currency transactions are translated into the functional currency using the exchange rates prevailing at the dates of the transactions.
+Foreign exchange gains and losses resulting from the settlement of such transactions and from the translation of monetary assets and liabilities denominated in foreign currencies at the year end rates are recognised in the Statement of Comprehensive
+Foreign exchange gains and losses on borrowings investments and cash and cash equivalents are presented in the Statement of Comprehensive Income within finance costs.
+All other foreign exchange gains and losses are presented within operating results.
+The results and financial position of all subsidiaries none of which have the currency of a hyperinflationary economy that have a functional currency different from the presentation currency are translated into the presentation currency as follows i assets and liabilities for each Statement of Financial Position presented are translated at the closing rate at the reporting date ii income and expenses for each Statement of Comprehensive Income are translated at average exchange rates unless this average is not a reasonable approximation of the cumulative effect of the rates prevailing on the transaction dates in which case income and expenses are translated at the rate on the dates of the transactions and iii all resulting exchange differences are recognised as a separate component of equity within the foreign exchange reserve.
+On consolidation exchange differences arising from the translation of the net investment in foreign operations and of borrowings and other currency instruments designated as hedges of such investments are taken to other comprehensive income.
+When a foreign operation is partially disposed of or sold exchange differences that were recorded in equity are recognised in the Statement of Comprehensive Income as part of the gain or loss on sale.
+Investments
+Investments held by the Company in its subsidiary undertakings are stated at cost less provision for any impairment in value.
+Impairment reviews are performed if events or changes in circumstances indicate a potential impairment.
+Exceptional items These are items which in managements judgement need to be disclosed by virtue of their size or nature in order for the user to obtain a proper understanding of the financial information and the underlying business performance.
+Alternative performance measures APMs In reporting financial information the Group presents APMs which are not defined or specified under the requirements of IFRS.
+The Group believes that these APMs which are not considered to be a substitute for or superior to IFRS measures provide stakeholders with additional helpful information on the performance of the business.
+The APMs are consistent with how the business performance is planned and reported within the internal management reporting to the Board.
+The key APMs that the Group uses include Adjusted EBITDA Adjusted EPS and net debt.
+Certain adjustments are made to the statutory profit measures in order to derive the APMSs. additional useful information to assess the trading performance.
+The reconciliation between operating loss and Adjusted EBITDA is shown on the face of the Consolidated Statement of Comprehensive Income.
+Tax Systems pp39pp78 Page 46 FINANCIAL STATEMENTS 47 TAX SYSTEMS PLC Annual Report 2017 Financial risk management Financial risk factors The Groups activities expose it to a variety of financial risks arising from its use of financial instruments credit risk liquidity risk and market risk.
+This note describes the Groups objectives policies and processes for managing those risks and the methods used to measure them.
+Further quantitative information in respect of these risks is presented throughout these financial statements.
+The principal financial instruments held by the Group from which financial instrument risks arise are as follows trade and other receivables cash at bank and trade and other payables.
+The Board has overall responsibility for the determination of the Groups risk management objectives and policies and whilst retaining ultimate responsibility for them it has delegated the authority for designing and operating processes that ensure the effective implementation of the objectives and policies to the Groups finance function.
+The Board reviews regular finance reports from the Chief Financial Officer through which it evaluates any risk exposures with a view to minimising any potential adverse effects on the Groups financial performance.
+Transactions that are speculative in nature are expressly forbidden.
+Details regarding the policies that address financial risk are set out below a Credit risk The nature of the Groups operations means that most of its current key customers are large corporates and accountancy firms.
+The credit risks are minimised due to the nature of these customers.
+The Group continually reviews its credit risk policy taking particular account of future exposure to developing markets and associated changes in customers credit risk profiles.
+The Group has a credit policy in place and the exposure to credit risk is monitored on an ongoing basis.
+Credit evaluations are performed on all customers requiring credit.
+At the balance sheet date there was no significant concentration of credit risks.
+The maximum exposure to credit risk is represented by the carrying amount of each financial asset on the balance sheet.
+In particular the Group benefits from the fact that most of its customers are required to settle contracts before rights under them are transferred.
+The carrying amount in the Statement of Financial Position net of any applicable provisions represents the amount exposed to credit risk and hence there is no difference between the carrying amount and the maximum credit risk exposure.
+Management strive to ensure that there are sufficient levels of committed facilities cash and cash equivalents to enable the company at all times to meet its financial commitments.
+The policy is to finance operations through working capital.
+They consider that cash and cash equivalents are equivalent to their fair value largely due to their short term status.
+The Groups policy is to ensure that it will always have sufficient cash within the Group to allow it to meet its liabilities when they become due and to have such funds available for its operations.
+Management monitors rolling forecasts of the Groups liquidity reserve which comprises cash and cash equivalents note 16 on the basis of expected cash flow.
+At the reporting date these projections indicate that the Group expects to have sufficient liquid resources to meet its obligations under all reasonable expected circumstances for the forthcoming year.
+The Group continues to monitor its liquidity position through budgetary procedures and cash flow analysis.
+Tax Systems pp39pp78 Page 47 FINANCIAL STATEMENTS 48 TAX SYSTEMS PLC Annual Report 2017 Notes to the Financial Statements for the year ended 31 December 2017 Financial risk management continued Financial risk factors continued b Liquidity risk continued The table below analyses the Groups financial liabilities into relevant maturity groupings based on the remaining period from the reporting date to the contractual maturity date.
+The amounts disclosed in the table are the contractual undiscounted cash flows 31 December 2017 Between Between Less than 1 and 2 2 and 5 Over 1 year years years 5 years Trade and other payables 2140 Provisions 24  33 31 December 2016 Between Between Less than 1 and 2 2 and 5 Over 1 year years years 5 years Trade and other payables 1874 c Market risk Market risk arises from the Groups use of interestbearing and foreign currency financial instruments.
+There is the risk that the fair value or future cash flows of a financial instrument will fluctuate because of changes in interest rates interest rate risk or foreign exchange rates currency risk.
+Interest payable on the Groups bank borrowings is calculated with reference to preagreed margins above the London Interbank Overnight Rate LIBOR.
+The interest payable on the loan notes is based on a fixed coupon which is not subject to change.
+Overall risk is not regarded as significant and the effect of a 100 bps increase in the LIBOR during the year would have resulted in an increase in posttax loss for the year of 275000 2016 increase of 113000 and a decrease in equity of 275000 2016 decrease of 113000.
+The Groups main exposure to foreign exchange is to the Euro exchange rate arising from the Groups overseas operation in
+The level of risk is reviewed regularly throughout the year.
+Foreign exchange risk arises from future commercial transactions recognised assets and liabilities and net investments.
+In order to reduce the foreign exchange risk arising the Groups policy is to allow the operations to settle liabilities denominated in their functional currency with the funds obtained from the activities arising in that currency.
+Given the current scale and natural hedging of the Groups overseas operations overall foreign currency risk remains relatively low.
+A 4% 2016 8% appreciation in the average Euro exchange rate would have increased the Groups loss after tax by 69000 2016 increase of 13000.
+At 31 December 2017 the effect on retained earnings of a 4% 2016 8% appreciation in the closing Euro exchange rate would be a decrease of 90000 2016 decrease of 77000.
+The effect on the foreign exchange reserve of a 4% 2016 8% appreciation in the closing Euro exchange rate would be an increase of 21000 2016 increase of 64000.
+Tax Systems pp39pp78 Page 48 FINANCIAL STATEMENTS 49 TAX SYSTEMS PLC Annual Report 2017 Financial risk management continued Capital risk management The Groups objective when managing capital is to safeguard the Groups ability to continue as a going concern in order to provide future returns for shareholders and benefits for other stakeholders and to maintain an optimal capital structure to reduce the cost of capital.
+The Group seeks to maintain at this stage of its development sufficient funding drawn primarily from debt and equity to enable the Group to meet its working capital and strategic needs.
+The Group may issue new shares or realise value from its existing investments and other assets as deemed necessary.
+The Group centrally manages borrowings investment of surplus funds and financial risks.
+The objective of holding financial investments is to provide efficient cash and tax management and effective funding for the Group.
+Critical accounting judgements and key sources of estimation uncertainty The preparation of the financial statements requires the Group to make estimates judgements and assumptions that affect the reported amounts of assets liabilities revenues and expenses and related disclosure of contingent assets and liabilities.
+The Directors base their estimates on historical experience and various other assumptions that they believe are reasonable under the circumstances the results of which form the basis for making judgements about the carrying value of assets and liabilities that are not readily apparent from other sources.
+Actual results may differ from these estimates under different assumptions or conditions.
+4.1 Accounting judgements In the process of applying the Groups accounting policies management has made a number of judgements of which the following are deemed to have the most significant effect on amounts recognised in the financial statements
+As explained in note 32. provision of continuous software upgrades and support are not considered to be separate performance obligations.
+The Groups software licenses are therefore considered to be right of access arrangements for a period of time.
+Since control of goods and services is transferred to customers over time the Group considers that the delivery of access to the software product constitutes a single performance obligation satisfied over lime.
+Revenue for professional services is recognised when the right to consideration is earned as each project progresses.
+Provisions against accrued income are made as and when management becomes aware of objective evidence that the amount of time worked will not be recoverable in full.
+Acquisitions accounting and goodwill Where the Group undertakes business combinations the cost of acquisition is allocated to identifiable net assets and contingent liabilities acquired and assumed by reference to their estimated fair values at the time of acquisition.
+The remaining amount is recorded as goodwill.
+The valuation of identifiable net assets involves an element of judgement related to projected results.
+Fair values that are stated as provisional are not finalised at the reporting date and final fair values may be determined that are materially different from the provisional values stated.
+Judgement was exercised on use of the acquisition method of accounting in respect of the acquisition of TCSL in 2016 which constituted a reverse takeover under the AIM Rules for Companies and for the acquisition of OSMO in 2017.
+An adjustment of 87000 was made to finalise the provisional fair values recorded at 31 December 2016 in respect of the acquisition of TCSL Further details of the acquisitions are set out in note 30 and sensitivity analysis on the carrying value of goodwill is set out in note 12.
+Tax Systems pp39pp78 Page 49 FINANCIAL STATEMENTS 50 TAX SYSTEMS PLC Annual Report 2017 Notes to the Financial Statements for the year ended 31 December 2017 Critical accounting judgements and key sources of estimation uncertainty continued 4.1 Accounting judgements continued Impairment of assets Management undertakes an annual test for impairment of assets with indefinite lives including goodwill and for assets with finite lives to test for impairment if events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable.
+Impairment testing is an area involving considerable management judgement. those assets discounted at an appropriate rate.
+In calculating the net present value of the future cash flows certain assumptions are required to be made in respect of highly uncertain matters including managements expectations of growth and discount rates.
+Development costs The Group has capitalised internally generated intangible assets in accordance with IAS 38.
+Management has exercised judgement in assessing the expected contribution to be generated from these assets and determined that no adjustment is required to the carrying value of the assets.
+Amortisation of intangibles Acquired intangible assets principally customer contract and intellectual property rights are amortised over an estimated useful life of 10 years based on historical analysis of customer retention.
+Judgement has been exercised in estimating those useful lives.
+Deterred tax The recognition of deferred tax assets and liabilities requires management to exercise judgement in determining the amounts to be recognised.
+In particular. judgement is used when assessing the timing and level of future taxable income.
+Sharebased payments Details of sharebased payments and the assumptions applied are disclosed in note 24.
+Judgement is exercised in selecting the appropriate methodology and variables to use in arriving at the fair value of the awards.
+Fair value measurement of other financial instruments Judgement has been applied in determining the fair value of the loan notes and associated equity instruments issued to the Business Growth Fund plc BGF in order to bifurcate the equity and debt elements.
+Judgement has also been applied in determining the fair value of warrants granted to MXC Capital Markets LLP MXC Capital.
+Further details are set out in note 23.
+4.2 Accounting judgements In the process of applying the Groups accounting policies management has made a number of estimates of which the following are deemed to have the most significant effect on amounts recognised in the financial statements.
+Revenue
+Management has made estimates in measuring revenue from professional services including the point at which the right to consideration is earned as each project progresses and provisions required against accrued income as and when management becomes aware of objective evidence that the amount of time worked will not be recoverable in full Development costs The recoverable amount of the assets has been determined based on value in use calculations which require the use of estimates.
+Management reviews the assets for impairment on a regular basis.
+Tax Systems pp39pp78 Page 50 FINANCIAL STATEMENTS 51 TAX SYSTEMS PLC Annual Report 2017 Critical accounting judgements and key sources of estimation uncertainty continued 4.2 Accounting judgements continued Sharebased payments Details of sharebased payments and the assumptions applied are disclosed in note 24.
+Estimation is required in assessing variables in the valuation model applied including the appropriate riskfree interest rate and the expected volatility of the market price of the Companys shares and the number of awards expected to vest Fair value measurement of other financial Instruments Estimates have been applied in determining the variables applied in assessing the fair value of financial instruments and in bifurcating debt and equity elements of financial instruments including appropriate cost of capital discount rates and share price volatility.
+Segmental information Reportable segments Tax Systems operating segments are reported based on the information reviewed by the chief operating decision maker for the purposes of allocating resources and assessing performance.
+The Board of Directors is the Groups chief operating decision maker.
+The Board of Directors considers revenue cost of sales operating costs exceptional costs and EBITDA of the Group as a whole when assessing the performance of the business and making decisions about the allocation of resources.
+In addition the Board reviews revenue split by business unit products and geographies to assist with the allocation of resources.
+During the current financial year the Group had a single class of business being the provision of software and services to corporates and accountancy firms.
+The results from continuing operations in the format as provided to the Board has not been reproduced below and can be found in the Statement of Comprehensive Income on page 33.
+Geographical disclosures In presenting information on the basis of geography revenue is based on the location of the customers.
+Noncurrent assets are based on the geographical location of those assets.
+Revenues Noncurrent assetstel 2016 United Kingdom 13200 4862 72972 73848 Ireland 1909 891 6840 7317 Total 15109 5753 79812 81165 Revenue has been allocated to geographical segments based upon the location of the customer.
+Tax Systems pp39pp78 Page 51 FINANCIAL STATEMENTS 52 TAX SYSTEMS PLC Annual Report 2017 Segmental information continued Products and services Revenues are disaggregated by service and by geography as follows UK Ireland Total UK Ireland Totalteltel Revenue from licenced software solutions 11851 1672 13523 4175 763 4938 Fees from professional services 1349 237 158telT otal revenue 13200 1909 15109 4862 891 5753 There is no single customer whose revenues are 10% or greater than overall Group revenues in either the current or prior financial year.
+Details of contract balances and performance obligations are set out in note 32.
+Operating loss This is stated after charging 2017 2016 Note 000 000 Employee benefit expense 25 6159 2280 Depreciation 11 65 17 Amortisation 12 6304 2559 Research and development costs expensed 398 393 Sharebased payment charge 24 188 38 Operating lease expense 450 286 Exceptional items comprise 2017 2016 Exceptional income 581 Restructuring costs 1057 169 Acquisition related costs 204 3164 680 3333 The exceptional income relates to an amount received in respect of a recovery of VAT costs treated as irrecoverable within exceptional items in 2016.
+Acquisition related costs represented professional fees broker fees and due diligence costs relating to the acquisition of Osmo in 2017 and TCSL in 2016.
+Restructuring costs were principally redundancy and termination costs associated with the acquisition of TCSL.
+Notes to the Financial Statements for the year ended 31 December telTax Systems pp39pp78 Page 52 FINANCIAL STATEMENTS 53 TAX SYSTEMS PLC Annual Report 2017 Auditors remuneration The analysis of the auditors remuneration is as follows 2017 2016 Fees payable to the Companys auditors and their associates for the audit of the Companys annual financial statements 27 27 Fees payable to the Companys auditors and their associates for other services to the Group The audit of the Companys subsidiaries 18 13 T otal audit fees 45 40 Other services Tax advisory services 2 4 T otal other services 2 4 T otal fees 47 44 Finance income and expenses 2017 2016 Finance income Interest income on shortterm deposits  19 Net foreign exchange gains on financing activities 14 7 Finance income 14 26 Finance costs Interest payable on bank borrowings and loan notes 1169 569 Effective interest on loan notes 399 173 Amortisation of debt arrangement fees 93 45 Finance costs 1661 787 Net finance costs 1647 761 An effective interest charge of 399000 2016 173000 on the loan notes has been charged during the year and included within finance costs.
+Further details of the loan notes are set out in note 20.
+Tax Systems pp39pp78 Page 53 FINANCIAL STATEMENTS 54 TAX SYSTEMS PLC Annual Report 2017 Notes to the Financial Statements for the year ended 31 December 2017 Income tax Recognised in the Statement of Comprehensive Income 2017 2016 Note 000 000 Current tax Current tax overseas withholding and other taxes 4 199 Adjustments in respect of prior years 1358 T otal current tax 1362 199 Deferred tax Origination and reversal of temporary differences 52 453 Change in tax rates 101 T otal deferred tax 21 49 453 T otal tax credit in the Statement of Comprehensive Income 1411 254 Adjustments in respect of prior years reflect the impact of the change in accounting policy consequent on early adoption of IFRS15 see note 32 and repayments of tax consequential on the submission of enhanced RandD tax claims for prior years.
+Reconciliation of effective tax rate Changes to the UK corporation tax rates include reductions to the main rate to 19% from 1 April 2017 and to 17% from 1 April 2020.
+As these changes had been substantively enacted at the balance sheet date their effects are included in these financial statements.
+The credit for the year is lower 2016 lower than the standard rate of corporation tax in the UK of 19.25% 2016 20.00%.
+The differences are explained below 2017 2016 Loss before income tax 1881 3994 Tax calculated at UK effective tax rate of 19.25% 2016 20.00% 362 799 Effects of Fixed asset timing differences 306 Expenses not deductible for tax purposes 54 551 Income not subject to tax 144 Additional deduction for research and development expenditure 407 Losses not utilised 481 7 Remeasurement of deferred tax for changes in tax rates 20 Effect of different tax rates of subsidiaries operating in other jurisdictions 141 13 Adjustments in respect of prior years 1358 T otal tax in the Statement of Comprehensive Income 1411 254 Loss per share Basic and diluted Basic loss per share is calculated by dividing the loss attributable to owners of the parent by the weighted average number of Ordinary shares in issue during the year.
+Diluted earnings per share is calculated by adjusting the weighted average number of ordinary shares outstanding to assume conversion of all dilutive potential shares represented by the LTIP awards warrants and convertible loan notes.
+As the Group was lossmaking any options and warrants were considered to be antidilutive and as such there is no separate calculation for diluted loss per share.
+Tax Systems pp39pp78 Page 54 FINANCIAL STATEMENTS 55 TAX SYSTEMS PLC Annual Report 2017 Loss per share continued Details of the loss and weighted average number of shares used in the calculation are set out below 2017 2016 Weighted average number of shares 000 000 Basic 79505 38096 Loss for the year attributable to the owners of the parent 470 3740 Loss per share Pence Pence Basic and diluted 0.59 9.82 Property plant and equipment Leasehold Fixtures and Computer improvements fittings equipment Total Group Note 000 000 000 000
+As at 1 January 2016 Additions   14 14 Acquisitions  2 31 33 As at 31 December 2016  2 45 47 Accumulated depreciation and impairment As at 1 January 2016 Charge  1 16 17 As at 31 December 2016  1 16 17 Net book value As at 1 January 2016 As at 31 December 2016  1 29 30
+As at 1 January 2017  2 45 47 Exchange differences  1 1 2 Additions 297  54 351 Acquisitions 30 4  10 14 Disposals  1 7 8 As at 31 December Accumulated depreciation As at 1 January 2017  1 16 17 Exchange differences  1 2 1 Charge Disposals  1 7 8 As at 31 December Net book value As at 1 January 2017  1 29 30 As at 31 December The Company does not have any property plant or equipment.
+Tax Systems pp39pp78 Page 55 FINANCIAL STATEMENTS 56 TAX SYSTEMS PLC Annual Report 2017 Notes to the Financial Statements for the year ended 31 December 2017 Intangible assets Intellectual Capitalised Customer property Softwaredevelopment Goodwill contracts rights licences costs Total
+As at 1 January 2016 Additions  417 417 Acquisitions 24927 43475 14875   83277 As at 31 December 2016 24927 43475 14875  417 83694 Accumulated amortisation As at 1 January 2016 Charge  1882 644  33 2559 As at 31 December 2016  1882 644  33 2559 Net book value As at 1 January 2016 As at 31 December 2016 24927 41593 14231  384 81135
+As at 1 January 2017 24927 43475 14875  417 83694 Additions    51 1198 1249 Acquisitions 30 1810 645 946   3401 As at 31 December 2017 26737 44120 15821 51 1615 88344 Accumulated amortisation As at 1 January 2017  1882 644  33 2559 Charge  4396 1558  350 6304 As at 31 December 2017  6278 2202  383 8863 Net book value As at 1 January 2017 24927 41593 14231  384 81135 As at 31 December 2017 26737 37842 13619 51 1232 79481 The remaining amortisation period for customer contracts and intellectual property rights is 9 years 2016 10 years.
+The Company does not have any intangible assets.
+The Group tests goodwill for impairment annually or more frequently if there are indications that goodwill might be impaired.
+Goodwill acquired in a business combination is allocated at acquisition to the CGU that is expected to benefit from that business combination.
+In order to determine whether impairments are required the Group estimates the recoverable amount of the CGU.
+The calculation is based on projecting future cash flows and a discount factor is applied to obtain a value in use which is the recoverable amount.
+Tax Systems pp39pp78 Page 56 FINANCIAL STATEMENTS 57 TAX SYSTEMS PLC Annual Report 2017 Intangible assets continued Impairment tests for goodwill Key assumptions The value in use calculation includes estimates about the future financial performance of the CGU.
+The cash flow projections cover five years based on managementapproved financial budgets for the first year and reflect managements expectations of the medium term operating performance of the CGU and its growth prospects for the subsequent years.
+Cash flows beyond the five year period are extrapolated using the estimated growth rates stated below.
+The key assumptions in the value in use calculations are the revenue growth rates which directly influence the forecasted operating cash flows as well as the discount rate applied.
+In determining the key assumptions management has taken into account the current economic climate and the resulting impact on expected growth and discount rates as applicable to the Groups business and industry.
+Average annual revenue growth rates used reflect past experience and are considered appropriate.
+The discount rate applied represents a pretax rate that reflects the Groups internal rate of return adjusted for specific risks associated with the CGU.
+Key assumptions used for the value in use calculations are as follows 2017 2016 Group Group CGU CGU Discount rate 13.3% 13.3% Mediumterm cash flow growth rate 1.5% 1.5% Longterm growth rate 3.0% 3.0% Sensitivity analysis The Group has conducted a sensitivity analysis on the carrying value of goodwill allocated to the CGU.
+The Board has considered downside scenarios including reductions in growth and increases to operating costs.
+The following table sets out the impact of the individual sensitivities on goodwill and other intangible assets 2017 2016 Group Group Decrease in medium term growth rate 1.0% 1.0% Potential impairment 0.0% 0.0% Sensitised discount rate 2.0% 2.0% Potential impairment 0.0% 0.0% Any potential impairment would be charged against the assets allocated to that CGU.
+It would first be allocated against goodwill balances summarised above then to other assets allocated to that CGU. goodwill.
+Tax Systems pp39pp78 Page 57 FINANCIAL STATEMENTS 58 TAX SYSTEMS PLC Annual Report 2017 Investments in subsidiaries 2017 2016 Company 000 000
+As at 1 January 73038 Acquisitions 87 73000 Capital contributions relating to sharebased payments 188 38 As at 31 December 73313 73038 Net book amount As at 31 December 73313 73038 Investments in subsidiaries are recorded at cost which is the fair value of the consideration paid and this cost is tested periodically for impairment.
+See note 30 for details of acquisitions of subsidiaries.
+The capital contribution relating to sharebased payments relates to LTIP awards granted by the Company to employees of subsidiary undertakings in the Group.
+A full list of the undertakings whose results or financial position are included within the Companys annual financial statements is set out below.
+Proportion of Country of voting rights incorporation and ordinary or registration Registered share capital Name and operation number held Nature of business Direct subsidiary undertakings Tax Systems Holdings Limited United Kingdom 1tel% Intermediate holding company Eco City Vehicles Limited United Kingdom 1tel% Dormant Indirect subsidiary undertakings Tax Computer Systems Limited United Kingdom 0tel% Development and marketing of tax software Tax Computer Systems Limited Ireland  100% Development and marketing of tax software Osmo Data Technology Limited United Kingdom 0tel% Development and marketing of data extraction software The registered office of the UK subsidiary undertakings is Magna House 1832 London Road StainesuponThames TW18 4BP .
+The registered office of the Irish subsidiary undertaking is 122 Lower Baggot Street Dublin 2 Ireland.
+Notes to the Financial Statements for the year ended 31 December telTax Systems pp39pp78 Page 58 FINANCIAL STATEMENTS 59 TAX SYSTEMS PLC Annual Report 2017 Trade and other receivables Group Companytel 2016 Due within one year Trade receivables 2706 2249 Less provision for impairment of trade receivables 69 67 Trade receivables  net 2637 2182 Other taxes and social security  88 25 88 Other receivables 251 462 Accrued income 155 Prepayments 130 148 1 Amounts due from Group undertakings   124 746 Prepayments and other receivables 53telT otal trade and other receivables due within one year 3173 2880 150 834 The maximum exposure to credit risk at 31 December 2017 is the carrying value of each class of receivables mentioned above.
+In determining the recoverability of trade receivables the Group considers the ageing of each debtor and any change in the circumstances of the individual receivable.
+Due to this management believes there is no further credit risk provision required in excess of that stated above for doubtful receivables.
+Other receivables principally comprise deposits and noninterest bearing loans in respect of the LTIP holders see note 29.
+The value of trade and other receivables quoted in the table above also represents the fair value of these items.
+Trade receivables arise from contracts with customers.
+Trade receivables are considered impaired if they are not considered recoverable.
+As at 31 December 2017 trade receivables of 952000 2016 876000 were past due but not impaired.
+The Group considers any change in the credit quality of trade receivables from the date credit was initially granted up to the reporting date.
+The concentration of credit risk is limited due to the quality of the customer base.
+The ageing analysis of trade receivables and impairment is as follows 2017 2016 Trade Impairment Trade Impairment receivables provision receivables provision Current and not impaired 1685  1306 Up to 3 months past due 761  894 18 Over 3 months past due 150 11 49 49 Over 6 months 110 58 2706 69 2249 67 Tax Systems pp39pp78 Page 59 FINANCIAL STATEMENTS 60 TAX SYSTEMS PLC Annual Report 2017 Notes to the Financial Statements for the year ended 31 December 2017 Trade and other receivables continued The carrying amounts of the Groups trade and other receivables are denominated in the following currencies 2017 2016 Pounds Sterling 2559 2332 Euros 614 548 3173 2880 Movements on the Group provision for impairment of trade receivables are as follows 2017 2016 As at 1 January 67 Movement in provision 2 67 As at 31 December 69 67 There are no other financial assets that are past due or impaired.
+Restricted cash Group Companytel 2016 Restricted cash  2000  2000 At 31 December 2016 a cash amount of 2000000 was held in escrow in respect of the satisfaction of a potential further payment in respect of the acquisition of TCSL.
+The escrow was settled in the year and the restricted funds were released.
+See note 30.
+Cash and cash equivalents Group Companytel 2016 Cash at bank and in hand 3468 2200 164 258 Net debtfunds Group Companytel 2016 Cash at bank and in hand 16 3468 2200 164 258 Restricted cash and cash equivalents 15  2000  2000 Bank loans and loan notes 20 21715 26023 21715 26023 Equity element of loan notes 2225 2624 2225 2624 Net debt 20472 24447 23776 26389 Tax Systems pp39pp78 Page 60 FINANCIAL STATEMENTS 61 TAX SYSTEMS PLC Annual Report 2017 Trade and other payables Group Companytel 2016 Due within one year Trade payables Other taxes and social security 855 932 17 Accruals 1859 1139 323 317 Other payables 55 409  332 Amounts due to Group undertakings   2383 1679 Other payables due within one year 2769 2480 2723 2328 Trade and other payables due within one year 2995 2806 2764 2567 Trade and other payables principally comprise amounts outstanding for trade purchases and ongoing costs.
+The Group has financial risk management policies in place to ensure that all payables are paid within the preagreed credit terms.
+The Directors consider that the carrying amount of trade payables approximates to the fair value.
+Provisions
+Property dilapidations Total Group 000 000 As at 1 January 2017 On acquisition 10 10 Additional provisions in the year 47 47 As at 31 December 2017 57tel Due within one year 24 Due after one year 33 Provisions relate to dilapidation charges.
+The timing of cash flows associated with these provisions is dependent on the timing of lease agreement termination.
+Tax Systems pp39pp78 Page 61 FINANCIAL STATEMENTS 62 TAX SYSTEMS PLC Annual Report 2017 Notes to the Financial Statements for the year ended 31 December 2017
+Group Companytel 2016 Due within one year Bank loans 1730 1730 1730 1730 Borrowings due within one year 1730 1730 1730 1730 Due after one year Bank loans 12325 17055 12325 17055 Loan notes 7660 7238 7660 7238 Borrowings due after one year 19985 24293 19985 24293 T otal Borrowings 21715 26023 21715 26023 The Group has revolving and term loan facilities which are available until 30 June 2021.
+The term loan is being amortised evenly over the five year term.
+Interest payable in respect of the revolving credit facility ranges between 1.75% to 3.25% per annum above the London InterBank Offered Rate LIBOR and for the term loan facility between 2.0% to 3.5% above LIBOR.
+The Company entered into a 10000000 unsecured fixed rate loan notes agreement with the BGF with a 6.5 year term from 26 July 2016.
+Repayment will be made in four equal instalments semiannually from 30 June 2021.
+The Company also granted the BGF an option to subscribe for 5970149 Ordinary Shares at a price of 67p at any time before 26 July 2023.
+In accordance with IAS 32 the loan notes and options issued to the BGF are deemed to be linked and are treated as a single financial instrument and shown at fair value.
+The fair value of the loan element was originally calculated at 7203000 using a discounted cash flow model over the term of the instrument and an effective borrowing rate of 13% deemed by the Directors to be an appropriate market rate reflecting the 6% coupon interest payments and the capital repayment profile of the loan notes.
+The balance of 2797000 was deemed to be the fair value of the equity element and was credited to Other Reserves.
+The Groups borrowings are all denominated in Pounds Sterling.
+An effective interest of 399000 2016 173000 has been taken on the loan notes during the year.
+Deferred tax The movement in the deferred income tax assetsliabilities during the year is as follows 2017 2016 Group Note 000 000 As at 1 January 9935 On acquisition 30 302 10388 Credited to Consolidated Statement of Comprehensive Income 9 49 453 On change in accounting policy 831 Credited to other comprehensive income  exchange differences 1 As at 31 December 9356 9935 Tax Systems pp39pp78 Page 62 FINANCIAL STATEMENTS 63 TAX SYSTEMS PLC Annual Report 2017 Deferred tax continued The movement in deferred income tax assets and liabilities during the year without taking into consideration the offsetting of balances within the same tax jurisdiction is as follows 2017 2016 T ax losses Tax losses Group 000 000 Deferred tax assets As at 1 January 13 Chargecredit to Consolidated Statement of Comprehensive Income 842 13 Recognised on change in accounting policy 831 Exchange differences 1 As at 31 December 3tel Acquisition Acquisition related Tangible Capitalised related Tangible Capitalised intangible fixeddevelopment intangible fixed development assets assets costs Total assets assets costs Total Deferred tax liabilities As at 1 January 9880 2 66 9948 On acquisition 30 302   302 10386 2 10388 Recognised in profit or loss 1066 1 174 891 506  66 440 As at 31 December 9116 3 240 9359 9880 2 66 9948 The timing of the recoverabilitysettlement of the deferred tax assetsliabilities is set out below 2017 2016 Due within Due after Due within Due after one year one year T otal one year one year T otal Deferred tax assets 3  3 13  13 Deferred tax liabilities 1480 7879 9359 9948  9948 1477 7879 9356 9935  9935 Details of changes to tax rates are included in note 9.
+Tax Systems pp39pp78 Page 63 FINANCIAL STATEMENTS 64 TAX SYSTEMS PLC Annual Report 2017 Notes to the Financial Statements for the year ended 31 December 2017 Financial instruments Accounting classification of financial assets and liabilities Other financial liabilities at Loans and amortised receivables Borrowings cost Total As at 31 December 2017 Cash and cash equivalents 3468   3468 Trade and other receivables excluding nonfinancial assets 2888   2888 Trade and other payables excluding nonfinancial liabilities   9850 9850 Loans and loan notes  21715  21715 Total 6356 21715 9850 25209 As at 31 December 2016 Cash and cash equivalents 2200   2200 Trade and other receivables excluding nonfinancial assets 2644   2644 Trade and other payables excluding nonfinancial liabilities   4324 4324 Loans and loan notes  26023  26023 Total 4844 26023 4324 25503 Other financial liabilities at Loans and amortised receivables Borrowings cost Total As at 31 December 2017 Cash and cash equivalents 164   164 Trade and other receivables excluding nonfinancial assets 124   124 Trade and other payables excluding nonfinancial liabilities   2764 2764 Loans and loan notes  21715  21715 Total 288 21715 2764 24191 As at 31 December 2016 Cash and cash equivalents 258   258 Trade and other receivables excluding nonfinancial assets 746   746 Trade and other payables excluding nonfinancial liabilities   2567 2567 Loans and loan notes  26023  26023 Total 1004 26023 2567 27586 Tax Systems pp39pp78 Page 64 FINANCIAL STATEMENTS 65 TAX SYSTEMS PLC Annual Report 2017 Ordinary shares share premium and other reserves Allotted and fully paid 0.01 nominal value shares Number Ordinary Share of shares shares premium As at 1 January 2016 441885 4419 3655 Issue of new shares 67164 672 44328 Restructuring of share capital 433048 4331 4331 Issue of warrants   340 Cost of share issue   1199 As at 1 January 2017 76001 760 50775 Issue of new shares 4702 47 3150 Issue of warrants   11 As at 31 December 2017 80703 807 53936 Reconciliation of shares issued Number of Ordinary Share shares shares premium Total As at 1 January 2016 441885 4419 3655 8074 Restructuring of share capital 433048 4331 4331 Issue of warrants   340 340 Issue of shares 67164 672 43129 43801 As at 1 January 2017 76001 760 50775 51535 Share issue 4702 47 3150 3197 Issue and modification of warrants   11 11 As at 31 December 2017 80703 807 53936 54743 Share capital and share premium At 31 December 2017 the share capital of Tax Systems plc consisted of 80703381 2016 76001889 fully paid Ordinary shares with a nominal value of 1p per share.
+All shares are equally eligible to receive dividends and the repayment of capital and represent one vote.
+On 26 July 2016 the Company issued 67164180 New Ordinary Shares with a nominal value of 1p at 67p each raising 45000000 before costs as part of its funding of the acquisition of TCSL.
+At the same time the Company undertook a capital restructuring in order to reduce the number in shares in issue.
+The capital restructuring was effected by way of a consolidation subdivision and reclassification of every 50 existing ordinary shares of 1p each into one new ordinary share of 1p each and one deferred share of 49p each.
+The deferred shares were then acquired by the Company and cancelled.
+On 3 April 2017 the Company issued 4701492 Ordinary Shares for the acquisition of the entire share capital of OSMO.
+Tax Systems pp39pp78 Page 65 FINANCIAL STATEMENTS 66 TAX SYSTEMS PLC Annual Report 2017 Notes to the Financial Statements for the year ended 31 December 2017 Ordinary shares share premium and other reserves continued Other reserves For the purposes of presentation on the Consolidated and Company Statements of Financial Position the sharebased payment reserve the equity element of loan notes and the other reserve have been combined and disclosed as Other reserves.
+The other reserve is comprised of the fair value of warrants issued.
+As set out in note 20 the Company has granted the BGF an option to subscribe for 5970149 Ordinary Shares at a price of 67p at any time before 26 July 2023.
+By a warrant instrument dated 23 December 2015 the Warrant Instrument the Company agreed to issue to MXC Capital such number of warrants to subscribe for Ordinary Shares created pursuant to the Warrant Instrument that shall at all time be equal to 6 per cent. of the issued share capital of the Company.
+441885 warrants were issued in December 2015 the Initial Warrants and a further 4409299 warrants were issued in July 2016 the Transaction Warrants so that the number of warrants issued to MXC Capital at 31 December 2016 was 4851184.
+A further 195896 Transaction Warrants were issued on 3 April 2017 in respect of the share issue for the acquisition of OSMO.
+On 2 August 2017 the Company announced that it had entered into a deed of amendment and restatement whereby MXC Capital had agreed to reduce its warrants over 6 per cent.
+1684439 Transaction warrants have been cancelled and MXC Capital now holds 3362641 warrants to subscribe for Ordinary Shares in the Company.
+The movement on the Initial Warrants and the Transaction Warrants was as follows 2017 2016 Number Number As at 1 January 4851184 441885 Issue of warrants 195896 4409299 Cancellation of warrants 1684439 As at 31 December 3362641 4851184 The number of warrants and exercise prices are 2017 2016 Exercise price Number Number Initial Warrants 61.0p 441885 441885 T ransaction Warrants 67.0p 2920756 4409299 T otal 3362641 4851184 The Initial Warrants are exercisable on or after 23 December 2018 if at any time on or before that date the average share price for ten consecutive trading days is equal to or greater than 85.50p.
+The Transaction Warrants are exercisable on or after 26 July 2019 if at any time on or before that date the average share price for ten consecutive trading days is equal or greater than 93.80p.
+If these conditions are not met the vesting period will be extended for a further 24 months from the first vesting dates.
+Tax Systems pp39pp78 Page 66 FINANCIAL STATEMENTS 67 TAX SYSTEMS PLC Annual Report 2017 Ordinary shares share premium and other reserves continued Other reserves continued The fair value of the Transaction Warrants was determined using a BlackScholes model.
+The performance conditions related to the Transaction Warrants take into account factors specific to the warrants such as the vesting period.
+The share price performance condition related to the scheme being a market condition has been incorporated into the measurement by means of binomial modelling.
+Expected volatility used in the valuation is based on the historical share price volatility.
+The following principal assumptions were used in the valuation Grant date 26 Jul 2016 Share price at issue date 79.5p Exercise price 67.0p Fair value per option 15.41p Dividend yield Risk free rate used in valuation 0.25% Volatility used in valuation 8.35% Expected life years 3.50 Expected exercise date used in valuation January 2020 The foreign exchange reserve is used to record exchange differences arising from the translation of foreign subsidiaries.
+The Group sharebased payment reserve at 31 December 2017 is 226000 2016 38000 and is discussed in detail in note 24.
+Sharebased payments Equitysettled sharebased payments plan The Group operates an equitysettled sharebased payment plan.
+A summary of the main terms of the arrangement is given below with particular reference made to the terms of those grants for which the sharebased payment expense has been recognised.
+On 2 August 2017 and 26 July 2016 the Group made awards to certain directors and employees under its LTIP scheme.
+The Group recognised total expenses in relation to sharebased payments as follows 2017 2016 Equitysettled sharebased payments 188 38 T otal 188 38 The beneficiaries of the LTIP are entitled to receive a share in a pool of up to 8% 2016 6% of the shareholder value created since the readmission of the Company to AIM subject to share price performance criteria and staff remaining employed by the Group for a minimum of three years.
+Shareholder value creation is defined as the growth in the market capitalisation of the Company from the base value of at least three years from 26 July 2016 taking into account dividends and capital returns if any.
+The base value is defined as the aggregate value of all Ordinary shares in the capital of the Company in issue on 26 July 2016 as adjusted for the issue or cancellations of new Ordinary shares after that date.
+The LTIP is implemented by way of an Employee Growth Shares scheme in T ax Systems Holdings Limited.
+At 31 December 2017 awards of 8% 2016 5.3% of shareholder value created have been made.
+Tax Systems pp39pp78 Page 67 FINANCIAL STATEMENTS 68 TAX SYSTEMS PLC Annual Report 2017 Notes to the Financial Statements for the year ended 31 December 2017 Sharebased payments continued Equitysettled sharebased payments plan continued Participants at 31 December 2017 are entitled to share in a pool equivalent to 8% 2016 5.3% of shareholder value created in excess of the base value of the Company as at 26 July 2016 subject to the share price performance of T ax Systems plc.
+Share price performance will initially be measured at 26 July 2019 being the 3rd anniversary of the readmission with an extension to 26 July 2021 if the performance condition is not met by that date.
+The share price performance criterion is a share price equal to or greater than 93.8p over five consecutive trading days.
+As the share price hurdle for the Employee Growth Shares has not been met there are no options at the year end that can be determined and there is no movement during the year.
+Assumptions used in the valuation of sharebased payment arrangements.
+The fair value of the LTIP was determined using a BlackScholes model.
+The performance condition related to the LTIP takes into account factors specific to the share incentive plans such as the vesting period.
+The share price performance condition related to the scheme being a market condition has been incorporated into the measurement by means of binomial modelling.
+Expected volatility used in the valuation is based on the historical share price volatility.
+The following principal assumptions were used in the valuation Modificationgrant date 2 Aug 2017 26 Jul 2016 Share price at issue date 81.5p 79.5p Exercise price 67.0p 67.0p Fair value 25.06p 15.41p Dividend yield Risk free rate used in valuation 0.25% 0.25% Volatility used in valuation 17.49% 8.35% Expected life years 2.48 3.50 Expected exercise date used in valuation January 2020 January 2020 Employee benefit expense and Directors emoluments Assumptions used in the valuation of sharebased payment arrangements.
+2017 2016 Group 000 000 Employees including Directors Wages and salaries 5272 2036 Social security costs 594 161 Sharebased payments 188 38 Other pension costs 105 45 6159 2280 Monthly average number of employees including Directors Management and administration 12 10 Sales and marketing 15 9 Technical support and development  Tax Systems pp39pp78 Page 68 FINANCIAL STATEMENTS 69 TAX SYSTEMS PLC Annual Report 2017 Employee benefit expense and Directors emoluments continued The Group has defined contribution pension schemes available to all employees.
+Company 2017 2016 Directors emoluments 000 000 Aggregate emoluments 574 221 Amounts receivable under longterm incentive schemes 129 22 Compensation for loss of office 88 tel 2016 Emoluments of the highest paid Director 000 000 Aggregate emoluments 263 94 Reconciliation of net loss to net cash used in operating activities Group Companytel 2016 Loss before income tax 1881 3994 1777 4026 Adjustments for Depreciation and impairments to property plant and equipment 65 17 Amortisation and impairments to intangible assets 6304 2559 Sharebased payments 188 38 Finance costs  net 1647 761 1661 787 Operating cash flows before movements in working capital 6323 619 116 3239 Decreaseincrease in receivables 268 74 684 810 Increase in payables 222 590 3396 2286 Increase in provisions 47 Cash generatedused by operations after exceptional items 6860 103 3964 1763 Exceptional items 680 3333 463 3103 Cash generated by operations before exceptional items 7540 3230 3501 1340 Reconciliation of liabilities arising from financing activities The table below details changes in the Groups liabilities arising from financing activities.
+Liabilities arising from financing activities are those for which cash flows were classified in the Groups consolidated statement of cash flows as cash flows from financing activities.
+Financing
+31 December cash Noncash 31 December 2016 flows items 2017 Bank loans 20 18785 4800 70 14055 Loan notes 20 7238  422 7660 T otal 26023 4800 492 21715 Noncash items represent amortisation of arrangement fees on borrowings and effective interest on loan notes.
+Tax Systems pp39pp78 Page 69 FINANCIAL STATEMENTS 70 TAX SYSTEMS PLC Annual Report 2017 Notes to the Financial Statements for the year ended 31 December 2017 Commitments contingencies and guarantees The Group leases its office premises under noncancellable operating lease agreements.
+The Group had future aggregate minimum lease payments under noncancellable operating leases as follows 2017 2016 Within 1 year 222 308 Between 1 and 5 years 852 20 T otal 1074 328 The Group had no capital commitments at the end of the year for capital expenditure contracted for but not provided for in the financial statements.
+Legal contingencies No member of the Group is or has been involved in any governmental legal or arbitration proceedings and the Directors are not aware of any such proceedings pending or threatened by or against the Group during the 12 months preceding the date of these financial statements which may have or have had in the recent past a significant effect on the financial position or profitability of the Group.
+Guarantees
+There are a number of operational and financial guarantees given by the Company and certain subsidiary companies in each case on behalf of other subsidiary entities.
+The Company had no other commitments or contingencies at the end of the year.
+Related parties
+Key management personnel The compensation of key management personnel being Directors members of the Executive Management team and senior technical staff was as follows 2017 2016 Shortterm employee benefits 1419 268 Sharebased payments 180 60 1599 328 Details regarding Directors emoluments can be found in the Directors remuneration report on pages 24 and 25 and in note 25.
+In addition to his role as Director of the Company Gavin Lyons was also a partner of MXC Capital Limited until 1 April 2017 and he remains a shareholder.
+MXC Capital Limited is a substantial shareholder of the Company and also holds share warrants see note 23 but is not considered to have a significant influence over the Group.
+During the year MXC Capital Advisory Limited a subsidiary of MXC Capital Limited charged the Company 45000 2016 81000 for Gavin Lyons services provided to the Company.
+A further 87000 was charged by MXC Capital Advisory in 2016 in connection with the due diligence and consultancy services provided by Gavin Lyons prior to the Companys acquisition of TCSL.
+Tax Systems pp39pp78 Page 70 FINANCIAL STATEMENTS 71 TAX SYSTEMS PLC Annual Report 2017 Related parties continued Group continued Key management personnel continued In addition MXC Capital Advisory Limited charged the Company 70000 2016 23000 in relation to consultancy services provided by Paul Gibson a partner and shareholder in MXC Capital Limited.
+The Company was charged nil 2016 69000 by Intronovo Limited Grahame Bensons service company in connection to consultancy services provided.
+Grahame Benson resigned as a director on 3 April 2017.
+Corporate finance advisory and transaction services totalling 152000 2016 2040000 were purchased from MXC Capital Markets LLP  a subsidiary of MXC Capital Limited during the year.
+At 31 December 2017 noninterest bearing loans of 92000 2016 41000 21000 2016 41000 and 21000 2016 nil were outstanding to Gavin Lyons Paul Gibson and Kevin Goggin respectively to cover upfront tax liabilities incurred when awards were made under the LTIP .
+The loans are repayable on exercise of the awards.
+However in the event of the performance conditions not being met the loans shall be written off.
+A loan of 19000 made to Grahame Benson in 2016 was written off during the year following the cancellation of his LTIP award.
+Company
+Subsidiaries
+Amounts receivable from subsidiaries total 124000 2016 746000 which are payable on demand.
+Acquisitions
+During the year the Company finalised the acquisition of TCSL and acquired the entire share capital of OSMO.
+Details of these acquisitions are set out below.
+Sensitivity analysis on the carrying value of goodwill is set out in note 12.
+The cash flow in respect of acquisitions comprises the net recovery of the monies held as restricted cash at 31 December 2017 less the cash on acquisition of OSMO as follows Recovery of restricted cash 2000 Final costs of acquisition of TCSL 87 Cash on acquisition of OSMO 471 Tax Systems pp39pp78 Page 71 FINANCIAL STATEMENTS 72 TAX SYSTEMS PLC Annual Report 2017 Acquisitions continued T ax Computer Systems Limited On 26 July 2016 the Company completed the acquisition of the entire share capital of TCSL a leading supplier of tax software and services to the large corporate sector and the accounting profession in the UK and Ireland for an enterprise value of 73000000 settled entirely in cash from the proceeds from the equity placing of new ordinary shares banking borrowings and loan notes.
+The acquisition constituted a reverse takeover under the AIM Rules for Companies.
+The acquisition method of accounting has been used as the Company is the acquirer the consideration was paid wholly in cash and the former shareholders of TCSL exited the business on acquisition and have no interest in the enlarged group.
+The acquisition had the following effect on the Groups assets and liabilities Provisional Fair value Final fair value adjustments fair value Property plant and equipment 33  33 Intangible assets 58350  58350 Cash 1012  1012 Trade and other receivables 2782  2782 Trade and other payables 3447 87 3534 Corporation tax 269  269 Deferred tax liabilities 10388  10388 Total 48073 986 Consideration 73000  73000 Fair value of net assets acquired 48073 87 47986 Goodwill recognised 24927 87 25014 Consideration satisfied by Cash consideration 73000  73000 Escrow paymentrecovery 2000 1913 87 Cash and cash equivalents acquired 1012  1012 T otal net cash outflow on acquisition 73988 1913 72075 No adjustments for accounting policy alignments were required.
+The provisional fair values above represent those recorded at 31 December 2016.
+The fair value adjustments arose during the year and represent the adjustment to the final settlement of the escrow funds which were treated as restricted cash at 31 December 2016.
+58350000 of customer related and intellectual property rights intangible assets were capitalised as part of the acquisition of TCSL and will be amortised over ten years.
+A deferred tax liability of 10386000 on the capitalisation of the intangible assets was created on acquisition.
+Notes to the Financial Statements for the year ended 31 December telTax Systems pp39pp78 Page 72 FINANCIAL STATEMENTS 73 TAX SYSTEMS PLC Annual Report 2017 Acquisitions continued Osmo Data T echnology Limited On 3 April 2017 the Company completed the acquisition of the entire share capital of OSMO a supplier of software solutions to the financial services industry in return for the issue of 4701492 ordinary shares in the Company which valued OSMO at 3197000.
+OSMO contributed revenue of 1027000 and a loss after tax of 193000 to the Group for the period from acquisition to 31 December 2017.
+If the acquisition had occurred on 1 January 2017 combined Group revenue and loss after tax for the year would have been 15420784 and 500000.
+The Group made this acquisition in order to gain automation technology to extract data from accounting packages into its core tax technologies.
+Oneoff costs relating to the acquisition of 204000 have been recognised in the Consolidated Statement of Comprehensive Income within Exceptional items.
+The Directors made an initial provisional assessment of the fair values of the assets and liabilities at 3 April 2017.
+The acquisition had the following effect on the Groups assets and liabilities
+Property plant and equipment 14 Intangible assets 1591 Cash 471 Trade and other receivables 149 Trade and other payables 523 Provisions 10 Corporation tax 84 Deferred tax liabilities 302 T otal 1474 Consideration 3197 Fair value of net assets acquired 1474 Provisional goodwill recognised 1723 Provisional consideration satisfied by Issuance of shares 3197 Cash and cash equivalents acquired 471 No adjustments for accounting policy alignments were required.
+Tax Systems pp39pp78 Page 73 FINANCIAL STATEMENTS 74 TAX SYSTEMS PLC Annual Report 2017 Notes to the Financial Statements for the year ended 31 December 2017 Acquisitions continued Osmo Data T echnology Limited continued The intangible assets capitalised as part of the acquisition of OSMO can be analysed as follows Customer relationships  amortised over ten years 645 Technology related intangibles  amortised over ten years 946 The calculation of provisional fair values of consideration assets and liabilities such as goodwill and intangible assets as well as the assessment of any impairment to fair values generally involve estimations of likely future cash flows delivering from or accruing to those assets and liabilities.
+The fair value of receivables acquired which principally comprised trade receivables were not different from the gross contractual amounts.
+The best estimate of contractual cashflows not expected to be collected is nil.
+Goodwill arose on this acquisition because the consideration paid effectively included amounts in relation to the benefit of expected synergies revenue growth and future market development.
+These benefits are not recognised separately from goodwill because they do not meet the recognition criteria for identifiable intangible assets.
+Judgement is also involved in selecting appropriate discount rates for determining the present value of those future cash flows.
+Final fair values may differ materially from those provisional values stated.
+Company statement of comprehensive income As permitted by Section 408 of the Companies Act 2006 the Company has not presented its own Statement of Comprehensive Income and related notes.
+The loss for the financial year of the Company was 1777000 2016 4026000.
+Adoption of IFRS 15 and change in accounting policy The Group is a leading provider of corporation tax software and services in the UK and Ireland.
+The Group licenses its proprietary tax compliance software to corporate customers and accounting and tax advisory practices to facilitate the tax compliance process from data extraction collection and management to compliance reporting through different calculation engines embedded in the Groups range of products.
+Licenced software solutions Customers predominantly enter into software licences to use the Groups software products.
+Software licences are contractual arrangements whereby the customer purchases the right to continuously exploit the licenced functionality of the Groups products including the right to be kept continuously updated and supported by the Group over a fixed term of predominantly 12 months.
+Revenue from the sale of software licences including the provision of access continuous software upgrades and support represents approximately 90% of the groups revenues.
+The sale of the software licence itself is not considered to be distinct from the provision of access and continuous software upgrades and support which are not considered to be separate performance obligations.
+The Groups software licences are therefore considered to be right of access arrangements with control of goods and services transferred to customers over the period of the contractual arrangement.
+The Group therefore considers that the delivery of access to software products constitutes a single performance obligation satisfied over time.
+Tax Systems pp39pp78 Page 74 FINANCIAL STATEMENTS 75 TAX SYSTEMS PLC Annual Report 2017 doption of IFRS 15 and change in accounting policy continued Professional services The Group also derives revenues from the sale of professional services separate to its licensed software products.
+The most significant components of professional services revenues are currently derived from iXBRL tagging and from projects involving implementation and installation management and the provision of technical support.
+Revenue from the sale of professional services represents approximately 10% of the Groups revenues.
+Contracts with customers for the sale of professional services are predominantly of a short duration and have specific outcomes which the Group considers to comprise its performance obligations.
+Contracts for the sale of professional services can be contracted on a time and materials or fixed fee basis.
+Revenue from both types of contract are recognised on fulfilment of the relevant performance obligation and are invoiced on the agreed basis either time and materials or fixed fee.
+The Groups revenues are disaggregated by service and geography as set out in note 5.
+Accounting policy change The Group has reviewed the way that it accounts for revenues from contracts with customers and has elected to early adopt the new reporting standard on revenue recognition IFRS 15.
+Following its review the Company has changed its accounting policy with respect to revenue from the sale of software licences including the provision of access continuous software upgrades and support in order to recognise revenue evenly over the period of the licence.
+Previously the Groups accounting policy for the sale of software licences had been to recognise revenue predominantly on commencement of the licence period.
+The new accounting policy most closely reflects the substance of the arrangements to provide access and services over the period of the licence.
+Effect of accounting policy change The Group has applied the change in accounting policy by using a modified retrospective approach as permitted by IFRS 15 in which the comparative results for 2016 have not been restated.
+Instead a cumulative adjustment has been recognised through retained earnings at 1 January 2017 in relation to agreements which still required performance by the Group at that date as follows As previously Accounting Adjusted reported adjustments balance Deferred tax asset 13 831 844 Trade and other receivables 2880 412 3292 Deferred income 1518 4765 6283 Deferred income will unwind through the Consolidated Statement of Comprehensive Income within a twelve month period and is expected to be replaced by a similar level of deferral into future periods.
+Tax Systems pp39pp78 Page 75 FINANCIAL STATEMENTS 76 TAX SYSTEMS PLC Annual Report 2017 doption of IFRS 15 and change in accounting policy continued Effect of accounting policy change continued If the acquisition of TCSL had occurred on 1 January 2016 and IFRS 15 had been applied at that time the revenue for TCSL would have been as follows 2017 2016 Software 12680 11910 Professional services 1402 979 Proforma revenue 14082 12889 The following summary consolidated statements of comprehensive income and financial position summarise the impact of adopting IFRS15 on the Group for the year ended 31 December 2017 Consolidated Statement of Comprehensive Income
+As reported adoption 2017 Adjustments of IFRS 15 Revenue 15109 333 15442 Cost of sales 1138  1138 Gross profit 13971 333 14304 Administration expenses 14205  14205 Operating lossprofit 234 333 99 Finance income 14  14 Finance costs 1661  1661 Loss before income tax 1881 333 1548 Income tax 1411 63 1348 Loss for the year attributable to owners of the parent 470 270 200 Currency translation differences on consolidation 1  1 T otal comprehensive expense for the year attributable to owners of the parent 471 270 201 Notes to the Financial Statements for the year ended 31 December telTax Systems pp39pp78 Page 76 FINANCIAL STATEMENTS 77 TAX SYSTEMS PLC Annual Report 2017 doption of IFRS 15 and change in accounting policy continued Consolidated statement of financial position
+As reported adoption 2017 Adjustments of IFRS 15 Noncurrent assets Property plant and equipment 331  331 Intangible assets 79481  79481 Deferred tax assets 3  3 79815  79815 Current assets Trade and other receivables 3173  3173 Current tax assets 1920  1920 Cash and cash equivalents 3468  3468 T otal assets 88376  88376 Current liabilities Trade and other payables 2995  2995 Deferred income 6855 4686 2169 Current tax liabilities 116 894 1010 Provisions 24  24 Borrowings 1730  1730 11720 3792 7928 Noncurrent liabilities Provisions 33  33 Borrowings 19985  19985 Deferred tax liabilities 9359  9359 T otal liabilities 41097 3792 37305 Net assets 47279 3792 51071 Ordinary shares 807  807 Share premium 53936  53936 Foreign exchange reserve 60  60 Other reserves 3623  3623 Accumulated losses 11147 3792 7355 T otal equity 47279 3792 51071 Tax Systems pp39pp78 Page 77 FINANCIAL STATEMENTS 78 TAX SYSTEMS PLC Annual Report 2017 doption of IFRS 15 and change in accounting policy continued Performance obligations The Groups contracts with customers typically cover a period of 12 months.
+In the judgement of management the Group satisfies the performance obligations under these contracts over time.
+The consideration for these contracts is agreed in advance with the customer and is fixed.
+Payment for software is typically made annually in advance.
+A summary of contract balances in the year ended 31 December 2017 is as follows Revenue from agreements in progress at 1 January 2017 recognised in the current year 6283 Contracts commenced in the year 15526 Revenue from agreements entered into in the current year deferred into subsequent years at 31 December 2017 6700 Revenue recognised in the year ended 31 December 2017 15109 No practical expedients have been applied on transition to IFRS 15.
+No amounts have been recognised in relation to assets derived from costs to obtain or fulfil customer contracts.
+Notes to the Financial Statements for the year ended 31 December telTax Systems pp39pp78 Page 78 79 TAX SYSTEMS PLC Annual Report 2017 Company information DIRECTORS Clive Carver NonExecutive Chairman
+Gavin Lyons Chief Executive Officer
+Kevin Goggin Chief Financial Officer Linda Beal NonExecutive Director Paul Gibson NonExecutive Director SECRETARY Kevin Goggin REGISTERED OFFICE Magna House 1832 London Road
+TW18 4BP COMPANY NUMBER BANKERS HSBC Bank plc 8 Canada Square
+E14 5HQ SOLICITORS KandL Gates LLP One New Change
+EC4M 5HQ NOMINA TED ADVISER finnCap Limited 60 New Broad Street
+EC4M 9AF FINANCIAL ADVISER MXC Capital Markets LLP 25 Victoria Street
+SW1H 0EX AUDITORS Crowe Clark Whitehill LLP St Brides House 10 Salisbury Square

@@ -1,0 +1,883 @@
+Eagle Eye Solutions Group plc Annual Report 2017 Your customer in focus Eagle Eye Solutions Group plc Annual Report 2017 FY16 FY17 Gross prot million Margin % 50% 100% FY16 FY17 Group revenue million FY16 FY17 FY16 FY17 AIR platform revenue million
+Eagle Eye Solutions Group plc Annual Report 2017 2017 highlights Financial and corporate highlights Operational highlights Group revenue increased by 71% to 11.1m FY16 6.5m Revenue from subscription fees and transactions over the network represented 68% of total revenue FY16 80% Gross margin up 9ppts to 88% FY16 79% Cash position of 3.7m FY16 1.3m at 30 June 2017 Successful placing in June 2017 raising net proceeds of 5.8m Threeyear contract signed with John Lewis PLC in May 2017 for the deployment of the AIR platform Twoyear contract renewal was signed with Toshiba Global Commerce Solutions for Asda Stores Limited Q1 FY18 revenue expected to be at least 3m 32% growth on prior year with growth anticipated to accelerate in future periods as our signi cant clients begin to transact through the platform at scale and from the impact of new strategic partnerships that drive increased transactions 1 Post period Redemption volumes increased by 58% to 60.4m SMS volumes of 44.4m an increase of 10% FY16 40.3m Total number of customers 233 74 brands FY16 219 70 Deepening Tier 1 client relationships representing 53% of revenue 5.9m FY16 33% 2.1m Revenue from the food and beverage FandB sector increased by 20% to 1.8m FY16 1.5m Investment in product development in loyalty brands and connections to social platforms Our SaaS technology platform allows you to create a realtime connection with your customers site For current information on Eagle Eye Solutions Group Plc including the Annual Report 2017 please visit our website.
+OVERVIEW
+01 2017 highlights 02 Eagle Eye at a glance 04 Connecting businesses to consumers STRATEGIC REPORT 06 Chairmans statement 08 Chief Executives review
+Financial review
+GOVERNANCE
+18 Board of Directors Directors report FINANCIAL STATEMENTS 24 Statement of Directors responsibilities 25 Independent auditors report to the members of Eagle Eye Solutions Group plc 28 Consolidated statement of total comprehensive income 29 Consolidated statement of nancial position 30 Consolidated statement of changes in equity 31 Consolidated statement of cash ows 32 Notes to the consolidated nancial statements 49 Company statement of nancial position 50 Company statement of changes in equity 51 Notes to the Company nancial statements SHAREHOLDER INFORMATION 55 Notice of Annual General Meeting 58 Company information Eagle Eye at a glance
+Chief Executives review SaaS business
+Redemption fee Issuance fee Access fee Implementation fee % %
+OVERVIEW
+Eagle Eye Solutions Group plc Annual Report 2017 Eagle Eye Solutions Group plc Annual Report 2017 For more information please visit site How we make money Our competitive advantage One off implementation fee Recurring licence fee for access to Eagle Eye AIR Per issuance X pence  linked to value Per redemption 35 times issuance Customer uses multiple issuance channels and shopsdines in many locations  online and in store receiving multiple offer types along the way Data is fed into the retailers CRM in realtime to analyse preferences and deliver insight to target customers with truly relevant offers Customer receives offers via mobile based on his interests and saves them to his digital wallet Retailer can track customer activity through to redemption optimising campaigns in realtime to maximise success This process can happen multiple times during one shopping trip to truly capitalise on the customer engagement opportunity AIR AIR Your CRM
+AIR
+CHANNEL LOCATION REWARD
+Next best action Eagle Eye at a glance Our core purpose To allow businesses to create a realtime connection with their customers Our strategy and progress What we deliver
+One customer view
+Easy to integrate easy to use At scale securely and realtime
+Win and bring customers onto Eagle Eye AIR Transact driving higher redemption volumes through the platform Deepen relationships through the use of additional products STRATEGY PROGRESS customer count European partnership with TCC Global 6m raised to capitalise on market opportunity redemption volumes Asda full year impact Brand campaigns through FandB client base Sainsburys transacting from Q4 175% tier 1 revenue 20% FandB revenue Increased transactions through the platform OVERVIEW Eagle Eye Solutions Group plc Annual Report 2017 Eagle Eye Solutions Group plc Annual Report 2017 For more information please visit site Clicks on advert and fills in personal details on landing page Code is read at POS scanned keyed NFC
+Customer ID now known.
+John receives relevant future offers based on his profile Data is fed back into the CRM system for future remarketing Customer scans his shopping at till along with his offer Data sent to AIR in realtime to validate and redeem offer and capture basket data Offer counted and verified in realtime Customer can gain easy access to information for record or returns Customers leaves happy and can redeem gift during next visit Customer heads back into store to redeem his offer for favourite product Customer receives offer for favourite product based on previous preferences and behaviour Customer receives receipt to his phone Customer receives egift for spending over the threshold Customer buys coffee and uses app to pay for it at the till Customer receives reward to his phone in realtime specific to his preferences based on previous purchases Through payment scan customer fills last stamp on his stampcard Customer saves reward to the wallet on his phone to use on his next visit Connecting businesses to consumers Winning customers through digital marketing Developing customer services digitally Rewarding customers through digital loyalty Bridge online to offline Own marketing Brand campaigns Promotion and games Bought and owned media Realtime redemption
+Offer and rewards Affiliate marketing Hyper personalisation Linking other wallets Next best action
+Offers  next trip next product
+Customer survey eReceipt Eliminate fraud Electronic coupon counting Staff reward EXAMPLE USE CASES EXAMPLE USE CASES EXAMPLE USE CASES Targeted customer preferred social channels Customer enters storecaf Customer enters store and receives offer to his phone through push notification via beacon CUSTOMER JOURNEY CUSTOMER JOURNEY CUSTOMER JOURNEY Sees offer on social media that has been set up on the Eagle Eye AIR platform by the brand STRATEGIC REPORT Eagle Eye Solutions Group plc Annual Report 2017 Eagle Eye Solutions Group plc Annual Report 2017 For more information please visit site Our work with TCC supports our move into the previously unaddressed European market providing even greater international reach.
+Since signing the partnership we have implemented the core foundations for a solid working relationship and most importantly recruited an international team to work solely with TCC.
+The joint proposition is now being actively marketed TCC Digital Connect and taken into TCCs European clients.
+Excitingly we are engaged and in discussions with multiple retailers through the partnership and expect to accelerate win ratios across Europe.
+We expect to see this partnership develop throughout 2018 and beyond.
+We are continuing to explore strategic alliances and partnerships that either allow us to expedite our win ratio or extend our reach in the value chain.
+This is particularly relevant for our midtier customers who increasingly want an endtoend solution.
+Since Tims appointment we have reviewed our external messaging to put the consumer at the heart of what we do.
+With the benefit of his retail and consumer experience our product marketing has shifted from being solely focused on our technology to articulating what we do from the consumers perspective.
+A project was kicked off in June 2017 to build on the work done so far and the new product marketing positioning is expected to launch in financial H1 2018.
+A year of strategic and operational progress The Board is delighted with the significant strategic and operational progress made during the year.
+As announced in May 2017 revenues in the year exceeded our expectations increasing by 71%.
+This positive outcome has been driven by the successful execution of our strategy to win new customers increase transactions from existing customers and deepen our customer relationships.
+Off the back of this increased momentum the Company successfully completed a placing of new equity in June 2017.
+This raised net proceeds of 5.8m which will be used to accelerate investments in product development infrastructure and marketing resources to take advantage of the market opportunity and drive international expansion.
+As demonstrated above the Company has already begun to invest these funds in the core areas for growth.
+On behalf of the Board I want to thank the team for their commitment hard work and major steps forward this year in terms of contract wins further developing the platform and enhancing internal processes to support the next stage of growth.
+Outlook
+2017 saw us exceed against managements original revenue expectations put in the foundations for scale and execute against our growth strategy.
+In the year we experienced increased demand from all sectors resulting in significant new customer wins such as John Lewis.
+We have seen this momentum continue post yearend as demonstrated by the twoyear contract renewal with Asda announced in July 2017.
+This momentum gives visibility of revenue for the first quarter for the financial year ending 30 June 2018 to be at least 32% up on prior year comparative period at approximately Most importantly there is an expectation that a higher proportion of revenue will be generated from recurring subscriptions and transaction revenue expected to be approximately 2.2m 73% Q1 FY17 1.6m 71%.
+Transaction volumes are expected to be in the region of 30.0m Q1 FY17 11.7m which would represent growth of 157%.
+This first quarter has seen early benefits from the favourable renewal with Asda John Lewis going live on the AIR platform within two months of contract signature and an increased number of transactions from our FandB clients due to exciting issuance partner relationships.
+INCREASE IN REVENUE Looking further ahead there is an expectation that the percentage of revenue from recurring subscriptions and transactions will continue to improve as our significant clients begin to transact through the platform at scale and the impact of new strategic partnerships that drive increased transactions.
+From the position of strength having raised net proceeds of 5.8m to invest in the marketing and operational capabilities that support our growth plans the Board is excited and confident in Eagle Eyes capabilities to exploit the considerable global market opportunities in 2018.
+This level of growth momentum and capital gives the Board confidence early in the financial year on delivering against managements expectations.
+Malcolm Wall NonExecutive Chairman
+Chairmans statement
+In September 2016 I was delighted to accept the position of NonExecutive Chairman of Eagle Eye with Tim Mason appointed as our new Chief Executive.
+It was the Boards belief that Tim would drive the business to become Better Bigger Faster as we entered the next stage of Eagle Eyes development.
+Tims leadership the Company has excelled with a clear strategy in place accelerated growth and in a strengthened position to capitalise on the sizeable market opportunity.
+Better Bigger Faster During the year there have been fundamental changes made to ensure that the Company is best placed to capitalise on the markets shift to digital where there are clear indicators that the consumer now expects realtime and personalised reward.
+There has been a significant emphasis on people during 2017 ensuring that the leadership team is geared for scale and the culture resonates with both our people and our customers.
+In addition to the strengthened Board the executive team has been joined by David Aylmer as Chief Operating Officer to provide particular focus on client delivery security and scalability of our operational capabilities.
+During the year we expanded internationally in North America with Loblaw Inc Loblaw the Canadian food retailer and in Europe through the partnership with TCC Global TCC a global retail marketing company both of which we have continued to develop.
+The North American focus is gaining momentum with the Loblaw implementation of Eagle Eye AIR now under way and the opening of Eagle Eyes first overseas office in Toronto
+The new office and operational team supports the Loblaw project and will act as a hub to capitalise on the significant North American market opportunity estimated to be worth over 84bn Cadent Consulting Group 2015 and Raymond James 2016.
+2017 saw us exceed against managements original revenue expectations put in the foundations for scale and execute against our growth strategy.
+STRATEGIC REPORT Eagle Eye Solutions Group plc Annual Report 2017 Eagle Eye Solutions Group plc Annual Report 2017 For more information please visit site Win T ransact store thereby maximising engagement.
+Large retailers cant shift the dial The big retailers have substantial analogue schemes which are so embedded in the organisation that it is a challenge to upgrade and innovate their systems.
+However with the growing importance of digital channels in order to meet consumers expectations and utilise digital they must look outside of their core schemes to remain competitive.
+This means they are looking for alternative routes to get new schemes to market quicker presenting a sizeable market opportunity for Eagle Eyes innovative loyalty offering.
+Measuring the effect of social media There is increased pressure for businesses to measure marketing Return on Investment ROI across social media channels and prove that its a valuable revenue stream.
+This can be solved through realtime redemption capability linking online to offline.
+Brands using Eagle Eye can send personalised offers to consumers and track redemptions in realtime enabling businesses to invest back into the consumers social media channels.
+This realtime element ensures campaigns can be tracked and optimised to maximise success rates whilst delivering genuine value to consumers.
+Through bridging online to offline creating digital connections to track behaviour eventually retailers can augment the shopping trip beyond the internet and build a richer single view of the customer.
+We are uniquely placed to address these global issues which retailers are facing today by helping them create an intelligent realtime connection with their customers.
+Win Transact Deepen Following my appointment in September 2016 our focus has been on building on our strategy to become a global digital marketing leader.
+To achieve this we aspire to be Better Bigger Faster by improving in three core areas of customer interaction Win bringing more customers onto the Eagle Eye AIR platform Transact driving higher redemption volumes through the platform and Deepen building relationships with customers as the breadth of our product portfolio becomes more developed.
+Win
+We made continued progress adding new retailers and brands to the AIR platform in the year.
+At the end of the year Eagle Eye had 233 live users including 74 FMCG brands up from 219 users with 70 brands at the end of 2016.
+At the start of the year we set out to increase the number of redemption points to the network new retailer signings included the Society of London Theatres English Heritage and additional Mitchells and Butlers MandB brands Chicken Society Son of Steak and Stonehouse.
+In addition in May 2017 the Company signed a threeyear contract with John Lewis PLC John Lewis for the deployment of AIR to deliver improved digital customer marketing.
+Since the financial year end the Company announced the twoyear renewal of its contract with Toshiba Global Commerce Solutions for the use of the AIR platform within Asda that integrates with existing AsdaWalmart POS solutions across Asda stores.
+Both these UK contract announcements reinforce the clear competitive benefits our solutions deliver to leading retailers.
+In March 2017 the Company signed a strategic partnership with TCC a world leader in creating retail marketing programmes and longterm loyalty schemes allowing Eagle Eye to extend its digital promotions offer into the European loyalty market.
+TCC works with many of Europes largest retailers making them a valuable partner and enabling the Company to accelerate growth outside the UK.
+Transact
+Redemption volumes which are a key measure of usage of the AIR platform and of the success of our transact strategy have grown by 58% yearonyear to 60.4m 2016 Volume growth was primarily driven by the full year benefit of Asda volumes the first phase rollout for Sainsburys in the fourth quarter of 2017 and increased brand activity through redemption outlets.
+Using Asda as a nationwide redemption channel from July 2016 to October 2016 Coke Zero Sugar ran a promotional campaign across the AIR platform that generated a redemption rate of over 10% compared to the typical redemption rate of a traditional analogue campaign of 0.5%2% Shopper Technology InstituteJuniper
+This meaningful uplift in redemptions is proof that Eagle Eye can successfully drive higher redemption rates through the power of digital.
+As part of this campaign Eagle Eye formed a new partnership with the life cycle social advertising company
+This unique partnership now enables the success rate of advertising on social media channels to be measured through to redemption.
+During the year we have successfully powered digital campaigns for leading drinks brands through the food and beverage network.
+These brands include Diageo AB InBev Pernod Ricard Heineken and Suntory.
+Working with each brand and their media agency the Company has coordinated a number of promotions targeted by region using a combination of web landing pages programmatic display traditional advertising game and dating apps plus social media lead ads.
+The redemption outlets benefited from the increased footfall and spend per head and fraud is reduced as all the campaigns have used unique
+Chief Executives review
+I was delighted to take the opportunity to become the Companys CEO in September 2016.
+I had already spent a significant part of my career looking at how data can change consumer marketing and immediately recognised the great potential for Eagle Eye to revolutionise the way that businesses engage with consumers.
+Traditional and analogue forms of promotions rewards and loyalty programmes have lost their lustre with consumers who are increasingly looking for relevant timely and personalised rewards that offer genuine value.
+It is Eagle Eyes mission to meet this changing consumer demand and I believe the Company has the proven scalable technology to transform an industry.
+In this past year we have established a new structure and ways of working internally to ensure we can deliver optimum results for both the Company and our customers.
+We have gained significant momentum driven by our ambition to be Better Bigger Faster.
+We now have a clear vision and strategy in place and delivered results ahead of our expectations during the year.
+Growing market opportunity There are three critical themes currently affecting the marketplace which present a significant opportunity for Eagle Eye.
+Loyalty and the need for realtime engagement We are seeing a transition from the classic plastic card to digital distribution.
+Traditional methods which give 1% discounts and a rear view perspective on purchase behaviour are being replaced by digital alternatives.
+Realtime offers enable highly relevant The business is now more nimble robust and able to clearly engage with our customers and the market I am looking forward to this next stage of growth and the opportunity we have to be market leaders in the digital marketing space.
+Better  Bigger Faster INTEGRITY Our values BY CREATING COOL TECH BY BEING
+BY BEING
+EXCELLENCE
+Our beliefs TEAMWORK INNOVATION
+PASSION
+STRATEGIC REPORT Eagle Eye Solutions Group plc Annual Report 2017 Eagle Eye Solutions Group plc Annual Report 2017 For more information please visit site With extensive experience with system providers and clients David has a thorough understanding of customer service and delivery.
+The
+Group will leverage his experience to ensure first class operations and delivery across Eagle Eyes network of customers.
+We have also seen significant development within the sales team and a clear focus on the sales process led by Helen Slaven having joined as Sales Director in May 2016.
+The past 12 months has seen rapid growth in our team.
+The average headcount increased from 73 to 100 as a new office was opened in Toronto Canada and as there was further investment in people across the business.
+We have introduced a new life skills training workshop based on the fundamental philosophy that people can benefit from understanding more about themselves how they perform at their best and what triggers suboptimal performance.
+A key way for us to be a stand out employer and a great place to work is to be able to provide benefits for our people benefiting them in all parts of their lives.
+Furthermore our investment in people improves the capability and competency of the staff in the business.
+The values that we have in place shape our behaviour reinforce our culture and determine our approach to recruitment.
+This is what we now call The Purple Standard.
+The skill dedication and talent of our people are fundamental to the continued success of our growing business.
+We have made great progress over the last 12 months and will continue to make improvements to ensure we attract and retain the best talent.
+Looking ahead This past year we have recorded great progress against our objectives.
+The business is now more nimble robust and able to clearly engage with our customers and the market.
+We have successfully laid the foundations for a great year ahead.
+I am looking forward to this next stage of growth and the opportunity we have to be market leaders in the digital marketing space.
+Tim Mason
+Chief Executive Officer
+Our beliefs and values The values that we have in place shape our behaviour reinforce our culture and determine our approach to recruitment.
+This is what we now call The Purple Standard.
+Chief Executives review continued one use only codes.
+Realtime results have given the brand owners a previously unknown insight into which media types of visuals and offers give the best ROIROS across any given campaign allowing the brand owner to dial up or dial down on media and change or adapt the campaign accordingly.
+In messaging services despite the Public Health England Stoptober campaign not including an SMS element this year SMS volumes still increased 10% to 44.4m 2016 40.3m as a result of messaging for Asurion and the cross selling of messaging services to the existing client base.
+Deepen
+We have made significant progress in deepening our Tier 1 client relationships during the year with 53% of revenue 5.9m 2016 33% 2.1m the result of an extension of our service offering with major clients.
+The embedding of Eagle Eyes technology within these clients is a clear demonstration of the capability and reliability of our technology as a digital marketing platform.
+During the year our Tier 1 customers further adopted our range of products to drive their customer focused agendas and accelerate their digital ambitions in order to gain competitive advantage.
+This will help to drive meaningful transactional revenue growth in future periods.
+Further progress in the established FandB sector increased revenue by 20% to 1.8m 2016 1.5m.
+This increase has been driven as existing clients onboarded additional brands including Las Iguanas and La Tasca along with new MandB concepts Chicken Society and Son of Steak to the AIR platform as well as utilising more of our services.
+Casual Dining Group and Prezzo have expanded their capabilities through the implementation of staff discount schemes and we also enriched our white label mobile app across the MandB estate through the integration of Flypay to enable pay at table.
+Our relationship with Tesco Clubcard was also enhanced through the addition of English Heritage and RAC to the platform to allow customers to part pay for membership in points and top up with cash.
+Furthermore weve also added the AA as an issuance partner to deliver offers to their customers for redemption in MandB outlets.
+Revenue generated from client subscription fees and transactions over the network represented 68% of total revenue 2016 80%.
+This reflects the progress we are making in deepening Eagle Eyes system capability within major accounts which will open up recurring transactional revenues in future periods.
+Product development In 2017 we continued to innovate and enhance our software platform to meet the demands of our customers and evolving consumer trends.
+Performance improvements were made to support our growing Tier 1 grocery volumes while we extended reporting and relationship management capabilities for issuance partners.
+With the addition of supplier funding functionality we have created the ability for brands to interact with retailers loyalty schemes through holding buckets of points or value for discount that can be used in targeted promotions to end consumers all redeemable in store or online through direct integration with the point of sale.
+Our enhanced wallet capabilities add flexibility to retailers loyalty offering allowing consumers to be targeted with specific promotions.
+AIR has now been integrated to both Android and Apple Pay to enable payments offers and rewards to be saved directly.
+We also invested in the integration of AIR with social platforms including Facebook Instagram and Twitter through partners such as Driftrock to drive audience numbers for brands and retailers.
+The partnership with Driftrock allows Eagle Eye to track promotional activity from social media to store redemptions and extends the Companys offering along the value chain.
+Financial results Group revenue increased by 71% to 11.1m 2016 6.5m for the year.
+Of total revenue 85% 9.4m was contributed from the core AIR platform 2016 72% 4.6m.
+The Groups gross profit was 9.8m representing a gross margin of 88% 2016 5.1m 79%.
+The increased gross profits were reinvested to drive future growth meaning that adjusted EBITDA loss was held at 1.8m 2016 1.8m loss.
+To provide a better guide to the underlying business performance adjusted EBITDA excludes sharebased payment charges along with depreciation amortisation interest and tax from the measure of profit.
+Following the successful placing completed in June 2017 which raised 5.8m net of costs the Group had net assets of 8.9m as at 30 June 2017 2016 5.9m including cash and cash equivalents of 3.7m 2016 1.3m.
+During the year the Group extended its currently unutilised three year revolving loan facility with Barclays Bank PLC to 3.0m 2016 1.5m which together with the funds raised in the placing strengthens the Groups balance sheet.
+People
+In addition to the Board changes at the beginning of the year the management team has been further strengthened by the recruitment of a new Chief Operating Officer David Aylmer in May 2017.
+STRATEGIC REPORT Eagle Eye Solutions Group plc Annual Report 2017 Eagle Eye Solutions Group plc Annual Report 2017 For more information please visit site Key performance indicators
+Revenue 11058 6458 Adjusted EBITDA loss 1769 1823 Loss before interest and tax 3843 4100 Cash and cash equivalents 3724 1322 Nonfinancial 2017 2016 Number of redemptions 60.4m 38.4m Messaging volumes 44.4m 40.3m Percentage of subscription transaction revenue 68% 80% Customers and brands on the platform 233 219 1 Adjusted EBITDA loss excludes sharebased payment charges along with depreciation amortisation interest and tax from the measure of profit.
+Overall 7.5m of revenue generated from subscription fees and transactions over the network represented 68% of total revenue 2016 80% 5.2m.
+The balance 3.5m relates to implementation fees for new customers and new services and represents 32% of total revenue 2016 20% This increase in value and share for implementation fees reflects the progress made in deepening the Groups product offering within major accounts particularly for our UK and international Tier 1 grocer clients where implementation fees were 2.8m 2016 These implementations open up recurring transactional revenues which benefit future periods.
+Although message volumes increased 10% in the year to 44.4m 2016 40.3m messaging revenue fell to 1.6m for the year 2016 1.8m.
+This reduction reflects the increasingly competitive messaging market.
+The
+Group renewed two key contracts during and after the year for UK Power Networks and Paragon and has seen increases in transactional volumes following those renewals.
+Gross profit The gross margin increased to 88% 2016 79% as gross profit grew to 9.8m 2016 5.1m.
+The core AIR gross margin carries a significantly higher margin than the messaging business and has continued to improve during the year to 96% 2016 92%.
+This increase together with the increase in core AIR revenue which now accounts for 85% of total revenue has driven the improved margin.
+Adjusted operating costs Adjusted operating costs of 11.5m 2016 6.9m represent sales and marketing product development net of capitalised costs operational IT general and administration costs.
+The overall increase was in line with managements expectations and plans for strategic growth including supporting the international activity for Loblaw in Canada.
+The investment in people is the main driver of this growth with the average headcount for the year increasing to 100 2016 73.
+During the year the Groups infrastructure was also enhanced with both an operational and a disaster recovery data centre in North America having been established in addition to the existing facilities in the UK.
+Within staff costs gross expenditure on product development increased 69% to 2.9m 2016 1.7m reflecting investment in enhancing the capacity features and speed of the AIR platform.
+Capitalised product development costs were 1.5m 2016 1.2m whilst amortisation of capitalised development costs was 1.5m 2016 1.6m.
+EBITDA
+Reflecting the strategic reinvestment of increased gross profits adjusted EBITDA loss for the year was held at 1.8m 2016 loss 1.8m.
+To provide a better guide to the underlying business performance adjusted EBITDA excludes sharebased payment charges along with depreciation amortisation interest and tax from the measure of profit.
+The GAAP measure of loss before interest and tax improved to 3.8m 2016 4.1m reflecting a reduction in the noncash sharebased payment charge to 0.4m 2016 0.6m.
+EPS and dividend Following receipt of 0.3m research and development tax credit 2016 0.4m reported basic and diluted loss per share was 15.73p 2016 loss per share 16.36p.
+The Board does not feel it appropriate at this time to commence paying dividends.
+Group statement of financial position Following the successful placing completed in June 2017 which raised 5.8m net of costs the Group had net assets of 8.9m at 30 June 2017 2016 5.9m including capitalised intellectual property of 2.2m 2016 2.2m and cash of 3.7m 2016 The increase in net assets reflects the proceeds of the placing offset by the loss made in the year.
+Cash flow and net cash Cash at the end of the year had increased to 3.7m 2016 1.3m.
+The main components to the gross cash increase of 2.4m for the year 2016 3.0m decrease were the proceeds from the placing of 5.8m offset by an operating cash outflow of 2.0m 2016 1.5m and capital investment in the AIR platform of 1.5m 2016 1.2m.
+Banking facility During the year the Group extended its threeyear revolving loan facility with Barclays Bank plc first arranged in June 2016 to 3.0m 2016 1.5m that is currently undrawn and together with the funds raised in the placing means that the Group is well positioned to capitalise on recent momentum in the business and to pursue identified growth opportunities.
+Financial review
+Redemption volumes a key measure of usage of the AIR platform grew by 58% yearonyear to 60.4m for the year 2016 38.4m.
+In addition loyalty interactions totalled 1.1m 2016 0.1m.
+Group results
+Revenue growth for the Group was up 38ppts to 71% for the year 2016 33% with revenue increasing to 11.1m 2016 The Group is continuing to grow halfbyhalf and H2 2017 revenue accounted for 6.0m H1 2017 5.1m representing growth of 18% on H1 2017 H1 2016 to H2 2016 19%.
+This growth has been driven by increased revenue from the AIR platform which now represents 85% of total revenue 9.4m 2016 72% This increase was largely as a result of the Groups success with Tier 1 grocer clients Asda Sainsburys and Loblaw.
+Revenue from Tier 1 clients in the UK increased by 92% to 3.3m 2016 1.7m.
+This growth was also supported by new business wins such as John Lewis and Society of London Theatres and deepening relationships with existing clients thus increasing redemption volumes.
+Of the AIR platform revenue stream the element specifically linked to recurring subscriptions and transactions saw a 69% increase to 5.9m 2016 3.5m aided specifically by increased licence fees for the Tier 1 clients and the full year effect on transactions of the national roll out of the AIR platform across all Asda stores.
+This Tier 1 AIR revenue growth is also supported by growth from FandB clients 20% and other retail clients 69% in the year.
+Redemption volumes a key measure of usage of the AIR platform grew by 58% yearonyear to 60.4m for the year 2016 38.4m driven by the full year impact of our solution for Asdas coupon counting going fully live in the prior year initial Sainsburys transactions and increased volumes from existing FandB and other retail clients.
+In addition loyalty interactions totalled 1.1m 2016 0.1m reflecting the adoption of our loyalty solution by Greggs and MandB during the year.
+STRATEGIC REPORT Eagle Eye Solutions Group plc Annual Report 2017 Eagle Eye Solutions Group plc Annual Report 2017 For more information please visit site Product risk The Groups business involves providing customers with highly reliable software and services.
+If the software or services contain undetected defects when first introduced or enhanced the Group may fail to meet its customers performance requirements or otherwise satisfy the contract specifications.
+As a result it may lose customers andor may become liable to them for damages.
+Whilst the Group has liability insurance in place and endeavours to negotiate limitations on its liability in its customer contracts this is not always commercially possible.
+Additionally the Group is committed to developing products for its customers on a set timeline.
+However the pace of progress of the development projects may not be as expected and the Group could fail to meet its customers timing or performance requirements.
+As a result of these risks the Group may lose customers may become liable to those customers for damages and may suffer damage to its reputation.
+The Group has service level commitment obligations with some of its customers in which it provides various guarantees regarding levels of service.
+The Group may not be able to meet these levels of service due to a variety of factors both inside and outside the Groups control.
+If the Group fails to provide the levels of service required by the agreements such customers may be entitled to terminate their contracts or may choose not to enter into new work orders with the Group and this may also damage the Groups reputation and reduce the confidence of the Groups customers in its software and services impairing its ability to retain existing customers and attract new customers.
+Online security breaches data loss and fraud Security breach and fraud remain key concerns in the online payments world and any security breach or fraud event might deter consumers from purchasing goods via online voucher and offer content.
+Any move away from the mobile channel for purchasing goods could have a negative impact on the Groups growth prospects and revenues.
+Security breach and fraud may also lead to regulatory investigations sanctions including fines and litigation with clients and consumers.
+Any regulatory investigation or litigation may be costly and may divert efforts and attention of the Groups key management and other personnel and resources may cause wider reputational damage to the Group and may result in existing clients terminating contracts and deter potential new clients from becoming actual clients.
+Any compromise of the Groups systems security breaches or data loss may result in the temporary inability of the Group to operate its services and clients mobile sites and applications and therefore may have a detrimental impact on the Groups revenues both directly through the inability of the Groups clients to trade or of the Group to authenticate offers and indirectly through loss of confidence in the security of the Groups platform.
+In line with its ISO 27001 accredited procedures the Group uses a third party security and data compliance service to monitor and mitigate against this risk in addition to client specific security testing.
+Dependence on key customers The Group is dependent on a number of key contracts and partner relationships for its current and future growth and development.
+A limited number of clients account for a large percentage of the Groups revenue.
+Whilst the Group endeavours to enter and renew longterm agreements with its clients there can be no assurance that clients will continue to be secured on acceptable terms and conditions.
+Financial review continued Principal risks and uncertainties Evolution of the market The Group operates in an evolving market and there is a possibility that the rate of growth in mobile commerce will not match independent predictions or that users of mobile devices will change their behaviour with respect to mobile commerce.
+The Groups services are new and evolving and it is difficult to predict the future growth rates if any and the size of these markets.
+Even if the market for the Groups products develops as anticipated the Group may face severe competition from other businesses offering similar products and services and there can therefore be no assurance that the Group will be able to secure customers for its products and services on acceptable terms and conditions or successfully adjust the Groups strategy to meet the changing market dynamics.
+The Group is also entering new international markets and not all of these markets may be at the same stage of development.
+The Group may face competition from other local businesses in those territories offering similar products and services and there can therefore be no assurance that the Group will be able to secure customers for its services on acceptable terms and conditions or successfully adjust the Groups strategy to meet the different dynamics of these new markets.
+These risks are mitigated by the strength and experience of the Groups management team.
+Technological changes could overtake the products being developed by the Group The Groups business is dependent upon technology which could be superseded by superior technology more competitively priced technology or a shift in retail practices which could affect both the potential profitability and the saleability of the Groups product offering.
+Staying abreast of technological changes may require substantial investment.
+The Groups existing software products need to develop continually in order to meet customer requirements.
+The Group may encounter delays and incur additional development and production costs and expenses over and above those expected by the Directors in order to develop suitable technologies and products.
+The technology used in the Groups products is still evolving and is highly complex and may change rapidly.
+Research and development by other companies may render any of the Groups products in development or currently available obsolete.
+This risk is primarily mitigated by the quality of the technical staff recruited.
+Protection of intellectual property The Groups success and ability to compete effectively are in large part dependent upon exploitation of proprietary technologies and products that the Group has developed internally the Groups ability to protect and enforce its intellectual property rights so as to preserve its exclusive rights in respect of those technologies and products and its ability to preserve the confidentiality of its knowhow.
+The Group relies primarily on enforcement of its pending and granted patents under applicable patent laws and nondisclosure agreements to protect its intellectual property rights.
+No assurance can be given that the Group will develop further technologies or products which are patentable that patents will be sufficiently broad in their scope to provide protection for the Groups intellectual property rights against third parties or that patents will have been granted in all new territories which the Group enters.
+Patents pending or future patent applications may not be granted and the lack of any such patents may have a material adverse effect on the Groups ability to develop and market its proposed products.
+Where patents have been granted the Group may not have the resources to protect any such issued patent from infringement.
+There is a significant delay between the time of filing of a patent application and the time its contents are made public and others may have filed patent applications for subject matter covered by the Groups pending patent applications without the Group being aware of those applications.
+The Groups patent applications may not have priority over patent applications of others and its pending patent applications may not result in issued patents.
+Even if the Group obtains patents they may not be valid or enforceable against others.
+Moreover even if the Group receives patent protection for some or all of its products those patents may not give the Group an advantage over competitors with similar products.
+Furthermore the Group cannot patent much of the technology that is important to its business.
+If the Group fails to obtain adequate access to or protection for the intellectual property required to pursue its strategy the Groups competitors may be able to take advantage of the Groups research and development efforts.
+Once granted a patent can be challenged both in the patent office and in the courts by third parties.
+Third parties can bring material and arguments which the patent office granting the patent may not have seen.
+Therefore issued patents may be found by a court of law or by the patent office to be invalid or unenforceable or in need of further restriction.
+STRATEGIC REPORT Eagle Eye Solutions Group plc Annual Report 2017 Eagle Eye Solutions Group plc Annual Report 2017 For more information please visit site Employee involvement The Group recognises and seeks to encourage the involvement of its employees with the aim being the recruitment motivation and retention of quality employees throughout the Group.
+The Group encourages employee performance through employee remuneration packages including by granting share options and by promoting its core values to employees.
+The Group ensures that employees are fully aware of financial and economic factors affecting its performance.
+The Groups employment policies including the commitment to equal opportunity are designed to attract retain and motivate employees regardless of sex race religion or disability.
+Equality of treatment includes full and fair assessment of applications and extends to training and continuing career development.
+The Group is committed to ensuring and communicating the requirements for a safe and healthy working environment for all employees consistent with health and safety legislation and where practicable gives full consideration to applications for employment from disabled persons.
+By order of the Board Lucy SharmanMunday Company Secretary 5 New Street Square
+EC4A 3TW 18 September 2017 Financial review continued Staff recruitment and retention The ability to continue to attract and retain employees with the appropriate expertise and skills cannot be guaranteed.
+Finding and hiring any additional personnel and replacements could be costly and might require the Group to grant significant equity awards or other incentive compensation which could adversely impact its financial results.
+The Groups future development and prospects depend to a significant degree on the experience performance and continued service of its senior management team.
+Effective product development and innovation upon which the Groups success is dependent is in turn dependent upon attracting and retaining talented technical and marketing personnel who represent a significant asset and serve as the source of the Groups technological and product innovations.
+In addition to continue to expand the Groups customer base increase sales and achieve growth generally the Group will need to hire additional qualified sales personnel as well as recruit further personnel in administrative and operational support functions.
+If the Group is unable to hire train and retain such personnel in a timely manner an undue burden could be placed on existing personnel the development and introduction of the Groups products could be delayed and its ability to sell its products and otherwise to grow its business could be impaired and the delay and inability may have a detrimental effect upon the performance of the Group.
+Changes in applicable laws and regulations Laws and regulations governing internet based services related communication services and information technology ecommerce the processing of personal data including the introduction of the General Data Protection Regulation in 2018 the processing of payment card data and mobile commerce in the UK and other territories continue to evolve and depending on the evolution of such regulations may adversely affect the Groups business.
+Exit of UK from European Union The UK has voted in an advisory referendum to leave the European Union commonly referred to as Brexit.
+The impact of the referendum and consequent triggering of Article 50 of the Lisbon Treaty is not yet clear but it may significantly affect the fiscal monetary and regulatory landscape in the UK and could have a material impact on its economy and the future growth of its various industries.
+Depending on the exit terms negotiated between EU Member States and the UK following Brexit the UK could lose access to the single European Union market and the global trade deals negotiated by the European Union on behalf of its members.
+Such a change in trade terms could affect the attractiveness of the UK as an investment centre and as a result could have a detrimental effect on UK companies.
+This may impact the Groups ability to access funding in the future and its prospects.
+Although it is not possible at this point in time to predict fully the effects of an exit of the UK from the European Union it could have a material effect on the Groups business financial condition and results of operations.
+In particular it may impact the Groups ability to recruit suitably skilled staff for its UKbased operations.
+Exchange rate risk As its international operations grow exchange rate fluctuations could have a material adverse effect on the Groups profitability or the price competitiveness of its services.
+There can be no assurance that the Group would be able to compensate or hedge against such adverse effects and therefore negative exchange rate movements could have a material adverse effect on the Groups business prospects and financial performance.
+Corporate social responsibility The Group embraces working in a way that delivers financial socially responsible and environmentally sustainable business performance and ensures adherence to the law and conducts its affairs to the highest ethical standards.
+We expect our customers and suppliers to embrace these same principles.
+The Group values teamwork taking personal responsibility positive attitudes and working hard to deliver positive outcomes for all our stakeholders customers staff and shareholders alike.
+We encourage the personal learning growth and development of our team and voluntarily try to eliminate practices that harm the environment.
+MAKING EVERY DAY YOUR MASTERPIECE GOVERNANCE Eagle Eye Solutions Group plc Annual Report 2017 Eagle Eye Solutions Group plc Annual Report 2017 For more information please visit site Board of Directors Malcolm Wall
+Chairman
+Malcolm joined the Group as a nonexecutive director in 2014 taking the role of Chairman in September 2016.
+He was previously CEO and then advisor to the board of Abu Dhabi Media Company.
+He is also the former chief executive content for Virgin Media where he ran Virgins television proposition the Virgin Media portal and their television channel groups.
+Malcolm joined Virgin from United Business Media where he was chief operating officer.
+He has also worked in senior executive roles for a number of ITV companies including Granada Anglia and
+Malcolm is currently chairman of Audioboom plc and Dock10
+He is also a non executive director of Image Nation LLC.
+Bill Currie
+Director
+Bill joined the Group as a nonexecutive director in 2011.
+He is the founder of the William Currie group of companies.
+Previously he was a top ranked city investment analyst serving as joint managing director of Charterhouse Securities and Director of Research at BZW.
+Bill and his wife Kate were cofounders of The Fragrance Shop Limited.
+His current directorships include Metapack Limited Belvedere Schools Limited LTS Group Limited and Wranx Limited.
+Steve Rothwell Founder and Chief Technical Officer Steve founded the Group in 2003 and is responsible for the product vision development and roadmap.
+Prior to that he was the founder and chief executive officer of Eagle Eye Technology Limited a software consultancy business.
+Before that he was a developer and consultant for Consult Hyperion developing concepts in the media and payments industries and a software engineer for Ericsson.
+Steve has a BEng in electrical and electronic engineering from the University of Leicester.
+Drew Thomson
+Director
+Drew joined the Group as a nonexecutive director in 2014.
+He is a business leader and entrepreneur with a track record in funding creating building and growing international businesses.
+Most recently Drew was the cofounder and chief executive of Starcount.
+Prior to this he was executive chairman of Iris Worldwide where he led the development and international growth of the Iris group business.
+Previously to joining Iris Drew was a founding partner of Paternoster the UKs first defined benefit pension scheme risk transfer company.
+Before setting up Paternoster he was chief executive of Airmiles and BA Miles.
+Tim Mason
+Chief Executive Officer
+Tim joined as Chairman in January 2016 later moving to CEO in September 2016.
+He has over 30 years experience within the grocery and retail industries with a strong background in strategic marketing and customer loyalty.
+Tims last role was as chairman of Bonmarche Holdings plc from 2013 to 2015.
+Prior to that he was deputy CEO at Tesco from January 2010 to December 2012.
+He held a number of other roles within the Tesco Group between 1982 and 2012 including CMO for Tesco and CEO of Fresh and Easy LLC.
+He is also currently chairman of Starcount Limited and a director of Its Fresh Limited and So Purple Group Limited.
+Sir Terry Leahy
+Director
+Sir Terry joined the Group as a nonexecutive director in 2011.
+Sir Terry completed a 32 year career at Tesco plc as chief executive from 1997 to 2011.
+Sir Terry received a Knighthood for services to food retailing in the 2002 New Year Honours.
+He was chosen as Britains Business Leader of the Year in 2003 and the Fortune European Businessman of the Year for 2004.
+Since 2011 he has focused on investments in earlystage businesses.
+He is a director of Metapack Limited the Social Mobility Foundation and the Foundation Years
+He is a senior advisor to CDandR the US private equity firm and serves as chairman of BandM Stores BUT International and is a director of the Motor Fuel Group.
+Lucy SharmanMunday Chief Financial Officer Lucy joined the Group in 2014.
+Prior to this she was the CFO of the 5one group the global consultancy providing services analysis and software to help retailers achieve a customercentric strategy.
+The global role covered Europe South Africa and setting up America.
+Prior to this she worked for Adapt Group Ltd and in 2006 iSOFT plc as an integral part of the turnaround team that successfully sold the business to IBA Health Group at the end of 2007.
+Lucy began her career at KPMG in 1999 and is a member of the Institute of Chartered Accountants in England and Wales.
+Board committee membership Audit Committee Remuneration Committee GOVERNANCE Eagle Eye Solutions Group plc Annual Report 2017 For more information please visit site Eagle Eye Solutions Group plc Annual Report 2017 The Directors present their Annual Report and the audited consolidated financial statements for the year ended 30 June 2017.
+Principal activities business review and future developments The principal activity of the Group is the secure validation and redemption of digital promotions in realtime for the grocery retail and hospitality industries.
+Corporate status Eagle Eye Solutions Group plc the Company is a public limited company domiciled in the United Kingdom and was incorporated in England and Wales with company number on 12 February 2014.
+The Company has its registered office at 5 New Street Square London EC4A 3TW.
+The principal places of business of the Group are its offices in Guildford and Manchester and it also operates in Toronto Canada.
+Directors
+Tim Mason Steve Rothwell Lucy SharmanMunday Bill Currie Sir Terry Leahy Drew Thomson Malcolm Wall Phill Blundell resigned 17 January 2017 The Company has agreed to indemnify its Directors against third party claims which may be brought against them and has put in place a Directors and officers insurance policy.
+Directors remuneration and share options Remuneration in respect of the Directors was as follows 30 June
+30 June
+30 June
+30 June
+30 June
+30 June
+Tim Mason 264  264 35  35 Steve Rothwell  190 Lucy SharmanMunday Drew Thomson 35  35 35  35 Terry Leahy 5  5 5  5 Bill Currie Malcolm Wall 60  60 35  35 Phill Blundell  239 Bob Willett    37  37 1001 13 1The Directors hold the following share options over ordinary shares of 1p each 30 June 2017 EMI share option scheme
+LTIP share option scheme Total Tim Mason   664553 664553 Steve Rothwell 344241 229759 142168 716168 Lucy SharmanMunday 125000  130965 255965 30 June 2016 EMI share option scheme
+LTIP share option scheme Total Tim Mason   443165 443165 Steve Rothwell 344241 229759 45926 619926 Lucy SharmanMunday 125000  39383 164383 Phill Blundell 226574  57778 284352 The market price of the Companys shares at the end of the financial year was 2.640 and the range of the market price during the year was between 0.925 and 3.025.
+Substantial shareholdings At 17 September 2017 the Directors have been notified of the following beneficial interests in excess of 3% of the issued share capital of the Company excluding those shares held in treasury.
+Total shares % Bill Currie1 3013322 11.86 Hargreave Hale Limited 2307032 9.08 Sir Terry Leahy1 2270970 8.94 Andrew Sutcliffe 2032158 8.00 Cavendish Asset Management Limited 1831001 7.20 Christopher Gorell Barnes 1531866 6.03 Steve Rothwell 1511672 5.95 Julian Reiter 1342390 5.28 Herald Investments 877318 3.45 Timothy Miller 872975 3.43 Edward Pippin 855000 3.36 1 includes shares held by family members Directors report GOVERNANCE Eagle Eye Solutions Group plc Annual Report 2017 Eagle Eye Solutions Group plc Annual Report 2017 For more information please visit site Research and development Details of the Groups policy for the recognition of expenditure on research and development of its Eagle Eye AIR platform and other products are set out in note 1 of the consolidated financial statements.
+Risk management objectives and policies Details of the Groups financial risk management objectives and policies are set out in note 15 of the consolidated financial statements.
+The key nonfinancial risks that the Group faces are set out on pages 14 to 16 of the Strategic Report.
+Related party transactions Details of the Groups transactions and year end balances with related parties are set out in note 19 of the consolidated financial statements.
+Dividends
+The Directors do not recommend the payment of a dividend 2016 nil.
+Strategic report The Company has chosen in accordance with Companies Act 2006 section 414C 11 to set out in the Companys Strategic Report on pages 6 to 17 information required to be contained in the Directors Report by Large and Mediumsized Companies and Groups Accounts and Reports Regulations 2008 Sch. where not already disclosed in the Directors Report.
+Statement as to disclosure of information to the auditor The Directors who were in office on the date of approval of these financial statements have confirmed that as far as they are aware there is no relevant audit information of which the auditor is unaware.
+Each of the Directors have confirmed that they have taken all the steps that they ought to have taken as Directors in order to make themselves aware of any relevant audit information and to establish that it has been communicated to the auditor.
+Auditor
+RSM UK Audit LLP were appointed for the year ended 30 June 2017 and have indicated their willingness to continue in office.
+By order of the Board Lucy SharmanMunday Company Secretary 5 New Street Square
+EC4A 3TW 18 September 2017 Directors report continued Corporate governance Principles of corporate governance The Directors recognise the importance of sound corporate governance and confirm that although compliance with the UK Corporate Governance Code is not compulsory for AIM companies the Group is complying with the QCA Corporate Governance Code as devised by the QCA in consultation with a number of significant institutional small company investors to the extent appropriate and practical for a group of its nature and size.
+Board structure The Board is responsible to shareholders for the proper management of the Group.
+A statement of Directors responsibilities is set out on page 24.
+The NonExecutive Directors have a particular responsibility to ensure that the strategies proposed by the Executive Directors are fully considered.
+The Board comprises of the NonExecutive Chairman who was independent at the time of appointment three Executive Directors and three other NonExecutive Directors.
+Of the NonExecutive Directors the Board considers two to be independent Directors.
+All NonExecutive Directors receive a fixed fee for their services other than Bill Currie.
+The Board holds regular meetings and is responsible for formulating reviewing and approving the Groups strategy budgets and corporate actions and overseeing the Groups progress towards its goals.
+Board committees The Board has two committees with clearly defined terms of reference which are set by the Board.
+The role work and members of the committees are outlined below Remuneration Committee The Remuneration Committee is chaired by Drew Thomson and consists of two NonExecutive Directors Drew Thomson and Malcolm Wall.
+It is expected to meet no less than twice a year.
+Executive Directors may attend meetings at the Committees invitation.
+It is responsible for establishing a formal and transparent procedure for developing policy on executive remuneration and setting the remuneration packages of individual Directors.
+This includes agreeing with the Board the framework for the remuneration of the Executive Directors and such other members of the executive management of the Group as it is designated to consider.
+It is furthermore responsible for determining the total individual remuneration packages of each individual Director including where appropriate bonuses incentive payments and share options.
+The remuneration of NonExecutive Directors is a matter for the
+No Director may be involved in any decision as to their own remuneration.
+Audit Committee The Audit Committee is chaired by Bill Currie and consists of two NonExecutive Directors Bill Currie and Malcolm Wall.
+The
+Committee assists the Board in meeting its responsibilities in respect of corporate governance external financial reporting and internal controls including amongst other things reviewing the Groups annual financial statements reviewing and monitoring the extent of the nonaudit services undertaken by external auditors advising on the appointment of external auditors and reviewing the effectiveness of the Groups internal controls and risk management systems.
+The Audit Committee meets formally not less than three times every year and otherwise as required.
+Internal control and risk management The Directors are responsible for the Groups system of internal controls and reviewing its effectiveness.
+Although no system of internal control can completely eliminate the risk of failure to achieve business objectives or provide absolute assurance against material misstatement or loss the Groups controls are designed to provide reasonable assurance over the reliability of financial information and the Groups assets.
+The key controls are as follows The Executive Directors have a close involvement with the daytoday operations and with the involvement of staff identify business risks and monitor controls A risk register is maintained and reviewed by the Executive Directors on a regular basis any high risks are mitigated by embedded controls and There is a comprehensive process of financial reporting based on the annual budget that is approved by the Board.
+Monthly financial results are reported with analysis of key variances against expectations.
+There is currently no internal audit function as the Board considers that given the Groups current stage of development it is not necessary but this will be reviewed annually as the Group evolves.
+Relations with shareholders Meetings with analysts and institutional shareholders are held following the interim and full year results and on an ad hoc basis.
+These meetings are usually held by the CEO and the CFO.
+The Groups informative website contains information to be of interest to new and existing investors.
+In addition the Group retains the services of a financial PR consultancy providing an additional contact avenue for investors.
+There is an opportunity at the Annual General Meeting for individual shareholders to raise general business matters.
+Notice of the Annual General Meeting is provided at least 21 days in advance of the meeting being held.
+FINANCIAL STATEMENTS Eagle Eye Solutions Group plc Annual Report 2017 Independent auditors report to the members of Eagle Eye Solutions Group plc
+We have audited the financial statements of Eagle Eye Solutions Group plc the parent company and its subsidiaries the group for the year ended 30 June 2017 which comprise the consolidated statement of total comprehensive income the consolidated statement of financial position the consolidated statement of changes in equity the consolidated statement of cash flows and notes to the consolidated financial statements including a summary of significant accounting policies the company statement of financial position the company statement of changes in equity and notes to the company financial statements including a summary of significant accounting policies.
+The financial reporting framework that has been applied in the preparation of the group financial statements is applicable law and International Financial Reporting Standards IFRSs as adopted by the European Union.
+The financial reporting framework that has been applied in the preparation of the parent company financial statements is applicable law and United Kingdom Accounting Standards including Financial Reporting Standard 102 The Financial Reporting Standard applicable in the UK and Republic of Ireland United Kingdom Generally Accepted Accounting Practice.
+In our opinion the financial statements give a true and fair view of the state of the groups and of the parent companys affairs as at 30 June 2017 and of the groups loss for the year then ended the group financial statements have been properly prepared in accordance with IFRSs as adopted by the European
+Accepted Accounting Practice and the financial statements have been prepared in accordance with the requirements of the Companies Act 2006.
+Basis for opinion We conducted our audit in accordance with International Standards on Auditing UK ISAs UK and applicable law.
+Our responsibilities under those standards are further described in the Auditors responsibilities for the audit of the financial statements section of our report.
+We are independent of the group and the parent company in accordance with the ethical requirements that are relevant to our audit of the financial statements in the UK including the FRCs Ethical Standard as applied to SME listed entities and we have fulfilled our other ethical responsibilities in accordance with these requirements.
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+Conclusions relating to going concern We have nothing to report in respect of the following matters in relation to which the ISAs UK require us to report to you where the directors use of the going concern basis of accounting in the preparation of the financial statements is not appropriate or the directors have not disclosed in the financial statements any identified material uncertainties that may cast significant doubt about the groups or the parent companys ability to continue to adopt the going concern basis of accounting for a period of at least 12 months from the date when the financial statements are authorised for issue.
+Key audit matters Key audit matters are those matters that in our professional judgment were of most significance in our audit of the financial statements of the current period and include the most significant assessed risks of material misstatement whether or not due to fraud we identified including those which had the greatest effect on the overall audit strategy the allocation of resources in the audit and directing the efforts of the engagement team.
+These matters were addressed in the context of our audit of the financial statements as a whole and in forming our opinion thereon and we do not provide a separate opinion on these matters.
+Revenue recognition Refer to page 34 regarding the accounting policy in respect of revenue recognition page 37 in respect of critical judgements and estimates applied by the Directors and note 3 to the financial statements on page 38 The risk Appropriate and accurate income recognition is required to be applied by the Directors to ensure that revenue is recognised in accordance with IAS 18 Revenue within the financial statements.
+There is a risk that revenue could be inappropriately recognised depending on the stage of service delivery.
+In the year to 30 June 2017 revenue recognised amounted to 11058k 2016 6458k.
+Our response We have conducted analytical work on revenue streams performed additional cutoff testing on key revenue streams in order to identify any areas of material misstatement and challenged the appropriateness of judgments made by the Board regarding the revenue recognition criteria for key customer contracts.
+Carrying values of intangibles and capitalisation of development costs Refer to page 35 regarding the accounting policy in respect of Internallygenerated development intangible assets page 37 in respect of critical judgements and estimates applied by the Directors and note 9 to the financial statements on page 41.
+The risk The capitalisation of development costs as an intangible asset requires the Board of Directors to demonstrate that six criteria as defined within IAS 38 Intangible Assets have all been met.
+At the 30 June 2017 there is 2174k of intellectual property capitalised 2016 2174k in the Consolidated Statement of Financial Position.
+The risk that the capitalisation of development costs may not be appropriate and may not adhere to the IAS 38 criteria is considered to be one of the most significant assessed risks of material misstatement due to its judgemental nature and the assessment the Board are required to make.
+Furthermore the Board are required to establish a useful economic life for the assets in question and consider the carrying values of these assets on an annual basis for any indicators of impairment.
+Eagle Eye Solutions Group plc Annual Report 2017 Statement of Directors responsibilities The Directors are responsible for preparing the Strategic Report and the Directors Report and the financial statements in accordance with applicable law and regulations.
+Company law requires the Directors to prepare Group and Company financial statements for each financial year.
+The Directors are required by the AIM Rules of the London Stock Exchange to prepare Group financial statements in accordance with International Financial Reporting Standards IFRS as adopted by the European Union EU and have elected under company law to prepare the Company financial statements in accordance with United Kingdom Generally Accepted Accounting Practice United Kingdom Accounting Standards and applicable law.
+The Group financial statements are required by law and IFRS adopted by the EU to present fairly the financial position and performance of the Group the Companies Act 2006 provides in relation to such financial statements that references in the relevant part of that Act to financial statements giving a true and fair view are references to their achieving a fair presentation.
+Under company law the Directors must not approve the financial statements unless they are satisfied that they give a true and fair view of the state of affairs of the Group and the Company and of the profit or loss of the Group and the Company for that period.
+In preparing each of the Group and Company financial statements the Directors are required to a. b. c. d.
+Company will continue in business.
+The Directors are responsible for keeping adequate accounting records that are sufficient to show and explain the Groups and the Companys transactions and disclose with reasonable accuracy at any time the financial position of the Group and the Company and enable them to ensure that the financial statements comply with the Companies Act 2006.
+They are also responsible for safeguarding the assets of the Group and the Company and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+The Directors are responsible for the maintenance and integrity of the corporate and financial information included on the Groups website.
+Legislation in the United Kingdom governing the preparation and dissemination of financial statements may differ from legislation in other jurisdictions.
+FINANCIAL STATEMENTS Eagle Eye Solutions Group plc Annual Report 2017 Eagle Eye Solutions Group plc Annual Report 2017 For more information please visit site Our response We have obtained an analysis of the constituent components of the capitalised development costs at the reporting date and reperformed the calculation of costs capitalised on a sample basis.
+We have also obtained an analysis of the new projects capitalised in the year and challenged the judgements made by the Board in their assessment of the capitalisation criteria.
+In addition we have challenged the assumptions over the remaining useful economic lives and considered whether there are any indicators of impairment in light of our understanding of the projects undertaken and the business as a whole.
+Carrying value of goodwill Refer to page 34 regarding the accounting policy in respect of goodwill page 37 in respect of critical judgements and estimates applied by the Directors and note 9 to the financial statements on page 41.
+The risk The Board of Directors are required to undertake an annual impairment review in accordance with IAS 36 Impairment of assets.
+This impairment review requires judgment in determining the cash generating units CGUs and estimating the value in use of the CGUs to which the goodwill is allocated.
+Estimating the value in use requires an assessment of the future cash flows of the cash generating units and discounting at an appropriate discount rate.
+At the 30 June 2017 there is 2664k of goodwill capitalised 2016 2664k in the Consolidated Statement of Financial Position.
+Our response As part of our procedures we challenged the Directors rationale for changing the basis for identification of CGUs compared to those identified in the previous period.
+In addition we assessed the assumptions in relation to revenue and profit growth rates by considering historical trading performance latest market expectations and considering probable and possible income streams taking into account current contracts those that are in negotiation and additional potential growth.
+We also challenged the applied discount rate by considering the weighted average cost of capital for the Group discount rates applied to other similar listed businesses the rationale as to why it had reduced from the previous period and the sensitivity of the carrying value of the CGU to impairment should the discount rate be increased.
+Share options Refer to page 36 regarding the accounting policy in respect of sharebased payments page 37 in respect of critical judgements and estimates applied by the Directors and note 17 to the financial statements on pages 47 to 48.
+The risk The calculation of the annual charge in accordance with IFRS 2 Sharebased payment to account for the share options that have been issued to certain members of Group staff requires estimates made by the Board.
+In the year to 30 June 2017 there is a charge of 431k 2016 632k recognised in the Consolidated Statement of Total Comprehensive Income.
+In accounting for share based payments there is a risk that the model applied is not appropriate and inputs subject to estimation are inappropriate.
+Our response We have considered the appropriateness of the models used and applied scepticism to the inputs used in the assessment of the sharebased compensation charge through consultation with our internal valuation team.
+In addition we have further challenged the assertions made in the model in respect of employee service and performance vesting conditions and sensitised a range of alternative scenarios for these along with other assumptions used in the model.
+Our application of materiality When establishing our overall audit strategy we set certain thresholds which help us to determine the nature timing and extent of our audit procedures and to evaluate the effects of misstatements both individually and on the financial statements as a whole.
+During planning we determined a magnitude of uncorrected misstatements that we judge would be material for the financial statements as a whole
+During planning FSM was calculated as 133500 which was not changed during the course of our audit.
+We agreed with the Audit Committee that we would report to them all unadjusted differences in excess of 10000 as well as differences below those thresholds that in our view warranted reporting on qualitative grounds.
+An overview of the scope of our audit The Groups two significant components were subject to full scope audit procedures for group and statutory reporting purposes.
+We did not rely on the work of any component auditors.
+As part of our planning we assessed the risk of material misstatement including those that required significant auditor consideration at the component and group level.
+Procedures were then performed to address the risk identified and for the most significant assessed risks of material misstatement the procedures performed are outlined above in the key audit matters section of this report.
+As part of our planning we assessed the risk of material misstatement including those that required significant auditor consideration at the component and group level.
+Procedures were then performed to address the risk identified and for the most significant assessed risks of material misstatement the procedures performed are outlined above in the key audit matters section of this report.
+Other information The directors are responsible for the other information.
+The other information comprises the information included in the annual report other than the financial statements and our auditors report thereon.
+Our opinion on the financial statements does not cover the other information and except to the extent otherwise explicitly stated in our report we do not express any form of assurance conclusion thereon.
+In connection with our audit of the financial statements our responsibility is to read the other information and in doing so consider whether the other information is materially inconsistent with the financial statements or our knowledge obtained in the audit or otherwise appears to be materially misstated.
+If we identify such material inconsistencies or apparent material misstatements we are required to determine whether there is a material misstatement in the financial statements or a material misstatement of the other information.
+If based on the work we have performed we conclude that there is a material misstatement of this other information we are required to report that fact.
+We have nothing to report in this regard.
+Opinions on other matters prescribed by the Companies Act 2006 In our opinion based on the work undertaken in the course of the audit the information given in the Strategic Report and the Directors Report for the financial year for which the financial statements are prepared is consistent with the financial statements and the Strategic Report and the Directors Report have been prepared in accordance with applicable legal requirements.
+Matters on which we are required to report by exception In the light of the knowledge and understanding of the group and the parent company and its environment obtained in the course of the audit we have not identified material misstatements in the Strategic Report or the Directors Report.
+We have nothing to report in respect of the following matters in relation to which the Companies Act 2006 requires us to report to you if in our opinion adequate accounting records have not been kept by the parent company or returns adequate for our audit have not been received from branches not visited by us or the parent company financial statements are not in agreement with the accounting records and returns or certain disclosures of directors remuneration specified by law are not made or we have not received all the information and explanations we require for our audit.
+Responsibilities of directors As explained more fully in the directors responsibilities statement set out on page 24 the directors are responsible for the preparation of the financial statements and for being satisfied that they give a true and fair view and for such internal control as the directors determine is necessary to enable the preparation of financial statements that are free from material misstatement whether due to fraud or error.
+In preparing the financial statements the directors are responsible for assessing the groups and the parent companys ability to continue as a going concern disclosing as applicable matters related to going concern and using the going concern basis of accounting unless the directors either intend to liquidate the group or the parent company or to cease operations or have no realistic alternative but to do so.
+Auditors responsibilities for the audit of the financial statements Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement whether due to fraud or error and to issue an auditors report that includes our opinion.
+Reasonable assurance is a high level of assurance but is not a guarantee that an audit conducted in accordance with ISAs UK will always detect a material misstatement when it exists.
+Misstatements can arise from fraud or error and are considered material if individually or in the aggregate they could reasonably be expected to influence the economic decisions of users taken on the basis of these financial statements.
+A further description of our responsibilities for the audit of the financial statements is located on the Financial Reporting Councils website at httpwww. rc. auditorsresponsibilities.
+This description forms part of our auditors report.
+This report is made solely to the companys members as a body in accordance with Chapter 3 of Part 16 of the Companies Act 2006.
+Our audit work has been undertaken so that we might state to the companys members those matters we are required to state to them in an auditors report and for no other purpose.
+To the fullest extent permitted by law we do not accept or assume responsibility to anyone other than the company and the companys members as a body for our audit work for this report or for the opinions we have formed.
+Graham Bond FCA Senior Statutory Auditor For and on behalf of RSM UK Audit LLP Statutory Auditor Chartered Accountants 3 Hardman Street
+M3 3HF 19 September 2017 Independent auditors report to the members of Eagle Eye Solutions Group plc continued FINANCIAL STATEMENTS Eagle Eye Solutions Group plc Annual Report 2017 Eagle Eye Solutions Group plc Annual Report 2017
+Noncurrent assets Intangible assets 9 4838 4838 Property plant and equipment 10 246 243 5084 5081 Current assets Trade and other receivables 12 3576 2080 Cash and cash equivalents 15 3724 1322 7300 3402 Total assets 12384 8483 Current liabilities Trade and other payables 13 3348 2394 Noncurrent liabilities Deferred tax liability 14 174 220 Total liabilities 3522 2614 Net assets 8862 5869 Equity attributable to owners of the parent Share capital 16 253 222 Share premium 16 17008 10991 Merger reserve 16 3278 3278 Share option reserve 1303 1230 Retained losses 12980 9852 Total equity 8862 5869 These financial statements were approved by the Board on 18 September 2017 and signed on its behalf by L SharmanMunday
+T Mason
+Consolidated statement of financial position AS AT 30 JUNE 2017 Continuing operations Note Revenue 3 11058 6458 Cost of sales 1297 1369 Gross profit 9761 5089 Adjusted operating expenses1 11530 6912 Loss before interest tax depreciation amortisation and sharebased payment charge 1769 1823 Sharebased payment charge 431 632 Depreciation and amortisation 1643 1645 Operating loss 4 3843 4100 Finance income 6  2 Finance expense 6 67 Loss before taxation 3910 4098 Taxation 7 391 473 Loss after taxation for the financial year 3519 3625 Foreign exchange adjustments 33 16 Total comprehensive loss attributable to the owners of the parent for the financial year 3486 3609 1 Adjusted operating expenses excludes sharebased payment charge depreciation and amortisation Loss per share from continuing operations Basic and diluted 8 15.73p 16.36p Consolidated statement of total comprehensive income FOR THE YEAR ENDED 30 JUNE 2017 FINANCIAL STATEMENTS Eagle Eye Solutions Group plc Annual Report 2017 Eagle Eye Solutions Group plc Annual Report 2017 Consolidated statement of changes in equity FOR THE YEAR ENDED 30 JUNE 2017
+Share premium
+Share option reserve
+Total
+Balance at 1 July 2015 221 10985 3278 608 6253 8839 Loss for the financial year     3625 3625 Other comprehensive income Foreign exchange adjustments     16 16 3609 3609 Transactions with owners recognised in equity Exercise of share options 1 6    7 Fair value of share options exercised in the year    10 10 Sharebased payment charge    632  632 Balance at 30 June 2016 222 10991 3278 1230 9852 5869 Loss for the financial year     3519 3519 Other comprehensive income Foreign exchange adjustments     33 33 3486 3486 Transactions with owners recognised in equity Issue of share capital 27 5973    6000 Issue costs  240    240 Exercise of share options 4 284    288 Fair value of share options exercised in the year    319 319 Fair value of share options lapsed in the year    39 39 Sharebased payment charge    431  431 31 6017  73 358 6479 Balance at 30 June 2017 253 17008 3278 1303 12980 8862 Included in retained losses is a cumulative foreign exchange balance of 49000 2016 16000 which could be recycled to profit and loss.
+Consolidated statement of cash flows FOR THE YEAR ENDED 30 JUNE 2017 Cash flows from operating activities Loss before taxation 3910 4098 Adjustments for Depreciation 104 80 Amortisation 1539 1565 Sharebased payment charge 431 632 Finance income  2 Finance expense 67 Increase in trade and other receivables 1496 663 Increase in trade and other payables 954 555 Income tax paid 1 Income tax received 346 403 Net cash flows from operating activities 1966 1528 Cash flows from investing activities Payments to acquire property plant and equipment 107 270 Payments to acquire intangible assets 1539 1197 Net cash flows used in investing activities 1646 1467 Cash flows from financing activities Net proceeds from issue of equity 6048 7 Proceeds from borrowings 5600 Repayment of borrowings 5600 Interest received  2 Interest paid 67 Net cash flows from financing activities 5981 9 Net increasedecrease in cash and cash equivalents in the year 2369 2986 Foreign exchange adjustments 33 16 Cash and cash equivalents at beginning of year 1322 4292 Cash and cash equivalents at end of year 3724 1322 FINANCIAL STATEMENTS Eagle Eye Solutions Group plc Annual Report 2017 Eagle Eye Solutions Group plc Annual Report 2017 For more information please visit site 1 Accounting policies Basis of preparation These consolidated financial statements have been prepared on a going concern basis under the historical cost convention and in accordance with International Financial Reporting Standards IFRS as adopted by the EU and the International Financial Reporting Interpretations Committee IFRIC interpretations issued by the International Accounting Standards Board IASB that are effective or issued and early adopted as at the date of these financial statements and in accordance with the provisions of the Companies Act 2006.
+The loss before interest tax depreciation amortisation and sharebased payment charge is presented in the income statement as the Directors consider this performance measure provides a more accurate indication of the underlying performance of the Group and is commonly used by City analysts and investors.
+The preparation of financial statements requires management to exercise its judgement in the process of applying accounting policies.
+The areas involving a higher degree of judgement or areas where assumptions and estimates are significant to the financial information are disclosed in note 2.
+The presentational and functional currency of the Group is Sterling.
+Results in these financial statements have been prepared to the nearest 1000.
+New standards amendments and interpretations issued but not effective for the financial year beginning 1 July 2016 and not early adopted The IASB and IFRIC have issued the following standards and interpretations with effective dates as noted below Standard Key requirements Effective date for annual periods beginning on or after IFRS 9 Financial Instruments The standard is the first standard issued as part of a wider project to replace IAS 39.
+It replaces the parts of IAS 39 that relate to the classification and measurement of financial instruments.
+IFRS 9 requires financial assets to be classified into two measurement categories those measured as at fair value and those measured at amortised cost.
+The classification depends on the entitys business model and the contractual cash flow characteristics of the instrument.
+The guidance in IAS 39 on impairment of financial assets and hedge accounting continues to apply.
+Having reviewed the nature of the Groups financial instruments the Directors do not expect adoption of this standard to have any impact on the results of the Group.
+1 January 2018 IFRS 15 Revenue from Contracts with Customers The standard specifies how and when a company will recognise revenue as well as requiring such entities to provide users of financial statements with more informative relevant disclosures.
+The standard provides a single principles based fivestep model to be applied to all contracts with customers.
+The Directors have commenced initial reviews of the Groups material contracts with Tier 1 grocers applying the fivestep model and are considering the Groups other customer contracts however have not yet concluded whether the adoption of this standard will have any impact on the revenue reported by the Group.
+1 January 2018 IFRS 16 Leases The standard requires lessees to account for leases under a single on balance sheet model in a similar way to finance leases under IAS 17.
+At the commencement date of a lease a lessee will recognise a liability to make lease payments and an asset representing the right to use the underlying asset during the lease term.
+Lessees will be required to separately recognise the interest expense on the lease liability and the depreciation expense on the right of use asset.
+The Groups leases primarily relate to its office accommodation.
+The Directors expect that the adoption of this standard will increase the Groups noncurrent assets current and longterm liabilities in the statement of financial position.
+In the income statement operating expenses will be reduced amortisation and interest expense will be increased.
+This amount has not yet been quantified.
+1 January 2019 Standard Key requirements Effective date for annual periods beginning on or after Amendments to IAS 7 Disclosure Initiative The amendments require additional disclosures to be made regarding changes in liabilities arising from financing activities to enable users of financial statements to better understand changes in the Groups debt.
+Having reviewed the Groups liabilities the Directors do not expect adoption of these amendments to have a material impact on the Group.
+1 January 2017 Amendments to IAS 12 Recognition of Deferred Tax The amendments clarify that an entity needs to consider whether tax law restricts the sources of taxable profits against which it may make deductions on the reversal of unrealised losses on debt instruments measured at fair value.
+As the Group currently has no debt instruments measured at fair value the Directors do not expect adoption of these amendments to have an impact on the Group.
+1 January 2017 IFRIC 22 Foreign Currency Transactions and Advance
+The interpretation clarifies that in determining the spot exchange rate to use on initial recognition of a related asset expense or income on the derecognition of a nonmonetary asset or liability relating to advance consideration the date of the transaction is the date on which an entity initially recognises the nonmonetary asset or liability arising from the advance consideration.
+As the Group has not been involved in any transactions including advance consideration in foreign currencies the Directors do not expect adoption of this interpretation to have an impact on the Group.
+1 January 2018 Annual improvements to IFRSs 20142016 The 2016 Annual improvements cycle covered amendments to IFRS 1 Firsttime Adoption of International Financial Reporting Standards IAS 28 Investments in Associated and Joint Ventures and IFRS 12 Disclosure of Interests in Other Entities.
+The Directors do not expect adoption of these amendments to have an impact on the Group.
+1 January 2019 There are no other IFRSs IFRIC interpretations or amendments that are not yet effective that would be expected to have a material impact on the Group.
+Going concern As part of their going concern review the Directors have followed the guidelines published by the Financial Reporting Council entitled Guidance on Risk Management and Internal Control and Related Financial and Business Reporting.
+The Directors have prepared detailed financial forecasts and cash flows looking beyond 12 months from the date of approval of these consolidated financial statements.
+In developing these forecasts the Directors have made assumptions based upon their view of the current and future economic conditions that will prevail over the forecast period.
+On the basis of the above projections the Directors are confident that the Group has sufficient working capital to honour all of its obligations to creditors as and when they fall due.
+In reaching this conclusion the Directors have considered the forecast cash headroom the resources available to the Group and the potential impact of changes in forecast growth and other assumptions including the potential to avoid or defer certain costs and to reduce discretionary spend as mitigating actions in the event of such changes.
+Accordingly the Directors continue to adopt the going concern basis in preparing these consolidated financial statements.
+Basis of consolidation The consolidated financial statements consolidate those of the Company and its subsidiary undertakings drawn up to 30 June each year.
+Subsidiaries are entities where the Company has power over the entity exposure or rights to variable returns from its involvement with the entity and the ability to use its power over the entity to affect the amount of its returns.
+The Group generally obtains and exercises control through voting rights.
+The results of subsidiaries acquired are consolidated from the date on which control passed under the acquisition method.
+This involves the recognition at fair value of the assets liabilities and contingent liabilities of the subsidiary at the acquisition date.
+These fair values are also used as the bases for subsequent measurement in accordance with the Groups accounting policies.
+All intragroup transactions balances income and expenses are eliminated on consolidation.
+Notes to the consolidated financial statements FINANCIAL STATEMENTS Eagle Eye Solutions Group plc Annual Report 2017 Eagle Eye Solutions Group plc Annual Report 2017 For more information please visit site 1 Accounting policies continued Revenue recognition Revenue comprises the fair value of the consideration received or receivable for the provision of the Groups services excluding VAT and is recognised at the point that the services have been delivered.
+Revenue is recognised when the amount of revenue can be reliably measured when it is probable that future economic benefits can flow to the Group and when specific criteria have been met for each of the activities as described below Development and set up fees are recognised on a percentage of completion basis using estimates.
+A development project can take a number of months and where such a project spans a period end the Group recognises accrued income on the statement of financial position to reflect the service provided on a stage of completion basis.
+Subscription fees are recognised on a monthly basis and are invoiced on a monthly quarterly biannual or annual basis.
+Where invoices are raised in advance a portion is recognised in deferred income in the statement of financial position.
+Transactional fees are linked to transactional volumes and are recognised as the transactions occur.
+Operating loss Operating loss comprises the Groups revenue for the provision of services less the costs of providing those services and administrative overheads including depreciation and amortisation of the Groups noncurrent assets.
+Accounting for joint ventures Joint ventures are entities which are jointly controlled.
+Investments in joint ventures are accounted for using the equity method of accounting.
+Under the equity method the investment is originally recognised at cost and the carrying amount is increased or decreased to recognise the investors share of the profit and loss of the investee after the date of acquisition.
+The Groups investment in joint ventures includes any goodwill to the extent identified on acquisition.
+If the ownership interest in a joint venture is reduced but significant influence is retained only a proportionate share of the amounts previously recognised in other comprehensive income is reclassified to the income statement where appropriate.
+The Groups share of postacquisition profit or loss is recognised in the income statement and its share of postacquisition movements is recognised in other comprehensive income with a corresponding adjustment to the carrying amount of the investment.
+When the Groups share of losses in a joint venture equals or exceeds its interest in the joint venture including any other unsecured receivables the Group does not recognise further losses unless it has incurred legal or constructive obligations or made payments on behalf of the joint venture.
+The Group determines at each reporting date whether there is any objective evidence that the investment in the joint venture is impaired.
+If this is the case the Group calculates the amount of impairment as the difference between the recoverable amount of the joint venture and its carrying amount and recognises the impairment in the income statement.
+Property plant and equipment Purchased property plant and equipment is stated at cost less accumulated depreciation and any provision for impairment losses.
+Cost includes the original purchase price of the asset and the costs attributable to bringing the asset to its working condition for its intended use.
+Depreciation is charged so as to write off the costs of assets over their estimated useful lives on the following bases Computer equipment 2 to 4 years straightline Office furniture and fittings 3 to 5 years straightline The economic lives of assets are reviewed by the Directors on at least an annual basis and are amended as appropriate.
+Intangible assets
+Goodwill arising on business combinations represents the difference between the consideration for a business acquisition and the fair value of the net identifiable assets acquired less any accumulated impairment losses.
+The consideration for a business acquisition represents the fair value of assets given and equity instruments issued in return for the assets acquired.
+Goodwill is not amortised but is subject to an impairment review which is performed at least annually.
+Assets acquired as part of a business combination In accordance with IFRS 3 Business Combinations an intangible asset acquired in a business combination is deemed to have a cost to the Group of its fair value at the acquisition date.
+The fair value of the intangible assets reflects expectations about the probability that future economic benefits from the asset will flow to the Group.
+These costs are amortised on a straightline basis based upon the Directors estimate of their useful economic lives of three years.
+Internallygenerated development intangible assets An internallygenerated development intangible asset arising from the Groups product development is recognised if and only if the Group can demonstrate all of the following the technical feasibility of completing the intangible asset so that it will be available for use or sale its intention to complete the intangible asset and use or sell it its ability to use or sell the intangible asset how the intangible asset will generate probable future economic benefits the availability of adequate technical financial and other resources to complete the development and to use or sell the intangible asset its ability to measure reliably the expenditure attributable to the intangible asset during its development Internallygenerated development intangible assets are amortised as an administrative cost on a straightline basis over their useful lives of three years.
+Where no internallygenerated intangible asset can be recognised research and development expenditure is recognised as an expense in the period in which it is incurred.
+Impairment of tangible and intangible assets The Group reviews the carrying amounts of its assets annually to determine whether there is any indication that those assets have suffered an impairment loss.
+If any such indication exists the recoverable amount of the asset is estimated in order to determine the extent of the impairment loss if any.
+Where the asset does not generate cash flows that are independent from other assets the Group estimates the recoverable amount of the cashgenerating unit to which the asset belongs.
+An intangible asset with an indefinite useful life is tested for impairment at least annually and whenever there is an indication that the asset may be impaired.
+Recoverable amount is the higher of fair value less costs to sell and value in use.
+In assessing value in use the estimated future cash flows are discounted to their present value using a pretax discount rate that reflects current market assessments of the time value of money and the risks specific to the asset for which the estimates of future cash flows have not been adjusted.
+If the recoverable amount of an asset or cashgenerating unit is estimated to be less than its carrying amount the carrying amount of the asset or cashgenerating unit is reduced to its recoverable amount.
+In the case of a cashgenerating unit any impairment loss is charged first to any goodwill in the cashgenerating unit and then pro rata to the other assets of the cash generating unit.
+Financial instruments Financial assets and financial liabilities are recognised in the consolidated statement of financial position when the Group becomes party to the contractual provisions of the instrument.
+Financial assets are derecognised when the contracted rights to the cash flows from the financial asset expire or when the contracted rights to those assets are transferred.
+Financial liabilities are de recognised when the obligation specified in the contract is discharged cancelled or expired.
+Financial assets a Trade and other receivables Trade and other receivables are recognised at their fair value.
+Appropriate provisions for estimated irrecoverable amounts are recognised in the statement of comprehensive income when there is objective evidence that the assets are impaired.
+Trade and other receivables are shown in note 15 as loans and receivables.
+Cash and cash equivalents comprise cash on hand and demand deposits held on call with banks.
+Cash and cash equivalents are shown in note 15 as loans and receivables.
+Financial liabilities and equity c Trade and other payables Trade payables are recognised at their fair value.
+Trade and other payables are shown in note 15 as other financial liabilities.
+An equity instrument is any contract that evidences a residual interest in the assets of an entity after deducting all of its liabilities.
+Equity instruments issued by the Company are recorded at the proceeds received net of issue costs.
+Leases
+Leases in which a significant portion of the risks and rewards of ownership are retained by the lessor are classified as operating leases.
+Payments made under operating leases net of any incentives received from the lessor are charged to profit or loss on a straightline basis over the expected period of the lease.
+Notes to the consolidated financial statements continued FINANCIAL STATEMENTS Eagle Eye Solutions Group plc Annual Report 2017 Eagle Eye Solutions Group plc Annual Report 2017 For more information please visit site 1 Accounting policies continued Employee benefits The Group operates a defined contribution autoenrolment pension scheme for employees of the Group.
+The assets of the scheme are held separately from those of the Group in an independently administered fund.
+The pension costs charged in the income statement are the contributions payable to the scheme in respect of the accounting period.
+Current and deferred income tax Current tax The tax currently payable is based on taxable profit or loss for the year in each territory.
+Taxable profit or loss differs from the profit or loss for the financial year as reported in the statement of total comprehensive income because it excludes items of income or expense that are taxable or deductible in other years and it further excludes items that are never taxable or deductible.
+The
+Groups liability for current tax is calculated using tax rates that have been enacted or substantively enacted by the reporting date.
+Deferred tax Deferred tax is the tax expected to be payable or recoverable on differences between the carrying amounts of assets and liabilities in the consolidated financial statements and the corresponding tax bases used in the computation of taxable profit.
+Deferred tax liabilities are generally recognised for all taxable temporary differences and deferred tax assets are recognised to the extent that it is probable that future taxable profits will be available against which deductible temporary differences can be utilised.
+Such assets and liabilities are not recognised if the temporary difference arises from the initial recognition of goodwill or from the initial recognition other than in a business combination of other assets and liabilities in a transaction that affects neither the taxable profit nor the accounting profit.
+Deferred tax is calculated at the tax rates that are expected to apply in the period when the liability is settled or the asset is realised based on tax laws and rates that have been enacted or substantively enacted at the reporting date.
+Deferred tax is charged or credited in the income statement except when it relates to items charged or credited in other comprehensive income in which case the deferred tax is also dealt with in other comprehensive income.
+Deferred tax assets and liabilities are offset when there is a legally enforceable right to set off current tax assets against current tax liabilities and when they relate to income taxes levied by the same taxation authority and the Group intends to settle its current tax assets and liabilities on a net basis.
+Sharebased payments The Company issues equitysettled sharebased payments to certain employees as consideration for services.
+Equitysettled sharebased payments are measured at fair value at the date of grant by reference to the fair value of the equity instruments granted.
+The fair value determined at the grant date of equitysettled sharebased payments is recognised as an expense over the vesting period on a straightline basis based on the Groups estimate of the number of instruments that will eventually vest with a corresponding adjustment to equity.
+The expected life used in the valuation is adjusted based on the Directors best estimate for the effect of nontransferability exercise restrictions and behavioural considerations.
+Nonvesting and market vesting conditions are taken into account when estimating the fair value of the options at grant date.
+Service and nonmarket vesting conditions are taken into account by adjusting the number of options expected to vest at each reporting date.
+When the options are exercised the Company issues new shares.
+The proceeds received net of any directly attributable transaction costs are credited to share capital nominal value and share premium.
+Segment reporting Operating segments are reported in a manner consistent with the internal reporting provided to the chief operating decision maker.
+The chief operating decision maker who is responsible for allocating resources and assessing performance of the operating segments has been identified as the Board of Directors that makes strategic decisions.
+Equity
+Equity comprises the following Share capital representing the nominal value of shares of the Company Share premium representing the excess over the nominal value of the fair value of consideration received for shares net of expenses of the share issue Merger reserve representing the excess of the Companys investment over the nominal value of Eagle Eye Solutions Limiteds shares acquired using the principles of merger accounting Share option reserve representing the cost of equitysettled sharebased payments until such share options are exercised or lapse and Retained losses.
+2 Critical accounting estimates and judgements The preparation of these consolidated financial statements requires the Directors to make judgements and estimates that affect the reported amounts of assets and liabilities at each reporting date and the reported amounts of revenue during the reporting periods.
+Estimates and judgements are continually evaluated and are based on historical experience and other factors including expectations of future events that are believed to be reasonable under the circumstances.
+Actual results could differ from these estimates.
+Information about such judgements and estimations are contained in individual accounting policies.
+The key judgements and sources of estimation uncertainty that could cause an adjustment to be required to the carrying amount of assets or liabilities within the next accounting period are outlined below Impairment of internallygenerated intangible assets An impairment review of the Groups development costs is undertaken at least annually.
+This review involves the use of judgement to consider the future projected income streams that will result from the aforementioned costs.
+The expected future cash flows are modelled and discounted over the expected life of the assets in order to test for impairment.
+In the years represented in these consolidated financial statements no impairment charge was recognised as a result of these reviews.
+Impairment of goodwill The Group determines whether goodwill arising on acquisitions is impaired at least on an annual basis.
+This requires an estimation of the value in use of the cashgenerating units to which the goodwill is allocated.
+Estimating a value in use amount requires the Directors to make an estimate of the expected future cash flows from the cashgenerating unit and also to choose a suitable discount rate in order to calculate the present value of those cash flows.
+The Groups patented proprietary technology and service offering are unique and there are therefore no direct competitors against whom forecast growth and discount rates can be compared.
+Therefore the growth and discount rates are selected based on comparison with those of the Groups partners and those companies that the Group is compared with by City analysts and investors.
+The actual cash flows may be different from the Directors estimates which could impact the carrying value of the goodwill and therefore operating results negatively.
+The value of goodwill at 30 June 2017 is 2.7m 2016 2.7m.
+Revenue recognition Where the Group is providing material development services development fees are recognised in line with percentage completion of work performed towards milestones.
+Percentage completion is determined based on completion of individual deliverables within the entire project or relevant milestone as appropriate on the basis of planned work associated with that deliverable.
+Milestones and the Directors estimate of percentage completion may differ which could impact operating results positively or negatively.
+At 30 June 2017 unbilled but contracted revenue of 148000 2016 161000 has been recognised for development fees recognised on a percentage completion basis.
+Sharebased payment charge The Group issues share options to certain employees.
+The BlackScholes and Binomial models are used to calculate the appropriate charge for these options.
+The choice and use of these models to calculate a charge involves using a number of estimates and judgements to establish the appropriate inputs to be entered into the model covering areas such as the use of an appropriate interest rate and dividend rate exercise restrictions and behavioural considerations.
+A significant element of judgement is therefore involved in the calculation of the charge.
+The total charge recognised in the year to 30 June 2017 is 431000 2016 632000.
+Further information on share options can be found in note 17.
+Deferred tax asset recognition The Directors judgement is required to determine the amount of tax assets that can be recognised based upon the likely timing and level of future taxable profits together with an assessment of the effect of future tax planning strategies.
+The carrying value of the unrecognised tax losses at 30 June 2017 was 22.6m 2016 17.7m.
+Although the tax losses carried forward are not expected to expire given the Groups history of recent losses and continued investment for growth recovery of any element of this asset is expected to be at least two years from the date of these financial statements and therefore in the judgement of the Directors the tax losses carried forward do not meet the probable definition criteria for an asset within IAS 12.
+The value of the deferred tax asset not recognised at 30 June 2017 was 4.3m 2016 3.5m Further information on the Groups deferred tax position can be found in note 14.
+Notes to the consolidated financial statements continued FINANCIAL STATEMENTS Eagle Eye Solutions Group plc Annual Report 2017 Eagle Eye Solutions Group plc Annual Report 2017 For more information please visit site 3 Segmental analysis The Group is organised into one principal operating division for management purposes.
+Therefore the Group has only one operating segment and segmental information is not required to be disclosed.
+Revenue is analysed as follows Development and set up fees 3512 1275 Subscription and transaction fees 7546 5183 11058 6458 AIR revenue 9426 4637 Messaging revenue 1632 1821 11058 6458 In the year to 30 June 2017 revenue from two of the Groups customers represented more than 10% of the Groups revenue.
+Revenue related to those customers was 2627000 and 2554000 respectively.
+In the year to 30 June 2016 revenue from two of the Groups customers represented more than 10% of the Groups revenue.
+Revenue related to those customers was 1271000 and 728000 respectively.
+All revenues are from external customers.
+Continuing revenues can be attributed to the following geographical locations based on the customers location as follows United Kingdom 8249 5871 North America 2557 405 Rest of Europe 149 81 Asia Pacific 103 101 11058 6458 All noncurrent assets are held in the United Kingdom.
+4 Operating loss Operating loss is stated after charging to administrative costs Depreciation of owned tangible assets 104 80 Amortisation of intangible assets 1539 1565 Employee costs see note 5 7114 4941 Operating lease rentals 251 228 Auditors remuneration Audit of parent and consolidated accounts 15 12 Audit of the Companys subsidiaries 19 20 Nonaudit services Other nonaudit services1 30 18 Research and development 542 358 1 Other nonaudit services includes tax services of 29000 2016 17000.
+5 Particulars of staff The average number of persons employed by the Group including Executive Directors during the year was
+Number
+Product development 43 28 Operations 29 21 Sales and administration The aggregate payroll costs of these persons were Wages and salaries 7038 4818 Sharebased payment charge 431 632 Social security costs 830 558 Pension costs  defined contribution plan 146 33 8445 6041 Less amounts capitalised as intellectual property 1331 1100 7114 4941 Key management remuneration Remuneration of the key management team including Directors during the year was as follows Aggregate emoluments including shortterm employee benefits 1276 1111 Sharebased payment charge 307 508 Pension costs  defined contribution plan 20 8 Social security costs 182 153 1785 1780 Directors remuneration Remuneration of Directors during the year was as follows Aggregate emoluments including shortterm employee benefits 1001 757 Pension costs  defined contribution plan 13 5 1014 762 The remuneration of the highest paid Director during the year was Aggregate emoluments including shortterm employee benefits 264 239 The remuneration of individual directors is disclosed in the Directors report on page 21.
+Retirement benefits are accruing to two 2016 one Directors.
+6 Finance income and expense Interest receivable on bank deposits  2 Interest payable on revolving credit facility 67 Notes to the consolidated financial statements continued FINANCIAL STATEMENTS Eagle Eye Solutions Group plc Annual Report 2017 Eagle Eye Solutions Group plc Annual Report 2017 For more information please visit site 7 Taxation Current tax UK corporation tax at 19.75% 2016 20.00% Overseas tax 1 Adjustments in respect of prior years Deferred tax In respect of current year 868 706 In respect of prior years 822 636 Tax on loss on ordinary activities 391 473 Tax reconciliation Loss before tax 3910 4098 Tax using UK corporation tax rate of 19.75% 2016 20.00% 772 820 Nondeductible expenses 4 4 Employee share acquisition relief 191 4 Temporary timing differences 102 44 Unrelieved tax losses 822 720 Effect of changes in tax rates 10 14 Adjustment to current tax in respect of prior years Tax on loss on ordinary activities 391 473 1 The adjustment to current tax in respect of prior years relates to the finalisation and submission of research and development tax credit claims to HMRC.
+8 Loss per share The calculation of basic and diluted loss per share is based on the result attributable to ordinary shareholders divided by the weighted average number of ordinary shares in issue during the year.
+The weighted average number of shares for the purpose of calculating the basic and diluted measures is the same.
+This is because the outstanding share options would have the effect of reducing the loss per ordinary share and therefore would be antidilutive.
+Basic and diluted loss per share from continuing operations is calculated as follows Loss per share pence
+Weighted average number of ordinary shares Loss per share pence
+Weighted average number of ordinary shares Basic and diluted loss per share 15.73 3519 22373645 16.36 3625 22155260 9 Intangible assets
+Intellectual
+Total
+Cost
+At 1 July 2015 2664 4535 7199 Additions  1197 1197 At 30 June 2016 2664 5732 8396 Additions  1539 1539 At 30 June 2017 2664 7271 9935
+At 1 July 2015  1993 1993 Charge for the year  1565 1565 At 30 June 2016  3558 3558 Charge for the year  1539 1539 At 30 June 2017  5097 5097 Net book value At 30 June 2017 2664 2174 4838 At 30 June 2016 2664 2174 4838 At 1 July 2015 2664 2542 5206 The Groups intellectual property relates to its internally developed AIR platform and the acquired intellectual property of 2ergo Limited which consisted of a then standalone messaging platform and an app and customer interface loyalty solution both of which have now been integrated within the AIR platform.
+The Groups goodwill relates to its acquisition of 2ergo Limited on 16 April 2014.
+Following the successful integration of the acquired 2ergo business the Group has one identifiable cashgenerating unit in the UK.
+An annual impairment review of the goodwill arising on the 2ergo acquisition has therefore been performed for the UK cashgenerating unit.
+The recoverable value of the unit has been based on its value in use.
+The cash flow projections which were based on threeyear forecasts approved by the Directors and then extended to cover a fiveyear period with a terminal value assumed supported the carrying value of goodwill and the Groups intellectual property with no impairment required.
+Cashgenerating unit
+Period over which cash flows have been projected
+Discount rate for cash flow projections UK 2664 5 years 2.5% 15% Cashgenerating unit
+Period over which cash flows have been projected
+Discount rate for cash flow projections Messaging 2664 5 years 2.5% 30% In the prior year the acquired 2ergo business was not fully integrated and therefore it was possible to identify a separate messaging cashgenerating unit.
+With messaging now fully integrated the smallest cashgenerating unit which the goodwill relates to is the UK cashgenerating unit.
+The key assumptions underlying the forecast are the continued success in winning new business and the discount rate applied.
+These assumptions are based on managements experience and the historical success of the cashgenerating unit.
+As the Groups SaaS AIR platform is a unique solution in the marketplace there are no directly comparable companies to compare against when estimating the discount and growth rates to be applied.
+The rates chosen are estimated considering those used by the Groups partners and other entities that the Group is compared with by City analysts and investors.
+The forecast for the unit provides sufficient headroom over the value of goodwill and intangible assets attributed to the cashgenerating unit.
+The Group has no intangible assets with indefinite useful lives other than goodwill.
+Notes to the consolidated financial statements continued FINANCIAL STATEMENTS Eagle Eye Solutions Group plc Annual Report 2017 Eagle Eye Solutions Group plc Annual Report 2017 For more information please visit site 10 Property plant and equipment
+Office
+Total
+Cost
+At 1 July Additions 34 236 270 At 30 June tel429 Additions 85 22 107 At 30 June tel536
+At 1 July Charge for the year 42 38 80 At 30 June Charge for the year 51 53 104 At 30 June Net book value At 30 June At 30 June At 1 July  Investments Investment in joint ventures The Group holds an interest in the ordinary share capital of Australian company Eagle Eye Solutions Asia Pacific Pty Limited of 51%.
+The company was established in order to sell the Eagle Eye AIR platform in the Asia Pacific market and was granted a licence by Eagle Eye Solutions Limited in order to sell the platform in these territories under which an income stream based on sales was due to Eagle Eye Solutions Limited.
+The Group has not provided any funding to Eagle Eye Solutions Asia Pacific Pty Limited since its original investment in the share capital of 51 and due to the losses made has not invoiced the company for revenue due to it under the terms of the licence agreement.
+As the Group is not required to fund any losses made by Eagle Eye Solutions Asia Pacific Pty Limited the Directors believe that they are unable to evidence that they have the power over the entity nor have rights or exposure to variable returns from the entity nor have the ability to use power over the entity to affect the amount of returns.
+As such and in accordance with IFRS 11 Joint Arrangements the Directors have treated this investment as a joint venture and have accounted for this interest as a jointly controlled entity using the principles of equity accounting as set out below Summarised statement of financial position for Eagle Eye Solutions Asia Pacific Pty Limited Noncurrent assets Property plant and equipment  6 Current assets Trade and other receivables 24 22 Cash and cash equivalents Total assets 42 47 Current liabilities Trade and other payables 3 3 Net assets 39 44 Summarised statement of total comprehensive income for Eagle Eye Solutions Asia Pacific Pty Limited Profit before tax 1 7 Income tax Profit after tax 1 7 The statement of financial position for Eagle Eye Solutions Asia Pacific Pty Limited has been translated to Sterling at the exchange rate at each period end.
+The performance in the income statement has been translated at the average exchange rate during each period.
+In the year ended 30 June 2012 the Directors reviewed the losses made and determined that the investment in Eagle Eye Solutions Asia Pacific Pty Limited was impaired writing it down to nil.
+Having reviewed the performance of Eagle Eye Solutions Asia Pacific Pty Limited the Directors have determined that this treatment remains appropriate.
+12 Trade and other receivables Trade receivables 2678 1048 Less Provision for impairment of trade receivables 18 26 2660 1022 Prepayments 553 519 Accrued income 338 488 Other receivables 25 51 3576 2080 The ageing of trade receivables that were not impaired at 30 June 2017 was Not past due 1938 890 Up to three months past due 714 113 More than three months past due 4 14 2656 1017 Accrued income and other receivables are not past due 2016 not past due.
+The Group trades only with recognised creditworthy third parties.
+Receivable balances are monitored on an ongoing basis with the aim of minimising the Groups exposure to bad debts.
+The Group has reviewed in detail all items comprising the above not past due and overdue but not impaired trade receivables to ensure that no impairment exists.
+As at 30 June 2017 trade receivables of 22000 2016 31000 were impaired and provided for all of which were more than two months old 2016 more than two months old.
+The amount of the provision was 18000 as at 30 June 2017 2016 26000.
+Movements on the provision for impairment of trade receivables are as follows At 1 July 26 40 Provision for impairment of receivables releasedcharged 4 12 Receivables written off during the year 4 26 At 30 June 18 26 The other classes within trade and other receivables do not contain impaired assets.
+The maximum exposure to credit risk for trade and other receivables at the reporting date is the carrying value of each class of receivable disclosed above.
+Notes to the consolidated financial statements continued FINANCIAL STATEMENTS Eagle Eye Solutions Group plc Annual Report 2017 Eagle Eye Solutions Group plc Annual Report 2017 For more information please visit site 12 Trade and other receivables continued The carrying amounts of the Groups trade and other receivables are denominated in the following currencies Sterling 2701 1826 Canadian Dollars 875 254 3576 2080 13 Trade and other payables
+Trade payables 739 706 Accruals 1416 943 Deferred income 520 404 Other payables 673 341 3348 2394 The carrying amounts of the Groups trade and other payables are denominated in the following currencies Sterling 2861 2394 Canadian Dollars 487 3348 2394 14 Deferred tax liability The elements of deferred taxation are as follows Accelerated capital allowances and intellectual property 174 220 Movement in deferred tax Accelerated capital allowances and intellectual property At 1 July 2015 290 Credited to income statement 70 At 30 June 2016 220 Credited to income statement 46 At 30 June 2017 174 No deferred tax asset is recognised for unused tax losses across the Group of 22.6m 2016 17.7m due to uncertainty over the timing of their recovery.
+15 Financial instruments and financial risk management The Group is exposed to a variety of financial risks that arise from its use of financial instruments credit risk liquidity risk foreign exchange risk and capital risk.
+Principal financial instruments The principal financial instruments used by the Group from which financial instrument risk arises are as follows Trade and other receivables Cash and cash equivalents Trade and other payables Financial assets Loans and receivables Trade and other receivables 2998 1552 Cash and cash equivalents 3724 1322 6722 2874 Financial liabilities Other financial liabilities Trade and other payables 2828 1690 Disclosures in respect of the Groups financial risks are set out below Financial risk management The Groups activities expose it to credit liquidity and foreign exchange risks.
+The Groups overall risk management programme focuses on the unpredictability of financial markets and seeks to minimise potential adverse effects on the Groups financial performance.
+Credit risk Credit risk is the risk of financial loss to the Group if a customer or counterparty to a financial instrument fails to meet its contractual obligations and arises principally from trade receivables from customers and cash deposits with financial institutions.
+The Groups exposure to credit risk is influenced mainly by the individual characteristics of each customer.
+Credit checks are performed on new and potential customers and receivable balances are monitored on an ongoing basis with the aim of minimising the Groups exposure to bad debt.
+The Directors consider the above measures to be sufficient to control the credit risk exposure.
+The Group gives careful consideration to which organisations it uses for its banking services in order to minimise credit risk.
+At the reporting date the Groups cash held on shortterm deposit with Barclays Bank plc in the United Kingdom was 3717000 2016 28000 and with HSBC Bank plc in the United Kingdom was 7000 2016 1294000.
+The carrying amount of financial assets recorded in the consolidated financial statements represents the Groups maximum exposure to credit risk without taking into account the value of any collateral obtained.
+In the Directors opinion there have been no impairments of financial assets in the period other than in relation to trade receivables written off of 4000 2016 26000.
+Liquidity risk Liquidity risk is the risk that the Group will not be able to meet its financial obligations as they fall due.
+The Group manages its cash flows to ensure that it will always have sufficient liquidity to meet its liabilities when due under both normal and stressed conditions without incurring unacceptable losses or damage to the Groups reputation.
+During the year the Group extended its three year revolving loan facility with Barclays to 3.0m 2016 1.5m secured on the Groups assets.
+At 30 June 2017 this facility is not currently utilised.
+The Directors manage liquidity risk by regularly reviewing the Groups cash requirements by reference to shortterm cash flow forecasts and mediumterm working capital projections prepared by management.
+Notes to the consolidated financial statements continued FINANCIAL STATEMENTS Eagle Eye Solutions Group plc Annual Report 2017 Eagle Eye Solutions Group plc Annual Report 2017 For more information please visit site 15 Financial instruments and financial risk management continued Foreign exchange risk The vast majority of the Groups revenues and costs are in Sterling the Companys functional currency and involve no currency risk.
+Activities in currencies other than Sterling are funded as much as possible through operating cash flows mitigating foreign exchange risk.
+The Group has the following cash and cash equivalent deposits Sterling 3674 1136 Canadian Dollars 50 186 3724 1322 The gross value of receivables and payables by currency is disclosed in notes 12 and 13 respectively.
+The Group has the following net other financial instruments Sterling 131 382 Canadian Dollars 301 244 A 5% change in the currency translation rate between Sterling and Canadian Dollars would have the following effect on the Groups net assets and loss before tax Net assets 21 15 Loss before tax 48 14 Maturity of financial assets and liabilities All of the Groups financial assets and financial liabilities at each reporting date are either receivable or payable within one year.
+Capital management The Groups capital structure is comprised entirely of shareholders equity.
+The objective of the Group when managing capital is to maintain adequate financial flexibility to preserve its ability to meet financial obligations both current and long term.
+The capital structure is managed and adjusted to reflect changes in economic conditions.
+The Group funds its expenditures on commitments from existing cash and cash equivalent balances primarily received from operating cash flows issuances of shareholders equity and from the revolving credit facility with Barclays.
+There are no externally imposed capital requirements.
+Financing decisions are made by the Directors based on forecasts of the expected timing and level of capital and operating expenditure required to meet the Groups commitments and development plans.
+16 Share capital and reserves The authorised share capital of the Company is 25336327 ordinary shares of 1p each.
+Number of shares issued and fully paid Share capital
+At 1 July 2015 22144266 221 10985 Issue of share capital 14020 1 6 Issue costs At 30 June 2016 22158286 222 10991 Issue of share capital 3178041 31 6257 Issue costs  240 At 30 June 2017 25336327 253 17008 On 9 February 2017 7 April 2017 30 May 2017 1 June 2017 6 June 2017 20 June 2017 and 30 June 2017 the Company issued 1p ordinary shares pursuant to the exercise of employee share options.
+The total number of shares issued on these dates was 511374.
+On 12 June 2017 the Company issued 2666667 1p ordinary shares pursuant to a placing of its shares on AIM to build on UK success achieved to date target expansion in Canada and North America from the Groups existing relationship and to capitalise on the opportunity in Europe.
+Merger reserve The acquisition of its principal subsidiary by the Group in 2014 did not meet the definition of a business combination and therefore fell outside the scope of IFRS 3.
+The acquisition was therefore accounted for in accordance with the principles of merger accounting as set out in Financial Reporting Standard 6  Acquisitions and Mergers.
+The consideration paid to the shareholders of Eagle Eye Solutions Limited was 13641384 ordinary shares of 1p each.
+A merger reserve arises on consolidation being the difference between the nominal value of the shares issued on acquisition and the net assets acquired.
+17 Share option schemes The Company has a share option scheme for certain employees and Directors of the Group.
+Options are generally exercisable at a price equal to the market price of the Companys shares on the day immediately prior to the date of grant.
+Options are forfeited if the employee or Director leaves the Group before the options vest.
+The service and performance criteria relating to the options are the continuing employment of the holder and the achievement of certain earnings based performance criteria and in the case of the LTIP Share Option Scheme the performance of the Companys share price.
+Number of share options
+Number of share options
+Outstanding at the beginning of the year 2507824 0.73 1753899 0.83 Granted during the year 1005377 0.58 903698 0.68 Exercised in the year 511374 0.56 14020 0.51 Lapsed in the year 460442 1.00 135753 1.77 Outstanding at the end of the year 2541385 0.65 2507824 0.73 Exercisable at the end of the year 960416 0.73 281304 0.51 In the year ended 30 June 2017 options were granted on 21 September 2016 18 November 2016 and 12 June 2017.
+The aggregate of the estimated fair value of the options granted on those dates was 675000 and the weighted average share price on those dates was 1.26.
+In the year ended 30 June 2016 options were granted on 17 November 2015 4 January 2016 12 January 2016 12 May 2016 and 23 May 2016.
+The aggregate of the estimated fair value of the options granted on those dates was 1519000 and the weighted average share price on those dates was 2.20.
+In the year ended 30 June 2017 options were exercised on 9 February 2017 7 April 2017 30 May 2017 1 June 2017 6 June 2017 20 June 2017 and 30 June 2017.
+The weighted average share price on those dates was 2.39.
+In the year ended 30 June 2016 options were exercised on 18 September 2015.
+The share price on that date was 1.78.
+Options outstanding under the Companys share option schemes at 30 June 2017 were as follows Name of scheme
+Number of options
+Exercise period Exercise price per share EMI Share Option Scheme 530657 1025tel2024 0.51 EMI Share Option Scheme 200000 300tel2024 1.55 EMI Share Option Scheme 73808 73tel2025 2.07 EMI Share Option Scheme 96472 106tel2025 2.23 EMI Share Option Scheme  161tel2026 1.96 EMI Share Option Scheme 110000  2016 20162026 1.32 EMI Share Option Scheme 226509  2016 20162026 1.06 EMI Share Option Scheme 70693  2017 20172027 2.69 LTIP Share Option Scheme 1003487 610tel2026 0.01 Unapproved Share Option Scheme 229759 229tel2024 0.51 The weighted average remaining contractual life of these options is 8.1 years 2016 8.5 years.
+The fair value of the employees services received in exchange for the grant of share options is recognised as an expense.
+The total amount to be expensed over the vesting period is determined by reference to the fair value of the share options granted.
+Fair value is determined by reference to the BlackScholes and Binomial option pricing models.
+Notes to the consolidated financial statements continued FINANCIAL STATEMENTS Eagle Eye Solutions Group plc Annual Report 2017 Eagle Eye Solutions Group plc Annual Report 2017 17 Share option schemes continued The inputs into the option pricing models are as follows 2017 2016 Weighted average exercise price 0.68 0.73 Expected volatility 25.3%42.2% 25.3%35.0% Expected life 5 years 5 years Riskfree interest rate 0.2%1.9% 0.7%1.9% Expected dividends Nil Nil The volatility of the Companys share price on each date of grant is calculated as the average of the annualised standard deviations of daily continuously compounded returns on the Companys stock.
+The Group recognised a charge of 431000 2016 632000 related to equitysettled sharebased payment transactions in the year.
+18 Operating lease commitments At 30 June 2017 the Group had aggregate minimum lease payments under noncancellable operating leases for office and other sites as follows Due within 1 year 271 243 Due within 25 years 34telThe Groups Guildford office lease agreement can be cancelled after five years of its initial tenyear term which commenced in July 2015.
+The lease for the Groups Manchester office can be cancelled after five years of its initial tenyear term which commenced in December 2013.
+19 Related party transactions The remuneration of the Directors and key management personnel is disclosed in note 5.
+During the year the Group acquired subcontractor technical development services to the value of 119000 2016 77000 from Eagle Eye Technology Limited a company in which Stephen Rothwell a Director of the Company holds an interest.
+At 30 June 2017 14000 2016 28000 was outstanding in respect of these services.
+During the year the Group acquired marketing services to the value of 20000 2016 nil from Digital Natives Content Limited a company in which Tim Mason a Director of the Company holds an interest.
+At 30 June 2017 12000 2016 nil was outstanding in respect of these services.
+During the year the Group provided services to the value of 15000 2016 nil to Purple Wifi Limited a subsidiary of So Purple Group Limited a company in which Tim Mason and Terry Leahy Directors of the Company hold an interest.
+At 30 June 2017 nil 2016 nil was outstanding in respect of these services.
+At 30 June 2017 Directors emoluments of 1000 were outstanding to Sir Terry Leahy 2016 1000 who is paid in arrears.
+Save as disclosed above none of the key management personnel of the Group owe any amounts to any company within the Group 2016 nil nor are any amounts due from any company in the Group to any of the key management personnel 2016 nil.
+There have been no transactions with Eagle Eye Solutions Asia Pacific Pty Limited during the year or the prior year.
+20 Ultimate controlling party The Directors do not consider there to be an ultimate controlling party due to no individual party owning a majority share in the
+See page 21 for information on percentage shareholdings.
+Notes to the consolidated financial statements continued
+Noncurrent assets Investments in subsidiaries 5 5697 5667 5697 5667 Current assets Trade and other receivables 6 8004 4923 Cash and cash equivalents 3341 859 11345 5782 Total assets 17042 11449 Current liabilities Trade and other payables 7 125 163 Net assets 16917 11286 Equity attributable to owners of the parent Share capital 8 253 222 Share premium 8 17008 10991 Share option reserve 1303 1230 Retained losses 1647 1157 Total equity 16917 11286 These financial statements were approved by the Board on 18 September 2017 and signed on its behalf by L SharmanMunday
+T Mason
+Company statement of financial position AS AT 30 JUNE 2017 FINANCIAL STATEMENTS Eagle Eye Solutions Group plc Annual Report 2017 Eagle Eye Solutions Group plc Annual Report 2017
+Share premium
+Retained losses
+Balance at 1 July 2015 221 10985 608 638 11176 Loss for the financial year    519 519 Transactions with owners recognised in equity Exercise of share options 1 6   7 Fair value of share options exercised in the year   10  10 Sharebased payment charge   632   629 Balance at 30 June 2016 222 10991 1230 1157 11286 Loss for the financial year    490 490 Transactions with owners recognised in equity Issue of share capital 27 5973   6000 Issue costs  240   240 Exercise of share options 4 284   288 Fair value of share options exercised in the year   319  319 Fair value of share options lapsed in the year   39  39 Sharebased payment charge   431  431 31 6017 73  6121 Balance at 30 June 2017 253 17008 1303 1647 16917 1 Accounting policies Basis of preparation These financial statements have been prepared on a going concern basis under the historical cost convention and in accordance with the Companies Act 2006 and applicable United Kingdom accounting standards.
+These financial statements conform to FRS 102.
+The preparation of financial statements requires management to exercise its judgement in the process of applying accounting policies.
+The areas involving a higher degree of judgement or areas where assumptions and estimates are significant to the financial information are disclosed in note 2.
+In accordance with FRS 102 the Company has taken advantage of the exemptions from the following disclosure requirements Section 7 Statement of Cash Flows  Presentation of a Statement of Cash Flow and related notes and disclosures Section 11 Basic Financial Instruments and Section 12 Other Financial Instrument Issues  Carrying amounts interest incomeexpense and net gainslosses for each category of financial instrument basis of determining fair values details of collateral loan defaults or breaches details of hedges hedging fair value changes recognised in profit or loss and in other comprehensive income.
+Section 26 Sharebased Payment  Sections 26.18b 26.18 and 26.23 Section 33 Related Party Disclosures  Compensation for key management personnel The presentational and functional currency of the Company is Sterling.
+Results in these financial statements have been prepared to the nearest 1000.
+Going concern As part of their going concern review the Directors have followed the guidelines published by the Financial Reporting Council entitled Guidance on Risk Management and Internal Control and Related Financial and Business Reporting.
+The Directors have prepared detailed financial forecasts and cash flows looking beyond 12 months from the date of approval of these financial statements.
+In developing these forecasts the Directors have made assumptions based upon their view of the current and future economic conditions that will prevail over the forecast period.
+On the basis of the above projections the Directors are confident that the Company has sufficient working capital to honour all of its obligations to creditors as and when they fall due.
+In reaching this conclusion the Directors have considered the forecast cash headroom the resources available to the Company and the potential impact of changes in forecast growth and other assumptions including the potential to avoid or defer certain costs and to reduce discretionary spend as mitigating actions in the event of such changes.
+Accordingly the Directors continue to adopt the going concern basis in preparing these financial statements.
+Investments
+Investments held by the Company are stated at cost less any provision for impairment in the Companys financial statements.
+Impairment of investments The Company reviews the carrying values of its investments annually to determine whether there is any indication that those investments have suffered an impairment loss.
+If any such indication exists the recoverable amount of the investment is estimated in order to determine the extent of the impairment loss if any.
+Recoverable amount is the higher of fair value less costs to sell and value in use.
+In assessing value in use the estimated future cash flows are discounted to their present value using a pretax discount rate that reflects current market assessments of the time value of money and the risks specific to the investment for which the estimates of future cash flows have not been adjusted.
+If the recoverable amount of an investment is estimated to be less than its carrying amount the carrying amount of the investment is reduced to its recoverable amount.
+Financial instruments Financial assets and financial liabilities are recognised in the statement of financial position when the Company becomes party to the contractual provisions of the instrument.
+Financial assets are derecognised when the contracted rights to the cash flows from the financial asset expire or when the contracted rights to those assets are transferred.
+Financial liabilities are derecognised when the obligation specified in the contract is discharged cancelled or expired.
+Company statement of changes in equity FOR THE YEAR ENDED 30 JUNE 2017 Notes to the Company financial statements FINANCIAL STATEMENTS Eagle Eye Solutions Group plc Annual Report 2017 Eagle Eye Solutions Group plc Annual Report 2017 For more information please visit site 1 Accounting policies continued Financial assets a Trade and other receivables Trade and other receivables are recognised at their fair value.
+Appropriate provisions for estimated irrecoverable amounts are recognised in the statement of comprehensive income when there is objective evidence that the assets are impaired.
+Cash and cash equivalents comprise cash on hand and demand deposits held on call with banks.
+Financial liabilities and equity c Trade and other payables Trade payables are recognised at their fair value.
+An equity instrument is any contract that evidences a residual interest in the assets of an entity after deducting all of its liabilities.
+Equity instruments issued by the Company are recorded at the proceeds received net of issue costs.
+Current income tax The tax currently payable is based on taxable loss for the year.
+Taxable loss differs from the loss for the financial year as reported in the statement of total comprehensive income because it excludes items of income or expense that are taxable or deductible in other years and it further excludes items that are never taxable or deductible.
+The Companys liability for current tax is calculated using tax rates that have been enacted or substantively enacted by the reporting date.
+Sharebased payments The Company issues equitysettled sharebased payments to certain employees of the Group as consideration for services.
+Equitysettled sharebased payments are measured at fair value at the date of grant by reference to the fair value of the equity instruments granted.
+The fair value determined at the grant date of equitysettled sharebased payments is recognised as an expense for employees of the Company or as an investment in the subsidiary entity employing the relevant employees otherwise over the vesting period on a straightline basis based on the Directors estimate of the number of instruments that will eventually vest with a corresponding adjustment to equity.
+The expected life used in the valuation is adjusted based on the Directors best estimate for the effect of nontransferability exercise restrictions and behavioural considerations.
+Nonvesting and market vesting conditions are taken into account when estimating the fair value of the options at grant date.
+Service and nonmarket vesting conditions are taken into account by adjusting the number of options expected to vest at each reporting date.
+When the options are exercised the Company issues new shares.
+The proceeds received net of any directly attributable transaction costs are credited to share capital nominal value and share premium.
+Equity
+Equity comprises the following Share capital representing the nominal value of shares of the Company Share premium representing the excess over the nominal value of the fair value of consideration received for shares net of expenses of the share issue Share option reserve representing the cost of equitysettled sharebased payments until such share options are exercised or lapse and Retained losses.
+2 Critical accounting estimates and judgements The preparation of these financial statements requires the Directors to make judgements and estimates that affect the reported amounts of assets and liabilities at each reporting date.
+Estimates and judgements are continually evaluated and are based on historical experience and other factors including expectations of future events that are believed to be reasonable under the circumstances.
+Actual results could differ from these estimates.
+Information about such judgements and estimations are contained in individual accounting policies.
+The key judgements and sources of estimation uncertainty that could cause an adjustment to be required to the carrying amount of assets or liabilities within the next accounting period are outlined over Impairment of investments An impairment review of the Companys investments in its subsidiaries is undertaken at least annually.
+This review involves the use of judgement to consider the future projected income streams that will result from those investments.
+The expected future cash flows are modelled and discounted over the expected life of the investments in order to test for impairment.
+In the years represented in these financial statements no impairment charge was recognised as a result of these reviews.
+Sharebased payment charge The Company issues share options to certain employees of the Group.
+The BlackScholes and Binomial models are used to calculate the appropriate charge for these options.
+The use of these models to calculate a charge involves using a number of estimates and judgements to establish the appropriate inputs to be entered into the model covering areas such as the use of an appropriate interest rate and dividend rate exercise restrictions and behavioural considerations.
+A significant element of judgement is therefore involved in the calculation of the charge.
+The total charge recognised by the Company in the year to 30 June 2017 is 43000 2016 199000 with a capital contribution in a subsidiary company of 388000 2016 433000.
+Further information on share options can be found in note 17 to the consolidated financial statements.
+3 Loss of the parent company The Company has not presented its own income statement as permitted by section 408 4 of the Companies Act 2006.
+The loss for the financial year dealt with in the accounts of the Company is 490000 2016 519000.
+4 Particulars of staff The Company had no staff during the year or the prior year other than Directors.
+Details of Directors remuneration are contained in note 5 to the consolidated financial statements.
+5 Investments Investments in subsidiaries and joint ventures Cost and net book value At 1 July 2015 5244 Fair value of options exercised in the year 10 Sharebased payment charge 433 At 30 June 2016 5667 Fair value of options exercised in the year 319 Fair value of options lapsed in the year 39 Sharebased payment charge 388 At 30 June 2017 5697 Investment Principal activity Country of incorporation Class and percentage of shares held and voting rights Eagle Eye Solutions Limited Digital loyalty services England and Wales Ordinary 100% Eagle Eye Solutions North Limited Dormant England and Wales Ordinary 100% Eagle Eye Solutions Canada Limited Digital loyalty services Canada Ordinary 100% Eagle Eye Solutions Asia Pacific Pty Limited1 Digital loyalty services Australia Ordinary 51% 1 Held indirectly Eagle Eye Solutions Canada Limited was incorporated on 15 February 2016 as part of the international development of the Group.
+6 Trade and other receivables Amounts due from group undertakings 7969 4896 Prepayments and accrued income 18 17 Other receivables 17 10 8004 4923 The Companys receivables do not contain impaired assets.
+The maximum exposure to credit risk at the reporting date is the carrying value of each class of receivable disclosed above.
+All of the Companys receivables are denominated in Sterling.
+Notes to the Company financial statements continued SHAREHOLDER INFORMATION Eagle Eye Solutions Group plc Annual Report 2017 Eagle Eye Solutions Group plc Annual Report 2017 7 Trade and other payables
+Trade payables 85 42 Accruals and deferred income 4tel8 Share capital The authorised share capital of the Company is 25336327 ordinary shares of 1p each.
+Number of shares issued and fully paid Share capital
+At 1 July 2015 22144266 221 10985 Issue of share capital 14020 1 6 At 30 June 2016 22158286 222 10991 Issue of share capital 3178041 31 6257 Issue costs  240 At 30 June 2017 25336327 253 17008 On 9 February 2017 7 April 2017 30 May 2017 1 June 2017 6 June 2017 20 June 2017 and 30 June 2017 the Company issued 1p ordinary shares pursuant to the exercise of employee share options.
+The total number of shares issued on these dates was 511374.
+On 12 June 2017 the Company issued 2666667 1p ordinary shares pursuant to a placing of its shares on AIM to build on UK success achieved to date target expansion in Canada and North America from the Groups existing relationship and to capitalise on the opportunity in Europe.
+9 Related party transactions The remuneration of the Directors is disclosed in note 5 to the consolidated financial statements.
+At 30 June 2017 Directors emoluments of 1000 were outstanding to Sir Terry Leahy 2016 1000 who is paid in arrears.
+10 Ultimate controlling party The Directors do not consider there to be an ultimate controlling party due to no individual party owning a majority share in the
+See page 21 for information on percentage shareholdings.
+NOTICE IS HEREBY GIVEN that the fourth annual general meeting AGM of Eagle Eye Solutions Group plc the Company will be held at the offices of Hudson Sandler 29 Cloth Fair London EC1A 7NN at 12.30 pm on 9 November 2017.
+The AGM will be held in order to consider and if thought fit pass the following resolutions which will be proposed as special or ordinary resolutions as indicated.
+ORDINARY BUSINESS Ordinary resolutions THAT the report of the directors the financial statements and the report of the auditors for the Companys financial year ended 30 June 2017 be received and adopted.
+THAT Malcolm Wall who retires by rotation and is eligible for reelection pursuant to article 19 of the Companys articles of association be reappointed as a director of the Company.
+THAT Lucy SharmanMunday who retires by rotation and is eligible for reelection pursuant to article 19 of the Companys articles of association be reappointed as a director of the Company.
+THAT Drew Thomson who retires by rotation and is eligible for reelection pursuant to article 19 of the Companys articles of association be reappointed as a director of the Company.
+THAT a RSM UK Audit LLP of 9th Floor 3 Hardman Street Manchester M3 3HF be reappointed as auditors of the Company to hold office from the conclusion of the AGM until the conclusion of the next annual general meeting of the Company at which financial statements are laid before the Companys shareholders and b the directors be authorised to determine the auditors remuneration.
+SPECIAL BUSINESS Ordinary resolutions THAT the directors be generally and unconditionally authorised for the purposes of section 551 of the Companies Act 2006 the Act to exercise all the powers of the Company to a allot shares in the Company and grant rights to subscribe for or convert any security into shares in the Company up to an aggregate nominal amount of 84721.09 and b allot equity securities as defined in section 560 of the Act up to an aggregate nominal amount of 169442.18 such amount to be reduced by the nominal amount of any shares allotted or rights granted under paragraph a of this resolution 6 in connection with an offer by way of a rights issue to i the holders of ordinary shares in the Company in proportion as nearly as may be practicable to the respective numbers of ordinary shares held by them and ii holders of other equity securities as required by the rights of those securities or subject to such rights as the directors of the Company otherwise consider necessary and so that the directors of the Company may impose any limits or restrictions and make any arrangements which they consider necessary or appropriate to deal with treasury shares fractional entitlements record dates legal regulatory or practical problems in or under the laws of any territory or any other matter.
+These authorities shall apply in substitution for all previous authorities but without prejudice to the validity of any allotment pursuant to such previous authority and expire at the end of the next annual general meeting of the Company or if earlier 15 months after the date of this resolution save that the Company may before such expiry make any offer or agreement which would or might require shares to be allotted or rights granted to subscribe for or convert any security into shares after such expiry and the directors may allot shares or grant such rights in pursuance of any such offer or agreement as if the power and authority conferred by this resolution had not expired.
+Notes to the Company financial statements continued Notice of Annual General Meeting SHAREHOLDER INFORMATION Eagle Eye Solutions Group plc Annual Report 2017 Eagle Eye Solutions Group plc Annual Report 2017 For more information please visit site Special resolutions THAT subject to the passing of resolution 6 the directors be generally and unconditionally empowered for the purposes of section 570 of the Act to allot equity securities within the meaning of section 560 of the Act for cash a pursuant to the authority conferred by resolution 6 or b where the allotment constitutes an allotment within the meaning of section b of the Act in each case as if section 561 of the Act did not apply to any such allotment provided that this power shall be limited to i the allotment of equity securities in connection with an offer of equity securities but in the case of an allotment pursuant to the authority granted under paragraph b of resolution 6 such power shall be limited to the allotment of equity securities in connection with an offer by way of a rights issue only to A the holders of ordinary shares in the Company in proportion as nearly as may be practicable to the respective numbers of ordinary shares held by them and B holders of other equity securities as required by the rights of those securities or subject to such rights as the directors of the Company otherwise consider necessary and so that the directors of the Company may impose any limits or restrictions and make any arrangements which they consider necessary or appropriate to deal with treasury shares fractional entitlements record dates legal regulatory or practical problems in or under the laws of any territory or any other matter and ii the grant of options to subscribe for shares in the Company and the allotment of such shares pursuant to the exercise of options granted under the terms of any share option scheme adopted or operated by the Company and iii the allotment of equity securities other than pursuant to paragraphs i and ii above of this resolution up to an aggregate nominal amount of 25416.33.
+This power shall unless previously renewed varied or novated by the Company in general meeting expire at the conclusion of the next annual general meeting of the Company following the passing of this resolution or if earlier on the date 15 months after the passing of such resolution save that the Company may before the expiry of this power make any offer or enter into any agreement which would or might require equity securities to be allotted or treasury shares sold after such expiry and the directors may allot equity securities or sell treasury shares in pursuance of any such offer or agreement as if the power conferred by this resolution had not expired.
+By order of the Board
+Lucy SharmanMunday Company Secretary For and on behalf of Eagle Eye Solutions Group plc Dated 12 October 2017 Registered Office 5 New Street Square London EC4A 3TW
+Members are entitled to appoint a proxy to exercise all or any of their rights to attend and to speak and vote on their behalf at the meeting and at any adjournment of it.
+A member may appoint more than one proxy in relation to the meeting provided that each proxy is appointed to exercise the rights attached to a different share or shares held by that member.
+If a proxy appointment is submitted without indicating how the proxy should vote on any resolution the proxy will exercise his discretion as to whether and if so how he votes.
+A proxy need not be a member of the Company.
+A proxy form which may be used to make such appointment and give proxy instructions accompanies this notice.
+If you do not have a proxy form and believe that you should have one or if you require additional forms please contact Equiniti Aspect House Spencer Road Lancing West Sussex BN99 6DA.
+To be valid any proxy form or other instrument appointing a proxy must be received by post or during normal business hours only by hand by Equiniti Aspect House Spencer Road Lancing West Sussex BN99 6DA no later than 12.30 p.
+7 November 2017 or in the event of any adjournment no later than 12.00 p. authority if any under which it is signed or a duly certified copy of that power or authority.
+The return of a completed proxy form will not prevent a member attending the meeting and voting in person if heshe wishes to do so.
+A vote withheld option is provided on the form of proxy to enable you to instruct your proxy not to vote on any particular resolution however it should be noted that a vote withheld in this way is not a vote in law and will not be counted in the calculation of the proportion of the votes For and Against a resolution.
+To be entitled to attend and vote at the meeting and for the purpose of the determination by the Company of the votes they may cast members must be registered in the register of members of the Company at 6.30 p. event of any adjournment no later than 6.30 p. weekends and public holidays excluded.
+Changes to the register of members after the relevant deadline shall be disregarded in determining the rights of any person to attend and vote at the meeting.
+In the case of joint holders where more than one of the joint holders purports to appoint a proxy only the appointment submitted by the most senior holder will be accepted.
+Seniority is determined by the order in which the names of the joint holders appear in the Companys register of members in respect of the joint holding the firstnamed being the most senior.
+If a member submits more than one valid proxy appointment the appointment received last before the latest time for the receipt of proxies will take precedence.
+Any corporation which is a member can appoint one or more corporate representatives who may exercise on its behalf all of its powers as a member provided that they do not do so in relation to the same shares.
+Notice of Annual General Meeting continued SHAREHOLDER INFORMATION Eagle Eye Solutions Group plc Annual Report 2017 Eagle Eye Solutions Group plc Annual Report 2017 Company information Contact information Eagle Eye Solutions Group plc Customer service enquiries tel Sales and general enquiries tel email Web site Head Office 31 Chertsey Street
+Surrey
+GU1 4HD Directors Malcolm Wall Tim Mason Steve Rothwell Lucy SharmanMunday Bill Currie Sir Terry Leahy Drew Thomson Secretary Lucy SharmanMunday Company number Registered office 5 New Street Square
+EC4A 3TW Nominated adviser and broker Investec Bank plc 2 Gresham Street
+EC2V 7QP Bankers Barclays Bank plc 27 Soho Square
+W1D 3QR Solicitors Taylor Wessing LLP 5 New Street Square
+EC4A 3TW Independent auditor RSM UK Audit LLP Chartered Accountants Ninth Floor 3 Hardman Street
+M3 3HF Our SaaS technology platform allows you to create a realtime connection with your customers site For current information on Eagle Eye Solutions Group Plc including the Annual Report 2017 please visit our website.
+OVERVIEW
+01 2017 highlights 02 Eagle Eye at a glance 04 Connecting businesses to consumers STRATEGIC REPORT 06 Chairmans statement 08 Chief Executives review
+Financial review
+GOVERNANCE
+18 Board of Directors Directors report FINANCIAL STATEMENTS 24 Statement of Directors responsibilities 25 Independent auditors report to the members of Eagle Eye Solutions Group plc 28 Consolidated statement of total comprehensive income 29 Consolidated statement of financial position 30 Consolidated statement of changes in equity 31 Consolidated statement of cash flows 32 Notes to the consolidated financial statements 49 Company statement of financial position 50 Company statement of changes in equity 51 Notes to the Company financial statements SHAREHOLDER INFORMATION 55 Notice of Annual General Meeting 58 Company information Eagle Eye at a glance
+Chief Executives review
+Eagle Eye Solutions Group plc Annual Report 2017 Eagle Eye Solutions Group plc Annual Report 2017 site Eagle Eye Solutions Group plc Customer service enquiries tel Sales and general enquiries tel email Head Office 31 Chertsey Street
+Surrey

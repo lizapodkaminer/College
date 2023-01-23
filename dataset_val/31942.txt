@@ -1,0 +1,634 @@
+Transense Technologies plc Annual report and financial statements Registered number For the year ended 30 June 2017 Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017
+Directors and advisers 3 Highlights 4 Chairmans statement 5 Chief Executives report 8 Strategic Report 10 Statement of corporate governance 15 Remuneration report 17 Directors report 20 Statement of directors responsibilities in respect of the Strategic Report Directors Report and the Financial Statements 23 Independent Auditors report to the members of Transense Technologies plc 24 Consolidated Statement of Comprehensive Income 30 Consolidated Balance Sheet 31 Company Balance Sheet 32 Statement of Changes in Equity 33 Consolidated and Company Cash Flow Statement 34 Notes to the Financial Statements 35 Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Directors and advisers
+D M Ford Chairman G Storey Chief Executive M Segal Finance Director R J Westhead N F Rogers Deputy Chairman
+Member of the Audit and Risk Committee Member of the Remuneration Committee Secretary and Registered Office M Segal 1 Landscape Close Weston Business Park Weston on the Green
+OX25 3SX
+Grant Thornton UK LLP The Colmore Building Colmore Circus Birmingham B4 6AT
+HSBC Bank plc 1 Sheep Street
+Oxon OX26 7JA Nominated Advisers and Joint Brokers
+60 New Broad Street
+EC2M 1JJ Joint Brokers Beaufort Securities Ltd 63 St Mary Axe
+EC3A 8AA
+Neville Registrars Neville House Laurel Lane
+B63 3DA Registration Number Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017
+Revenues steady at 2.00m 2016  2.08m Increased opex investment in product support and commercialisation Pre tax loss from continuing operations for the year of 2.16m 2016 Pre tax profit of 1.59m adjusted pre tax loss of 1.17m Net cash used in operations of 0.88m 2016 net cash generated 0.84m Net cash at end of period of 2.52m 2016 3.65m Signed significant nonexclusive license with General Electric GE for single specialist application using SAW technology Market launch of iTrack II system for mining productivity with system now demonstrating commercial successes following the adoption by major global mining companies Probe sales gaining traction and first significant PCAS order in July 2017 the comparative revenue of 2.08m is calculated after deducting the gross license fee of 3.04m which arose from the disposal of the IntelliSAW division in October 2015 the net adjusted pre tax loss of 1.17m is calculated by reference to the pre tax profit of 1.59m less the license fee net of costs of 2.76m Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017
+Chairmans statement
+The Group has made further significant progress over the last year in positioning each of the two core businesses for future success.
+Revenue from continuing operations was steady compared with the prior year and the net loss for the year came in line with the Boards expectations.
+Financial results and condition Revenues for the current year amounted to 2.00m compared with 2.08m in the prior year stated before the IntelliSAW related license fee of 3.04m.
+Administrative expenses increased to 3.32m from 2.54m in the prior year.
+This increase in expenditure reflects new product support and the commercial and marketing activity within Translogik to launch iTrack II and deliver effective precontract engagement with a number of key customers for this system.
+The pre tax loss from continuing operations for the year was 2.16m compared with a profit of 1.59m and loss in the prior year adjusted for the effects of the net IntelliSAW licence fee of 1.17m.
+The total loss attributable to shareholders was 2.17m 2016 profit of 1.15m resulting in a net loss per ordinary share of 22.84 pence 2016 earnings of 12.90 pence.
+The Board do not recommend payment of a dividend 2016 Nil.
+Net cash balances at 30 June 2017 were 2.52m 2016 3.65m.
+Strategy
+The Group provides innovative sensor systems for various complex applications and operates two principal businesses SAWSense and Translogik.
+The Group intends to continue to commercialise sensor technologies by working closely with global partners in order to build value for shareholders through the generation and distribution of net income andor the return of capital on realisation.
+SAWSense designs and develops Surface Acoustic Wave or SAW sensor devices that can be used to measure torque pressure andor temperature in harsh restricted or demanding environments to very high accuracy.
+This world leading technology has a broad range of potential uses ranging from premium value custom applications through to high volume mass markets.
+Translogik designs and markets a range of Tyre Pressure Monitoring Systems TPMS products and services for heavy duty off road vehicles particularly minehaul trucks commercial truck and bus as well as passenger cars.
+These comprise the iTrack system which provides realtime tyre temperature and pressure measurements for minehaul trucks in service and a range of tyre probes and other offerings for the road transport sector.
+The Translogik product offerings are continually evolving with the focus on providing a comprehensive service to clients in the mining and truck industry and this strategy has resulted in the successful launch of the iTrack II system in September 2016.
+Our markets SAW sensing in global industries Sensor technology is widely used in virtually every industrial application across a broad range of industries contributing to many billions of dollars in revenue.
+Sensors using SAW technology are powered by radio frequency and do not require a battery and are wireless.
+This means that the sensor has significant benefits as the package can be extremely small and light and is suited to harsh environments or remote locations and does not require regular maintenance.
+Being wireless enables the sensor to be used in rotating components other moving parts or environments where electrical wiring would pose a safety risk.
+These benefits are particularly appropriate in drives motors gearboxes valves and couplings which are in common use in the industrial equipment energy generation oil and gas aviation military and automotive sectors.
+Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Chairmans statement continued As Original Equipment Manufacturers OEMs seek ever more data on a realtime basis to optimise the performance of their products accurate and frequent measurement becomes increasingly important.
+The worlds largest and most successful companies in these fields are recognising SAW as one of the enabling technologies in developing the Internet of Things in this arena contributing to a vision by which machines are networked with embedded sensors to optimise performance using real time analytical tools algorithms and interactive controls.
+TPMS in Mining The original iTrack system was developed to provide tyre pressure and temperature monitoring data to mine haultruck operators primarily to reduce or eliminate the incidence of tyre failure.
+The associated benefits in tyre life management were evident and were initially viewed as a means of payback for the improved safety performance achieved.
+Over recent years the collection of pressure and temperature data has become increasingly sophisticated and our systems for measuring monitoring and reporting tyre conditions are seen by key customers as a management tool to optimise asset utilisation and productivity whilst continuing to make a key contribution to mine safety.
+This work culminated in the September 2016 launch of the iTrack II system. operators in their own operational control rooms.
+This valuable data can be utilised to minimise truck down time extend tyre life and improve safety.
+Crucially it can also be used to increase mine productivity by identifying opportunities to optimise routings loadings and even road architecture.
+During earlier stages of commercialisation we were met with resistance to financing the outright purchase of equipment by mine operators under severely constrained capital budgets during what has been a cyclically challenging few years for the industry.
+Accordingly we are now offering implementation of iTrack II on an operating lease financing model which enables users to generate additional revenues and save costs against which they are able to meet the ongoing operating costs associated with using the system at a net gain.
+During the launch and market engagement phase we have focused most of our attention on our more developed markets in Chile Australia and Southern Africa in which we have highly effective teams and channel partners.
+We have also begun to increase resources in additional territories such as the US Canada and other countries in the Latin America region during the year.
+Results have been very encouraging with several mine operators running successful trials and choosing to adopt iTrack II toward the end of the financial year.
+The gestation period for widespread adoption and the lead time to translate positive trial outcomes and orders into revenue have been slower than we originally may have hoped however we are confident that there are encouraging signs of commercial traction with a number of major global mining companies.
+Tyre pressure probes Our tyre tread depth probes offer a fast and reliable way for mining and on the road truck service providers as well as passenger car tyre fitters to record and automatically transmit tread depth data by bluetooth.
+The tool has been manufactured for over 15 years during which time it has earned a reputation in the market place as a rugged and reliable tool.
+Coupled with software developed inhouse we also offer a Passenger Car Audit System PCAS which has recently received its first significant order.
+Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Chairmans statement continued New Joint Brokers The Company announced the appointment of Beaufort Securities Limited Beaufort as joint broker to the Company to improve the service available to the large group of private investors interested in
+Beaufort have a large network of UK retail and High Net Worth investors and will provide retail tailored research on Transense as part of its ongoing services to the Company.
+Capital structure During the year the Company undertook a reduction in share capital by the cancellation of the deferred shares and the share premium account.
+This action should provide a better base to facilitate the Company having distributable reserves and in turn enabling the payment of dividends from income or return of capital to shareholders from major licensing transactions or partial disposals from profits arising in future.
+Additionally the ordinary share capital was subject to a 501 consolidation to mitigate the effect of prior dilutions on the unit price per share and to reduce trading spreads and transaction costs for shareholders in future dealings.
+Prospects
+The Board believes that the technology and products developed by the Group are now well positioned in their marketplaces.
+It anticipates that the market traction demonstrated to date will continue to build and is accordingly cautiously optimistic of future prospects.
+David M Ford Group Chairman 25 September 2017 Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017
+Chief Executives report
+Towards the latter part of this breakthrough year the Group has commenced generating commercial revenues from products and services that are well placed to offer unique solutions over a sustained period of competitive advantage in the future.
+SAWSense
+SAWSense is a leader in the development of Surface Acoustic Wave SAW wireless batteryless sensor systems that offer significant advantages over legacy systems in common use.
+The business continues to be involved in several live projects in conjunction with major global industrial companies.
+In the short to medium term the primary source of ongoing revenue is dependent upon the level of customer chargeable engineering activity and royalties which was 0.29m in 2017 2016 0.42m.
+In the prior year pilot production had commenced of sensor kits to measure temperature vibration and torque on a new range of industrial equipment recently launched by a large European OEM.
+Whilst the technology continues to be under commercial evaluation the customer has yet to determine how the benefits it offers are to be monetised.
+Accordingly there can be no certainty of future income from this source.
+We continue to develop potential applications in other sectors most notably automotive although commercialisation in these areas is not considered to be imminent.
+In July 2016 SAWSense entered into a significant licensing agreement with GE for the use of our patented wireless passive SAW technology in a certain specific torque application.
+The Group received a nonrefundable license fee of 0.50m on completion in July 2016 with a further 0.25m received in March 2017 following successful technical validation.
+In addition to the fee GE will pay to Transense a perpetual sales royalty in respect of unit sales upon commercialisation although this is not likely to arise for several years.
+More recently the Group has been involved in discussions with a number of other divisions within GE regarding further projects and the relationship between the Group and GE continues to progress well.
+Translogik iTrack Our iTrack products provide a range of features that allow mine operators to track their vehicles tyre temperature pressure speed braking and location in realtime and receive early warning of potential problems hazards or opportunities.
+In September 2016 we successfully launched the new iTrack II system a combination of sensor and transmission technology which we believe offers unparalleled features and benefits to mine operators across the world.
+We set out to maximise functionality and connectivity in a single comprehensive system comprising rugged and reliable hardware connectivity with other technologies and meaningful realtime output.
+The control unit is mounted in each truck and transmits live data across various protocols to iTrack servers at one of three global control centres.
+Dedicated iTrack experts are on hand to analyse live and historic data determine trends and create custom reports and warnings.
+Mine operations will have access to tyre temperature pressure sensor function GPS and speed data on easy to read customisable screens.
+This data can provide invaluable signals not only to avoid tyre failures and increase life but also to increase truck speeds availability and productivity.
+Our offer provides the equipment on finance or operating lease although our preference will be towards operating leases with additional charges for data provision and monitoring.
+Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Chief Executives report continued The market response to launch has been very encouraging and we have subsequently generated live trials on 14 sites covering 3 continentsterritories.
+Trials have generally been successful and whilst the rate of adoption meets our high expectations the trial duration and lead times to roll out and revenue generation are often extended by understandable bureaucratic and operational delays.
+Probe
+During the year several multinational tyre manufacturers have commenced the implementation of new software platforms that have been integrated with the probe and it has become clear that our product is the tread depth tool of choice for Bridgestone Goodyear and Continental amongst others and as a result our probe revenue in the final quarter of the year experienced a marked upturn.
+In addition to this we have since the year end received our first significant order for our PCAS from Tiger Wheel in South Africa.
+PCAS is a software system coupled with our tread depth probe which enables a tyre fitter to complete a fast accurate tread depth audit of a passenger car and produce a customer friendly report which acts as a visual aid for the garage to sell tyres and additional services such as alignments.
+We are hopeful this initial order will lead to further sales in South Africa and elsewhere.
+Current trading and outlook Since the beginning of the new financial year on 1 July 2017 revenues have shown a significant increase on the run rate of the prior year.
+2017 and in early August 2017 a further Australian mine operated by BHP.
+These systems are now in implementation and revenues have commenced.
+Several other opportunities are at a reasonably advanced stage and we expect further order activity in Australia Latin America and Southern Africa in coming weeks.
+Furthermore as indicated above order intake for probes has started to build momentum and has already reached a level comparable with nearly 60% of the aggregate order intake for last year.
+We continue to engage with GE and others on commercialisation of SAW projects in a variety of applications although we do not anticipate strong growth in revenues in this area in the short term.
+Accordingly we consider that the outlook for the next financial year is satisfactory.
+Graham Storey Chief Executive 25 September 2017 Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Strategic Report
+Financial Review
+Results for the year Revenues from continuing activities totaled 2.00m 2016 5.12m and after excluding the IntelliSAW license fee resulting in revenue of 2.08m.
+The pretax loss before discontinued operations totalled 2.16m 2016 profit 1.60m which included the license fee of 3.04m before costs and 2.76m after costs and an adjusted loss of 1.16m before the net license fee.
+Translogik revenues fell by 27% to 1.19m and SAWSense generated 0.81m of revenues including the GE license fees of 0.58m from the design development and low volume production activities 2016 0.45m excluding the IntelliSAW license fee of 3.04m.
+Gross margins were 57% 2016 64% excluding the IntelliSAW license fee reflecting the change in the mix between business activities.
+Administrative overheads for the year amounted to 3.32m compared with 2.54m in the prior year.
+The fall in Translogik revenues reflected the slow down in sales during the period of upgrading iTrack from the original version to iTrack II IT2.
+IT2 was launched in September 2016 and the additional support costs including staffing overseas offices in South America Australia and Africa and marketing represented over 0.40m of the increased administrative costs.
+The other principal costs contributing to the increase were the provision for a potential bad debt of 0.09m one off professional costs 0.09m and a reduction in the forex gain of 0.08m.
+The Earnings per share EPS are set out below in Pence 2017 2016 EPS including discounted operations EPS excluding discounted operations The EPS numbers are calculated after rebasing the old 1p shares reflecting the 501 share reduction carried out in November 2016.
+Taxation
+The Company has UK tax losses available to carry forward at 30 June 2017 of approximately 18.7m subject to HMRC agreement.
+Certain elements of development expenditure undertaken by the Company are eligible for enhanced research and development tax relief which generally relates to salary costs of technical staff.
+Cash flow and financial position There was a net cash outflow of 1.13m 2016 inflow of 3.18m during the year arising from trading and 0.06m of proceeds arising from the exercise of warrants in January 2017.
+Net cash used in operations amounted to 0.88m 2016 inflow of 0.84m.
+At 30 June 2017 the group had net cash balances of 2.52m 2016 3.65m.
+The forward looking cash flow forecasts based on the anticipated level of activity indicates that the Group should have sufficient funds available for the short to medium term.
+The Board are however aware that the affect of increased demand for iTrack rentals will put pressure on working capital due to the timeline between investment and recoupment.
+Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Strategic Report continued Going Concern The financial statements have been prepared on the going concern basis.
+The Group has made a loss for the year of 2.17m 2016 profit of 1.15m.
+The Group has Accumulated Losses of 0.01m 2016 Accumulated Losses of 21.84m before the Share Capital reorganisation.
+The balance of cash and cash equivalents at 30 June 2017 is 2.52m 2016 Cash and cash equivalents 3.65m.
+The Group meets its day to day working capital requirements through existing cash reserves and does not currently have an overdraft facility.
+The directors have prepared cash flow forecasts for the period to 31 December 2018.
+These forecasts indicate that the Group will continue to be able to operate within its current cash resources for the foreseeable future.
+Capital Structure The Company Share Capital reduction and reorganisation were completed during the year.
+A more detailed review of the financial year is provided in the Chairmans statement and the Chief Executives report.
+Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Strategic Report continued Key Performance Indicators The following KPIs are some of the tools used by management to monitor the performance of the operating business.
+In addition to the KPIs the statement of financial position and cash flow analysis are reviewed at monthly Board meetings.
+KPIs Excluding Discontinued Operations FY 17 FY 16
+2003 5122
+1829 1826
+2157 1628 EPS Including Discontinued Operations  Pence 22.84 12.90 EPS Ex Discontinued Operations  Pence 22.78 18.05 Share Price  Pence  77.50 55.00
+2520 3654 CashShare  Pence  26.44 38.68 Net Assets 4804 6923 Net AssetsShare  Pence  50.40 73.29 Market Capitalisation 7388 5195 Shares in issue adjusted for 501 reduction 9532435 9446289 FY 16 numbers reflect the licence fee following the sale of IntelliSAW of 3.04m gross and 2.76m net of costs.
+All these calculations reflect the rebase shares in issue shown above Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Strategic Report continued Principal risks and uncertainties Risk management is essential as part of the management process.
+Regular reviews are undertaken to assess the nature and magnitude of risks faced and the manner in which they may be mitigated.
+Where controls are in place their adequacy is monitored.
+Risk and Uncertainty Details of Risk and Impact Mitigation Intellectual Property The Group is focussed on the design and manufacture of technologically advanced products and applications.
+Major investment is made in Development and we have 35 granted patents and significant in house know how.
+The risk exists that our intellectual property may be infringed by third parties or that we may inadvertently infringe third party rights.
+The impact resulting in loss of profitability and cash flow and loss of market share.
+Procedures are in place to ensure we monitor new thirdparty applications ensure adequate protection for our key intellectual property including registration and avoid infringing third party rights.
+Product Development Developing new product and improving existing products requires constant assessment of investments and potential returns which can be uncertain.
+Changing customer requirements and technological innovation will always present a challenge to developing market leading product.
+Development spend is regularly planned and reviewed.
+The Groups understanding of customer needs and expectations is greatly enhanced by working closely with customers on extensive product trials.
+People An experienced and knowledgeable team is essential to continually develop complex products for customers to be used in demanding environments.
+The market for skilled staff is extremely competitive and a failure to recruit and retain suitably qualified staff could impact the Groups ability to develop and deliver services and product.
+Providing the existing team with good training and incentives is a key priority for the business and has been instrumental in retaining key staff.
+The recruitment and development of new employees when required is done so by experienced staff to ensure the correct calibre of individual is identified.
+Economic The mining Industry experienced a major contraction in activity and expenditure following major falls in commodity prices as part of a global reduction in demand.
+Whilst the recovery in commodity prices has seen much improved levels of activity in the mining industry this continued stability is important to the success of the Translogik division.
+The development of iTrack has been designed to achieve greater efficiencies in mining and in turn produce substantial cost savings for mine ownersoperators.
+The original iTrack is now being replaced by iTrack II which will build further on the achievement of both meaningful savings and crucial data which in turn will drive demand for the product.
+Debtor Recoverability The Group has 59k 2016 383k of debtors that are payable greater than 12 months.
+The risk of default whilst small would still have an impact on our future results.
+The longterm debt has been diligently managed by the finance department and as a result they remain up to date.
+Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Strategic Report continued Principal risks and uncertainties continued Risk and Uncertainty Details of Risk and Impact Mitigation Liquidity Transense is continually striving to achieve the point of consistent profitability and cash generation however until that point in time is reached the Group will be exposed to squeezes in liquidity.
+The new iTrack 2 has required a great deal of development costs and future new business will require working capital to fund the approximate 7 month cash flow negativity resulting from the rental model.
+The failure to raise additional funds for working capital if required would threaten the going concern status of Transense.
+During the course of FY 17 the cash resources have decreased by The cash resources do however remain strong moving into FY18 and the Board exert tight controls on overheads and monitor cash flow regularly and do not presently foresee any immediate requirement for raising further funds.
+Foreign currency fluctuation Approximately 45% of purchases and sales are transacted in foreign currency principally USD and to a smaller extent Euros and Chilean
+Significant fluctuations could have an impact on results.
+Transenses biggest exposure is with regards the USD and during the course of the last year the USD has increased by 11% against GBP producing foreign exchange gains.
+Should the movement reverse the Group will consider forward purchases as an effective hedge.
+By order of the board Melvyn Segal Finance Director 25 September 2017 Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Statement of corporate governance The Company is quoted on the AIM Market of the London Stock Exchange and is therefore not required to comply with the provisions of the UK Corporate Governance Code.
+We do not comply with the UK Corporate Governance Code.
+However we have reported on our Corporate Governance arrangements by drawing upon best practice available including those aspects of the UK Corporate Governance Code we consider relevant to the Group and best practice.
+A statement of the Directors responsibilities in respect of the financial statements is set out on page 23.
+Below is a brief description of the role of the Board and its Committees.
+The Board The Board which presently consists of three executive and two nonexecutive directors meets regularly throughout the year and receives timely information in a form and of a quality appropriate to enable it to discharge its duties.
+Nonexecutive directors are independent and are not appointed for specified terms nor have an automatic right of reappointment.
+Directors are subject to election by shareholders at the first AGM after their appointment and to retirement by rotation and reelection by shareholders in accordance with the Articles of Association whereby one third of the directors retire every year or where there is not a multiple of three the number nearest to but not exceeding one third retire from office.
+Audit and Risk Committee The Audit and Risk Committee is under the Chairmanship of Rodney Westhead with Nigel Rogers also sitting.
+The Committee meets at least twice a year and has adopted terms of reference which give it responsibility for reviewing a wide range of financial matters.
+The Committee advises the Board on the appointment of external auditors and it discusses the nature and scope of their work.
+Nomination Committee Given its relatively small size the Board as a whole fulfils the function of the Nomination committee.
+Remuneration Committee The policy on directors remuneration is formulated by the Remuneration Committee which consists of Nigel Rogers as Chairman and Rodney Westhead.
+The Committee is responsible for determining the contract terms remuneration and other benefits of the executive directors.
+The nonexecutive directors salaries are reviewed and set by the Board.
+The report of the Remuneration Committee is set out on pages 17 to 19 below.
+Accountability Internal Control and Risk Management The directors consider that these financial statements reports and supplementary information present a fair and accurate assessment of the Companys position and prospects.
+Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Statement of corporate governance continued Internal Financial Control The Board is responsible for the Groups system of internal control including financial operational and compliance controls and risk management and for reviewing its effectiveness.
+The Board has introduced procedures designed to meet the particular needs of the Group in managing the risks to which it is exposed consistent with the guidance provided by the Turnbull Committee.
+These procedures include an annual review of the significant risks faced by the Group and an assessment of their potential impact and likelihood of occurrence.
+The Board is satisfied with the effectiveness of internal controls but by their very nature these procedures can only provide reasonable but not absolute assurance against material misstatement or loss.
+The Board has reviewed the need for an internal audit function.
+The Board has decided that given the nature of the Groups business and assets and the overall size of the Group the systems and procedures currently employed provide sufficient assurance that a sound system of internal control which safeguards shareholders investment and the Groups assets is in place.
+An internal audit function is therefore considered unnecessary.
+Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017
+Remuneration report
+Remuneration Policy The remuneration policy is to ensure that all staff including the executive directors are adequately motivated and rewarded in relation to companies of similar size and type.
+The directors salaries paid compare adequately with the salaries of directors and senior executives in public companies in similar development situations.
+Although a bonus scheme was in place during the year no bonuses were awarded to the directors.
+The Remuneration Committee can also grant options over ordinary shares under its Enterprise Management Incentive Option Schemes EMI and options granted outside Company schemes but approved by shareholders.
+These schemes potentially offer long term incentives to directors and key personnel.
+In addition to the vote to be held on this Remuneration Report shareholders will be given the opportunity to question the Remuneration Committee Chairman Nigel Rogers on any aspect of the Companys remuneration policy.
+The Board as a whole sets the remuneration of the nonexecutive directors which consists of fees for their services in connection with Board and Board Committee meetings.
+The nonexecutive directors are not eligible for pension scheme membership but they are eligible to participate in the Companys Unapproved Directors Share Option Scheme UDSOS.
+Each element of remuneration paid to all directors is shown in detail below.
+Base Salary and Benefits The base salaries for the executive directors are reviewed annually but not necessarily increased by the Remuneration Committee.
+Salary increases based on performance may be made.
+Executive Share Option Schemes The Committee considers that potential for share ownership and participation in the growing value of the Group increases the commitment and loyalty of directors and senior executives.
+Directors Pension Policy Executive directors are entitled to participate in the Companys pension scheme on the same basis as other full time employees but during the year ended 30 June 2017 they did not choose to.
+The company did match a one off contribution made into a personal pension scheme for Melvyn Segal during the year.
+2016 nil Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Remuneration report continued Service Contracts The service contracts provide for the following notice periods 12 months Graham Storey David Ford and Melvyn Segal.
+3 months Nigel Rogers No notice period Rodney Westhead If the Company terminates without notice the individual is entitled to a payment in lieu of notice being the value of the maximum notice period in his contract.
+In the event of termination for unsatisfactory performance if necessary decided by an independent tribunal or for reasons of misconduct no compensation is payable.
+Directors Emoluments Information on directors emoluments is as follows This table excludes the fair value of directors share based payment options as defined by International Financial Reporting Standard IFRS 2.
+Details of all options granted to directors are shown on the next page.
+Information on directors emoluments is as follows Total emoluments
+Benefits
+Pension
+12 months ended 30 June 2017 12 months ended 30 June 2016
+G Storey 158400 6128  164528 163017 M Segal 98583  3000 101583 108069 D Ford 109050 3910 112960 112148
+N Rogers 30400   30400 27500 R Westhead 12750   12750 12600 Total 2017 409183 10038 3000 422221 Total 2016 413800 9534  423334 Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Remuneration report continued Share based payment options have been granted under EMI for executive directors and under the Unapproved Directors Share Option Scheme UDSOS for nonexecutives.
+The details of these are set out below The options can only be exercised once the share price has met or exceeded the hurdle price at any point since the date of grant of the option.
+The previous years Options have been adjusted to reflect the 501 consolidation At 1 July At 30 June
+Exercise price per share
+Directors interests in the UDSOS were G Storey 16100  221212 2.00 4.50 Directors interests in the EMI were G Storey 63900  221212 2.00 4.50 G Storey 40000  010314 2.00 4.50 G Storey  120000 260617 0.75 1.50 G Storey  100000 260617 1.00 2.00 D Ford 63900  221212 2.00 4.50 D Ford 6100  010314 2.00 4.50 D Ford  70000 260617 0.75 1.50 D Ford  100000 260617 1.00 2.00 M Segal 30000  020814 5.13 10.00 M Segal  30000 260617 0.75 1.50 M Segal  50000 260617 1.00 2.00 Share price performance The share price performance is disclosed in the Directors Report on page 21.
+Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Directors report The directors present their annual report and audited financial statements for the year ended 30 June 2017.
+Business activities review of the business and future developments Translogik a trading division of Transense was formed in April 2009 and the principal activities of this division includes the provision of tyre management solutions for the truck and OTR markets by developing manufacturing and selling of specialist Tyre probes and TPMS monitoring solutions and associated technologies.
+The Company continues the development of noncontact batteryless sensors and their electronic interrogation systems for measuring pressure temperature and torque in automotive applications and extending that to various nonautomotive industrial applications with regards the electronic interrogation.
+These activities continue to be carried out by our SAWsense division.
+A review of the Companys business and research and development activities for the year together with developments since the year end and for the future is included in the Chairmans statements Chief Executives report and Strategic report on pages 5 to 14.
+Results and Dividends The results for the year ended 30 June 2017 show a loss of 2.17m 30 June 2016 1.15m profit.
+The directors do not recommend the payment of a dividend 30 June 2016 nil.
+Directors
+The present directors are listed on page 3.
+There are no contracts of significance in which the directors had a material interest during the year.
+Substantial Shareholdings At 30 June 2017 the following substantial shareholdings of 3% or more of the Companys share capital have been notified to the Company
+50p each % John Peter Lobbenberg 868980 9.1 CriSeren Investments 599492 6.3 Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Directors report continued Directors interests The number of shares in the Company in which the current directors were deemed to be interested at the beginning and end of the period all of which are beneficially held were as follows
+50p each
+50p each 30 June 1 July G Storey 78687 78687 R J Westhead 5655 5655 D Ford 5555 5555 M Segal 22888 22888 N Rogers 80000 60000 Share price The midprice of the shares in the Company at 30 June 2017 was 77.5p 30 June 2016 55p and the range during the period was 50p to 118.75p 30 June 2016 55p to 84p.
+The prior year share price has been adjusted to reflect the 501 share consolidation referred to in note 23.
+Share based payment option schemes The Remuneration Committee is responsible for the operation and administration of the Companys UDSOS and EMI Schemes.
+In an increasingly competitive market the Committee regards the provision of options as an important incentive for other members of staff as well as directors.
+Details of share based payment options granted to directors are disclosed in the Remuneration Report on page 19.
+Financial Instruments The directors adopt a low risk financial objective.
+The financial instruments are denominated in sterling euros and US dollars and the Group does not trade in derivative instruments see note 26 to the financial statements.
+Indemnification of Directors Qualifying third party indemnity provisions as defined in Section 413 of the Companies Act 2006 are in force for the benefit of the directors who held office during 201617.
+Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Directors report continued
+In accordance with Section 489 of the Companies Act 2006 a resolution to appoint Grant Thornton UK LLP as auditors of the Company is to be proposed at the forthcoming Annual General Meeting.
+By order of the board D M Ford G Storey
+Chief Executive th September 2017 1 Landscape Close Weston on the Green
+OX25 3SX Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Statement of directors responsibilities in respect of the Strategic Report Directors Report and the Financial Statements The directors are responsible for preparing the Strategic Report the Directors Report and the financial statements in accordance with applicable law and regulations.
+Company law requires the directors to prepare group and parent company financial statements for each financial year.
+Under that law the directors have to prepare the group financial statements in accordance with International Financial Reporting Standards IFRSs as adopted by the European Union.
+The directors have elected to prepare the parent company financial statements on the same basis.
+Under company law the directors must not approve the financial statements unless they are satisfied that they give a true and fair view of the state of affairs of their profit or loss of the group and parent company for that period.
+In preparing these financial statements the directors are required to select suitable accounting policies and then apply them consistently make judgements and estimates that are reasonable and prudent state whether applicable IFRSs as adopted by the European Union have been followed subject to any material departures and explained in the Financial Statements prepare the financial statements on the going concern basis unless it is inappropriate to presume that the group and the parent company will continue in business.
+The directors are responsible for keeping adequate accounting records that are sufficient to show and explain the parent companys transactions and disclose with reasonable accuracy at any time the financial position of the parent company and enable them to ensure that the financial statements comply with the Companies Act 2006.
+They have general responsibility for safeguarding the assets of the group and parent company and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+The directors confirm that So far as each director is aware there is no relevant audit information of which the companys auditor is unaware The directors have taken all the steps that they ought to have taken as directors in order to make themselves aware of any relevant audit information and to establish that the companys auditor is aware of that information.
+The directors are responsible for the maintenance and integrity of the corporate and financial information included on the companys website.
+Legislation in the United Kingdom governing the preparation and dissemination of financial statements may differ from legislation in other jurisdictions.
+Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Grant Thornton UK LLP The Colmore Building Colmore Circus
+B4 6AT United Kingdom Independent auditors report to the members of Transense Technologies plc
+Our opinion on the financial statements is unmodified We have audited the financial statements of Transense Technologies plc the parent company and its subsidiaries the Group for the year ended 30 June 2017 which comprise the consolidated statement of comprehensive income the consolidated and company balance sheets the statement of changes in equity the consolidated and company cash flow statements and notes to the financial statements including a summary of significant accounting policies.
+The financial reporting framework that has been applied in the preparation of the Group financial statements is applicable law and International Financial Reporting Standards IFRSs as adopted by the European Union and as regards the parent Company financial statements as applied in accordance with the provisions of the Companies Act 2006.
+In our opinion the financial statements give a true and fair view of the state of the Groups and of the parent Companys affairs as at 30 June 2017 and of the Groups loss for the year then ended the Group financial statements have been properly prepared in accordance with IFRSs as adopted by the European Union the parent Company financial statements have been properly prepared in accordance with IFRSs as adopted by the European Union and as applied in accordance with the provisions of the Companies Act 2006 and the financial statements have been prepared in accordance with the requirements of the Companies Act 2006.
+Basis for opinion We conducted our audit in accordance with International Standards on Auditing UK ISAs UK and applicable law.
+Our responsibilities under those standards are further described in the Auditors responsibilities for the audit of the financial statements section of our report.
+We are independent of the Group and the parent Company in accordance with the ethical requirements that are relevant to our audit of the financial statements in the UK including the FRCs Ethical Standard as applied to listed entities and we have fulfilled our other ethical responsibilities in accordance with these requirements.
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+Who we are reporting to This report is made solely to the Companys members as a body in accordance with Chapter 3 of Part 16 of the Companies Act 2006.
+Our audit work has been undertaken so that we might state to the Companys members those matters we are required to state to them in an auditors report and for no other purpose.
+To the fullest extent permitted by law we do not accept or assume responsibility to anyone other than the Company and the Companys members as a body for our audit work for this report or for the opinions we have formed.
+Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Conclusions relating to going concern We have nothing to report in respect of the following matters in relation to which the ISAs UK require us to report to you where the Directors use of the going concern basis of accounting in the preparation of the financial statements is not appropriate or the Directors have not disclosed in the financial statements any identified material uncertainties that may cast significant doubt about the Groups or the parent Companys ability to continue to adopt the going concern basis of accounting for a period of at least twelve months from the date when the financial statements are authorised for issue.
+Overview of our audit approach Overall Group materiality 60000 which represents 3% of the Groups revenue.
+Key audit matters were identified as revenue recognition for the Group and parent.
+We performed full scope audit procedures on UK based operations Transense Technologies plc and performed specified audit procedures on its significant component Transense Technologies Chile Spa which was a change from the previous year where we undertook analytical audit procedures.
+Key audit matters The graph below depicts the audit risks identified and their relative significance based on the extent of the financial statement impact and the extent of Directors judgement.
+Key audit matters are those matters that in our professional judgment were of most significance in our audit of the financial statements of the current period and include the most significant assessed risks of material misstatement whether or not due to fraud that we identified.
+These matters included those that had the greatest effect on the overall audit strategy the allocation of resources in the audit and directing the efforts of the engagement team.
+These matters were addressed in the context of our audit of the financial statements as a whole and in forming our opinion thereon and we do not provide a separate opinion on these matters.
+Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Key Audit Matter How the matter was addressed in the audit Revenue recognition Revenue is recognised to the extent that economic benefits will flow to the Group and the revenue can be reliably measured.
+Revenue is a key driver of the business and is also a significant amount in the financial statements.
+We therefore identified revenue recognition focussing on occurrence as one of the most significant assessed risks of material misstatement whether or not due to fraud.
+Our audit work included but was not restricted to Evaluating the Groups accounting policies for recognition of revenue for appropriateness in accordance with the requirements of International Accounting Standard IAS 18 Revenue and IAS 17
+Agreeing as to whether revenue has been recognised in accordance with these policies.
+Agreeing on a sample basis amounts recognised in revenue in the financial statements for each revenue stream to source and supporting documents including proof of shipment documents to support the sampled transaction.
+Agreeing on a sample basis amounts of revenue recorded in the last quarter of the financial year to test revenue has been recorded in the correct period.
+The Groups accounting policy on revenue is shown in note 4 to the financial statements and related disclosures are included in note 5.
+Key Observations Based on our audit work we found the Groups revenue recognition policy was consistently applied.
+There are no findings in relation to revenue recognition.
+Our application of materiality We define materiality as the magnitude of misstatement in the financial statements that makes it probable that the economic decisions of a reasonably knowledgeable person would be changed or influenced.
+We use materiality in determining the nature timing and extent of our audit work and in evaluating the results of that work.
+Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Materiality was determined as follows Materiality Measure Group
+Financial statements as a whole 60000 which is 3% of the Groups revenue.
+This benchmark is considered the most appropriate because the Group deems revenue growth to be its key indicator when assessing the performance of the Group.
+Materiality for the current year is lower than the level that we determined for the year ended 30 June 2016 to reflect lower revenues in the year.
+47000 which is 3% of the Companys revenue.
+This benchmark is considered the most appropriate because the Company deems revenue growth to be its key indicator when assessing the performance of the
+Materiality for the current year is lower than the level that we determined for the year ended 30 June 2016 to reflect lower revenues in the year.
+Performance materiality used to drive the extent of our testing 75% of financial statement materiality 75% of financial statement materiality Communication of misstatements to the audit committee 3000 and misstatements below that threshold that in our view warrant reporting on qualitative grounds.
+2300 and misstatements below that threshold that in our view warrant reporting on qualitative grounds.
+The graph below illustrates how performance materiality interacts with our overall materiality and the tolerance for potential uncorrected misstatements.
+An overview of the scope of our audit Our audit approach was a riskbased approach founded on a thorough understanding of the Groups business its environment and risk profile.
+We performed full scope audit procedures on UK based operations Transense Technologies plc.
+The Group has an operation in Chile Transense Technologies Chile Spa which makes up 22% of revenue 4% of loss before tax and 2% of total assets and we determined this a significant component.
+We performed specified audit procedures on the material balances of Transense Technologies Chile Spa.
+Our current year audit approach on Transense Technologies Chile Spa represents a change from the prior year where an analytical audit approach was taken.
+This is because materiality for the group has decreased in the current year to reflect lower revenues during the year.
+As a result certain balances in Transense Technologies Chile Spa are material to the group and specified audit procedures have been performed on these balances.
+25% 75% Overall materiality  Group Tolerance for potential uncorrected mistatements
+25% 75% Overall materiality  parent Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Other information The Directors are responsible for the other information.
+The other information comprises the information included in the annual report set out on pages 3 to 23 other than the financial statements and our auditors report thereon.
+Our opinion on the financial statements does not cover the other information and except to the extent otherwise explicitly stated in our report we do not express any form of assurance conclusion thereon.
+In connection with our audit of the financial statements our responsibility is to read the other information and in doing so consider whether the other information is materially inconsistent with the financial statements or our knowledge obtained in the audit or otherwise appears to be materially misstated.
+If we identify such material inconsistencies or apparent material misstatements we are required to determine whether there is a material misstatement in the financial statements or a material misstatement of the other information.
+If based on the work we have performed we conclude that there is a material misstatement of this other information we are required to report that fact.
+We have nothing to report in this regard.
+Our opinion on other matters prescribed by the Companies Act 2006 is unmodified In our opinion based on the work undertaken in the course of the audit the information given in the strategic report and the Directors report for the financial year for which the financial statements are prepared is consistent with the financial statements and the strategic report and the Directors report have been prepared in accordance with applicable legal requirements.
+Matters on which we are required to report under the Companies Act 2006 In the light of the knowledge and understanding of the Group and the parent Company and its environment obtained in the course of the audit we have not identified material misstatements in the strategic report or the Directors report.
+Matters on which we are required to report by exception We have nothing to report in respect of the following matters in relation to which the Companies Act 2006 requires us to report to you if in our opinion adequate accounting records have not been kept by the parent Company or returns adequate for our audit have not been received from branches not visited by us or the parent Company financial statements are not in agreement with the accounting records and returns or certain disclosures of Directors remuneration specified by law are not made or we have not received all the information and explanations we require for our audit.
+Responsibilities of Directors for the financial statements As explained more fully in the Directors responsibilities statement set out on page 23 the Directors are responsible for the preparation of the financial statements and for being satisfied that they give a true and fair view and for such internal control as the Directors determine is necessary to enable the preparation of financial statements that are free from material misstatement whether due to fraud or error.
+In preparing the financial statements the Directors are responsible for assessing the Groups and the parent Companys ability to continue as a going concern disclosing as applicable matters related to going concern and using the going concern basis of accounting unless the Directors either intend to liquidate the Group or the parent Company or to cease operations or have no realistic alternative but to do so.
+Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Auditors responsibilities for the audit of the financial statements Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement whether due to fraud or error and to issue an auditors report that includes our opinion.
+Reasonable assurance is a high level of assurance but is not a guarantee that an audit conducted in accordance with ISAs UK will always detect a material misstatement when it exists.
+Misstatements can arise from fraud or error and are considered material if individually or in the aggregate they could reasonably be expected to influence the economic decisions of users taken on the basis of these financial statements.
+A further description of our responsibilities for the audit of the financial statements is located on the Financial Reporting Councils website at www. rc. iteauditorsresponsibilities.
+This description forms part of our auditors report.
+Rebecca Eagle Senior Statutory Auditor for and on behalf of Grant Thornton UK LLP Statutory Auditor Chartered Accountant
+25 September 2017 Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Consolidated Statement of Comprehensive Income For the year ended 30 June 2017 Year ended 30 June Year ended 30 June
+Continuing operations
+Cost of sales Gross profit Administrative expenses Operating profitloss Financial income Profitloss before taxation
+Profitloss from continuing operations Discontinued operations Loss from discontinued operation Lossprofit for the year Basic and fully diluted profitloss per share pence Continuing operations Discontinued operations Total operations Lossprofit for the year Other comprehensive income Exchange difference on translating foreign operations Other comprehensive income for the year Total comprehensive income for the year attributable to the equity holders of the parent There are no other recognised income or expenses in either period.
+Notes to the financial statements are from pages 35 to 60.
+Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Consolidated Balance Sheet at 30 June 2017 Year ended 30 June Year ended 30 Junetel 2016 restated restated Non current assets Property plant and equipment Intangible assets Trade lease receivables Current assets
+Corporation tax Trade and other receivables Cash and cash equivalents 19 2520 Total assets Current liabilities Trade and other payables Current tax liabilities
+Total liabilities Net assets
+Issued share capital Share premium Translation reserve Accumulated loss see note 21 These financial statements were approved by the board of directors and authorised for issue on 25 th September 2017 and were signed on its behalf by D M Ford G Storey
+Chief Executive Company registered number Notes to the financial statements are from pages 35 to 60.
+Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Company Balance Sheet at 30 June 2017 Year ended 30 June Year ended 30 Junetel 2016 restated restated Non current assets Property plant and equipment Intangible assets
+Trade lease receivables Current assets
+Corporation tax Trade and other receivables Cash and cash equivalents 19 2503 Total assets Current liabilities Trade and other payables Current tax liabilities
+Total liabilities Net assets
+Issued share capital Share premium Accumulated profitloss See note 21 These financial statements were approved by the board of directors and authorised for issue on 25 th September 2017 and were signed on its behalf by D M Ford G Storey
+Chief Executive Company registered number Notes to the financial statements are from pages 35 to 60.
+Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Statement of Changes in Equity Group Share capital
+Translation
+Reserve
+Cumulative losses
+Balance at 1 July 2015 9779 16523  22994 3308 Profit for the year 1153 1153 Shares issued and share premium 1767 695   2462 Balance at 30 June 2016 11546 17218  21841 6923 Loss for the year 2166 2166 Share reorganisation 6823 17218  24041 Costs of share reorganisation Shares issued and share premium Currency movement on subsidiary reserves Balance at 30 June 2017 4766 22 21 5 4804 Company Share capital
+Translation reserve
+Total equity Balance at 1 July 2015 9779 16523  23150 3152 Profit for the year 1088 1088 Shares issued and share premium 1767 695   2462 Balance at 30 June 2016 11546 17218  22062 6702 Loss for the year 1912 1911 Share reorganisation 6823 17218  24041 Costs of share reorganisation Shares issued and share premium Balance at 30 June 2017 4766 22  28 4816 Notes to the financial statements are from pages 35 to 60.
+Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Consolidated and Company Cash Flow Statement For the year ended 30 June 2017 Group Company Year ended 30 June Year ended 30 June Year ended 30 June Year ended 30 June Lossprofit before taxation from continuing operations Adjustments for Financial income
+Amortisation of intangible assets 1tel170 Loss on discontinued operation Profit on disposal of discontinued operation Unrealised currency translation gain Cost of capital restructure Operating cash flows before movements in working capital Decreaseincrease in receivables 17 1040 802 1003 763 Decreaseincrease in payables Increasedecrease in inventories Decrease in trade lease receivables Cash usedgenerated in operations Taxation recoveredpaid Net cash usedgenerated in operations Investing activities Interest received Acquisitions of property plant and equipment Acquisitions of intangible assets Investments in associated companies Assetsliabilities held for sale Net cash used in investing activities Financing activities Proceeds from issue of equity share capital 23 65 2462 65 2462 Net cash from financing activities 65 2462 65 2462 Net decreaseincrease in cash and cash equivalents Cash and equivalents at the beginning of year Cash and equivalents at the end of year 19 2520 3654 2503 3641 Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Notes to the financial statements 1 General Information Transense Technologies plc the Company is a company incorporated in the United Kingdom under the Companies Act 2006.
+The address of the registered office is given on page 3.
+The consolidated financial statements of the Company as at and for the year ended 30 June 2017 comprise the Company and its subsidiaries together referred to as the Group and individually as Group entities.
+The nature of the Groups operations and its principal activities are discussed in the business review on page 20.
+These financial statements are presented in pounds sterling because that is the currency of the primary economic environment in which the Group operates.
+2 Basis of preparation Both the Parent Company financial statements and the Group financial statements have been prepared and approved by the directors in accordance with International Financial Reporting Standards as adopted by the EU Adopted IFRSs and those parts of the Companies Act 2006 that are relevant to companies preparing accounts under IFRS.
+On publishing the Parent Company financial statements here together with the Group financial statements the Company is taking advantage of the exemption in s408 of the Companies Act 2006 not to present its individual statement of comprehensive income and related notes that form a part of these approved financial statements.
+3 Going Concern At 30 June 2017 the group had net cash balances of 2.52m 2016 3.65m.
+Whilst it is anticipated that the Company will continue to consume cash to finance ongoing activities in the short term the directors have prepared cash flow forecasts to December 2018 and consider that there are sufficient cash resources available to reach a breakeven level of revenues and accordingly are satisfied that the Group can continue trading as a going concern for the foreseeable future.
+4 Accounting policies The accounting policies set out below have unless otherwise stated been applied consistently to all periods presented in these consolidated financial statements.
+The following Adopted IFRSs have been issued but have not been applied in these financial statements.
+Their adoption is not expected to have a material effect on the financial statements unless otherwise indicated Standard IASB effective date EU effective date IFRS 9 Financial instruments 1 January 2018 1 January 2018 IFRS 14 Regulatory Deferral accounts 1 January 2016 Deferred until final standard released IFRS 15 Revenue from contracts with customers 1 January 2018 1 January 2018 IFRS 16 Leases 1 January 2019 Not yet EU endorsed Amendments to IAS 12 Recognition of Deferred Tax Assets for Unrealised Losses 1 January 2017 Not yet EU endorsed Amendments to IFRS 2 Classification and Measurement of Sharebased Payment Transactions 1 January 2018 Not yet EU endorsed Amendments to IAS 7 Disclosure Initiative 1 January 2017 Not yet EU endorsed Clarifications to IFRS 15 Revenue from Contracts with
+1 January 2018 Not yet EU endorsed Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Notes to the financial statements continued 4 Accounting policies continued Other than in respect of IFRS 15 and 16 the Directors anticipate that the adoption of these standards and interpretations in future periods will have no material impact on the Financial Statements of the Group.
+With regards to IFRS 15 and 16 the group has commenced an assessment of the impact likely from adopting the standards but it is not yet in a position to state whether the impact will be material to the Groups reported results or financial position.
+Certain other new standards and interpretations have been issued but are not expected to have a material impact on the Groups Financial Statements.
+Significant accounting judgements and sources of estimation uncertainty Certain estimates and judgements need to be made by the directors which affect the results and position of the Group as reported in the financial statements.
+Estimates and judgements are required if for example there are intangible assets which are required to be amortised over their useful lives.
+The following judgements and estimates have been identified by the Group Determining when intangible assets are impaired is a judgement which requires an estimate of the value in use of the asset based on managements best estimate of the future cash flows that the assets are expected to generate.
+This also requires significant judgement as there are limited historic cash flows on which to base the future cash flows on.
+Discussions are held within the Group between the relevant technical commercial and finance employees on the expected future cash flows of patents in individual territories Judgement is also applied when patent costs are reviewed in particular when considering patents in products and territories that are not integral to the future business plans.
+Distinguishing the research and development phases of new products and determining whether the recognition requirements for the capitalisation of development costs are met and their subsequent amortisation period requires judgement.
+After capitalisation management monitors whether the recognition requirements continue to be met and whether there are any indicators that capitalised costs may be impaired.
+Exceptional items are identified separately on the face of the statement of comprehensive income when they have a significant impact on the trading performance.
+A judgement exists as to what items may be classified as exceptional.
+Measurement convention The financial statements are prepared on the historical cost basis.
+Noncurrent assets and disposal groups held for sale are stated at the lower of previous carrying amount and fair value less costs to sell.
+Basis of consolidation
+The Group financial statements consolidate those of the parent company and all of its subsidiaries as of 30 June 2017.
+All transactions and balances between Group companies are eliminated on consolidation including unrealised gains and losses on transactions between Group companies.
+Amounts reported in the financial statements of subsidiaries have been adjusted where necessary to ensure consistency with the accounting policies adopted by the Group.
+Profit or loss and other comprehensive income of subsidiaries acquired or disposed of during the year are recognised from the effective date of acquisition or up to the effective date of disposal applicable.
+The Group attributes total comprehensive income or loss of subsidiaries between the owners of the parent and the noncontrolling interests based on their respective ownership interests.
+Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Notes to the financial statements continued 4 Accounting policies continued Revenue recognition Revenue is recognised to the extent that economic benefits will flow to the Group and the revenue can be reliably measured Royalty income is recognised in the year in which the royalties have been earned Engineering support income being payments for support work to assist third parties in the development of the Groups technology for their own use is recognised as work is completed and Product sales to customers are recognised on customer acceptance of the goods.
+Revenue generated under finance lease agreements are recognised in full as the risks and rewards of the goods are transferred to the lessee.
+The interest element of the deal is spread over the life of the lease.
+Revenue generated under operating lease agreements is recognised in the month that the service is provided to the end user.
+License revenue is recognised in accordance with the contractual agreement for each deal.
+Revenue represents sales to external customers at invoiced amounts net of VAT and other sales related taxes.
+Segment reporting The Group has two reportable segments being the unique trading divisions SAWsense and Translogik which make use of technology developed by the Group to measure and record temperature pressure and torque.
+The business revenues include royalties engineering support and sale of product in relation to this technology.
+Information regarding the Groups segments is included in the primary statements and notes to the financial statements.
+Revenue and EBITDA are the Groups key focus and in turn is the main performance measure adopted by management.
+Property plant and equipment Property plant and equipment are stated at cost less accumulated depreciation and any provision for impairment.
+Depreciation of property plant and equipment Depreciation is charged to the statement of comprehensive income on a straight line basis over the estimated useful lives of each part of an item of property plant and equipment.
+The estimated useful lives are as follows Plant and Equipment 3  5 years and Fixtures and Fitting 3  10 years and Motor Vehicles 4 years The assets estimated residual values and useful lives are reviewed and adjusted if appropriate at each balance sheet date.
+Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Notes to the financial statements continued 4 Accounting policies continued Research and development Expenditure on research or the research phase of an internal project is recognised as an expense in the period in which it is incurred.
+Development costs incurred on specific projects are capitalised when all the following conditions are satisfied Completion of the intangible asset is technically feasible so that it will be available for use or sale The Group intends to complete the intangible asset and use or sell it The Group has the ability to use or sell the intangible asset The intangible asset will generate probable future economic benefits.
+Among other things this requires that there is a market for the output form the intangible asset or for the intangible asset itself or if it is to be used internally the asset will be used in generating such benefits There are adequate technical financial and other resources to complete the development and to use or sell the intangible asset and The expenditure attributable to the intangible asset during its development can be measure reliably.
+All new expenditure on research and development activities in the year has been capitalised.
+The amortisation of this expenditure will be over 3 years to align with the products anticipated life.
+Historic expenditure on development activities has been capitalised and is being amortised over 10 years on a straight line basis.
+Patent fees Externally acquired patent fees are capitalised at cost and treated as an intangible asset.
+Amortisation is charged to administrative expenses in the statement of comprehensive income over the period to which the patent relates which is generally 15 to 20 years.
+In the event that a patent is superseded and the original intellectual property is embedded in a new patent the costs of that patent and the later patents are regarded as the costs of the original patent and amortised over the life of the new patent.
+Patents are reviewed annually reviewing their strategic and commercial value on a territory by territory basis.
+Any impairment that is identified is recognised immediately in the statement of comprehensive income.
+Intangible assets and goodwill All business combinations are accounted for by applying the purchase method.
+Goodwill represents amounts arising on acquisition of subsidiaries and is the difference between the consideration transferred and the fair value of the identifiable assets liabilities and contingent liabilities acquired.
+Identifiable intangibles are those which can be sold separately or which arise from legal rights regardless of whether those rights are separable.
+Goodwill is stated at cost less any accumulated impairment losses.
+Goodwill is allocated to cashgenerating units and is not amortised but is tested annually for impairment.
+Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Notes to the financial statements continued 4 Accounting policies continued Impairment of tangible and intangible assets excluding goodwill At each balance sheet date the Group reviews the carrying amounts of its tangible and intangible assets to determine whether there is any indication that those assets have suffered an impairment loss.
+If any such indication exists the assets recoverable amount is estimated.
+The recoverable amount of an asset is the greater of its net selling price and its value in use.
+In assessing value in use the estimated future cash flows are discounted to their present value using a pretax discount rate that reflects current market assessments of the time value of money and the risks specific to the asset.
+Where the asset does not generate cash flows that are largely independent from other assets the recoverable amount is assessed by reference to the cash generating unit to which the asset belongs.
+Whenever the carrying amount of an asset or its cash generating unit exceeds its recoverable amount an impairment loss is recognised as an expense in the statement of comprehensive income.
+Investments in subsidiary undertakings In the companys financial statements investments in subsidiary undertakings are stated at cost unless in the opinion of the directors there has been an impairment to their value in which case they are immediately written down to their estimated recoverable amount.
+Pension costs Contributions to the Companys defined contribution scheme are charged to the statement of comprehensive income in the year to which they relate.
+Operating lease agreements Rental payments under operating leases are charged to the statement of comprehensive income on a straight line basis over the term of the lease.
+Current taxation The tax currently payable is based on taxable profit for the year.
+Taxable profit may differ from the net profit shown in the statement of comprehensive income because it excludes income or expenses that are taxable or deductible in other years and furthermore it might exclude other items that are never taxable or deductible.
+Current tax is provided at amounts expected to be paid or recovered using tax rates and laws enacted or substantially enacted at the balance sheet date.
+Deferred taxation Deferred tax is provided in full using the liability method.
+It represents the tax payable on temporary differences between the carrying amounts of assets and liabilities in the financial statements as compared to corresponding tax values used in the computation of taxable profit.
+Deferred tax assets are recognised to the extent that it is probable that future taxable profits will be available against which the asset can be utilised.
+Deferred tax assets and liabilities are measured using tax rates and laws enacted or substantially enacted at the balance sheet date.
+Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Notes to the financial statements continued 4 Accounting policies continued Cash and cash equivalents Cash and cash equivalents comprise cash balances and call deposits.
+Bank overdrafts that are repayable on demand and form an integral part of the Groups cash management are included as a component of cash and cash equivalents for the purposes only of the statement of cash flows.
+Foreign currencies The assets and liabilities of foreign operations including goodwill and fair value adjustments arise on consolidation are translated to the Groups presentational currency Sterling at foreign exchange rates ruling at the balance sheet date.
+The revenues and expenses of foreign operations are translated into Sterling upon consolidation.
+Where significant exchange differences arising from this translation of foreign operations these are reported as an item of other comprehensive income and accumulated in the translation reserve or noncontrolling interest as the case may be.
+Foreign currency transactions are translated into the functional currency of the respective group entity using the exchange rates prevailing at the dates of the transactions spot exchange rate.
+Foreign exchange gains and losses resulting from the settlement of such transactions and from the remeasurement of monetary items denominated in foreign currency at yearend exchange rates are recognised in profit or loss.
+Sharebased payment transactions The Company issues equity settled share based payments to certain employees.
+Equity settled share based payments are measured at fair value at the date of grant.
+The fair value so determined is expensed on a straight line basis over the vesting period based on the Companys estimate of shares that will eventually vest.
+The amount recognized as an expense is adjusted to reflect the actual number of share options that vest except where forfeiture is due only to share prices not achieving the threshold for vesting.
+The fair value of services received in return for share options granted is measured by reference to the fair value of the share options.
+The estimate of the fair value of the services received is measured based on the BlackScholes Option Pricing Model.
+This model takes into account the following variables exercise price share price at date of grant expected term expected share price volatility risk free interest rate and expected dividend yield.
+Provisions
+Provisions are recognised when the Group has a present obligation as result of a past event and it is probable that the Group will be required to settle that obligation.
+Provisions are measured at the Directors best estimate of the expenditure.
+Provisions are discounted if the effect of doing so is material.
+A pretax rate that reflects risks specific to the liability is applied to the expected cash flows.
+Warranty provisions are made for specific product issues based on an estimate of the likely cost arising.
+It has been deemed prudent to provide for an amount based on historical information.
+Trade receivables Trade and other receivables are recognised initially at fair value.
+Subsequent to initial recognition they are measured at amortised cost using the effective interest method less any impairment losses.
+Trade payables Trade and other payables are recognised initially at fair value.
+Subsequent to initial recognition they are measured at amortised cost using the effective interest method.
+Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Notes to the financial statements continued 4 Accounting policies continued
+Inventories are stated at the lower of cost and net realisable value.
+Cost is based on the firstin firstout principle and includes expenditure incurred in acquiring the inventories production or conversion costs and other costs in bringing them to their existing location and condition.
+In the case of manufactured inventories and work in progress cost includes an appropriate share of overheads based on normal operating capacity.
+Leasing
+Leases are classified as finance leases whenever the terms of the contract transfers substantially all the risk and rewards of ownership to the lessee.
+All other contracts are classified as operating leases.
+In accordance with IAS 17 the Company is considered to be a lessor for its arrangements with customers.
+The
+Company provides asset finance to its customers under finance lease and hire purchase arrangements.
+Lease contracts with customers are recognised as finance lease receivables which are included within trade and other receivables at the Companys net investment in the lease which equals the net present value of the future minimum lease payments.
+Finance lease income is recognised as revenue in the period to reflect a constant periodic rate of return on the Companys remaining net investment in respect of the lease.
+Short term deposit The short term deposit shown within other debtors in the prior year represents funds held in escrow in relation to the disposal of IntelliSAW fee and the associated license fee income.
+These funds matured in October 2016 with no impairment.
+5 Revenue and segmental reporting The tables below set out the Groups revenue split and operating segments.
+Revenue
+Year ended 30 June 2017 Year ended 30 June 2016 North America 703 3506 Chile 659 576 United Kingdom and Europe 313 541 Australia 104 409 Rest of the World 224 90 2003 5122 Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Notes to the financial statements continued 5 Revenue and segmental reporting continued
+Translogik
+SAWsense
+Total
+Year ended 30 June 2017 Sales 1193 810 2003 Gross profit 376 762 1138 Allocated overheads 1304 482 1786
+Group overheads Loss from discontinued operations Loss before taxation
+Loss for the year
+SAWsense
+Total
+Year ended 30 June 2016 Sales 1633 3489 5122 Gross profit 936 3150 4086 Allocated overheads 955 329 1284
+19 2821 2802 Group overheads Loss from discontinued operations Profit before taxation
+Profit for the year Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Notes to the financial statements continued 5 Revenue and segmental reporting continued During the year ended 30 June 2017 there were 3 year ended 30 June 2016 1 customers whose turnover accounted for more than 10% of the Groups total revenue as follows Year ended 30 June 2017 Revenue
+Customer A 624 31% Customer B 380 19% Customer C 221 11% Year ended 30 June 2016 Revenue
+Customer A 3037 59% All noncurrent assets are held in the UK with the exception of some property plant and equipment and a motor vehicle of 0.04m year ended 30 June 2016 0.04m which is held in China and Chile.
+6 Discontinued operation On 21 October 2015 the company disposed of the IntelliSAW division to Emerson Electrical Co.
+The division was classified as held for sale and as a discontinued operation in the June 2015 financial statements At the date of disposal the carrying amounts of the divisions net assets were as follows Property plant and equipment
+Trade and other recoverable Trade and other payables Total net assets Cash consideration received Profit on disposal The profit on disposal is included in the loss for the year from discontinued operations in the consolidated statement of comprehensive income.
+The division was previously reported in the IntelliSAW segment The results of the IntelliSAW division until the date of disposal were as follows 2017 2016 Revenue  51 Expenses 5 Loss before tax 5 504 Tax expense Loss for the year 5 504 Profit before tax on disposal as above  32 Related tax expense Net loss on disposal Loss for the year from discounted operations 5 472 Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Notes to the financial statements continued 6 Discontinued operation continued Cash flows from used in discontinued operations Group Companytel 2016 Debtcash used in operating activities 5 472 5 309 Debtcash used in investing activities  218  115 Debtcash from financing activities Debtcash from discontinued operations 5 254 5 194 7 Expenses and auditors remuneration Included in the loss are the following Year ended 30 June 2017 Year ended 30 June 2016 Depreciation of property plant and equipment 118 Amortisation of intangible assets 238 170 Operating lease rentals payable  Land and Building 63 82 Gain on foreign exchange transactions 66 160 Auditors remuneration for the Group and Company Year ended 30 June 2017 Year ended 30 June 2016 Audit of these financial statements 35 35 Fees payable for tax compliance services 3 Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Notes to the financial statements continued 8 Staff numbers and costs The average number of persons employed by the Group including directors during the year analysed by category was as follows Number of employees Year ended 30 June 2017 Year ended 30 June 2016 Management and technical
+Nonexecutive directors The aggregate payroll costs including directors of these persons were as follows Year ended 30 June 2017 Year ended 30 June 2016 Wages and salaries 1439 1653 Share based payments note 22 Social security costs Contributions to defined contribution pension plans 1617 1831 9 Directors remuneration Year ended 30 June 2017 Year ended 30 June 2016 Directors emoluments 409 414 Directors benefits Employers national insurance 51 52 Share based payments note 22 The aggregate of emoluments and amounts receivable under long term incentive schemes of the highest paid director was 164528 2016 163017.
+No company pension contributions were made to a money purchase scheme on his behalf 2016 nil.
+During the year the highest paid director did not receive any additional share options awards.
+The highest paid director did not exercise share options under long term incentive schemes and no shares were received or receivable by the director in respect of qualifying services under a long term incentive scheme 2016 nil.
+The number of directors accruing retirement benefits under money purchase schemes in the year was nil 2016 nil.
+The number of directors who exercised share options in the year was nil 2016 nil The number of directors in respect of whose services were received or receivable under long term incentive schemes was nil 2016 nil.
+Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Notes to the financial statements continued 10 Finance income and expense Recognised in profit or loss Year ended 30 June 2017 Year ended 30 June 2016 Finance income 23 45 Interest income on cash on deposit Total finance income 11 Taxation Recognised in the statement of comprehensive income Year ended 30 June 2017 Year ended 30 June 2016 Current tax expense Current year 4 1 Adjustment for previous year  30 Tax credit in statement of comprehensive income Reconciliation of effective tax rate Year ended 30 June 2017 Year ended 30 June 2016 Lossprofit for the year 2157 1124 Total tax credit Lossprofit before tax 2157 1124 Tax calculated at the average standard UK corporation tax rate of 19.75% 2016 20.00% 426 225 Expenses not deductible for tax purposes 48 36 Current year losses for which no deferred tax asset was recognised 378 Adjustment for overseas profits 4 14 Research and development tax relieftax credit  70 Utilisation of capital losses  6 Utilisation of trading losses  170 Prior year adjustment  30 Total tax chargecredit 4 29 A deferred tax asset has not be recognised in respect of the following item Tax Losses 3561 3361 Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Notes to the financial statements continued 11 Taxation continued Reductions in the UK corporation tax rate from 21% to 20% effective from 01 April 2015 has been enacted with a further reduction to 19% with effect from 01 April 2017.
+This will reduce the Companys future current tax charge accordingly.
+Deferred tax has been calculated at the rate of 19% substantively enacted at the balance sheet date.
+The effect of this change is that the deferred tax asset as at 30 June 2017 has been calculated based on the rate of 19% substantively enacted at the balance sheet date.
+The Group has tax losses subject to agreement by HM Revenue and Customs in the sum of 18.74m 2016 16.76m which are available for offset against future profits of the same trade.
+There is no expiry date for tax losses.
+An appropriate asset will be recognised when the Group can demonstrate a reasonable expectation of sufficient taxable profits to utilise the temporary differences.
+The June 2015 budget announced that the rate will reduce further to 18% by 2020.
+As a result the effective tax rate used to calculate the current tax for the period ended 30 June 2017 was 19.75% 2016 20.00% 12 Property plant and equipment  Group Plant and
+Fixtures and
+Motor
+Vehicles Total
+Balance at 1 July tel10 891 Additions Disposal 77 18  95 Balance at 30 June tel26 926 Balance at 1 July tel26 926 Additions 60 3  63 Balance at 30 June tel26 989 Depreciation and impairment Balance at 1 July Depreciation charge for the period Disposal 55 18  73 Balance at 30 June Balance at 1 July Depreciation charge for the period Balance at 30 June Net book value At 1 July tel6 316 At 1 July tel19 313 At 30 June tel14 258 Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Notes to the financial statements continued 13 Property plant and equipment  Company Plant and equipment Fixtures and fittings
+Cost
+Balance at 1 July tel10 797 Additions 103 8  111 Balance at 30 June tel10 908 Balance at 1 July tel10 908 Additions 49   49 Balance at 30 June tel10 957 Depreciation and impairment Balance at 1 July Depreciation charge for the period Balance at 30 June Balance at 1 July Depreciation charge for the period Balance at 30 June Net book value At 1 July tel6 291 At 1 July tel3 295 At 30 June Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Notes to the financial statements continued 14 Intangible assets Group and company intangible assets
+Patents rights and trademarks
+Cost
+Balance at 1 July 2015 50 1495 1079 2624 Additions  82 176 258 Balance at 30 June 2016 50 1577 1255 2882 Balance at 1 July 2016 50 1577 1255 2882 Additions  70 212 282 Balance at 30 June 2017 50 1647 1467 3164 Amortisation and impairment Balance at 1 July 2015  991 827 1818 Amortisation for the period  62 108 170 Balance at 30 June 2016  1053 935 1988 Balance at 1 July 2016  1053 935 1988 Amortisation for the period  70 168 238 Balance at 30 June 2017  1123 1103 2226 Net book value At 1 July 2015 5tel At 1 July 2016 5tel At 30 June 2017 5tel Amortisation and impairment charge The amortisation is recognised in the following line items in the statement of comprehensive income 2017 2016 Administrative expenses 238 Development Costs Development expenditure of the new iTrack II was capitalised in the year amounting to 0.21m 2016 0.18m.
+These development costs have been deemed to have a useful economic life of 3 years.
+There were no Research and Development costs expensed to the Statement of Comprehensive Income in the year 2016 nil.
+Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Notes to the financial statements continued 14 Intangible assets continued Impairment testing Impairment testing has been performed over the total balance of intangible assets which are allocated to the one cash generating unit of the Group that of the development and sales of SAWsense.
+The recoverable amount of goodwill is determined from valueinuse calculations which use budgeted cash flows for year one and cash flow projections for years 2 to 5 an average growth rate of 1% has been applied to these.
+For cash flow after year 5 and up to the useful life of the goodwill a steady state based on year 5 cash flow has been assumed.
+The key assumptions forming inputs to cash flows are revenues and margins.
+The forecasts have been discounted at a pretax discount rate of 10%.
+15 Investments in subsidiaries The Group and Company have the following investments in subsidiaries
+Country of
+Class of shares held
+2017 2016 Translogik RFID Limited Dormant UK Ordinary
+100% 100% Lanesra Inc Formerly IntelliSAW Inc.
+Dormant USA Ordinary
+100% 100% Translogik Ltd Formerly Cranwick Ltd Dormant UK Ordinary
+100% 100% Transense K.
+Dormant Japan Ordinary
+100% 100% Transense Technologies Chile SPA Trading Chile Ordinary
+100% NA Transense Electronics Technology Shanghai Co.
+Ltd
+Dormant China Ordinary
+100% NA The following investments are included in the Company balance sheet at 2017 and 2016
+Year ended 30 June 2017 Year ended 30 June 2016 Transense KK 3 3 Transense Technologies Chile SPA 53 Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Notes to the financial statements continued 16 Inventories Group Company 30 June 2017 30 June 2016 30 June 2017 30 June 2016 Raw materials 22telFinished goods 76tel 98tel Raw materials consumables and changes in finished goods and work in progress recognised as cost of sales in the year ended 30 June 2017 amounted to 0.87m 2016 0.76m.
+An impairment loss of 0.13m was recognised in cost of sales against inventories in the year 2016 0.03m.
+17 Trade and other receivables Group Company 30 June 2017 30 June 2016 30 June 2017 30 June 2016 Amounts falling due within one year Trade receivables Allowance for doubtful debts 39 8 39 8 Other receivables 18telAmounts due from group undertakings   57 Trade finance lease receivables 26telShort term deposit  301  301 Accrued income Prepayments 16tel 702 1742 686 1689 As at 30 June 2017 there were no past due but not impaired trade receivables.
+18 Trade leases and unearned finance income The group offers its iTrack solution to be sold via a finance lease in which a significant portion of the risks and rewards of ownership are transferred to the lessee.
+The amount due after one year is shown as a noncurrent asset in the Group and Company Balance sheet.
+Group and Company Minimum lease payments due Within 1 year 1 to 5 years after 5 years Total Lease payments 265 59  324 Unearned finance income 5   5 Net present values 260 59  319 Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Notes to the financial statements continued 19 Cash and cash equivalents Group Company 30 June 2017 30 June 2016 30 June 2017 30 June 2016 Cash and cash equivalents per balance sheet 2520 3654 2503 3641 Cash and cash equivalents per cash flow statements 2520 3654 2503 3641 20 Trade and other payables Group Company Year ended 30 June 2017 Year ended 30 June 2016 Year ended 30 June 2017 Year ended 30 June 2016
+Trade payables 28telAmounts due to group undertakings    157 Nontrade payables and accrued expenses 23tel 51tel 21 Provisions Group and Company
+Warranty Total At 1 July 2016 Additional provisions At 30 June tel The warranty provision represents managements best estimate of the Groups liabilities under warranties granted on its products.
+The timing of the utilisation of this provision is uncertain but it is expected to be used within the next year.
+These financial statements have been restated as this was disclosed in the Trade and Other payables for the year ended 30 June 2016.
+Group and Company
+Warranty Total At 1 July 2015 Additional provisions At 30 June 2016 Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Notes to the financial statements continued 22 Employee benefits Defined contribution plans The Group operates a defined contribution pension plan.
+The total expense relating to these plans in the year ended 30 June 2017 was 0.03m year ended 30 June 2016 0.02m.
+Sharebased payments  Group and Company The Group and Company has two share option plans the Unapproved Discretionary Share Option Scheme and Enterprise Management Incentives EMI Share Option scheme the principal provisions of which are summarised below Options to subscribe for Ordinary Shares of the Company may be granted at the discretion of the Board and with regards executive directors the remuneration committee to selected employees or directors of the Company.
+No consideration is payable for the grant of an option.
+Options
+The fair value of share options granted is recognised as an employee expense within administrative expenses with a corresponding increase in reserves.
+All options are settled by the physical delivery of shares.
+The fair value of services rendered in return for sharebased payments granted is measured by reference to the fair value of those sharebased payments.
+The estimate of the fair value of services received is measured with reference to the BlackScholes options pricing model.
+The BlackScholes model considers the exercise price share price at grant date expected term and expected share price volatility.
+The volatility level depends on the date of grant and for the current live options has been calculated at 69%.
+The risk free interest rate adopted was 5% and an expected dividend yield of nil pence.
+The key variable is share price volatility.
+For the year ended 30 June 2017 the charge to the profit and loss for the year was nil 2016 nil Unapproved Discretionary Share Option Scheme At 30 June 2017 the following share options remained outstanding under the Companys Unapproved Discretionary Share Option Scheme.
+The new Share Options granted on 27 October 2014 were in respect of an US employee.
+Number of Options Option
+Date of
+Date of Exercise 1 July 2016
+Cancelled
+Expired Exercised 30 June First Last Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Notes to the financial statements continued 22 Employee benefits continued Unapproved Discretionary Share Option Scheme continued The assumptions used in the valuation of the old share options are as follows the value attributable to the older options has been accounted in earlier periods Date of grant Estimated fair value Share price Option price
+Expected
+Life
+Years
+Risk free rate
+15.08.13 0.5725 3.75 3.75 72.26% 1.50 0.65% Nil 31.01.14 0.5725 1.5850 3.75 72.26% 1.50 0.65% Nil 27.10.14 0.5725 3.1250 3.75 72.26% 1.50 0.65% Nil 09.10.15 0.5725 0.6125 3.75 72.26% 1.50 0.65% Nil Enterprise Management Incentive Option Scheme At 30 June 2017 the following shares remained outstanding under an Enterprise Management Incentive Option
+Number of Options Option
+Date of
+Date of Exercise 1 July 2016 Granted Cancelled Exercised 30 June First Last 46100  46100 The assumptions used in the valuation of the current share options are as follows Date of grant Estimated fair value Share price Option price
+Expected
+Life
+Years
+Risk free rate
+26.06.17 0.2990 0.715 0.75 69.00% 5 5.00% Nil 26.06.17 0.2662 0.715 1.00 69.00% 5 5.00% Nil 26.06.17 0.2990 0.715 0.75 69.00% 5 5.00% Nil Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Notes to the financial statements continued 23 Share Capital Ordinary shares of 50 pence each Ordinary shares of 1 pence each Deferred shares of 9 pence each Issued Share Capital 30 June 2017 30 June 2016 30 June 2017 30 June 2016 30 June 2017 30 June 2016 On issue at 1 July 2016   472314428 295671094 75807138 75807138 Issued for cash Ordinary Shares at 0.01 on 28 July 2015 Issued for cash Ordinary Shares at 0.01 on 7 August 2015 Share consolidation and reorganisation on 24 November Issued for cash Ordinary Shares at 0.50 on 31 January 2017 On issue at 30 June 2016 fully paid 30 June 30 June Allotted called up and fully paid Ordinary shares of 0.50 each 4766 Ordinary shares of 0.01 each  4723 Deferred shares of 0.09 each  6823 4766 11546 Shares classified in shareholders funds 4766 11546 During the year ended 30 June 2017 a share consolidation and reorganisation approved by the shareholders at the AGM on 23 November 2016 took place resulting in the Deferred Shares and the Share premium account being cancelled and the Ordinary Shares of 1 pence each being consolidated at a rate of 501.
+Shareholders holdings immediately before and after the consolidation were save for fractional entitlements and those holding fewer than 50 Ordinary shares of 1pence each remained relatively unchanged as per last years AGM circular on The Share Consolidation.
+Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Notes to the financial statements continued 24 Operating leases Noncancellable operating lease rentals are payable as follows Group and Company Land and
+Other Lease Land and
+Other Lease 30 June 2017 30 June 2017 30 June 2016 30 June 2016 Less than one year Between one and five More than five years The operating lease relates to the lease of premises which is used by the Group and Company.
+During the period 0.06m was recognised as an expense in the statement of comprehensive income in respect of operating leases year ended 30 June 2016 0.08m.
+25 Basic and fully diluted earningsloss per share Basic loss per share is calculated by dividing the loss after taxation of 2.17m 2016 profit of 1.15m by the weighted average number of ordinary shares in issue during the year of 9483815 2016 9162170.
+These weighted share figures have been adjusted to reflect the 501 consolidation that took place in the year.
+Unexercised options over the ordinary shares are not included in the calculation of diluted loss per share as they are antidilutive.
+Year ended 30 June 2017 Year ended 30 June 2016
+Number
+Weighted average number of shares  basic 9483815 9162170 Share option adjustment Weighted average number of shares  diluted 9483815 9162170 Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Notes to the financial statements continued 25 Basic and fully diluted loss per share continued Year ended 30 June 2017 Year ended 30 June 2016 Lossearnings from continuing operations 2160 1656 From continuing operations Basic lossearnings per share 22.78 18.05 Loss from discontinued operations 5 472 From discontinued operations Basic loss per share 0.06 5.15 Earnings attributable to shareholders Basic lossearnings per share 22.84 12.90 There are 675000 share options at 30 June 2017 2016 20095000 that are not included within diluted earnings per share because they are antidilutive.
+26 Financial instruments Financial risk management overview The Group has exposure to the following risks to varying degrees from its use of financial instruments Credit risk Liquidity risk and Market risk.
+This note presents information about the Groups exposure to liquidity and market risks the companies objectives policies and processes for measuring and managing risk and the companies management of capital.
+Liquidity risk Liquidity risk is the risk that the Group will not be able to meet its financial obligations as they fall due.
+The Groups approach to managing liquidity is to ensure as far as possible that it will always have sufficient liquidity to meet its liabilities when due under both normal and stressed conditions without incurring unacceptable losses or risking damage to the Groups reputation.
+The Group has a cash balance at period end totalling 2.52m 2016 3.65m.
+Note 2 describes the potential uncertainties relating to the liquidity risk.
+The Group has no external borrowing and finances its operations by raising equity finance on the Alternative Investment Market AIM.
+Financial Assets and Liabilities The carrying value and fair value for each of the trade and other payables trade leases and unearned finance income and trade and other receivables are the same.
+Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Notes to the financial statements continued 26 Financial instruments continued Cash flow sensitivity analysis for variable rate instruments Due to the current unprecedented low rates of interest a change of 100 basis points in interest rates at the reporting date would not have created any material change in the profit or loss for 2017 or 2016.
+The directors consider that the Groups exposure to interest rates is low 2016 low.
+Cash is invested in deposits with UK high street banks.
+Low and falling interest rates will reduce returns on these balances.
+This note is in relation to the companys compliance with IFRS 7.
+Market risk Market risk is the risk that changes in market prices such as foreign exchange rates equity price and interest rate risk will affect the Groups income or the value of its holdings of financial instruments.
+The table below shows the net unhedged monetary assetsliabilities of the Group that are not denominated in the functional currency of the operating unit and which therefore give rise to exchange gains and losses in the income statement.
+Functional currency of Group operation
+US
+Dollar
+Australian
+Dollar
+Japanese
+Yen
+Canadian
+Dollar
+Chinese
+Yuan
+Sterling 122 259 7  2 Chilean Peso US Dollar At 30 June tel7  2 Sterling 215 729 5 3 Chilean Peso US Dollar At 30 June tel5 3  1 Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Notes to the financial statements continued 26 Financial instruments continued At the reporting date the profile of the Groups financial instruments were 30 June 30 June Financial assets Loans and receivables comprising Trade receivables 83 500 Amounts receivable under long term contracts 324 922 Short term deposit  301 Cash and cash equivalents 2520 3654 2927 5377 Financial liabilities Other financial liabilities at amortised cost Trade payables 280 326 Payments on account  46 Accruals 125 161 Financial liabilities at amortised cost 405 533 The short term deposit account was realised in the year nil 2016 0.30.
+There was 0.32m of gross trade finance lease assets held on the balance sheet at the year end date.
+Management of capital The Boards policy is to maintain a strong capital base so as to maintain investor creditor and market confidence and to sustain future development of the business.
+In order to do this the group may issue new shares in the future.
+There were no changes to the Groups approach to capital management during the year.
+The Group is not subject to externally imposed capital requirements.
+27 Credit risk Credit risk is the risk of financial loss to the Group if a customer or counterparty to a financial instrument fails to meet its contractual obligations.
+Financial instruments that may subject the Group to credit risk consist of cash cash equivalents and trade and other receivables.
+The maximum credit exposure was 0.41m 2016 1.42m which is the respective carrying amounts which is not significantly different to their fair value and contractual cash flow.
+There were no material financial assets that were past due at the period end.
+At 30 June 2017 the Groups cash was divided between current accounts 0.60m 2016 0.63m and 1.92m in fixed rate monthly deposits 2016 3.02m with a weighted average interest rate for the year of 0.25% 2016 0.25%.
+Cash and cash equivalents are held only in high street banks.
+The Group offers trade credit to customers who are well established and major companies in the normal course of business.
+The Group operates stringent credit control procedures on potential customers before allowing credit.
+The Group continually monitors its position with and the credit quality of the financial institutions which are counterparts to its financial instruments and does not anticipate nonperformance or that there is a concentration of credit risk.
+Credit risk is considered to be low given the cash position of the Group and that there is a low exposure level in the trade and other receivables.
+Transense Technologies plc Annual report and financial statements For the year ended 30 June 2017 Notes to the financial statements continued 28 Contingencies and commitments
+The Group had no capital commitments or contingent liabilities as at 30 June 2017 2016 nil.
+Company
+The Company has no capital commitments or contingencies as at 30 June 2017 2016 nil.
+29 Warrants No warrants were outstanding as at 30 June 2017.
+2016 4307344.
+30 Related parties
+Transactions with key management personnel who are defined as the directors of the Company and their immediate relatives control 1% of the voting shares of the Company.

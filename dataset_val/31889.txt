@@ -1,0 +1,596 @@
+Sareum Holdings plc Annual Report and Accounts 2017 Building Value through Drug Development and Licensing Validating our business model Sareums small molecule drug discovery expertise generates value and revenues by developing drug candidates focused on cancer and autoimmune diseases and licensing them to pharmaceutical and biotechnology companies.
+Read about progress with SRA737 on page 5 Operational highlights Lead cancer drug candidate SRA737 formerly CCT a novel Chk1 inhibitor licensed for clinical development and commercialisation to NASDAQlisted company Sierra Oncology
+September 2016.
+Sareum is eligible to receive 27.5% of up to US328.5 million in upfront development and commercialisation milestone payments as well as royalties on sales.
+An upfront payment of US7 million and a first milestone payment of US2 million have already been received from Sierra Oncology September 2016 and January 2017 respectively.
+Good progress reported by Sierra Oncology in the two ongoing clinical studies with SRA737 as both a monotherapy and in combination with chemotherapy in a range of cancers June 2017.
+Patents protecting SRA737 were granted in the USA and Europe May 2017 extending the protection period to 2033 in the USA.
+Successful outcome from feasibility study with TYK2 inhibitors in T Cell Acute Lymphoblastic Leukaemia T ALL.
+In disease models Sareums compounds demonstrated good oral bioavailability were well tolerated and showed tumour reduction of up to 80% October 2016.
+These results support the further advancement of the programme.
+Further patent grants for AuroraFL T3 kinase programme in Japan Singapore China and Hong Kong completing intellectual property protection for the candidate in all major territories.
+Financial highlights Maiden profit after taxation on ordinary activities of 400k 2016 loss of 1.05 million.
+Net assets at period end were 2.34 million 2016 1.86 million of which 2.31 million comprised cash at bank 2016 1.25 million.
+1.50 million received from Sierra Oncology as the Companys share of the US7 million upfront payment from the outlicensing agreement for SRA737 September 2016.
+Milestone payment of 450k received share of US2 million payment following the successful transfer of the two ongoing Phase 1 clinical trials of SRA737.
+Received 229k in unspent funds previously invested in clinical development of Chk1 upon the outlicensing of SRA737.
+Strategic report 1 Highlights 2 At a Glance
+Chairmans Statement
+5 Spotlight on SRA737 6 CEOs Research Update 8 Business Model 9 Our Strategy 9 Key Performance Indicators 10 Principal Risks
+11 Directors and Company Information 12 Group Strategic Report 13 Report of the Directors 14 Corporate Governance Report
+15 Remuneration Committee Report
+Financial statements 17 Report of the Independent Auditor Consolidated Statement of Comprehensive Income 20 Consolidated Balance Sheet 21 Company Balance Sheet Consolidated Statement of Changes in Equity Company Statement of Changes in Equity 23 Consolidated Cash Flow Statement 23 Company Cash Flow Statement Notes to the Consolidated Financial Statements visit us online site Our website provides comprehensive information about our business including the latest news on our drug development programmes and investor information.
+Highlights
+STRATEGIC REPORT Sareum Holdings plc Annual Report and Accounts 2017 1 We are very pleased with the progress made across our pipeline.
+The licensing of SRA737 to Sierra Oncology places the development and marketing of this exciting oncology candidate in the hands of a highly experienced team.
+The agreement has the potential to provide substantial funds enabling us to advance and broaden our own pipeline programmes and overall provides important validation of our business model and drug RandD expertise.
+At a Glance See our research update on page 6 What we do Sareum is a specialist drug discovery and development company delivering targeted small molecule therapeutics focusing on cancer and autoimmune disease and generating value through licensing them to international pharmaceutical and biotechnology companies at the preclinical or early clinical trials stage.
+Our year
+At the American Society of Clinical Oncology ASCO Sierra Oncology reported initial progress of the two ongoing Phase 1 trials of SRA737 including the start of the cohort expansion phase of the monotherapy trial.
+In addition Sierra presented two posters describing the innovative clinical designs of these trials.
+August
+AuroraFLT3 patent grant notifications received for China and Hong Kong.
+May
+Sierra Oncology announced that patents protecting SRA737 were granted in the USA and Europe extending its protection period to 2033 in the USA
+SRA737 formerly CCT a novel Chk1 inhibitor licensed to Sierra Oncology formerly ProNAi Therapeutics for up to US328.5 million plus royalties by coinvestment partner the CRT Pioneer Fund.
+Sareum eligible to receive 27 .5% of economics and received 1.5 million share of US7 million upfront on signing.
+January
+Received 450k share of US2 million success milestone payment as part of SRA737 licence agreement on transfer of two ongoing Phase 1 clinical trials to Sierra Oncology.
+October
+AuroraFLT3 patent grant notifications received for Japan and Singapore giving Sareum approved patent protection in all the major territories.
+Successful conclusion to the BioMedical Catalyst funded feasibility study for TYK2 with lead compounds showing tumour regression in a disease model of TALL.
+November
+Updated results from TYK2 cancer research programme presented at AACRNCIEORTC.
+STRATEGIC REPORT Sareum Holdings plc Annual Report and Accounts 2017 2 Drug development pipeline Sareums pipeline is built on the drug discovery expertise of its founders particularly in the field of cancer.
+The Company operates a collaborative and outsourced business model.
+All our laboratorybased research is carried out in the facilities of collaborators or thirdparty providers.
+This enables us to access drug discovery expertise throughout the world with a very flexible cost base.
+Sareum focuses on developing new therapies against biochemical targets where existing preclinical or early clinical data are available.
+This data can give a strong indication that a therapy will disrupt a targeted biochemical process and improve patient outcomes without significant side effects.
+Sareums approach is lower risk than developing therapies against entirely novel targets.
+Chk1 kinase  targeting genetically defined solid cancers SRA737 formerly CCT is a potent highly selective orally bioavailable small molecule inhibitor of Chk1 a key regulator of important cell cycle checkpoints and central mediator of the DNA Damage Response DDR network.
+SRA737 was licensed to Sierra Oncology in September 2016 and is in two innovative Phase 1 clinical trials in patients with advanced cancer and tumours with genetic mutations that predict sensitivity to Chk1 inhibition.
+Tumour cells can have many genetic mutations and several of these may result in a strong reliance on Chk1 function for tumour survival.
+By blocking Chk1 function in these cases the tumour cells die this exemplifies the concept of synthetic lethality.
+The clinical studies aim to take advantage of this fundamental role of Chk1 in cancer and will enhance patient selection in order to maximise responses of SRA737 in a monotherapy study in genetically defined patients with five solid tumour types. gemcitabine is a standard care.
+In addition Sierra Oncology is evaluating SRA737 with preclinical studies in combination with targeted cancer therapeutics where there is a strong rationale for synergy with Chk1 inhibition.
+These include immunooncology approaches antiPD1 and PDL1 and other DDR inhibitors e.
+PARP inhibitors.
+Read more on page 5 TYK2 kinase  targeting autoimmune diseases and cancer TYK2 is a member of the Janus kinase JAK family with roles in proinflammatory responses in autoimmune diseases and tumour cell proliferation in certain cancers.
+Members of the JAK family are the targets of several marketed and clinicalstage drugs although there are currently no marketed products specifically targeting TYK2.
+Sareum has an ongoing codevelopment agreement with SRI International to develop TYK2 inhibitors in autoimmune diseases and retains commercialisation rights for these and other TYK2 inhibitors for oncology and immunooncology applications.
+Autoimmune and inflammatory disorders Sareum has shown with several TYK2 inhibitors promising and potentially superior therapeutic profiles in disease models of psoriasis RA and ulcerative colitis.
+Advanced lead molecules have also shown promising initial efficacy in lupus models.
+Candidate selections are expected in H1 2018.
+Cancers
+Several of Sareums TYK2 inhibitors have demonstrated good efficacy and safety in disease models of T ALL both as a single agent and in combination with chemotherapy.
+They also demonstrate good oral bioavailability good biodistribution and tumour reduction of up to 80%.
+The Company is investigating its TYK2 inhibitors in several solid tumours and blood cancers at leading academic centres worldwide.
+Sareum is also investigating the potential of its TYK2 inhibitors to overcome resistance to immune checkpoint inhibitors and is evaluating combination opportunities.
+Candidate selection for further development in oncology is targeted for H1 2018.
+Read more on page 7 AuroraFLT3 kinases  targeting AML and other blood cancers Sareum has identified candidate molecules with potential to be singleagent therapies for AML and other blood cancers.
+A lead candidate is in preclinical development funded by Sareums Chinese partner Hebei Medical University Biomedical Engineering Center and these studies suggest good tolerability at the predicted therapeutic dose.
+Preclinical studies are expected to complete in H2 2018.
+Read more on page 7 Colorectal head and neck nonsmall cell lung ovarian and prostate cancers Bladder pancreatic cancers AML ALL TALL ALCL colon cancer
+Lead optimisation
+Preclinical
+Phase 1 clinical Potential indications
+TYK2
+Chk1 SRA737
+Cancer
+Psoriasis RA lupus IBD MS Chemotherapy combination
+RA Rheumatoid Arthritis IBD Inflammatory Bowel Disease MS Multiple Sclerosis TALL Tcell Acute Lymphoblastic Leukaemia ALCL Anaplastic Large Cell Lymphoma AML Acute Myeloid Leukaemia ALL Acute Lymphoblastic Leukaemia STRATEGIC REPORT Sareum Holdings plc Annual Report and Accounts 2017 3 Sareum made important progress during the year ended 30 June 2017 across its key development programmes.
+The highlight of the year was the signing of a licence agreement for the Chk1 programme with Sierra Oncology Inc NASDAQ
+This agreement has brought a highly committed and wellfunded partner with proven experience in oncology drug development to realise the value of this exciting programme.
+Already the impact of Sierra Oncologys commitment is being seen with the implementation of highly innovative clinical trial designs.
+Additionally clinical opportunities to explore the potential of SRA737 with other new classes of targeted cancer therapy are expected in 2018.
+The agreement with Sierra Oncology represents a significant validation of Sareums business model which is based on its expertise in small molecule drug design and its strategy to develop programmes to late preclinical or early clinical stages.
+Sareum aims to take advantage of the substantial values associated with outlicensing programmes at these stages.
+The transfer of development costs to Sierra Oncology alongside income from the Chk1 agreement is enabling Sareum to allocate more resources to its other programmes.
+In particular the TYK2 programme has made encouraging progress during the period and candidate selection studies for both autoimmune and cancer indications are expected to commence in the first half of 2018 while the AuroraFL T3 programme is advancing through preclinical development despite some delays.
+Financial review
+From a financial perspective continued efficient capital use and the receipt of licensing income has resulted in the Company achieving a maiden profit of 400k on ordinary activities after taxation for the year ended 30 June 201 7 2016 loss of 1.05 million.
+The Company ended the year with net assets of 2.34 million 2016 1.86 million of which 2.31 million comprised cash at bank 2016 1.25 million.
+The Company received 1.50 million from Sierra Oncology as its share of the US7 million upfront payment from the outlicensing agreement for SRA737 and a milestone payment of 450k received share of US2 million payment following the successful transfer of the two ongoing Phase 1 clinical trials of SRA737.
+Chairmans Statement
+Sareum also received 229k in unspent funds previously invested in the coinvestment partnership with the CRT Pioneer Fund for the clinical development of the Chk1 programme during the second half of the period.
+Outlook
+Overall the Directors are delighted with the progress made across the Companys programmes during the period.
+Sareums business model and its expertise in the design and early development of novel drug candidates that offer attractive commercialisation opportunities has been strongly validated by the licence agreement with Sierra Oncology.
+From a financial perspective this progress has culminated in a maiden profit for the Company.
+More importantly however Sareum has gained an experienced highly committed and wellfunded development partner for SRA737 in Sierra Oncology.
+The next update from the innovative clinical development programme with SRA737 that Sierra Oncology is driving is expected in February 2018.
+The income received to date and the future milestone payments possible pending their achievement from this programme are providing Sareum with increased resources to accelerate its internal activities.
+This includes the selection of clinical candidates in its TYK2 programmes in both autoimmune diseases and cancer indications expected in 2018 and further preclinical progress anticipated in the AuroraFLT3 programme.
+The Company continues to engage with potential partners with a view to securing commercial licences for its products and programmes while exploring new research programmes from its inhouse drug discovery platform as well as external early stage opportunities that can be potentially inlicensed and progressed into the clinic.
+Finally I would like to thank our shareholders for their continued support and look forward to providing further updates on progress in 2018.
+Dr Stephen Parker
+18 October 2017 Sareum has gained an experienced highly committed and wellfunded development partner for SRA737 in Sierra Oncology.
+Stephen Parker DPhil Nonexecutive Chairman STRATEGIC REPORT Sareum Holdings plc Annual Report and Accounts 2017 4 Important clinical progress with SRA737 a novel Chk1 kinase inhibitor SRA737 formerly CCT is a potent highly selective orally bioavailable small molecule inhibitor of Chk1 a key regulator of important cell cycle checkpoints and central mediator of the DNA Damage Response DDR network.
+Sierra Oncology is evaluating SRA737 in two innovative Phase 1 clinical trials in patients with advanced cancer and tumours identified to have genetic aberrations mutations that are thought to confer sensitivity to Chk1 inhibition.
+Sierra
+Oncology amended protocols for both trials to take advantage of this fundamental role of Chk1 in cancer with the objective of enhancing patient selection and maximising potential responses.
+The first trial is intended to evaluate SRA737 as a monotherapy in patients whose cancer has the defined genetic profile described above.
+In June 2017 Sierra Oncology reported that the dose escalation phase of the monotherapy trial had advanced successfully and that the cohort expansion phase now running at eight UK hospitals is enrolling patients with five cancer types that are predicted to be highly sensitive to Chk1 inhibition colorectal head and neck nonsmallcell lung ovarian and prostate.
+The trial aims to identify a dose for Phase 2 studies along with preliminary efficacy to determine potential patient selection strategies for further clinical development.
+The combination study is exploring the potentiating effects of lowdose gemcitabine a chemotherapy that causes replication stress and DNA damage in combination with SRA737 also in patients with genetically profiled cancers.
+The study aims to establish the safety profile and identify a dose for further development of SRA737 in combination with lowdose gemcitabine.
+Once determined the study will evaluate the preliminary efficacy of the SRA737gemcitabine combination in genetically defined subjects with bladder or pancreatic cancer.
+Sierra Oncology intends to provide an update on the SRA737 programme in late February 2018 and expects to present data at a medical conference in H2 2018.
+In addition Sierra Oncology is evaluating SRA737 with potential clinical opportunities in 2018 in combination with targeted cancer therapeutics where there is a strong biological rationale for synergy with Chk1 inhibition.
+These include antiPD1 and PDL1 therapies and other DDR inhibitors such as PARP inhibitors.
+US319.5m total remaining value potential in SRA737 development not including royalties Colorectal head and neck nonsmall cell lung ovarian and prostate cancers Bladder and pancreatic cancers Target Preclinical Phase 1 Phase 2 Potential indications
+Chemotherapy combination
+Spotlight on SRA737 SRA737 was discovered as the result of a research collaboration between Sareum the Institute of Cancer Research and Cancer Research Technology CRT.
+Preclinical and initial clinical development was carried out in a coinvestment collaboration between Sareum and the CRT Pioneer Fund.
+The programme was licensed for further clinical development and commercialisation to Nasdaqlisted Sierra Oncology in September 2016 in a deal worth a potential US328.5 million plus royalties of which Sareum is eligible to receive 27 .5% of the economics.
+STRATEGIC REPORT Sareum Holdings plc Annual Report and Accounts 2017 5 CEOs Research Update Tim Mitchell PhD Founder and CEO SRA737  Checkpoint kinase 1 Chk1 Targeting solid tumours licensed to Sierra Oncology SRA737 formerly CCT is a potent highly selective orally bioavailable small molecule inhibitor of Chk1 a key regulator of important cell cycle checkpoints and central mediator of the DNA Damage Response DDR network.
+SRA737 was discovered as the result of a research collaboration between Sareum the ICR and CRT.
+Preclinical and initial clinical development was carried out in a coinvestment collaboration between Sareum and the CRT Pioneer Fund.
+The programme was licensed for further clinical development and commercialisation to Sierra Oncology in September 2016.
+Sierra Oncology is advancing nextgeneration DDR therapeutics for the treatment of patients with cancer and SRA737 is its lead candidate.
+This Company has a strong management team with a proven track record in oncology drug development and is well financed with US116 million cash as at the end of June 2017.
+Under the terms of the coinvestment agreement with the CRT Pioneer Fund Sareum is eligible to receive 27.5% of up to US328.5 million in upfront development and commercialisation milestone payments as well as royalties on sales.
+An upfront payment of US7 million and a first milestone payment of US2 million have already been paid by Sierra Oncology September 2016 and January 2017 respectively with Sareum receiving a total of nearly 2 million as its share of this licence income.
+By blocking Chk1 function in these cases the tumour cells die this is an example of the concept known as synthetic lethality.
+Sierra Oncology submitted amended protocols for both trials approved in May 201 7  that aim to take advantage of this fundamental role of Chk1 in cancer with the objective of enhancing patient selection and maximising potential responses.
+These innovative trial designs were also presented at the ASCO annual meeting in June 2017.
+SRA737 is being evaluated by Sierra Oncology in two innovative Phase 1 clinical trials in patients with advanced cancer and tumours identified to have genetic aberrations mutations that are thought to confer sensitivity to Chk1 inhibition.
+Tumour cells can have many genetic mutations and several of these may result in a strong reliance on Chk1 function for survival of the tumour.
+The first trial is intended to evaluate the potential of SRA737 as a monotherapy in patients whose cancer has the defined genetic profile described above.
+In June 201 7  Sierra Oncology reported that the dose escalation phase of the monotherapy trial had advanced successfully to beyond 600mgday dosing c.
+4x the estimated minimum efficacious dose of 160mgday with a welltolerated safety profile.
+The cohort expansion phase of this trial now running at eight UK hospitals is enrolling patients with five cancer types that are predicted to be highly sensitive to Chk1 inhibition colorectal head and neck nonsmallcell lung ovarian and prostate.
+The trial will assess the maximum tolerated dose MTD of SRA737 and recommend a dose for further Phase 2 clinical studies.
+T o determine potential patient selection strategies for further clinical development the response of the patients cancers to treatment will also be measured to evaluate the preliminary efficacy of SRA737.
+The second trial is designed to explore the potentiating effects of lowdose gemcitabine a chemotherapy that causes replication stress and DNA damage in combination with SRA737  also in patients with genetically profiled cancers.
+The chemotherapy combination study is initially enrolling patients with the aim to establish the safety profile to determine the MTD and to propose a recommended dose for further development of SRA737 in combination with lowdose gemcitabine.
+Once an MTD and dosing schedule have been determined the study will evaluate the preliminary efficacy of SRA737 in combination with lowdose gemcitabine in genetically defined subjects with bladder or pancreatic cancer.
+Sierra Oncology has announced that it will provide an update on the SRA737 development programme in late February 2018.
+Sierra Oncology also expects to present data from its studies at a medical conference in the second half of 2018.
+Sierra Oncology is advancing nextgeneration DDR therapeutics for the treatment of patients with cancer and SRA737 is its lead candidate.
+We are very pleased with the progress made across our pipeline during the period.
+The licensing of SRA737 is an important milestone for several reasons it places the clinical development and future marketing of this exciting oncology candidate in the hands of a highly experienced and wellfunded team the agreement has the potential to provide substantial funds to Sareum enabling us to advance and broaden our own pipeline programmes and overall it provides important validation of our business model and expertise for the design and early development of novel drug candidates that offer attractive licensing opportunities for potential partners.
+STRATEGIC REPORT Sareum Holdings plc Annual Report and Accounts 2017 6 In addition Sierra Oncology is evaluating SRA737 with potential clinical opportunities in 2018 in combination with targeted cancer therapeutics where there is a strong biological rationale for synergy with Chk1 inhibition.
+These include antiPD 1 and PDL1 therapies which are fast becoming established as key therapeutic options for a range of cancers and other DDR inhibitors such as PARP inhibitors.
+Sierra Oncology reported in May 2017 the grant of US and EU patents extending the protection of SRA737 in these important markets to 2033.
+Tyrosine kinase 2 TYK2 With Sierra Oncology now funding the development of SRA737 Sareum has increased the resources allocated to developing its TYK2 programmes in autoimmune diseases and cancer.
+TYK2 is a member of the Janus kinase JAK family of kinases with roles in proinflammatory responses in autoimmune diseases and tumour cell proliferation in certain cancers.
+Members of the JAK family are the targets of several marketed and clinicalstage drugs for cancer and autoimmune diseases although there are currently no marketed products specifically targeting TYK2.
+Sareum is developing potent and selective orally available TYK2 inhibitors with potential bestinclass profiles that have shown initial proof of concept in in vivo models of Psoriasis rheumatoid arthritis and ulcerative colitis and T cell Acute Lymphoblastic Leukaemia T ALL.
+Sareum has an ongoing codevelopment agreement with SRI International Menlo Park CA USA to develop TYK2 inhibitors in autoimmune diseases and retains commercialisation rights for these and other TYK2 inhibitors with profiles optimised for oncology and immunooncology applications.
+Targeting autoimmune and inflammatory disorders Sareum has conducted preclinical studies with several of its TYK2 inhibitors which have demonstrated promising and potentially superior therapeutic profiles in disease models of psoriasis rheumatoid arthritis and ulcerative colitis compared with a marketed JAK family kinase inhibitor in the latter two cases.
+These data have led the Companys partner SRI International to investigate advanced lead molecules in disease models of lupus and promising initial efficacy has been observed.
+These studies are supported by a US government research grant US Department of Defense of US360k.
+New analogues with improved selectivity and ADMET ADME Tox absorption distribution metabolism and excretion properties continue to progress through internal screening cascades.
+Disease model studies with these compounds are planned during the fourth quarter of 2017 .
+If these disease model studies are successful the Company expects to move into the candidate selection phase in the first half of 2018.
+Targeting cancers Initial studies assisted by funding from the Innovate UK Biomedical Catalyst Fund to investigate the potential of Sareums lead TYK2 inhibitors to treat T ALL have concluded successfully.
+The study demonstrated good efficacy of several Sareum TYK2 inhibitors in disease models of T ALL both as a single agent and in combination with standardofcare chemotherapy.
+In disease models Sareums compounds demonstrate good oral bioavailability were well tolerated presented good exposure to plasma and tumour tissue and showed a dosedependent effect on a biomarker of TYK2 inhibition and tumour reduction of up to 80%.
+These data were presented by Sareum in November 2016 at the American Association for Cancer Research  National Cancer Institute  European Organisation for Research and Treatment of Cancer AACRNCIEORTC international conference and updated results were presented by the Company at the International Cancer Cluster Showcase in June 2017.
+The Company is also investigating the potential of its TYK2 inhibitors in solid tumours and blood cancers where there is strong evidence in the literature that TYK2 inhibition could be effective both as a single agent and in combination with standardofcare chemotherapy.
+Several of these studies are being carried out in leading academic centres worldwide under material transfer agreements.
+Furthermore Sareum is investigating the potential of its TYK2 inhibitors to overcome tumour resistance to new immune checkpoint inhibitor therapies.
+Initial results are promising and additional experiments are in progress seeking to identify which tumour types and immune checkpoint inhibitor combinations might be expected to benefit most from TYK2 inhibition.
+The Company expects to select a candidate for further development in the oncology field in the first half of 2018 pending the success of ongoing studies in any one of these cancer applications.
+AuroraFL T3 kinases Targeting AML and other blood cancers Sareums third programme is focused on small molecule inhibitors of Aurora and FLT3 kinases that it has identified as having potential to be single agent therapies for acute myeloid leukaemia AML and other leukaemias.
+A lead candidate is in preclinical development funded by Sareums Chinese partner HMUBEC.
+Previous studies have confirmed the potential of this candidate in AML and particularly FLT3mutant AML.
+Toxicology studies are underway with initial results suggesting that the candidate is well tolerated at the predicted therapeutic dose.
+Further formulation work which is causing additional delays is ongoing to complete the toxicology studies with Sareum funding some studies in the UK to accelerate the resolution of these formulation issues.
+The Company is now targeting completion of the preclinical studies in the second half of 2018.
+Separately during the period the Companys intellectual property around its AuroraFLT3 kinase programme was strengthened by notifications of patents granted in China Hong Kong Singapore and Japan.
+Sareum now has patent protection in all the major territories for this programme.
+Overall we are delighted with the progress made across our business and pipeline and look forward to further important newsflow in the coming year.
+Dr Tim Mitchell
+Chief Executive Officer
+18 October 2017 STRATEGIC REPORT Sareum Holdings plc Annual Report and Accounts 2017 7 Sareum operates a lean business model to deliver the most productive return for our research spend.
+Our research builds value by progressing our drug candidates through early clinical development and generates revenues by licensing them to pharmaceutical company partners.
+Business Model Drug design and model studies To find our preclinical development candidates discovery phase chemistry and biology is completed through feeforservice outsourcing of laboratorybased research at contract research organisations CROs or in the facilities of our collaboration partners in return for a share of future financials.
+Literature academia
+Milestones and potential royalties Codevelopment collaborations Sareums codevelopment collaborations with worldclass research institutes provide access to expertise and the ability to progress several programmes simultaneously whilst reducing research costs.
+Typically Sareum offsets a share of future licence income and ongoing royalties in exchange for research funding use of facilities and access to expertise.
+Outsourced research model Sareum operates an outsourced research model.
+Its laboratorybased research is undertaken via a worldwide network of collaborators and research providers.
+This reduces the high capital cost of running inhouse laboratories minimises ongoing development risks and provides access to bestinclass expertise for its programmes.
+Drug development expertise Sareum generates value by developing a strong pipeline of candidate drugs.
+To date this has been done through its drug discovery platform SKIL
+Kinase Inhibitor Library where new compounds targeting cancer and autoimmune diseases are identified.
+Preclinical development Safety toxicology formulation and quality control studies are performed in the laboratories of CROs.
+The data arising coupled with patent filings protecting our intellectual property form the basis of the information package provided to potential licensees.
+This work could be performed as part of a codevelopment agreement with a collaboration partner.
+Early clinical development Our research builds value by progressing our drug candidates through early clinical development with the intention of licensing to companies expert in latestage clinical development registration and marketing of drugs.
+Again this work could be performed as part of a codevelopment agreement with a collaboration partner.
+Our key strengths
+Generate short and potential long term revenues STRATEGIC REPORT Sareum Holdings plc Annual Report and Accounts 2017 8 Sareums strategy is to develop programmes to late preclinical or early clinical stages to take advantage of the higher asset values associated with licensing programmes at these stages.
+Our Strategy Key Performance Indicators KPIs The Directors use the following KPIs as a measure of the Groups performance Research and development Sareum undertakes research and development on its cancer and autoimmune disease programmes.
+The investment in RandD in 2017 showed a modest increase over the prior year in line with management expectations.
+1.0 million 2017 0.93 million 2016 1.0 million The Companys management aims to minimise Group overheads through a low cost base and a lean operating model.
+This year the Group reported a maiden profit following successful licensing of the Chk1 project to Sierra Oncology by our codevelopment partner the CRT Pioneer Fund.
+Profitloss on ordinary activities 0.40 million Cash at bank Sareum requires cash for working capital purposes and to advance its development programmes.
+The Companys low cost base ensures that funds are used in the most efficient way possible.
+The increase in cash is primarily the result of the upfront and first milestone payments received and the return of unspent coinvestment funds following licensing of the Chk1 programme.
+2.30 million 2.30 million 2017 1.25 million 2016 Increase potential success rate Mitigate development risk Minimise ongoing development risk Move up value chain Potential for higher deal values Spread financial cost and risk Access specialist research and development expertise Approach Benefit Pursue multiple programmes Seek collaboration partners Develop programmes to preclinical early clinical development Generate short and potential long term revenues through upfront and milestone payments and royalties Validate research and define value of assets Progress drug candidates through clinical development and commercialisation License drug candidates to pharmaceutical company partners 0.89 milliontel 1.48 million 0.40 million 1.05 million 2016 1.26 million STRATEGIC REPORT Sareum Holdings plc Annual Report and Accounts 2017 9 Risk Description Mitigation Risk change
+The principal financial risks are the ability to raise sufficient funds to support the Company through to profitability and failure to secure licensing agreements.
+The Companys low cost base ensures that funds are used in the most efficient way.
+Sareum has historically raised the majority of its funds from investors via licensed brokers and this continues to be an option.
+The Chk1 licence deal demonstrates the ability for licence deals to be achieved.
+Decreased risk Research and development There are a number of risks in developing drug candidates due to a long and complex development process.
+Any programme must undergo extensive research to get to preclinical or clinical stage.
+This process takes several years and is very costly.
+RandD programmes can fail at any point.
+We undertake extensive early research and create a dossier of information that enables us and our advisers to evaluate the potential of a candidate before we seek to progress to preclinical or clinical phases.
+We also seek collaboration partners whose own due diligence reaffirms our assessment of a candidates potential.
+No change
+Our ability to stop others exploiting our intellectual property without first obtaining a licence is critical to our long term success.
+Therefore we file patent applications in the patent offices of the major commercial territories.
+To obtain patent protection our inventions must be considered novel inventive and useful.
+However some or all of the patent offices may reject or seek to modify our patent applications.
+Intellectual property protection is fundamental to our strategy of developing novel drug candidates and underpins our RandD programmes and we invest appropriately in this area.
+We are exploiting our SKIL platform which already has a strong patent position through a number of granted and pending applications.
+IP considerations form a crucial part of due diligence when we are assessing inlicensing opportunities.
+Decreased risk
+Working with third parties carries a risk of loss of control on progress and can lead to research delays.
+This can increase Sareums own financial commitment as a result of continued spend on fixed costs during a delay and potential additional financial contributions required in order to progress a programme.
+We work closely with our partners to anticipate and plan around any likely delays.
+Collaboration contracts clearly outline responsibilities and key milestones as well as cost licensing and revenue sharing.
+No change
+There always remains the possibility that a similar drug is being developed by a competitor that demonstrates greater efficacy or a better safety profile.
+Alternatively a similar drug in development may conclude a licensing deal or reach a later stage of development before we are able to thus reducing the likelihood of Sareum securing a licensing agreement.
+The management and advisory boards gather as much information as possible on competitive products and programmes.
+Progress and key milestones are monitored to understand how these may affect our own programmes.
+Sareum also pursues more than one development programme in order to mitigate the overall risk to the Company.
+Increased risk Principal Risks STRATEGIC REPORT Sareum Holdings plc Annual Report and Accounts 2017 10 Sareum Holdings plc Annual Report and Accounts 2017 11
+Directors and Company Information Dr Stephen Parker aged 59 has a career in the healthcare and pharma sector that spans over 30 years including six years in the City in advisory roles.
+He has sector corporate finance experience having been an investment banker focusing on pharma and biotechnology with Barings Warburg and Apax Partners and has previously held roles as a partner at Celtic Pharma and Chief Financial Officer of Oxford GlycoSciences.
+Stephen also currently holds the position of Chairman at Liverpool ChiroChem and is a Nonexecutive Director at Silence Therapeutics plc.
+Dr Tim Mitchell aged 57 has over 25 years experience in the industry with key management and business expertise gained from his positions at Cambridge Discovery Chemistry Ltd and his roles at Millennium Pharmaceuticals Research and Development Ltd as a member of the management team and in forming the integrated StructureBased Discovery department.
+As Director of the Millennium StructureBased Discovery department Tim was responsible for global provision of protein structure and high throughput chemical synthesis for Millennium as well as for local computational chemistry informatics and automation capabilities.
+Prior to that he was Director of Computational Chemistry at Cambridge Discovery Chemistry Ltd and a team leader in the Computational and Structural Sciences department at SmithKline Beecham Pharmaceuticals.
+Tim has a PhD in computational chemistry and a BSc in chemistry.
+Dr John Reader aged 50 has over 20 years experience within the industry and was formerly Associate Director Chemical Technologies at Millennium Pharmaceuticals Research and Development Ltd prior to which he worked with Pharmacopeia Inc. external and internal clients.
+John has extensive experience of leading large research teams and in the invention and application of new technologies to the drug discovery process with an excellent track record of delivering successful projects to clients and has authored or coauthored many patents and publications.
+The majority of patents granted to John cover composition of matter discovered in the multiple projects in which he has worked with further patents covering technological innovations in the field.
+John is a member of the EPSRC Peer Review College and has a PhD in chemistry and a BSc in applied chemistry.
+Directors
+T Mitchell PhD J Reader PhD S Parker DPhil
+T Bunn FCMA Registered office Unit 2a Langford Arch London Road
+Cambridge
+Cambridgeshire
+CB22 3FX Registered number England and Wales
+Shipleys LLP Chartered Accountants and Registered Auditors 10 Orange Street
+London
+WC2H 7DQ Stephen Parker DPhil Nonexecutive Chairman John Reader PhD Founder and CSO Tim Mitchell PhD Founder and CEO GOVERNANCE Sareum Holdings plc Annual Report and Accounts 2017 12 The Directors present the Strategic report of the Company and the Group for the year ended 30 June 2017.
+Principal activities The principal activities of the Company in the year under review were those of a holding company.
+The principal activity of the Group is the discovery and development of new therapeutic drugs by a combination of skills in biology computational chemistry and medicinal chemistry.
+Review of business The profit for the year was 400343 and at 30 June 2017 cash and cash equivalents amounted to 2305509.
+Throughout the period under review the Group continued to develop its drug discovery programmes using outsourced biology and chemistry resources as well as exploring commercial opportunities with potential partners.
+In the future the Group will continue to build value from its inhouse research and development by seeking to advance and commercialise its drug discovery programmes.
+On 27 September 2016 the Group announced that its coinvestment partner the CRT Pioneer Fund had licensed the rights to the Chk1 project to Sierra Oncology Inc.
+Therapeutics Inc.
+Under the terms of the agreement an immediate upfront payment of US7 .0 million was received by the coinvestment partner and an additional fee of US2.0 million was received following the successful transfer of the two ongoing Phase 1 clinical trials to Sierra.
+Additional payments of up to US319.5 million may become payable upon achievement of certain milestones and Sierra will pay royalties on the net sales of any product successfully developed.
+Sareum is entitled to receive 27 .5% of these payments and has also received a refund amounting to 228976 in respect of unspent investment funds.
+Principal risks and uncertainties The principal risks facing the Group are the following the drug discovery programmes undertaken may fail due to fundamental scientific uncertainty the Group may not complete sufficient commercial partnerships to create a sustainable business and it may not be possible to raise sufficient funding to support the Company through to sustained profitability.
+The Directors acknowledge that there is uncertainty concerning the outcome of the UKs negotiations to exit the EU but do not currently consider that this represents a significant risk to the Groups prospects.
+The Directors address these uncertainties by reviewing reports on scientific progress business development and financial status at the monthly Board meetings and implementing alternative plans to reduce the risks if these are considered necessary.
+Key performance indicators The Directors consider cash and spending on research and development to be the Groups key performance indicators.
+A budget is approved by the Board at the beginning of each financial year and performance is regularly monitored against budget with significant variances investigated.
+Future outlook The Group will continue to develop its oncology programmes and in particular the AuroraFLT3 project will be advanced through preclinical development into Phase 1 clinical trials.
+The TYK2 inhibitor targeting autoimmune diseases will also be progressed in conjunction with SRI International and the use of the Companys TYK2 inhibitors as cancer therapeutics will be developed.
+Commercially significant licensing deals will be sought to realise the high value inherent in the Companys technology.
+On behalf of the Board T Bunn FCMA
+18 October 2017 Group Strategic Report for the Y ear Ended 30 June 201 7 Sareum Holdings plc Annual Report and Accounts 2017 13
+The Directors present their report with the financial statements of the Company and the Group for the year ended 30 June 2017.
+Directors
+The Directors shown below have held office during the whole of the period from 1 July 2016 to the date of this report T Mitchell PhD J Reader PhD S Parker DPhil
+No dividends will be distributed for the year ended 30 June 2017.
+Research and development The Group undertakes research and development on its cancer research programmes.
+The costs relating to this which have been written off during the year  amounted to 1002342 2016 927 644.
+Financial instruments Details regarding the Groups use of financial instruments and their associated risks are given in note 16 to the consolidated financial statements.
+Statement of Directors responsibilities The Directors are responsible for preparing the Group Strategic report the Report of the Directors and the financial statements in accordance with applicable law and regulations.
+Company law requires the Directors to prepare Group and Company financial statements for each financial year.
+Under that law the Directors have elected to prepare the Group and Company financial statements in accordance with International Financial Reporting Standards IFRS as adopted by the European Union.
+Under company law the Directors must not approve the financial statements unless they are satisfied that they give a true and fair view of the state of affairs of the Company and the Group and of the profit or loss of the Group for that period.
+In preparing these financial statements the Directors are required to select suitable accounting policies and then apply them consistently make judgements and accounting estimates that are reasonable and prudent state whether they have been prepared in accordance with IFRS as adopted by the EU and prepare the financial statements on the going concern basis unless it is inappropriate to presume that the Group and Company will continue in business.
+The Directors are responsible for keeping adequate accounting records that are sufficient to show and explain the Companys and the Groups transactions disclose with reasonable accuracy at any time the financial position of the Company and the Group and enable them to ensure that the financial statements comply with the Companies Act 2006.
+They are also responsible for safeguarding the assets of the Company and the Group and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+The Directors are responsible for the maintenance and integrity of the corporate and financial information included on the Companys website.
+Financial statements are published on the Companys website in accordance with legislation in the United Kingdom governing the preparation and dissemination of financial statements which may vary from legislation in other jurisdictions.
+Statement as to disclosure of information to auditor So far as the Directors are aware there is no relevant audit information as defined by Section 418 of the Companies Act 2006 of which the Groups auditor is unaware and each Director has taken all the steps that he ought to have taken as a Director in order to make himself aware of any relevant audit information and to establish that the Groups auditor is aware of that information.
+On behalf of the Board T Bunn FCMA
+18 October 2017 Report of the Directors for the Y ear Ended 30 June 201 7 GOVERNANCE Sareum Holdings plc Annual Report and Accounts 2017 14
+Sareum Holdings plc was listed on AIM on 11 October 2004.
+Although the rules of AIM do not require the Company to comply with the Combined Code on Corporate Governance the Code the Company fully supports the principles set out in the Code and will attempt to comply wherever possible given the resources available to the Company.
+Details are provided below of how the Company applies the Code.
+The Board The Board of Directors comprises two Executive Directors and one independent Nonexecutive Director the Chairman.
+The Board generally meets monthly and receives reports covering finance compliance business development safety operations and science together with any other material deemed necessary for the Board to discharge its duties.
+It is the Boards responsibility to review and approve the Groups strategy budgets staff recruitment major items of expenditure and acquisitions.
+Under the Articles of Association all Directors must offer themselves for reelection at least once every three years.
+One third of the Directors retire by rotation at every AGM and are eligible for reappointment.
+Board Committees The Board has established an Audit Committee and a Remuneration Committee with written terms of delegated responsibilities.
+The terms of reference are as close to the model terms of the Institute of Chartered Secretaries and Administrators as is possible for a Board with one independent Nonexecutive Director.
+The terms of reference of the Committees are published on the Companys website site Audit Committee The Audit Committee currently comprises Dr Stephen Parker Nonexecutive Chairman and Dr Tim Mitchell CEO.
+It is scheduled to meet twice a year.
+It is the Audit Committees role to provide formal and transparent arrangements covering the financial reporting and internal control requirements of the Code whilst maintaining an appropriate relationship with the independent auditor of the Group.
+Remuneration Committee The Remuneration Committee currently comprises Dr Stephen Parker Nonexecutive Chairman.
+It meets at least once a year.
+It is the Remuneration Committees role to establish a formal and transparent policy on executive remuneration and to set remuneration packages for individual Directors.
+The Committee also ensures that recommendations made by the Executive Directors on staff remuneration are appropriate and fair from a shareholders perspective.
+Further information on the work of the Committee can be found on page 15.
+Shareholder relations The Company meets with its institutional shareholders and analysts as appropriate and uses the AGM to encourage communication with shareholders.
+In addition the Company issues the Annual Report and Accounts Interim Statement and press releases as well as using its website site to provide further information to shareholders.
+Internal control and risk management The Board is responsible for the systems of internal control and for reviewing their effectiveness.
+The internal controls are designed to manage rather than eliminate risk and provide reasonable but not absolute assurance against material misstatement or loss.
+The Audit Committee reviews the effectiveness of these systems annually.
+This it does primarily by discussions with the external auditor and by considering the risks potentially affecting the Group.
+The Group does not have an internal audit function since the administrative function is very small.
+Instead there is a detailed Director review and authorisation of transactions.
+The annual audit by the Groups auditor which tests a sample of transactions did not highlight any significant system improvements in order to reduce risks.
+A comprehensive budgeting process is completed once a year and is reviewed and approved by the Board.
+The Groups results compared with the budget are reported to the Board on a monthly basis and discussed in detail.
+The Group maintains appropriate insurance cover in respect of actions taken against the Executive Directors because of their roles as well as against material loss or claims against the Group.
+The insured values and types of cover are comprehensively reviewed on a periodic basis.
+Corporate social responsibility Sareum is a small motivated team of professional people which operates to high standards.
+These standards include a commitment to best practice in meeting the Companys social responsibilities.
+Health and safety The Company is proactive in considering the safety of staff visitors and the public.
+It had no notifiable safety incidents during the year and no working days were lost due to accidents.
+Employees
+Sareum is committed to a policy of equal opportunities in the recruitment engagement and treatment of its staff.
+Environment
+Sareum disposes of its waste products using reputable agents.
+The Companys landlord provides these agents to enable it to recycle its waste as appropriate.
+Corporate Governance Report Sareum Holdings plc Annual Report and Accounts 2017 15
+Introduction
+The Company recognises the value of the Combined Code on Corporate Governance issued by the London Stock Exchange.
+It seeks to comply with the Combined Code so far as is practicable and appropriate for a public company of its size and nature.
+The
+Company also seeks to follow the Guidance for Smaller Quoted Companies on the Combined Code issued by the Quoted Companies Alliance in August 2004.
+Companies trading on AIM are not required to provide a formal remuneration report.
+However in line with current best practice this report provides information to enable a greater level of understanding as to how remuneration is determined by the Board.
+The Remuneration Committee of the Board is responsible for considering staff and Directors remuneration packages and makes its recommendations to the Board.
+The Committee currently comprises Dr Stephen Parker Nonexecutive Chairman.
+It meets at least once a year to review salaries and share option schemes for the Directors.
+Remuneration policy Remuneration packages are designed to be competitive and to reward above average performance.
+At present Executive Directors receive salary deathinservice benefit critical illness and medical cover and a pension contribution.
+Executive Directors service contracts The two fulltime Executive Directors have executive service agreements with the Company dated 7 July 2004.
+The service agreements are subject to termination upon six months notice being given by either party and are subject to standard terms in the event of termination.
+For the year from 1 July 2016 a Directors bonus scheme was in effect to reward the Directors based on performance targets that build shareholder value.
+Pensions
+The Group does not have a pension scheme but makes contributions to Executive Directors personal pension schemes amounting to 6.375% of annual salary.
+In addition the Executive Directors contribute to their pension schemes via salary sacrifice and the National Insurance savings made by the Group as a result of this arrangement are added to the Groups contributions.
+Share option schemes In setting up share option schemes for staff the Committee took into account the recommendations of shareholder bodies such as those of the insurance companies on the number of options to issue and the criteria for vesting.
+It approved the following share incentive arrangements for staff an Inland Revenue approved EMI share option scheme approved scheme and an unapproved share option scheme unapproved scheme identical to the approved scheme but for parttime staff who do not fulfil the EMI employment criteria.
+Nonexecutive Directors The Nonexecutive Chairman entered into a letter of engagement dated 13 May 2016.
+Members may request copies of the letter by sending a stamped addressed envelope to the Company Secretary.
+The appointment can be terminated by either party giving six months notice.
+The interests in the share option schemes of the Directors who served during the year were as follows
+Share scheme
+As at 1 July 2016
+Granted during the year
+Lapsed during the year As at 30 June 2017
+Dr Tim Mitchell EMI 0.25 6400000   6400000 Dr Tim Mitchell EMI 0.26 6153846   6153846 Dr Tim Mitchell EMI 1.2 2566666   2566666 Dr Tim Mitchell EMI 0.6 4752000   4752000 Dr Tim Mitchell EMI 0.425 7198353   7198353 Dr Tim Mitchell EMI 0.59 5340862   5340862 Dr Tim Mitchell EMI 0.80  6250000  6250000 Dr Tim Mitchell EMI 1.20  3125000  3125000 Dr Tim Mitchell EMI 1.60  3125000  3125000 Dr John Reader EMI 0.25 6400000   6400000 Dr John Reader EMI 0.26 6153846   6153846 Dr John Reader EMI 1.2 2566666   2566666 Dr John Reader EMI 0.6 4752000   4752000 Dr John Reader EMI 0.425 7198353   7198353 Dr John Reader EMI 0.59 5340862   5340862 Dr John Reader EMI 0.80  6250000  6250000 Dr John Reader EMI 1.20  3125000  3125000 Dr John Reader EMI 1.60  3125000  3125000 Dr Stephen Parker Unapproved 0.80  5000000  5000000 Dr Stephen Parker Unapproved 1.20  2500000  2500000 Dr Stephen Parker Unapproved 1.60  2500000  2500000 The market price of the shares at 30 June 2017 was 0.85 pence and the range during the year was 0.60 pence to 1.475 pence.
+Remuneration Committee Report GOVERNANCE
+Sareum Holdings plc Annual Report and Accounts 2017 16 Directors remuneration Details of Directors remuneration for the year to 30 June 2017 are set out below
+Bonus
+Healthcare
+Emoluments
+Pension
+Total
+Total
+Executive Directors Dr TJ Mitchell 135673 34000 1349 171022 10775 181797 112617 Dr JC Reader 135673 50000 918 186591 11397 197988 112970 Nonexecutive Directors Dr PB Harper 46500   46500  46500 4479 Dr SB Parker       25741 Total 317846 84000 2267 404113 22172 426285 255807 Remuneration Committee Report continued Sareum Holdings plc Annual Report and Accounts 2017 17 FINANCIAL STATEMENTS Report of the Independent Auditor to the Members of Sareum Holdings plc
+We have audited the financial statements of Sareum Holdings plc the Parent Company and its subsidiaries the Group for the year ended 30 June 2017 which comprise the Consolidated Statement of Comprehensive Income Consolidated and Company Balance Sheets Consolidated and Company Statement of Changes in Equity Consolidated and Company Cash Flow Statements and related notes including a summary of significant accounting policies.
+The financial reporting framework that has been applied in their preparation is applicable law and International Financial Reporting Standards IFRS as adopted by the European Union and as regards the Parent Company financial statements as applied in accordance with the provisions of the Companies Act 2006.
+This report is made solely to the Companys members as a body in accordance with Chapter 3 of Part 16 of the Companies Act 2006.
+Our audit work has been undertaken so that we might state to the Companys members those matters we are required to state to them in a Report of the Auditor and for no other purpose.
+To the fullest extent permitted by law we do not accept or assume responsibility to anyone other than the Company and the Companys members as a body for our audit work for this report or for the opinions we have formed.
+In our opinion the financial statements give a true and fair view of the state of the Groups and of the Parent Companys affairs as at 30 June 2017 and of the Groups profit for the year then ended the Group financial statements have been properly prepared in accordance with IFRSs as adopted by the European Union the Parent Company financial statements have been properly prepared in accordance with IFRSs as adopted by the European Union and as applied in accordance with the provisions of the Companies Act 2006 and the financial statements have been prepared in accordance with the requirements of the Companies Act 2006.
+Basis for opinion We conducted our audit in accordance with International Standards on Auditing UK ISAs UK and applicable law.
+Our responsibilities under those standards are further described in the Auditors responsibilities for the audit of the financial statements section of our report.
+We are independent of the Group in accordance with the ethical requirements that are relevant to our audit of the financial statements in the UK including the FRCs Ethical Standard and we have fulfilled our other ethical responsibilities in accordance with these requirements.
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+Conclusions relating to going concern We have nothing to report in respect of the following matters in relation to which the ISAs UK require us to report to you where the Directors use of the going concern basis of accounting in the preparation of the financial statements is not appropriate or the Directors have not disclosed in the financial statements any identified material uncertainties that may cast significant doubt about the Groups ability to continue to adopt the going concern basis of accounting for a period of at least twelve months from the date when the financial statements are authorised for issue.
+Our assessment of risks of material misstatement The assessed risks of material misstatement described below are those that had the greatest effect on our audit strategy the allocation of resources in the audit and directing the efforts of the engagement team.
+Risk How the scope of our audit responded to the risk Management override of controls Journals can be posted that significantly alter the financial statements.
+We examined journals posted around the year end specifically focusing on areas which are more easily manipulated such as accruals prepayments bank reconciliations and tax.
+Going concern There is a risk that the Company may hold insufficient cash to allow it to meet its financial obligations as they fall due thus giving rise to a going concern risk.
+Existing cash reserves have been evidenced and future cash flow forecasts have been reviewed to ensure sufficient cash headroom exists for a period extending beyond one year from the date of approving these financial statements.
+Fraud in revenue recognition There is a risk that revenue is materially understated due to fraud.
+Income was tested in full from thirdparty sources and we concluded that no evidence of fraud or other understatement was identified.
+Accounting estimates Potential risk of inappropriate accounting estimates giving rise to misstatement in the accounts.
+Accruals were agreed to expected costs and supporting documentation and other areas were examined to identify any potential accounting estimates.
+Risk of material misstatement within related party transactions There is the risk that related party transactions are potentially incomplete or materially misstated.
+Correspondence including Board minutes and accounting records were reviewed for evidence of material related party transactions and it is considered that all relevant items have been disclosed.
+Sareum Holdings plc Annual Report and Accounts 2017 18 FINANCIAL STATEMENTS Report of the Independent Auditor continued to the Members of Sareum Holdings plc Risk How the scope of our audit responded to the risk
+There is a risk of incorrect or incomplete disclosures in the financial statements.
+The financial statements have been reviewed and checks have been undertaken to ensure all material disclosure requirements have been met.
+Our audit procedures relating to these matters were designed in the context of our audit of the Financial Statements as a whole and not to express an opinion on individual accounts or disclosures.
+Our opinion on the Financial Statements is not modified with respect to any of the risks described above and we do not express an opinion on these individual matters.
+Our application of materiality We define materiality as the magnitude of misstatement in the Financial Statements that makes it probable that the economic decisions of a reasonably knowledgeable person would be changed or influenced.
+We use materiality both in planning and in the scope of our audit work and in evaluating the results of our work.
+We determine materiality for the Group to be 45372 and this financial benchmark which has been used throughout the audit was determined by way of a standard formula being applied to key financial results and balances presented in the Financial Statements.
+Where considered relevant the materiality is adjusted to suit the specific area risk profile of the Group.
+Other information The Directors are responsible for the other information.
+The other information comprises the information in the Group Strategic Report and the Report of the Directors but does not include the financial statements and our Report of the Auditor thereon.
+Our opinion on the financial statements does not cover the other information and we do not express any form of assurance conclusion thereon.
+In connection with our audit of the financial statements our responsibility is to read the other information and in doing so consider whether the other information is materially inconsistent with the financial statements or our knowledge obtained in the audit or otherwise appears to be materially misstated.
+If based on the work we have performed we conclude that there is a material misstatement of this other information we are required to report that fact.
+We have nothing to report in this regard.
+Opinion on other matters prescribed by the Companies Act 2006 In our opinion based on the work undertaken in the course of the audit the information given in the Group Strategic Report and the Report of the Directors for the financial year for which the financial statements are prepared is consistent with the financial statements and the Group Strategic Report and the Report of the Directors have been prepared in accordance with applicable legal requirements.
+Matters on which we are required to report by exception In the light of the knowledge and understanding of the Group and the Parent Company and its environment obtained in the course of the audit we have not identified material misstatements in the Group Strategic Report or the Report of the Directors.
+We have nothing to report in respect of the following matters where the Companies Act 2006 requires us to report to you if in our opinion adequate accounting records have not been kept by the Parent Company or returns adequate for our audit have not been received from branches not visited by us or the Parent Company financial statements are not in agreement with the accounting records and returns or certain disclosures of Directors remuneration specified by law are not made or we have not received all the information and explanations we require for our audit.
+Responsibilities of Directors As explained more fully in the Statement of Directors Responsibilities set out on page 13 the Directors are responsible for the preparation of the financial statements and for being satisfied that they give a true and fair view and for such internal control as the Directors determine necessary to enable the preparation of financial statements that are free from material misstatement whether due to fraud or error.
+In preparing the financial statements the Directors are responsible for assessing the Groups and the Parent Companys ability to continue as a going concern disclosing as applicable matters related to going concern and using the going concern basis of accounting unless the Directors either intend to liquidate the Group or the Parent Company or to cease operations or have no realistic alternative but to do so.
+Our responsibilities for the audit of the financial statements Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement whether due to fraud or error and to issue a Report of the Auditor that includes our opinion.
+Reasonable assurance is a high level of assurance but is not a guarantee that an audit conducted in accordance with ISAs UK will always detect a material misstatement when it exists.
+Misstatements can arise from fraud or error and are considered material if individually or in the aggregate they could reasonably be expected to influence the economic decisions of users taken on the basis of these financial statements.
+A further description of our responsibilities for the audit of the financial statements is located on the Financial Reporting Councils website at www. rc. iteauditorsresponsibilities.
+This description forms part of our Report of the Auditor.
+Stewart Jell Senior Statutory Auditor for and on behalf of Shipleys LLP Chartered Accountants and Statutory Auditors 10 Orange Street
+London
+WC2H 7DQ 18 October 2017 Our assessment of risks of material misstatement continued Sareum Holdings plc Annual Report and Accounts 2017 19 FINANCIAL STATEMENTS Consolidated Statement of Comprehensive Income for the Year Ended 30 June 2017
+Continuing operations
+Other operating income 19996 122599 Administrative expenses 1445792 995770 Share of profitloss of associates 1775725 331871 Operating profitloss 349929 1205042 Finance income 5 2991 4359 Profitloss before income tax 6 352920 1200683 Income tax 7 47423 152565 Profitloss for the year 400343 1048118 Total comprehensive income for the year 400343 1048118 Profitloss attributable to Owners of the parent 400343 1048118 Total comprehensive income attributable to Owners of the parent 400343 1048118 Earnings per share expressed in pence per share 9 Basic 0.015p 0.04p Diluted 0.015p The notes form part of these financial statements.
+Sareum Holdings plc Annual Report and Accounts 2017 20 FINANCIAL STATEMENTS Consolidated Balance Sheet as at 30 June 2017
+Assets
+Noncurrent assets Property plant and equipment 10 13333 1322 Investment in associates 11 53639 475038 66972 476360 Current assets Trade and other receivables 12 80434 79288 Tax receivable 48230 154840 Cash and cash equivalents 13 2305509 1252595 2434173 1486723
+Current liabilities Trade and other payables 14 155534 99551 Net current assets 2278639 1387172 Net assets 2345611 1863532 Shareholders equity Called up share capital 17 661305 661305 Share premium 18 11765111 11765111 Sharebased compensation reserve 18 191945 110209 Merger reserve 18 27 27 Retained earnings 18 10272777 10673120 Total equity 2345611 1863532 The financial statements were approved by the Board of Directors on 18 October 2017 and were signed on its behalf by T Mitchell PhD
+The notes form part of these financial statements.
+Sareum Holdings plc Annual Report and Accounts 2017 21 FINANCIAL STATEMENTS Company Balance Sheet as at 30 June 2017
+Assets
+Noncurrent assets Investments 11 30000 30000 Current assets Trade and other receivables 12
+Current liabilities Net assets 30000 30000 Shareholders equity Called up share capital 17 661305 661305 Share premium 18 11765111 11765111 Sharebased compensation reserve 18 191945 110209 Retained earnings 18 12588361 12506625 Total equity 30000 30000 The financial statements were approved by the Board of Directors on 18 October 2017 and were signed on its behalf by T Mitchell PhD
+The notes form part of these financial statements.
+Sareum Holdings plc Annual Report and Accounts 2017 22 FINANCIAL STATEMENTS Consolidated Statement of Changes in Equity for the Year Ended 30 June 2017 Called up share capital
+Share premium Balance at 1 July 2015 621859 9625002 10761261 Changes in equity Issue of share capital 39446  1003850 Total comprehensive expense  1048118 Sharebased compensation Balance at 30 June 2016 661305 10673120 11765111 Changes in equity Total comprehensive income  400343 Sharebased compensation Balance at 30 June 2017 661305 10272777 11765111
+Merger reserve
+Balance at 1 July 2015 105014 27 1863159 Changes in equity Issue of share capital   1043296 Total comprehensive expense   1048118 Sharebased compensation 5195  5195 Balance at 30 June 2016 110209 27 1863532 Changes in equity Total comprehensive income   400343 Sharebased compensation 81736  81736 Balance at 30 June 2017 191945 27 2345611 Company Statement of Changes in Equity for the Year Ended 30 June 2017 Called up share capital
+Share premium
+Total equity Balance at 1 July 2015 621859 11458134 10761261 105014 30000 Changes in equity Issue of share capital 39446  1003850  1043296 Total comprehensive expense  1048491   1048491 Sharebased compensation    5195 5195 Balance at 30 June 2016 661305 12506625 11765111 110209 30000 Changes in equity Total comprehensive expense  81736   81736 Sharebased compensation    81736 81736 Balance at 30 June 2017 661305 12588361 11765111 191945 30000 The notes form part of these financial statements.
+Sareum Holdings plc Annual Report and Accounts 2017 23 FINANCIAL STATEMENTS Consolidated Cash Flow Statement for the Year Ended 30 June 2017
+Cash flows from operating activities Cash generated from operations 24 689837 862024 Tax received 154033 184022 Net cash inflowoutflow from operating activities 843870 678002 Cash flows from investing activities Purchase of tangible fixed assets 16000 Purchase of fixed asset investments  597102 Repayment of investment funds 228977 Interest received 2991 4359 Net cash inflowoutflow from investing activities 215968 592743 Cash flows from financing activities Loan to Director 6924 Share issue  39446 Share premium on share issue  1003850 Net cash outflowinflow from financing activities 6924 1043296 Increasedecrease in cash and cash equivalents 1052914 227449 Cash and cash equivalents at beginning of year 25 1252595 1480044 Cash and cash equivalents at end of year 25 2305509 1252595 Company Cash Flow Statement for the Year Ended 30 June 2017
+Cash flows from operating activities Cash generated from operations 24  1043296 Net cash outflow from operating activities  1043296 Cash flows from financing activities Share issue  39446 Share premium on share issue  1003850 Net cash inflow from financing activities  1043296 Increase in cash and cash equivalents Cash and cash equivalents at beginning of year 25 Cash and cash equivalents at end of year 25 The notes form part of these financial statements.
+Sareum Holdings plc Annual Report and Accounts 2017 24 FINANCIAL STATEMENTS Notes to the Consolidated Financial Statements for the Year Ended 30 June 2017 Basis of preparation The consolidated financial statements of Sareum Holdings plc and its subsidiaries the Group have been prepared in accordance with International Financial Reporting Standards IFRS as adopted for use in the European Union with IFRIC interpretations and with those parts of the Companies Act 2006 applicable to companies reporting under IFRS.
+The financial statements have been prepared under the historical cost convention.
+IFRS comprise standards and interpretations approved by the IASB.
+IFRS as adopted by the European Union differ in certain respects from IFRS as issued by the IASB.
+However consolidated financial statements for the financial years presented would be no different had IFRS as issued by the IASB been applied.
+References to IFRS hereafter should be construed as references to IFRS as adopted by the European Union.
+Going concern The Directors estimate that the cash held by the Group will be sufficient to support the current level of activities for the foreseeable future.
+Therefore the financial statements have been prepared on a going concern basis.
+Basis of consolidation The consolidated financial statements incorporate the financial statements of the Company and entities controlled by the Company its subsidiaries made up to 30 June each year.
+Control is achieved where the Company has the power to govern the financial and operating policies of another entity or business so as to obtain benefits from its activities.
+The consolidated financial statements present the results of the Company and its subsidiaries the Group as if they formed a single entity.
+Intercompany transactions and balances between Group companies are eliminated on consolidation.
+Statutory information Sareum Holdings plc is a public limited company registered in England and Wales.
+The Companys registered number and registered office address can be found on the Directors and Company Information page.
+Accounting policies The principal accounting policies applied are set out below.
+Property plant and equipment Depreciation is provided at the following annual rates in order to write off each asset over its estimated useful life Motor vehicles straight line over three years Fixtures and computers straight line over three or four years Financial instruments Financial instruments are classified and accounted for according to the substance of the contractual arrangement as either financial assets financial liabilities or equity instruments.
+An equity instrument is any contract that evidences a residual interest in the assets of the Company after deducting all of its liabilities.
+Cash and cash equivalents Cash and cash equivalents comprise cash in hand and demand deposits and other short term highly liquid investments that are readily convertible to a known amount of cash and are subject to insignificant risk of change in value.
+Taxation
+Current taxes are based on the results shown in the financial statements and are calculated according to local tax rules using tax rates enacted or substantially enacted by the balance sheet date.
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the balance sheet date where transactions or events have occurred at that date that will result in an obligation to pay more or a right to pay less or to receive more tax with the following exception Deferred tax assets are recognised only to the extent that the Directors consider that it is more likely than not that there will be suitable taxable profits from which the future reversal of the underlying timing differences can be deducted.
+Deferred tax is measured on an undiscounted basis at the tax rates that are expected to apply in the periods in which timing differences reverse based on the tax rates and laws enacted or substantively enacted at the balance sheet date.
+Research and development Expenditure on research and development is written off in the year in which it is incurred.
+Operating lease agreements Rentals applicable to operating leases where substantially all the benefits and risks of ownership remain with the lessor are charged against profits on a straightline basis over the period of the lease.
+Pension contributions The Group does not operate a pension scheme for the benefit of its employees but instead makes contributions to their personal pension policies.
+The contributions due for the period are charged to the profit and loss account.
+Sareum Holdings plc Annual Report and Accounts 2017 25 FINANCIAL STATEMENTS Accounting policies continued Employee share scheme The Group has in place a share option scheme for employees which allows them to acquire shares in the Company.
+Equitysettled sharebased payments are measured at fair value at the date of grant.
+The fair value of options granted is recognised as an expense spread over the estimated vesting period of the options granted.
+Fair value is measured using the BlackScholes model taking into account the terms and conditions upon which the options were granted.
+Revenue recognition Revenue is measured as the fair value of the consideration received or receivable in the normal course of business net of discounts VAT and other salesrelated taxes and is recognised to the extent that it is probable that the economic benefits associated with the transaction will flow to the Company.
+Grant income is recognised as earned based on contractual conditions generally as expenses are incurred.
+Investment in Associates An associate is an entity over which the Company has significant influence.
+Significant influence is the power to participate in the financial and operating policy decisions of the investee but is not control or joint control over those policies.
+Investments in associates are accounted for using the equity method whereby the investment is initially recognised at cost and adjusted thereafter for the postacquisition change in the associates net assets with recognition in the profit and loss of the share of the associates profit or loss.
+Critical accounting estimates and areas of judgement Estimates and judgements are continually evaluated and are based on historical experience and other factors including expectations of future events that are believed to be reasonable under the circumstances.
+Actual results may differ from these estimates.
+The estimates and assumptions that have the most significant effects on the carrying amounts of the assets and liabilities in the financial information are considered to be research and development costs and equitysettled sharebased payments.
+Accounting standards and interpretations not applied At the date of authorisation of these financial statements the following standards and interpretations relevant to the Group that have not been applied in these financial statements were in issue but not yet effective
+Effective for accounting periods starting on or after IAS 12 Recognition of Deferred Tax Assets for Unrealised LossesAmendments to IAS 12 1 January 2017 IFRS 9 Financial Instruments 1 January 2017 IFRS 15 Revenue from Contracts with Customers 1 January 2017 The Directors anticipate that the adoption of these standards and interpretations in future years will have no material impact on the financial statements of the Group.
+No standards or interpretations adopted in the year had any material impact on the financial statements of the Group.
+Employees and Directors Wages and salaries 405656 240835 Social security costs 44232 20556 Other pension costs 22172 16625 472060 278016 The average monthly number of employees during the year was as follows 2017 2016 Office and management 1 1
+Directors remuneration 404113 230231 Directors pension contributions to money purchase schemes 22172 16625 Compensation to Director for loss of office  8952 The number of Directors to whom retirement benefits were accruing was as follows Money purchase schemes 2 2 Sareum Holdings plc Annual Report and Accounts 2017 26 FINANCIAL STATEMENTS Notes to the Consolidated Financial Statements continued for the Year Ended 30 June 2017 Employees and Directors continued Information regarding the highest paid Director is as follows Emoluments etc.
+186591 104591 Pension contributions to money purchase schemes 11397 8027 The Directors comprise the key management personnel of the Group.
+Net finance income Finance income Deposit account interest 2991 4359 Profitloss before income tax The profit before income tax 2016 loss before income tax is stated after charging Other operating leases 11210 11185 Depreciation  owned assets 3989 1765 Research and development 1002342 927644 Auditors remuneration  see analysis below 13915 14300 The share of profitloss of associates is made up of Share of income of associates 1968147 Share of costs of associates 192422 331871 Share of profitloss of associates 1775725 331871 The analysis of auditors remuneration is as follows Fees payable to the Companys auditor for the audit of the annual accounts Audit of the Company 4500 4200 Audit of subsidiaries 7300 6800 Total audit fees 11800 11000 Fees payable to the Companys auditor for other services Taxation services 1300 1300 Other assurance services 815 2000 Total fees payable to the Companys auditor 13915 14300 Income tax Current tax UK corporation tax credit on profitslosses of the period 47423 151526 Adjustments recognised in the current year in relation to the current tax of prior years  1039 Tax credit to the Income Statement 47423 152565 Sareum Holdings plc Annual Report and Accounts 2017 27 FINANCIAL STATEMENTS Income tax continued The credit for the year can be reconciled to the accounting loss as follows Profitloss before tax 352923 1200684 At average rate of 19.75% 2016 20% 69702 240137 Effects of Capital allowances lessmore than depreciation 161 12 Other timing differences 435 Unutilised tax losses 45445 149255 Losses surrendered for research and development tax credits less uplift 115421 90870 Research and development tax credits claimed 47423 151526 Prior year adjustments  1039 Actual current tax credit in the year 47423 152565 The tax rate of 19.75% used above for the 2017 reconciliation and 20% used for the 2016 reconciliation is the average corporation tax rate applicable in the United Kingdom.
+Loss of parent company As permitted by Section 408 of the Companies Act 2006 the statement of comprehensive income of the parent company is not presented as part of these financial statements.
+The parent companys loss for the financial year was 81736 2016 1048491.
+The loss represents costs of 148365 2016 128244 associated with the Companys obligations to maintain its AIM listing and the sharebased compensation adjustment of 81736 2016 5195 offset by a reduction in provision of 148365 2016 increased provision 915052 for impairment of amounts owed by Group undertakings.
+Earningsloss per share The calculation of profitloss per share is based on the following data Basic profitloss per share 2017 2016 Profitloss on ordinary activities after tax 400343 1048118 Weighted average number of shares 2645223988 2524944713 Basic profitloss per share 0.015p 0.04p Diluted profit per share Profit on ordinary activities after tax 400345 Weighted average number of shares and share options 2741309965 Basic profit per share 0.015p As the Group generated a loss for the year to 30 June 2016 there was no dilutive effect in respect of share options.
+Property plant and equipment
+Motor vehicles Fixtures and computers
+Cost
+At 1 July 2016  9894 9894 Additions 16000  16000 At 30 June 2017 16000 9894 25894
+At 1 July 2016  8572 8572 Charge for year 2667 1322 3989 At 30 June 2017 2667 9894 12561 Net book value At 30 June 2017 13333  13333 At 30 June 2016  1322 1322 Sareum Holdings plc Annual Report and Accounts 2017 28 FINANCIAL STATEMENTS Notes to the Consolidated Financial Statements continued for the Year Ended 30 June 2017 Investments in associates
+Interest
+Cost
+At 1 July 2016 1367101 Less Refund of unused investment funds 228977 At 30 June 2017 1138124
+At 1 July 2016 892063 Impairment for year 192422 At 30 June 2017 1084485 Net book value At 30 June 2017 53639 At 30 June 2016 475038 The Investment in Associates represents the investment by the Group in the partnership with the Cancer Research Technology Pioneer Fund to advance the Chk1 programme.
+The associate has been accounted for using the equity method in the consolidated financial statements.
+Sareums interest in the associate partnership is 27 .5% and it had a seat on the joint research committee.
+As at 30 June 2017 the partnership had net assets of 200464 2016 1731051 and had incurred cumulative losses of 472756 2016 4068949.
+During the year the programme was licensed by the partnership to Sierra Oncology Inc. unused investment funds.
+Company
+Shares in
+Cost
+At 1 July 2016 and 30 June 2017 30000 Net book value At 30 June 2017 30000 At 30 June 2016 30000 At the balance sheet date the Company owned 100% of the issued ordinary share capital of Sareum Limited the subsidiary.
+The subsidiary is included within the consolidated financial statements of Sareum Holdings plc.
+Trade and other receivables
+Current
+Directors loan accounts 6924 VAT 16513 15159 Prepayments and accrued income 56997 64129 80434 79288
+Noncurrent
+Amounts owed by Group undertakings 10821308 10969673 Provision for impairment 10821308 10969673 The inter company loan is considered a short term recoverable as it attracts no interest and has no contractual repayment terms.
+The Directors have considered the recoverability of the intercompany balance and have made provision for the full value of the debt.
+Sareum Holdings plc Annual Report and Accounts 2017 29 FINANCIAL STATEMENTS Cash and cash equivalents
+Bank deposit account 2296439 1245707 Bank accounts 9070 6888 2305509 1252595 Trade and other payables
+Current
+Trade creditors 118370 72180 Social security and other taxes 13722 8519 Other creditors 5714 3512 Accrued expenses 17728 15340 155534 99551 The Company has no creditors outstanding at the year end date.
+Trade payables and accruals principally comprise amounts outstanding for trade purchases and ongoing costs.
+The average credit term agreed with suppliers is 30 days and payment is generally made within the agreed terms.
+Leasing agreements Minimum lease payments fall due as follows
+Noncancellable operating leases Within one year 5550 11100 Between one and five years  5550 5550 16650 The outstanding commitments represent rental payments due under the lease for the Groups office premises which expires in December 2017.
+The lease does not include any onerous restriction of the Groups activities.
+Company
+The Company had no lease commitments at 30 June 2017.
+Financial instruments The Groups principal financial instruments are trade and other receivables trade and other payables and cash.
+The main purpose of these financial instruments is to finance the Groups ongoing operational requirements.
+The Group does not trade in derivative financial instruments.
+The major financial risks faced by the Group which remained unchanged throughout the year are interest rate risk foreign exchange risk and liquidity risk.
+Policies for the management of these risks are shown below and have been consistently applied.
+Market risks INTEREST RATE RISK The Group is exposed to interest rate risk as cash balances in excess of immediate needs are placed on short term deposit.
+The Group seeks to optimise the interest rates received by continuously monitoring those available.
+FOREIGN EXCHANGE RISK The Groups activities expose it to fluctuations in the exchange rate for the Euro and the US dollar.
+Funds are maintained in Sterling and foreign currency is acquired on the basis of committed expenditure.
+The value of the Groups financial instruments is not considered to be materially sensitive to the above risks and therefore no sensitivity analysis has been provided.
+Nonmarket risks LIQUIDITY RISK The Board has responsibility for reducing exposure to liquidity risk and ensures that adequate funds are available to meet anticipated requirements from existing operations by a process of continual monitoring.
+Sareum Holdings plc Annual Report and Accounts 2017 30 FINANCIAL STATEMENTS Notes to the Consolidated Financial Statements continued for the Year Ended 30 June 2017 Called up share capital Allotted issued and fully paid Number Class
+2645223988 2016 2645223988 Ordinary shares 0.025p 661305 661305 The Ordinary shares carry equal rights in respect of voting at a general meeting of shareholders payment of dividends and return of assets in the event of a winding up.
+Details of share options granted can be found in note 23 to the financial statements Sharebased payment transactions.
+Reserves
+Reserve Description and purpose Share capital Amount of the contributions made by shareholders in return for the issue of shares.
+Share premium Amount subscribed for share capital in excess of nominal value.
+Merger reserve Premium on shares issued in consideration of the acquisition of subsidiaries.
+Retained earnings Cumulative net gains and losses recognised in the Consolidated and the Company Balance Sheet.
+Sharebased compensation reserve Cumulative fair value of share options granted and recognised as an expense in the Income Statement.
+Details of movements in each reserve are set out in the Consolidated Statement of Changes in Equity.
+Pension commitments The Group makes contributions to its employees own personal pension schemes.
+The contributions for the period of 22172 2016 16625 are charged to the profit and loss account.
+At the balance sheet date contributions of 5708 2016 3507 were owed and are included in creditors.
+Contingent liabilities There are no contingent liabilities 2016 nil.
+Related party disclosures Disclosure regarding the remuneration of key management personnel is given in note 4 Employees and Directors.
+Transactions between the Company and its subsidiary Sareum Limited which is a related party have been eliminated on consolidation.
+The ultimate holding company of the Group is Sareum Holdings plc.
+During the year Sareum Holdings plc continued to provide an interest free loan to Sareum Limited further details of which can be found in note 12 to the financial statements.
+Reconciliation of movements in shareholders funds
+Profitloss for the financial year 400343 1048118 Issue of share capital  1043296 Sharebased compensation reserve 81736 5195 Net addition to shareholders funds 482079 373 Opening shareholders funds 1863532 1863159 Closing shareholders funds 2345611 1863532
+Loss for the financial year 81736 1048491 Issue of share capital  1043296 Sharebased compensation reserve 81736 5195 Opening shareholders funds 30000 30000 Closing shareholders funds 30000 30000 Sareum Holdings plc Annual Report and Accounts 2017 31 FINANCIAL STATEMENTS Sharebased payment transactions The Group operates a share option scheme under the Enterprise Management Incentive Scheme EMI for employees of the Group and it also operates an unapproved share option scheme.
+If the options under either scheme remain unexercised after a period of ten years from the date of grant the options expire.
+Options are forfeited if the employee leaves the Group before the options vest.
+Details of the share options outstanding during the year are as follows 2017 2016
+Weighted average exercise price pence
+Weighted average exercise price pence Outstanding at beginning of the period 77770909 0.492 66178789 0.474 Granted during the period 35000000 0.909 11592120 0.59 Forfeited during the period Exercised during the period Expired during the period Outstanding at the end of the period 112770909 0.680 77770909 0.492 Exercisable at the end of the period 89824044 0.706 54824044 0.455 The options outstanding at 30 June 2017 had a weighted average remaining contractual life of six years and nine months 30 June 2016 six years and six months.
+The options outstanding but not exercisable at 30 June 2017 and 30 June 2016 vest subject to predetermined performance criteria.
+Fair value calculation Fair value was estimated using the BlackScholes model.
+The key data and assumptions used were Date of grant
+March
+Nov
+Dec
+March
+Dec
+Dec
+Share price  pence 0.75 0.59 0.45 0.5 1.2 0.25 0.25 Exercise price  pence  0.59 0.425 0.6 1.2 0.26 0.25 Volatility 50% 50% 50% 50% 50% 50% 83% Time until maturity  years Three Three Three Three Three Three Three Risk free rate of interest 1% 1% 1% 1% 1% 1% 1% Expected dividend yield nil nil nil nil nil nil nil The share options that were granted in December 2016 were issued with exercise prices of 0.8 pence 1.2 pence and 1.8 pence.
+Volatility for the options granted in December 2016 March 2016 November 2014 December 2013 March 2012 and December 2010 is based on share price performance for companies operating in a similar field.
+Volatility for the options granted in December 2009 is calculated using the Groups historical share price data and is the annual volatility at 30 June 2010.
+The weighted average fair value of the share options at 30 June 2017 was 0.184 pence per share 2016 0.184 pence per share.
+A fair value charge of 81736 has been provided in the year 2016 5195.
+Reconciliation of profitloss before income tax to cash generated from operations
+Profitloss before income tax 352920 1200683 Depreciation charges 3989 1765 Sharebased compensation 81736 5195 Share of costs of associates 192422 331871 Finance income 2991 4359 628076 866211 Decreaseincrease in trade and other receivables 5778 27922 Increase in trade and other payables 55983 32109 Cash generated fromused in operations 689837 862024 Sareum Holdings plc Annual Report and Accounts 2017 32 FINANCIAL STATEMENTS Notes to the Consolidated Financial Statements continued for the Year Ended 30 June 2017 Reconciliation of profitloss before income tax to cash generated from operations continued
+Loss before income tax 81736 1048491 Impairment provision 148365 915052 Sharebased compensation 81736 5195 148365 128244 Decreaseincrease in trade and other receivables 148365 915052 Cash used in operations  1043296 Cash and cash equivalents The amounts disclosed in the Cash Flow Statements in respect of cash and cash equivalents are in respect of these Balance Sheet amounts Year ended 30 June 2017 Group Company 30 June 1 July 30 June 1 July Cash and cash equivalents 2305509 1252595 Year ended 30 June 2016 30 June 1 July 30 June 1 July Cash and cash equivalents 1252595 1480044 Capital risk management The Group manages its capital to ensure that the Group and its subsidiary company will be able to continue as going concerns.
+The capital structure of the Group consists of equity comprising issued share capital and reserves as disclosed in notes 17 and 18 and cash and cash equivalents.
+Deferred tax No provision has been made in the Groups accounts and the amounts not provided for at the end of the year are as follows Excess of depreciation on fixed assets over taxation allowances claimed 1454 1289 Tax losses available 1106170 1273099 1107624 1274388 A potential deferred tax asset of 1107624 has not been recognised as there remains a significant degree of uncertainty that the Group will make sufficient profits in the foreseeable future to justify recognition.
+The deferred tax asset would be recognised should sufficient profits be generated in the future against which it may be recovered.
+Sareum Holdings plc Unit 2a Langford Arch London Road
+Cambridge
