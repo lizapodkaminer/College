@@ -1,0 +1,685 @@
+annual report and accounts 2017 SysGroup Plc Walker House Exchange Flags Liverpool L2 3YL Company Number site SysGroup Plc Annual Report and Accounts 2017 2 contents 4 directors secretary and advisers 6 highlights 8 strategic report  chairmans statement 9 strategic report  chief executive officers report 16 board of directors profile 18 directors report 22 directors remuneration report 26 corporate governance report 29 statement of directors responsibilities 31 independent auditors report to the members of sysgroup plc 34 consolidated statement of comprehensive income 36 consolidated statement of financial position 39 company statement of financial position 42 consolidated statement of changes in equity 45 company statement of changes in equity 47 consolidated statement of cash flows 50 company statement of cash flows 52 notes to the consolidated financial statements 81 notice of annual general meeting SysGroup Plc Annual Report and Accounts 2017 3 directors secretary and advisers SysGroup Plc Annual Report and Accounts 2017 4 directors secretary and advisers Board of Directors John Michael Edelson NonExecutive Chairman Christopher Neil Evans
+Chief Executive Officer
+Julian Llewellyn Chief Financial Officer Robert Khalastchy NonExecutive Director Amy YatemanSmith NonExecutive Director Company Secretary Julian Llewellyn Registered Office Walker House Exchange Flags Liverpool L2 3YL Company Number Legal Entity Identifier LEI
+Company Website site Nominated Adviser Shore Capital and Corporate Ltd Bond Street House 14 Clifford Street London W1S 4JU
+Shore Capital Stockbrokers Ltd The Corn Exchange Fenwick Street Liverpool L2 7RB
+Computershare Investor Services plc The Pavilions Bridgwater Road Bristol BS13 8AE
+Kuit Steinart Levy LLP 3 St Marys Parsonage Manchester M3 2RD Hill Dickinson LLP No.1 St.
+Pauls Square Liverpool L3 9SJ
+Grant Thornton UK LLP Royal Liver Building Liverpool L3 1PS Independent Auditor BDO LLP 3 Hardman Street Manchester M3 3AT
+Santander UK plc 298 Deansgate Manchester M3 4HH Financial PR Advisers Alma PR 1 Fore Street London EC2Y 9DT SysGroup Plc Annual Report and Accounts 2017 5 highlights SysGroup Plc Annual Report and Accounts 2017 6
+highlights
+Financialtel % increase decrease Revenue 7.87m 4.76m 65.3% Gross margin 4.82m 3.00m 60.7% Gross margin % 61.3% 63.2% 3.0% Adjusted EBITDA continuing operations 0.62m 0.54m 14.8% Adjusted EBITDA discontinued operations 0.19m 0.12m 58.3% Adjusted PBT 0.45m 0.31m 45.2% Profitloss before tax 0.32m 0.25m 28.0% Operating cash inflow 1.22m 0.65m 87.7% Net Cash Adjusted EBITDA is earnings before interest taxation depreciation amortisation acquisition and restructuring costs fair value adjustments and share based payments Adjusted PBT is profit before taxation after adding back share based payments amortisation on acquired intangibles and costs relating to integration and restructuring Net Cash represents cash balances less finance lease liabilities
+Acquisition of System Professional Ltd SysPro for an initial consideration of 4.0m Placing to raise 5.0m gross in July 2016 Disposal of noncore SME Mass Market division for 2.7m 4.9x EBITDA in July 2016 Transformation to a Managed Services provider New banking facilities of 3.0m incorporating a 2.5m acquisition facility agreed with Santander Continued investment in infrastructure and portfolio of services including use of hyperscale technologies First VEEAM Accredited Service Partner VASP in the UK Finance function successfully relocated and integrated across Group to a single location closure of Nottingham office Existing customers overall net spend increasing Creation of an integrations team to enhance capabilities around acquisition integration and to ensure efficient execution Post PeriodEnd Developments Variation to terms of the SysPro acquisition with settlement of all future potential deferred consideration by payment of 150000 to the vendors of SysPro Group no longer has any contingent amounts due in relation to acquisitions Further acceleration of integration and realisation of synergies SysGroup Plc Annual Report and Accounts 2017 7 strategic report SysGroup Plc Annual Report and Accounts 2017 8
+chairmans statement
+The Board is pleased to report on a busy and successful year for the Group which saw the business undergo a complete transformation to a Managed Services provider delivering against our stated strategic objectives for the 2017 financial year.
+At the same time the Group achieved impressive growth in line with market expectations delivering an increase in Group revenue of 65.1% including 19.8% organic growth.
+The Groups transformation consisted of the acquisition of Systems Professional Limited SysPro in early July complementing the Groups existing managed services business and an associated rebranding of the business from Daily Internet Plc to SysGroup Plc.
+This combined with the subsequent disposal of the Companys legacy noncore SME Mass Market hosting division resulted in the formation of a business focused exclusively on servicing the high value managed services market with a strong focus on cloud.
+To facilitate the funding of the SysPro the Group completed an oversubscribed placing in July raising 5.0m gross and bringing a number of new institutional shareholders onto the Companys register.
+In conjunction with the placing and acquisition the Company also undertook a 40 for 1 share consolidation and sought court approval for the cancellation of its share premium account leaving the parent company able to pay dividends in the future should it be appropriate to do so see note 22.
+In order to support the new business composition and operational focus a number of organisational changes were implemented to restructure the Group including the appointment of Julian Llewellyn as CFO and Amy YatemanSmith as NonExecutive Director.
+I would like to welcome both Julian and Amy to the Board and I look forward to working with them as we continue to execute our growth strategy.
+The Board believes the Group now has in place the right platform expertise and focused service offering to capitalise on a substantial market opportunity.
+The Managed Services market continues to evolve and remains highly fragmented and the Board believes that a strategy of organic growth and targeted acquisitions supported by the Groups strong gross cash position of 3.5m and unutilised 2.5m acquisition facility will deliver sustained longterm value for shareholders.
+I would like to take this opportunity to thank all of our employees for their commitment and dedication to the business.
+We have started the new financial year with an improved operational structure and strong financial footing which combined with increasing levels of recurring revenue leaves me optimistic for the Groups growth prospects ahead.
+Michael Edelson
+06 June 2017 strategic report SysGroup Plc Annual Report and Accounts 2017 9 chief executive officers report
+The year to 31 March 2017 has been a year of both significant progress and change for SysGroup plc.
+The acquisition of System Professional Ltd SysPro in July 2016 and subsequent disposal of the SME Mass Market business unit in the same month marked the firm transition to a Cloud and Managed Services business.
+These were large undertakings for our business as firstly we acquired a business which had higher revenue and staff numbers than ourselves and then disposed of a business which represented almost half of the Groups size before the acquisition of SysPro.
+Subsequent to the transactions we reorganised the combined businesses and made several changes to the management team.
+We have created internal teams for managing the integration and have created liaisons between teams to maximise the crossselling opportunity to customers to take advantage of the increased range of services from our growing product portfolio.
+Not only did this work to create a business that is now focused on Managed Services with a cloud bias but it allowed us to put in place the foundations to better take advantage of the opportunities that present themselves in this growing market.
+The above corporate activity was in line with the Boards stated strategy to exit from a lighttouch low margin and high volume mass hosting market which was largely commoditised and subject to high customer churn to a business focused exclusively on providing higher value Managed Services.
+Notwithstanding the management time that was involved in this we maintained focus on the core business and delivered results in line with market expectations for FY 2017.
+Our revenues from continuing and discontinued operations in the year were 7.87m an increase of 65.3% on the previous year 2016 4.76m.
+Our adjusted EBITDA from continuing and discontinued operations increased by 22.7% to 0.81m 2016 0.66m and our adjusted profit before tax increased from 0.31m in 2016 to 0.45m representing a 45.2% increase.
+At the yearend we had a healthy net cash position of 3.07m.
+We believe that the foundations are now firmly laid for us to capture growth in our chosen markets and complement these with carefully considered acquisitions.
+Market
+The market for managed and cloud services is large and long term driven by the structural move to cloud delivered solutions and IT outsourcing in general.
+IT is no longer seen as a cost base but is something which can really help drive profits and efficiencies in businesses and corporations are embracing technologies that will put them at a commercial advantage compared with a competitor.
+This desire to embrace the best of breed technologies which can drive these efficiencies means that knowledge of better more cost effective reliable and secure solutions in a changing environment drives customers to partner with us as we help guide and advise them along their journey.
+We become part of our customers IT function and our close and increasing engagement with them is demonstrated by an overall net increase in customer spend year on year for the past three years.
+Annual Report and Accounts 2017 10 Our Managed Service offerings include all forms of Cloud hosting private public and hybrid but also outsourced service desk and various IT consulting services including public cloud Azure and AWS services.
+Our Managed Services revenue is predominantly derived from Cloud and this element of our service is growing at the fastest rate with organic growth of 19.8% in 2017.
+Strategy
+SysGroups clear focus is to expand its position as a trusted provider of managed services and expert IT consultancy to clients in the UK and Ireland.
+We have positioned the Group as an extension to a customers existing IT department guiding them through the complexities and developments in the market.
+Our target market is servicing the UK corporate sector that has traditionally managed and housed their own IT infrastructure on premise.
+We operate in a variety of vertical sectors but have weighting in not for profit education health services financial services insurance technology and merchant and distribution sectors with a variety of wellknown clients in these verticals.
+Being a Visa Level 1 PCIDSS service provider highest level and with our ISO9001 and ISO27001 credentials we are an attractive partner to anyone who wishes to ensure platforms are built and maintained to the highest of security standards.
+Our IT consulting services often result in customers taking Cloud services from us and the legacy VAR Value Added Reseller element of the SysPro business provides a feeder of cloud and managed service opportunities as customers favour OPEX over CAPEX models and the flexibilities that offers.
+Along with seeking to engage with larger spending customers who have a specific need for a large custom built cloud platform we also seek to engage with customers in our chosen markets who are at different stages of their IT journey.
+This can initially be by partnering with us for functions like our monitoring services remote service desk backup and disaster recovery services.
+As our customers develop the opportunity grows and results in more of their services being outsourced to us.
+The result is that these customers can be very sticky in nature as the increased level of services provided by the Group creates a greater reliance on the Group and significant barrier to entry for competitors.
+Customers typically sign up for a contract period of one to three years with larger contracts tending to be three years.
+We intend to supplement our organic growth with carefully considered acquisitions.
+Acquisitions
+In July 2016 the Group acquired SysPro for an initial consideration of 4.0m paid 85% cash and 15% in new ordinary shares at 60 pence per share funded by way of a placing raising 5.0m gross.
+There have been certain operational challenges at SysPro since its acquisition but overall integration of the business into the Group is continuing and was accelerated just prior to the year end with a number of important milestones already reached.
+During the period the Group secured new banking facilities with Santander UK plc.
+The facilities comprise a 2.5m Revolving Credit Term Loan Facility to finance acquisitions alongside a 0.5 million overdraft facility and a 0.5m finance leasing facility.
+In line with the Groups stated growth strategy the Board remains alert to strategic acquisition opportunities to supplement organic growth.
+In a fragmented market we believe we are well placed to make further astute acquisitions given our size and funding availability.
+SysGroup Plc Annual Report and Accounts 2017 11
+On 22 July 2016 the Group announced the disposal of its SME Mass Market business for a total consideration of 2.7m in cash less an amount of 0.5m in respect of advance receiptspayments.
+As this business was based in the Groups former head office in Nottingham a necessary reorganisation occurred and a new finance function was established in the Liverpool office of the Group.
+Operational Review All of the Groups activities relate to delivering IT Managed Services with a Cloud bias along with consulting.
+The Group is segmented into Managed Services VAR and SME Mass Market.
+The SME Mass Market division was discontinued following completion of the disposal of this division on 18 July 2016 and is therefore shown as discontinued in the table below.
+Managed Services segment consists of all the activities of Netplan Internet Solutions Ltd and that of SysPro but excluding its VAR business.
+The SME Mass Market and System Professional Ltd businesses are included in the results to their respective date of disposal or acquisition.
+We have introduced a new operating segment of VAR.
+This is legacy activity from which SysPro built its business.
+Traditionally SysPro was a provider of hardware and software but has followed the transformation to Cloud and IT Managed Services and was at the beginning but established level of the curve in converting its traditional on premise customers to Cloud delivered solutions.
+We continue our work educating our traditional customers of the benefits of Cloud delivered services and the concept of moving from a CAPEX to an OPEX model.
+Market drivers and overall trend underline the substantial opportunity to us in this base.
+We expect the VAR segment to decrease as customers continue to shift to Managed Services.
+The revenue split of the divisions is shown below Revenue by operating segment % % Managed Services 5400 69% 2515 53% Value Added Reseller 1765 22% SME Mass Market discontinued 700 9% 2249 47% Total 7865 100% 4764 100% Key Performance Indicator Review Revenue Growth 2017 2016 Revenue continuing 7.165m 2.515m Growth 184.9% 22.0% Revenue from continuing operations grew by 184.9% driven by Managed Services and the acquisition of System Professional Ltd.
+SysGroup Plc Annual Report and Accounts 2017 12 Adjusted EBITDA including discontinued activities improved 22.7% to 0.81m 2016 0.66m.
+The growth in Adjusted EBITDA is a combination of improved performance from the Netplan business unit and from contribution from SysPro acquired in the period Performance Review Group revenue for the year grew by 65.3% to 7.865m for the year to 31 March 2017 2016 4.764m.
+Revenue growth was driven by the Managed Services division which consists of the Netplan brand incorporating Q4Ex and the System Professional brand acquired in the year contributing revenues of 7.165m 2016 2.52m.
+The SME Mass Market division generated revenues of 0.7m 2016 2.2m before being divested.
+We continue to have good visibility of future revenues as the vast majority of our customers have entered into multiyear contracts.
+As at 31 March 2017 there is 0.47m of deferred revenue 2016 0.71m which will be released to profit in future periods.
+Gross profit for the year on continuing and discontinued operations was 4.82m 2016 3.01m representing a gross margin of 61.3% 2016 63.2%.
+The reduction in gross margin is attributable to the change of sales mix during the year and the slower conversion of SysPro VAR customers into Managed Services revenue.
+Adjusted earnings before interest taxation depreciation and amortisation EBITDA for the year to 31 March 2017 is 0.81m 2016 0.67m.
+Adjusted EBITDA is calculated after excluding acquisition and restructuring costs share based payment costs and fair value adjustments.
+The Directors consider that an adjusted EBITDA figure is a more appropriate measure of the underlying performance of the business.
+Balance Sheet Net cash inflow from operating activities during the year amounted to 1.22m 2016 0.65m.
+Cash at bank at 31 March 2017 was 3.47m 2016 0.51m.
+Payables falling due within one year are reported at 2.36m 2016 1.64m.
+This figure includes an amount of 0.47m 2016 0.71m for deferred revenue which will be released to profit in future years.
+Contingent consideration payable on the System Professional Ltd acquisition of 0.69m 2016 nil which is the fair value of the amounts payable in shares is included within liabilities falling due after more than one year.
+Contingent consideration on the acquisition of Q4Ex Ltd has now been fully settled given all performance criteria were satisfied.
+Based on certain performance criteria the vendors of SysPro could be due further consideration of up to 1.865m.
+At the yearend the fair value of the contingent consideration stood at 0.69m.
+Post period end however this has now been settled by a oneoff payment of 150000.
+This is a post balance sheet event and has also removed some operational challenges by removing certain approval processes required with the vendors allowing for integration to be accelerated and is explained in more detail in note 24.
+The Directors are confident there is sufficient working capital within the Group.
+The Group also has surplus cash is cash generative and has 3.0m of committed but undrawn banking facilities which includes a 2.5m acquisition facility.
+However should accretive acquisitions become available to the Group that cannot be met from existing resources or with enough headroom comfort the Group may seek to raise additional finance either through debt equity or a mixture of the two.
+SysGroup Plc Annual Report and Accounts 2017 13 Our People Our people are very highly valued and the Directors place considerable emphasis on employees sharing in the success of the Group.
+This is achieved through the participation in share option schemes.
+Due to the nature and size of the business employees are constantly encouraged to communicate with the Groups senior management to discuss business issues and potential improvements.
+It is the policy of the Group that there should be no unfair discrimination in recruiting and promoting staff including applicants who are disabled.
+The Directors are committed to maintaining and developing communication and consultation processes with employees who in turn are encouraged to develop an awareness of the issues affecting the Group.
+Divisional split average as at 31 March 2017 2016 Board of Directors 5 4 SME Mass Market  12 Managed Services 59 14 Total 64 30 Gender diversity as at 31 March 2017 Men Women Number % Number % Board of Directors 4 80% 1 20% Senior Managers 3 75% 1 25% Employees 50 91% 5 9% Total 57 89% 7 11% Infrastructure and Technology During the year we invested in our capabilities and have begun deploying Cloud services from a newly fitted out location on our network in a datacentre in Manchester.
+We are utilising hyperscale technologies that the likes of Facebook Microsoft and Amazon utilise such as software defined networking and continuous integration.
+These technologies allow us to automatically rollout a whole network deployment and virtual machine build in minutes whilst continuous integration means we can test changes in a virtual environment before pushing these to a live environment minimising change control risks.
+Our work and contribution to the CEPH OpenSource community gained us recognition for the development of an industry leading low cost storage solution which lead us to become the first VEEAM accredited service partner in the UK.
+We will continue our RandD efforts and bring new and interesting services to our customers.
+Principal Risks and Uncertainties In line with the nature size and complexity of the business the senior management team work very closely to identify and evaluate areas of risk whilst developing and monitoring action plans to deal with any potential threats.
+SysGroup Plc Annual Report and Accounts 2017 14 All outcomes are reported to the Board and support is given as necessary to ensure actions are carried out.
+Identifiable areas of risk include Dependency on key suppliers  the Group is dependent on certain key suppliers for the continued operation of its business the most significant of which are the supply of third party software and datacentre services.
+If any of these suppliers fail in the provision of their services it may have an adverse effect on the Groups ability to provide services to its customers.
+However the Group continually assess suppliers for both price competitiveness and technical innovation and are confident that alternative providers could be found.
+Customer retention  the Group provides an essential service to its customers.
+Any diminution in service levels could impact customer retention levels.
+However the Group constantly monitors service levels and the low level of customer attrition is evidence of the Groups ability to provide the level of service required.
+Network  the datacentres we utilise are linked by fibre that we lease.
+Should the network fail there would be an adverse impact on the service provided to our customers.
+The Group has designed its network to have no single point of failure it connects with transit providers at different geographical locations.
+Employees  the Group is a service organisation and as such is dependent on the skills knowledge and commitment of its staff.
+The performance of the Group is dependent on retaining its staff.
+We mitigate this risk by offering competitive reward packages.
+Search engine optimisation  a significant amount of the Groups sales revenues are generated from customers using internet search engines.
+Should the Groups search engine optimisation performance deteriorate this could have an adverse impact on Group revenue.
+The Group continually monitors the position of its websites with respect to these search engines.
+The Group has experienced staff that work with specialist agencies to maintain or enhance the position of its websites for inclusion in search results.
+Acquisitions  the Group has stated that its strategy is to continue to make acquisitions to strengthen its growth.
+The risk is that we may not be able to find suitable acquisition targets.
+We mitigate this risk by regularly conducting searches for targets and also retain advisers who introduce targets.
+Summary and Outlook We are pleased with our results delivered in a year of both significant progress and change for the Group.
+We have achieved our objectives of fundamentally transforming the business to focus on high growth managed services whilst delivering enhanced profitability and results in line with market expectations while at the same time integrating a large acquisition.
+Our sales pipeline has grown by 28.8% from 30 September 2016 to 3.49m at 31 March 2017 showing the tangible impact of our growth strategy.
+Due to operational challenges at SysPro since its acquisition the Group expects growth to be slower than originally expected for FY 2018.
+The Board have taken the necessary remedial steps and following entry into the deed of variation with the vendors of Sys Pro the management team has the ability to accelerate the integration process.
+Our new management structure and internal teams will support further organic and acquisitive growth and given our healthy levels of recurring revenue and long term contracts with key customers coupled with our cash generation we are well placed to capture market opportunity.
+We look forward to the future with confidence.
+This Strategic Report was approved and signed by order of the board.
+Chris Evans
+Chief Executive Officer
+06 June 2017 SysGroup Plc Annual Report and Accounts 2017 15 board of directors profile SysGroup Plc Annual Report and Accounts 2017 16 board of directors profile John Michael Edelson NonExecutive Chairman Michael brings a wealth of experience as a Board Director to SysGroup plc.
+He has been a Founding Director or Chairman of a number of companies admitted to the AIM market including Prestbury Group plc Knutsford Group plc Mercury Recycling Group plc now Ironveld plc and ASOS PLC.
+He was a nonexecutive Chairman of Bramhall plc subsequently renamed Magic Moments Internet plc and then Host Europe plc which acquired Magic Moments Design Limited in September 1999.
+He has also been on the Board of Manchester United Football Club since 1982.
+Christopher Evans
+Chief Executive Officer
+Chris studied Software Engineering at Liverpool John Moores University before founding Switch Media Ltd a web hosting provider.
+Switch Media was listed in the Deloitte Fast 50 for two years running in 2007 and 2008 before being acquired by iomart Group PLC in April 2011.
+Following the acquisition by Iomart he was a Director of Iomarts Easyspace division involved in integrating divisional acquisitions and delivering the financial budget ahead of plan.
+He was a founder of Q4Ex Ltd a company acquired by SysGroup.
+Julian Llewellyn Chief Financial Officer Julian was appointed as Chief Financial Officer on 23rd January 2017 and formally joined the Board on 6th April 2017.
+Julian has over 25 years senior finance experience.
+Julians two previous roles were as Interim Chief Financial Officer of Redcentric PLC and Business Improvement Director at Exertis part of DCC PLC.
+Prior to those two roles from 2010 to 2014 Julian was Group Financial Controller of Greenergy International Ltd.
+Julian has also held senior finance roles in the IT sector at SurfControl PLC and IFS AB and with BAE SYSTEMS PLC and Premier Brands Ltd.
+Julian is a graduate of Lancaster University and a fellow of The Institute of Chartered Accountants in England and Wales.
+Robert Khalastchy NonExecutive Director Mr Khalastchy is a graduate from the University of Sussex where he received a Bachelors degree in Electronic
+For the past 20 years he has been involved in commercial property management working with high net worth overseas clients assisting in the management of their total UK portfolio and various planning applications as well as the day to day management of the portfolio.
+In
+2001 he set up RK Management Limited a commercial property management company handling a portfolio in excess of 35 million.
+In 2011 he set up Sterling Property Management a residential block property management company which manages several prestigious blocks in Central and West London.
+Amy YatemanSmith NonExecutive Director Amy is an Investment Director at private equity firm Livingbridge Equity Partners LLP Livingbridge where she has worked since 2011.
+In recent years Amy managed Livingbridges investment in Onyx the IT infrastructure services provider and was also a nonexecutive director of Onyx up until its sale to Pulsant one of the UKs largest datacentre providers.
+Prior to Livingbridge Amy spent six years at KPMG where she qualified as an accountant before joining the TMT Transaction Services team helping to advise private equity and corporate clients on due diligence and strategic option development across a wide variety of transactions.
+Amy is a graduate of Warwick
+SysGroup Plc Annual Report and Accounts 2017 17 directors report SysGroup Plc Annual Report and Accounts 2017 18 directors report The Directors present their Annual Report and Audited Financial Statements for the year ended 31 March 2017.
+Principal Activities The principal activities of the business are the provision of IT Managed Services and are explained in detail in the strategic report.
+Business Review and Future Developments A review of the Groups operations and performance during the financial year setting out the position at the yearend significant changes in the year and providing an indication of the outlook for the future is contained in the Strategic report on pages 8 to 14.
+Results and Dividends The Consolidated Statement of Comprehensive Income for the year is set out on page 34.
+The Directors do not propose the payment of a Dividend for the year ended 31 March 2017.
+Financial Instruments The Group uses various financial instruments.
+These include revolving credit facilities bank loans finance leases cash and various items such as trade receivables and trade payables that arise directly from its operations.
+The main purpose of these financial instruments is to raise finance for the Groups operations.
+The existence of these financial instruments exposes the Group to a number of financial risks which are described in more detail below.
+Liquidity Risk The Group seeks to manage financial risk by ensuring sufficient liquidity is available to meet foreseeable needs and to invest cash assets safely and profitably.
+Shortterm flexibility is achieved through available cash balances and its revolving credit facility.
+Interest Rate Risk The Group finances its operations through a mixture of revolving credit facilities bank loans finance leases and the placing of new ordinary shares.
+The Groups loan and revolving credit facilities were undrawn at the year end.
+SysGroup Plc Annual Report and Accounts 2017 19 Credit Risk The Groups principal financial assets are cash and trade and other receivables.
+These balances are actively monitored to avoid significant concentrations of credit risk however the total of the cash balances and trade and other receivables represents the maximum exposure to credit risk.
+In order to manage credit risk the agreement with the customer states preferred collection by direct debit and limits are set for customers based on a combination of payment history and third party credit references.
+Credit limits are reviewed by the credit control team on a regular basis in conjunction with debt ageing and collection history.
+For hosting services the Group predominantly invoices in advance and the agreement with the customer states preferred collection by direct debit therefore the financial risk in respect of these debtors is limited.
+Directors
+The Directors of the Company who held office during the year are as follows Michael Edelson NonExecutive Chairman Christopher Evans Chief Executive Julie Joyce Finance Director resigned 15 August 2016 Michael Hogan Chief Financial Officer appointed 15 August 2016 resigned 01 December 2016 Julian Llewellyn Chief Financial Officer appointed 06 April 2017 Robert Khalastchy NonExecutive Director Amy YatemanSmith NonExecutive Director appointed 21 September 2016 The interests of current Directors in shares and options are detailed in the Directors Remuneration Report on page 22.
+Significant Shareholdings As of 05 June 2017 the Company has been notified of the following significant shareholdings
+Number of shares
+Livingbridge EP LLP 4603700 19.93% Hargreave Hale Limited discretionary clients 3124695 13.52% Downing LLP 1906517 8.25% Legal and General Investment Management Ltd 1889355 8.18% Herald Investment Management Limited 1048966 4.54% Chris Evans 1040611 4.50% Hawk Investment Holdings Limited 837120 3.62% Paul Jones 794291 3.53% Arthur Duffy 717927 3.19% SysGroup Plc Annual Report and Accounts 2017 20 Disclosure of Information to Auditors The Directors who held office at the date of approval of this Directors report confirm that so far as they are each aware there is no relevant audit information of which the Companys auditors are unaware and each Director has taken all the steps that ought to have been taken as a Director to make themselves aware of any relevant audit information and to establish that the Companys auditors are aware of that information.
+Going Concern The Directors have reasonable expectation that the Group has adequate resources to continue to operate for the foreseeable future.
+For this reason they adopt the going concern basis for preparing the financial statements.
+Post Balance Sheet Event On 06 June 2017 the company entered into a deed of variation with the vendors of SysPro the resulting impact is a cash payment of 150k from the company to the vendors and a reduction of the contingent consideration shown at fair value of 690k to nil see note 24.
+Auditors
+A resolution to reappoint BDO LLP as auditors of the company will be put to the Annual General Meeting.
+By order of the Board Julian Llewellyn Company Secretary 06 June 2017 SysGroup Plc Annual Report and Accounts 2017 21 directors remuneration report SysGroup Plc Annual Report and Accounts 2017 22 directors remuneration report Remuneration Policy The Group has a policy to attract motivate and reward individuals of the highest calibre who are committed to growing the value of the business and to maximising returns to shareholders.
+The policy is as relevant to Executive Directors as it is to employees as we aim to reward Executive Directors and senior employees aligned to the performance of the Group.
+The remuneration structure for all employees considers remuneration rates of competitors to ensure continuity and commitment.
+Directors Service Contracts Copies of Directors service contracts will be available for inspection at the Annual General Meeting.
+The Group does not operate a final salary pension scheme.
+Executive Directors who are entitled to receive pension contributions may nominate a defined contribution scheme into which the Company makes payments on their behalf.
+Directors Remuneration A summary of the total remuneration paid to current Directors is set out below
+2017 2016
+B ene fit s in kind
+Salary
+B ene fit s in kind
+Michael Edelson 40  40 40  40 Christopher Evans 96  96 96  96 Michael Hogan 80  80 Julie Joyce Robert Khalastchy 12  12 12  12 SysGroup Plc Annual Report and Accounts 2017 23 The following pension contributions were paid within the year
+2017 2016
+Total
+Michael Edelson Christopher Evans 5 Michael Hogan 1 Robert Khalastchy Directors Interests in Ordinary Shares of SysGroup plc The Directors in office at the end of the year had interests in the ordinary share capital of the company as shown below
+Number of Ordinary Shares
+Interest
+Christopher Evans 1040611 4.50% Michael Edelson 689600 2.98% Robert Khalastchy 6346 0.03% Amy YatemanSmith Directors Interests in Share Options The Directors had interests in options over ordinary shares of the Company at the end of the year as shown below
+Total Options Over Ordinary Shares Grant Date Expiry Date Michael Edelson Robert Khalastchy 7500 19122012 18122022 Amy YatemanSmith Christopher Evans SysGroup Plc Annual Report and Accounts 2017 24 Directors Warrants The Directors held the following warrants over the ordinary shares of the Company at the end of the year as follows
+Exercise
+Price
+No. of Warrants Grant Date Expiry Date Michael Edelson 200p 2500 09012012 08012022 Mr Edelsons warrants are exercisable at any time before 8 January 2022 provided that the Company may require the exercise of these warrants if its shares are traded at a price in excess of 320p per share for a period of 60 business days and an aggregate value of bargains exceeding 60000 occurs over that period.
+SysGroup Plc Annual Report and Accounts 2017 25 corporate governance report SysGroup Plc Annual Report and Accounts 2017 26 corporate governance report
+The Directors recognise the importance of and are committed to high standards of corporate governance.
+Although compliance with the UK Corporate Governance Code is not compulsory for AIM companies and therefore the Directors do not claim compliance with the code the Directors intend to apply the principles as they consider appropriate to a public company of the size of SysGroup plc quoted on AIM taking into account the recommendations contained in the QCA
+Board of Directors The Board comprises five Directors  two Executives and three NonExecutives  and reflects a blend of different experience and backgrounds.
+The roles of Chairman which is a NonExecutive position and Chief Executive have been split by the Board and there is a clear division of responsibility between the two.
+The Board considers Michael Edelson Robert Khalastchy and Amy YatemanSmith to be independent in character and judgement notwithstanding their shareholding andor share options in the Group.
+The Board through the Chairman and the NonExecutive Director as well as the Executive Directors maintains regular contact with its advisers and seeks to ensure that the Board develops an understanding of the views of the major shareholders about the Company.
+The Board meets regularly throughout the year and is responsible for formulating reviewing and approving the Companys strategy financial activities and operating performance.
+Daytoday management is delegated to the Executive Directors who are charged with consulting the Board on all significant matters.
+Consequently decisions are made promptly following consultation amongst the Directors concerned where necessary and appropriate.
+All necessary information is supplied to the Directors on a timely basis to enable them to discharge their duties effectively and all Directors have access to independent professional advice at the Companys expense as and when required.
+The Chairman is available to meet with institutional shareholders to discuss any issues and concerns regarding the Groups governance.
+The participation of the private and institutional investors at the AGM is welcomed by the Board.
+Internal Controls The Directors acknowledge their responsibility for the Companys and the Groups systems of internal controls which are designed to safeguard the assets of the Group and ensure the reliability of financial information for both internal use and external publication.
+Overall control is achieved by a regular detailed reporting system covering both technical progress of a project and the state of the Groups financial affairs.
+Any system of internal controls can provide only reasonable and not absolute assurance that material financial irregularities will be detected or that risk of failure to achieve business objectives is eliminated.
+The Directors consider that the system of internal controls operated effectively throughout the financial year and up to the date the financial statements were signed.
+Based on the size and complexity of the Group the Board of Directors do not consider that there is a need for any internal audit function.
+SysGroup Plc Annual Report and Accounts 2017 27
+Audit Committee The Company has established an Audit Committee that comprises of Michael Edelson Robert Khalastchy and Amy
+Michael Edelson is the Chairman of this Committee.
+The Audit Committee meets at least twice a year and is responsible for reviewing the integrity of the financial statements of the Group the Groups compliance with legal and regulatory requirements and the adequacy and effectiveness of the Groups internal financial controls and risk management processes including the extent to which internal audit review is required.
+It reviews the external auditors performance and independence and makes recommendations to the Board on the appointment of the auditors.
+Remuneration Committee The Company has established a Remuneration Committee that comprises Michael Edelson Robert Khalastchy and Amy YatemanSmith.
+Michael Edelson is the Chairman.
+The Committee meets at least twice a year and is responsible for determining and reviewing with the Board the policy for the remuneration of the Executive Directors and such other members of the executive management it is designated to consider.
+Within the terms of the agreed policy it determines the total individual remuneration of the Executive Directors.
+The Remuneration Committee also approves the design of and determines targets for any performance related pay schemes reviews the design of any share incentive plans determines the awards to the Executive Directors and determines the policy for and scope of pension arrangements for each Executive Director.
+Rule 21 of The AIM Rules for Companies and MAR Market Abuse Regulation The Group will comply with Rule 21 of the AIM Rules as amended to incorporate the provisions of MAR relating to dealing during close periods.
+The Group has a reasonable and effective dealing policy in place.
+All employees are notified when the company enters and exits close periods but the dealing code in any event requires that an employee seek permission from certain designated people before trading in the shares of the Group.
+The Market Abuse Regulation MAR came into effect on 3 July 2016.
+It aims to increase market integrity and investor protection enhancing the attractiveness of securities markets for capital raising.
+Human Resources The Group endeavours to appoint employees with appropriate skills knowledge and experience for the roles they undertake.
+The Group has a range of polices which are aimed at retaining and providing incentives for key staff.
+Objectives
+The Group has a clear and wellunderstood organisational structure and each employee knows his or her line of accountability.
+SysGroup Plc Annual Report and Accounts 2017 28 statement of directors responsibilities SysGroup Plc Annual Report and Accounts 2017 29 statement of directors responsibilities The Directors are responsible for preparing the Annual Report of the Directors and the Financial Statements in accordance with applicable law and regulations.
+Company law requires the Directors to prepare Financial Statements for each financial year.
+Under that law the Directors have elected to prepare the Group and Company financial statements in accordance with International Financial Reporting Standards IFRSs as adopted by the European Union.
+Under company law the Directors must not approve the Financial Statements unless they are satisfied that they give a true and fair view of the state of affairs of the Group and Company and of the profit or loss of the Group for that period.
+The Directors are also required to prepare financial statements in accordance with the rules of the London Stock Exchange for companies trading securities on Alternative Investment
+In preparing these Financial Statements the Directors are required to select suitable accounting policies and then apply them consistently make judgements and accounting estimates that are reasonable and prudent state whether they have been prepared in accordance with IFRSs as adopted by the European Union subject to any material departures disclosed and explained in the financial statements prepare the Financial Statements on the going concern basis unless it is inappropriate to presume that the Company will continue in business.
+The Directors are responsible for keeping adequate accounting records that are sufficient to show and explain the Companys transactions and disclose with reasonable accuracy at any time the financial position of the company and enable them to ensure that the Financial Statements comply with the requirements of the Companies Act 2006.
+They are also responsible for safeguarding the assets of the Company and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+Website publication The Directors are responsible for ensuring the annual report and the Financial Statements are made available on a website.
+Financial statements are published on the Companys website in accordance with legislation in the United Kingdom governing the preparation and dissemination of financial statements which may vary from legislation in other jurisdictions.
+The maintenance and integrity of the Companys website is the responsibility of the Directors.
+The Directors responsibility also extends to the ongoing integrity of the financial statements contained therein.
+By order of the Board Julian Llewellyn Company Secretary 06 June 2017 SysGroup Plc Annual Report and Accounts 2017 30 independent auditors report to the members of sysgroup plc SysGroup Plc Annual Report and Accounts 2017 31 independent auditors report to the members of sysgroup plc We have audited the financial statements of SysGroup plc for the year ended 31 March 2017 which comprise the Consolidated Statement of Comprehensive Income the Consolidated Statement of Financial Position the Company Statement of Financial Position the Consolidated Statement of Changes in Equity the Company Statement of Changes in Equity the Consolidated Statement of Cash Flows the Company Statement of Cash Flows and the related notes.
+The financial reporting framework that has been applied in their preparation is applicable law and International Financial Reporting Standards IFRSs as adopted by the European Union and as regards the parent company financial statements as applied in accordance with the provisions of the Companies Act 2006.
+This report is made solely to the Companys members as a body in accordance with Chapter 3 of Part 16 of the Companies Act 2006.
+Our audit work has been undertaken so that we might state to the Companys members those matters we are required to state to them in an auditors report and for no other purpose.
+To the fullest extent permitted by law we do not accept or assume responsibility to anyone other than the Company and the Companys members as a body for our audit work for this report or for the opinions we have formed.
+Respective Responsibilities of Directors and Auditors As explained more fully in the Statement of Directors Responsibilities the Directors are responsible for the preparation of the financial statements and for being satisfied that they give a true and fair view.
+Our responsibility is to audit and express an opinion on the financial statements in accordance with applicable law and International Standards on Auditing UK and Ireland.
+Those standards require us to comply with the Financial Reporting Councils FRCs Ethical Standards for
+Scope of the Audit of the Financial Statements A description of the scope of an audit of financial statements is provided on the FRCs website at www. rc.
+Opinion on Financial Statements In our opinion the financial statements give a true and fair view of the state of the groups and the parent companys affairs as at 31 March 2017 and of the groups profit for the year then ended the group financial statements have been properly prepared in accordance with IFRSs as adopted by the European
+Generally Accepted Accounting Practice and the financial statements have been prepared in accordance with the requirements of the Companies Act 2006.
+SysGroup Plc Annual Report and Accounts 2017 32 Opinion on other matters prescribed by the Companies Act 2006 In our opinion based on the work undertaken in the course of the audit the information given in the strategic report and directors report for the financial year for which the financial statements are prepared is consistent with the financial statements and the strategic report and directors report have been prepared in accordance with applicable legal requirements.
+Matters on which we are required to report by exception In the light of the knowledge and understanding of the group and the parent company and its environment obtained in the course of the audit we have not identified material misstatements in the strategic report or the directors report.
+We have nothing to report in respect of the following matters where the Companies Act 2006 requires us to report to you if in our opinion adequate accounting records have not been kept by the parent company or returns adequate for our audit have not been received from branches not visited by us or the parent company financial statements are not in agreement with the accounting records and returns or certain disclosures of directors remuneration specified by law are not made or we have not received all the information and explanations we require for our audit.
+Gary Harding Senior Statutory Auditor For and on behalf of BDO LLP Statutory Auditor
+United Kingdom 06 June 2017 BDO LLP is a limited liability partnership registered in England and Wales with registered number OC SysGroup Plc Annual Report and Accounts 2017 33 consolidated statement of comprehensive income SysGroup Plc Annual Report and Accounts 2017 34 consolidated statement of comprehensive income
+Group
+Group
+Revenue
+Total group revenue  continuing and discontinued operations 4 7865 4764 Revenue  discontinued operations 700 2249 Revenue  continuing operations 7165 2515 Cost of sales 2783 829 G r o s s p r o fi t 4382 1686 Operating expenses before depreciation amortisation acquisition and integration costs fair value adjustment and share based payments 3764 1579 Adjusted EBITDA  continuing 618 107 Depreciation  continuing 14 324 241 Amortisation of intangibles  continuing 13 326 205 Acquisition and restructuring costs  continuing 8 791 11 Fair value adjustment  continuing 300 270 Share based payments  continuing  10 Administrative expenses 5505 1756 Loss from operations 1123 70 Finance costs 6 27 44 Loss before taxation 1150 114 Taxation 12 20 41 Loss from continuing operations 1130 73 P r o fi t f r o m d i s c o n t i n u e d o p e r a t i o n s  n e t o f i n c o m e tax 23 1508 375 T o t a l c o m p r e h e n s i v e p r o fi t a t t r i b u t a b l e t o t h e equity holders of the company Basic earnings per share EPS 11 0.019 0.021 for the year ended 31 march 2017 SysGroup Plc Annual Report and Accounts 2017 35 consolidated statement of financial position SysGroup Plc Annual Report and Accounts 2017 36 consolidated statement of financial position
+Group
+Group
+Assets
+Noncurrent assets Goodwill 13 7440 4454 Intangible assets 13 1617 1329 Property plant and equipment 14 666 450 9903 6233 Current assets Trade and other receivables 16 1311 598 Cash and cash equivalents 3473 513 4784 1111 Total Assets 14687 7344 Equity and Liabilities Equity attributable to the equity shareholders of the parent Called up share capital 22 4620 2552 Share premium reserve  6493 Other reserve 1622 1008 Translation reserve 4 Retained earnings  losses 4843 5118 11089 4935 Noncurrent liabilities Obligations under finance leases 19 184 91 Contingent consideration due on acquisitions Deferred taxation 12 365 242 1239 768 as at 31 march 2017 SysGroup Plc Annual Report and Accounts 2017 37
+Group
+Group
+Current liabilities Trade and other payables 17 1671 718 Deferred Income 17 465 707 Other loans 18  105 Obligations under finance leases 19 223 111 2359 1641 Total Equity and Liabilities 14687 7344 The notes on pages 51 to 79 are an integral part of these financial statements.
+The consolidated financial statements on pages 33 to 79 were approved by the Board on 06 June 2017.
+Chris Evans
+Julian Llewellyn
+Registered number  SysGroup Plc Annual Report and Accounts 2017 38 company statement of financial position SysGroup Plc Annual Report and Accounts 2017 39 company statement of financial position
+2017 Company 2016 Company
+Noncurrent assets Investments 15 10429 6576 Property plant and equipment 14 56 33 10485 6609 Current assets Trade and other receivables 16 100 34 Cash and cash equivalents 2077 12 2177 46 Total Assets 12662 6655 Equity and Liabilities Called up share capital 22 4620 2552 Share premium reserve  6493 Other reserve 1622 1008 Retained earnings  losses 4048 5447 10290 4606 Noncurrent liabilities Amounts due from subsidiary undertakings 1531 1543 Contingent consideration due on acquisitions 2221 1978 Current liabilities Trade and other payables Total Equity and Liabilities 12662 6655 as at 31 march 2017 SysGroup Plc Annual Report and Accounts 2017 40 As permitted by section 408 of the Companies Act 2006 the holding companys profit and loss statement has not been included in the financial statements.
+For the year ended 31 March 2017 the Company made a loss of 86000 2016 loss of 386000 The notes on pages 51 to 79 are an integral part of these financial statements.
+The consolidated financial statements on pages 33 to 79 were approved by the Board on 06 June 2017.
+Chris Evans
+Julian Llewellyn
+Registered number  SysGroup Plc Annual Report and Accounts 2017 41 consolidated statement of changes in equity SysGroup Plc Annual Report and Accounts 2017 42 consolidated statement of changes in equity Attributable to equity holders of the parent
+Share premium account
+Translation reserve
+Total
+At 1 April 2015 2399 6493 656  5420 4128 Profit and comprehensive profit Issue of share capital 153  367   520 Expenses of share issue   7   7 Movement in share option reserve At 31 March 2016 2552 6493 1008  5118 4935 Profit and comprehensive profit Translation of foreign subsidiaries Issue of share capital placing 1686 3367    5053 Issue of share capital consideration Expenses of share issue  277    277 Capital reorganisation note 22 9583   9583 Movement in share option reserve At 31 March 2017 4620  1622 4 4843 11089 for the year ended 31 march 2017 SysGroup Plc Annual Report and Accounts 2017 43 The following describes the nature and purpose of each reserve within equity Reserve Description and purpose Share Premium Reserve Amount subscribed for share capital in excess of nominal values.
+Other Reserve Amount reserved for share based payments to be released over the life of the instruments and the equity element of convertible loans and the amount sub scribed for share capital in excess of nominal value on acquisition of another company Accumulated losses All other net gains and losses and transactions with owners e. recognised elsewhere.
+SysGroup Plc Annual Report and Accounts 2017 44 company statement of changes in equity SysGroup Plc Annual Report and Accounts 2017 45 company statement of changes in equity Attributable to equity holders of the Company
+Share premium reserve
+Accumulated losses
+At 1 April 2015 2399 6493 656 5061 4487 Loss for the period    386 386 Issue of share capital 153  367  520 Movement in share option reserve   8  8 Expenses of share issue   7  7 At 31 March 2016 2552 6493 1008 5447 4606 Loss for the period    86 86 Issue of share capital  share placing 1686 3367   5053 Issue of share capital  consideration 382  616  998 Expenses of share issue  277   277 Capital reorganisation note 22  9583  9583 Movement in share option reserve   2 2 4 At 31 March 2017 4620  1622 4048 10290 for the year ended 31 march 2017 SysGroup Plc Annual Report and Accounts 2017 46 consolidated statement of cash flows SysGroup Plc Annual Report and Accounts 2017 47 consolidated statement of cash flows
+Group
+C a s h fl ow s u s e d i n o p e r a t i n g a c t i v i t i e s Profit after tax 378 302 Profit net of tax  discontinued operations 1508 375 Adjustments for Depreciation and other amortisation 650 446 Fair Value adjustment on contingent consideration 300 270 Finance costs 27 44 Acquisition and integration costs 791 34 Share based payments  10 Taxation 20 41 O p e r a t i n g c a s h fl ow s b e f o r e m o v e m e n t i n wo r k i n g c a p i t a l 618 130 Increase in trade and other receivables 163 61 Increase in trade and other payables 544 35 Cash generated from operations 999 156 C a s h fl ow s f r o m i n v e s t i n g a c t i v i t i e s Payments to acquire property plant and equipment 380 111 Acquisition and integration costs 742 34 Acquisition of subsidiary net of cash acquired 3425 Net cash used in investing activities 4547 145 C a s h fl ow s f r o m fi n a n c i n g a c t i v i t i e s Net proceeds from issue of ordinary share capital 4722 7 Drawdown of loan facility  105 Repayment of loan facility 105 175 Repayment of loan notes  105 Loan note interest paid  9 Taxation paid 197 for the year ended 31 march 2017 SysGroup Plc Annual Report and Accounts 2017 48
+Group
+Interest element of finance lease payments 27 33 Drawdown of finance lease facility 189 Capital repayment of finance leases 153 110 N e t c a s h f r o m fi n a n c i n g a c t i v i t i e s 4429 334 Net increase decrease in cash and cash equivalents from continuing opera tions Cash flows fr om discontinued operations Net cash used for operating activities 99 518 Net cash provided for investing activities 1987 39 Net cash used for financing activities 7 69 Net increase in cash and cash equivalents from discontinued operations 2079 410 Cash and cash equivalents at the beginning of the year 513 426 Cash and cash equivalents at the end of the year 3473 513 SysGroup Plc Annual Report and Accounts 2017 49 company statement of cash flows SysGroup Plc Annual Report and Accounts 2017 50 company statement of cash flows
+Company
+C a s h fl ow s u s e d i n o p e r a t i n g a c t i v i t i e s Loss after tax 86 386 Adjustments for Depreciation and other amortisation 15 12 Fair Value adjustment on contingent consideration 300 270 Impairment of investments following disposal 1099 Finance costs  12 Acquisition costs 791 11 Share based payments  12 O p e r a t i n g c a s h fl ow s b e f o r e m o v e m e n t i n wo r k i n g c a p i t a l 2119 633 Increase in trade and other receivables 66 25 Increase in trade and other payables 86 26 Cash generated from operations 2139 632 C a s h fl ow s f r o m i n v e s t i n g a c t i v i t i e s Payments to acquire property plant and equipment 37 42 Acquisition and costs 742 11 Payment for shares in subsidiaries 3720 Net cash used in investing activities 4499 53 C a s h fl ow s f r o m fi n a n c i n g a c t i v i t i e s Net proceeds from issue ordinary share capital 4722 7 Paid toReceived from subsidiary company 297 817 Repayment of convertible loan  105 Loan note interest paid  10 N e t c a s h f r o m fi n a n c i n g a c t i v i t i e s 4425 695 Net increase decrease in cash and cash equivalents 2065 10 Cash and cash equivalents at the beginning of the year 12 2 Cash and cash equivalents at the end of the year 2077 12 for the year ended 31 march 2017 SysGroup Plc Annual Report and Accounts 2017 51 notes to the consolidated financial statements SysGroup Plc Annual Report and Accounts 2017 52 notes to the consolidated financial statements Accounting Policies SysGroup Plc the Company is a company incorporated and domiciled in the United Kingdom.
+The companys registered office is at Walker House Exchange Flags Liverpool L2 3YL.
+These consolidated financial statements comprise the Company and its subsidiaries together referred to as the Group.
+Statement of Compliance These Group and Company financial statements have been prepared in accordance with International Financial Reporting Standards IFRSs and IFRIC interpretations as endorsed by the European Union endorsed IFRS and with those parts of the Companies Act 2006 applicable to companies preparing their accounts under endorsed IFRS.
+Basis of Preparation The principal accounting policies adopted in the preparation of the Financial Statements are set out below.
+The policies have been consistently applied to all the years presented unless otherwise stated.
+The consolidated financial statements have been prepared under the historical cost basis except for the revaluation of certain financial liabilities which have been valued in accordance with IAS 39.
+The preparation of financial statements in compliance with adopted IFRS requires the use of certain critical accounting estimates.
+It also requires Group management to exercise judgement in applying the Groups accounting policies.
+The areas where significant judgements and estimates have been made in preparing the Financial Statements and their effect are disclosed in note 2.
+The financial statements are presented in pounds sterling rounded to the nearest thousand unless otherwise stated.
+Going Concern The Directors have prepared the Financial Statements on a going concern basis which assumes that the Group and the company will continue to meet liabilities as they fall due.
+The directors have reviewed forecasts prepared for the period ending 31 March 2018 and considered the projected trading forecasts and resultant cash flows together with confirmed loan facilities and other sources of finance.
+The Groups forecasts and projections taking account of reasonably possible changes in trading performance show that the Group can continue to operate within the current facilities available to it.
+The Directors therefore have a reasonable expectation that the Group has adequate resources to continue in operational existence for the foreseeable future and thus they continue to adopt the going concern basis of accounting in preparing the financial statements.
+Annual Report and Accounts 2017 53 New Standards and Interpretations Not yet Adopted At the date of authorisation of these financial statements the following standards and interpretations issued by the International Accounting Standards Board IASB have been adopted for the first time by the Group with no significant impact on its consolidated results or financial position Annual Improvements to IFRSs 20122014 Cycle Disclosure Initiative Amendments to IAS 1 A number of new standards amendments to standards and interpretations have been issued during the year ended 31 March 2017 but are not yet effective and therefore have not yet been adopted by the Group Amendments to IAS12 Recognition of Deferred Tax Assets for Unrealised Losses have not yet been endorsed but the IASB effective date will be 1 January 2017.
+IFRS 9 Financial Instruments is effective from 2018.
+This standard will simplify the classification of financial assets for measurement purposes but is not anticipated to have a significant impact on the financial statements.
+IFRS 15 Revenue from Contracts with Customers is effective after 1 January 2018.
+This standard will change how revenue is recognised based on a framework.
+The potential impact on the Group has not yet been fully assessed by management.
+IFRS 16 Leases is expected to be applicable after 1 January 2019.
+If endorsed this standard will affect the presentation of the Group financial statements with all leases apart from short term leases being recognised as on balance sheet finance leases with a corresponding liability being the present value of lease payments.
+The potential impact on the Group has not yet been assessed by management.
+The Group continues to monitor the potential impact of other new standards and interpretations which may be endorsed by the European Union and require adoption by the Group in future reporting periods.
+The adoption of these standards in future periods may have an impact on the results and net assets of the Group however it is too early to quantify this.
+Revenue
+Revenue is recognised to the extent that it is probable that the economic benefits associated with the transaction will flow into the Group.
+Revenue represents the fair value of amounts received or receivable for goods and services provided net of trade discounts and VAT.
+Revenue from the sale of domain name registrations is recognised when the domain name is registered or renewed.
+Revenue from value added resale is recognised as these products or services are delivered.
+Revenue from managed services is taken to deferred income on the balance sheet and recognised over the life of each contract.
+Basis of Consolidation Where the company has control over an investee it is classified as a subsidiary.
+The company controls an investee if all three of the following elements are present power over the investee exposure to variable returns from the investee and the ability of the investor to use its power to affect those variable returns.
+Control is reassessed whenever facts and circumstances indicate that there may be a change in any of these elements of control.
+The consolidated financial statements present the results of the company and its subsidiaries the Group as if they formed a single entity.
+Intercompany transactions and balances between group companies are therefore eliminated in full.
+The consolidated financial statements incorporate the results of business combinations using the acquisition method.
+SysGroup Plc Annual Report and Accounts 2017 54 In the statement of financial position the acquirees identifiable assets liabilities and contingent liabilities are initially recognised at their fair values at the acquisition date.
+The results of acquired operations are included in the consolidated statement of comprehensive income from the date on which control is obtained.
+They are deconsolidated from the date on which control ceases.
+Business Combinations All business combinations are accounted for by applying the purchase method.
+On acquisition all the subsidiaries assets and liabilities that exist at the date of acquisition are recorded at their fair values reflecting the conditions at that date.
+The results of subsidiaries acquired in the period are included in the income statement from the date on which control is obtained.
+Goodwill
+Goodwill represents the excess of the cost of a business combination over the total acquisition date fair value of the identifiable assets liabilities and contingent liabilities acquired.
+Goodwill is not amortised but is capitalised as an intangible asset with any impairment in carrying value being charged to the consolidated statement of comprehensive income.
+In determining the fair value of consideration the fair value of equity issued is the market value of equity at the date of completion and the fair value of contingent consideration is based on the expected future cashflows based on whether the directors believe performance conditions will be met and thus the extent to which the further consideration will be payable.
+Where the fair value of identifiable assets liabilities and contingent liabilities exceed the fair value of consideration paid the excess is credited in full to the consolidated statement of comprehensive income on the acquisition date.
+Impairment of NonFinancial Assets Impairment tests on goodwill and other intangible assets with indefinite useful economic lives are undertaken annually at the financial year end.
+Other nonfinancial assets are subject to impairment tests whenever events or changes in circumstances indicate that their carrying amount may not be recoverable.
+Where the carrying value of an asset exceeds its recoverable amount i. the higher of value in use and fair value less costs to sell the asset is written down accordingly.
+Where it is not possible to estimate the recoverable amount of an individual asset the impairment test is carried out on the assets cashgenerating unit i. identifiable cash flows that are largely independent of the cash flows from the other assets or Groups of assets.
+Goodwill is allocated on initial recognition to each of the Groups cashgenerating units that are expected to benefit from the synergies of the combination giving rise to the goodwill.
+The estimated future cash flows are discounted to their present value using a pretax discount rate that reflects current market assessments of the time value of money and the risks specific to the asset for which the estimates of future cash flows have not been adjusted.
+Foreign Currencies Transactions in foreign currencies are recorded using the rate of exchange ruling at the date of the transaction.
+Monetary assets and liabilities denominated in foreign currencies are translated using the rate of exchange ruling at the balance sheet date and the gains or losses on translation are included in the consolidated statement of comprehensive income.
+The results of foreign subsidiaries that have a functional currency different from the groups presentation currency are translated at the average rates of exchange for the year.
+Assets and liabilities of foreign subsidiaries that have a functional currency different from the groups presentation currency are translated at the exchange rates prevailing at the balance sheet date.
+Exchange differences arising from the translation of the results of foreign subsidiaries and their opening net assets are recognised as a separate component of equity.
+SysGroup Plc Annual Report and Accounts 2017 55 Segment Reporting Operating segments are reported in a manner consistent with the internal reporting provided to the chief operating decision maker.
+The chief operating decision maker has been identified as the Board of Directors.
+Financial Instruments Financial instruments are classified and accounted for according to the substance of the contractual arrangement as either financial assets financial liabilities or equity instruments.
+An equity instrument is any contract that evidences a residual interest in the assets of the company after deducting all of its liabilities.
+Financial Assets The Groups loans and receivables comprise trade and other receivables and cash and cash equivalents in the consolidated statement of financial position.
+Trade receivables are stated at their nominal value and an impairment provision will be recognised if there is evidence that the amount is irrecoverable and will be shown in administrative expenses in the Consolidated Statement of Comprehensive Income.
+Cash and cash equivalents includes cash in hand deposits held at call with banks.
+Share Capital Financial instruments issued by the Group are classified as equity only to the extent that they do not meet the definition of a financial liability or financial asset.
+The Groups ordinary shares are classified as equity instruments and are recorded at the proceeds received net of direct issue costs.
+Financial Liabilities The Group classifies its financial liabilities into one of two categories depending on the purpose for which it was acquired.
+The Groups accounting policy for each category is as follows Fair Value Through Profit or Loss  This category comprises only contingent consideration.
+They are carried in the statement of financial position at fair values with changes in fair value recognised in the consolidated income statement.
+Other Financial Liabilities  Other financial liabilities include trade payables and other shortterm monetary liabilities which are initially recognised at fair value and subsequently carried at amortised cost using the effective interest rate method.
+Fair Value Measurement Hierarchy IFRS 7 requires certain disclosures which require the classification of financial assets and financial liabilities measured at fair value to reflect the significance of the inputs used in making the fair value measurement.
+The fair value hierarchy has the following levels a.
+Quoted prices in active markets for identical assets or liabilities Level 1 b.
+Inputs other than quoted prices included within Level 1 that are observable for the asset or liability either directly i. as prices or indirectly i. c.
+Inputs from the asset or liability that are not based on observable market data Level 3 The level in the fair value hierarchy within which the financial asset or financial liability is categorised is determined on the basis of the lowest level input that is significant to the fair value measurement.
+Financial assets and financial liabilities are classified in their entirety into only one of the three levels.
+SysGroup Plc Annual Report and Accounts 2017 56 Share Based Payments The fair value of employee options granted is charged to the consolidated statement of comprehensive income with a corresponding increase in equity.
+The fair value is measured at grant date and spread over the period during which the employees become unconditionally entitled to the options.
+The fair value of the options granted is measured using the Black Scholes pricing model taking into account the terms and conditions upon which the options were granted.
+Leases
+Assets obtained under hire purchase contracts and finance leases are capitalised as tangible assets and depreciated over the shorter of the lease term and their useful lives.
+Obligations under such agreements are included in payables net of the finance charge allocated to future periods.
+The finance element of the rental payment is charged to the consolidated statement of comprehensive income so as to produce a constant periodic rate of charge on the net obligation outstanding in each period.
+Rentals payable under operating leases are charged against income on a straightline basis over the lease term.
+Property Plant and Equipment Items of property plant and equipment are stated at cost less depreciation.
+Depreciation is provided at annual rates calculated to write off the cost less estimated residual value of each asset over its expected useful life as follows IT hardware 20%  33.3% both reducing balance and straight line Furniture and fittings 20%  33.3% reducing balance Investment in Subsidiaries Fixed asset investments in the Parent Company are shown at cost less any provision for impairment as necessary.
+Research and Development Research expenditure is written off to the consolidated statement of comprehensive income in the year in which the expenditure occurs.
+Development expenditure is treated in the same way unless the directors are satisfied as to the technical commercial and financial viability of individual projects there is an intention to complete and sell the product and the costs can be easily measurable.
+In this situation the expenditure is capitalised and amortised expense is included in administrative expenses in the Consolidated Statement of Comprehensive Income over the years during which the Group is to benefit.
+Intangible Assets Intangible assets are recognised on business combinations if they are separable from the acquired entity or give rise to other contractual  legal rights.
+The amounts ascribed to such intangibles are arrived at by using appropriate valuation techniques see section related to critical estimates and judgements below.
+The significant intangibles recognised by the Group their estimated useful economic lives and the methods used to determine the cost of intangibles acquired in business combinations are as follows Intangible asset Customer relationships Estimated UEL 57 years Valuation method Estimated discounted cash flow SysGroup Plc Annual Report and Accounts 2017 57 Deferred Taxation Deferred tax assets and liabilities are recognised where the carrying amount of an asset or liability in the consolidated statement of financial position differs from its tax base except for differences arising on the initial recognition of goodwill the initial recognition of an asset or liability in a transaction which is not a business combination and at the time of the transaction affects neither accounting or taxable profit and investments in subsidiaries and jointly controlled entities where the Group is able to control the timing of the reversal of the difference and it is probable that the difference will not reverse in the foreseeable future.
+Recognition of deferred tax assets is restricted to those instances where it is highly probable that relief against taxable profit will be available.
+The amount of the asset or liability is determined using tax rates that have been enacted or substantively enacted by the reporting date and are expected to apply when the deferred tax liabilitiesassets are settledrecovered.
+Deferred tax assets and liabilities are offset when the Group has a legally enforceable right to offset current tax assets and liabilities and the deferred tax assets and liabilities relate to taxes levied by the same tax authority on either the same taxable Group company or different Group entities which intend either to settle current tax assets and liabilities on a net basis or to realise the assets and settle the liabilities simultaneously in each future period in which significant amounts of deferred tax assets or liabilities are expected to be settled or recovered.
+Deferred tax liabilities are recognised on intangible assets and other temporary differences recognised in business combinations.
+Significant Accounting Estimates and Judgements The preparation of this financial information requires management to make judgements estimates and assumptions that affect the amounts reported for assets and liabilities at the period end date and the amounts reported for revenues and expenses during each period.
+However the nature of estimation means that actual outcomes could differ from those estimates.
+The key sources of estimation that have a significant impact on the carrying value of assets and liabilities are discussed below.
+Impairment of Goodwill and Other Intangibles The Group tests goodwill for impairment on an annual basis in line with the accounting policy noted above.
+This involves judgement regarding the future development of the business and the estimation of the level of future profitability and cash flows to support the carrying value of goodwill.
+An impairment review has been performed at the reporting date and no impairment has been identified.
+More details including carrying values are included in note 13.
+Impairment of Other Assets The Group reviews the carrying value of all other assets for indications of impairment at each period end.
+If indicators of impairment exist the carrying value of the asset is subject to further testing to determine whether its carrying value exceeds its recoverable amount.
+SysGroup Plc Annual Report and Accounts 2017 58 Valuation of Intangibles Acquired in Business Combinations Determining the fair value of customer relationships acquired in business combinations requires estimation of the value of the cash flows related to those relationships and a suitable discount rate in order to calculate the present value.
+More details including carrying values are included in note 13.
+Valuation of Contingent Consideration When valuing the contingent consideration still payable on acquisitions the Group considers various factors including the performance of the acquired entity since acquisition together with its expected performance to the end of the earnout period.
+Following the adoption of IFRS 3 revised  Business Combinations contingent consideration is recognised at and carried thereafter at fair value.
+All changes in fair value other than measurement period adjustments are reflected in the income statement.
+Useful Economic Lives of Intangible Assets Intangible assets are amortised over their useful economic lives.
+Useful lives are based on managements estimates of the period over which the assets will generate revenue which are periodically reviewed for continued appropriateness.
+Changes to estimates can result in changes in the carrying values and hence amounts charged to the income statement in particular periods which could be significant.
+Financial Instruments  Risk Management
+The Groups financial instruments comprise cash and liquid resources and various items such as trade receivables and trade payables that arise directly from its operations.
+There have been no substantive changes in the Groups objectives policies and processes for managing those risks or the methods used to measure them from previous periods.
+The
+Groups objective is to ensure adequate funding for continued growth and expansion.
+All the Groups financial instruments are carried at amortised cost with the exception of contingent consideration.
+There is no material difference between the carrying and fair value of its financial instruments in the current or prior year due to the instruments bearing interest at fixed rates or being of short term nature.
+A summary of financial instruments held by category is shown below Group Company Financial assets Loans and receivables Cash and cash equivalents 3473 513 2077 12 Trade receivables 902 306 T o t a l fi n a n c i a l a s s e t s 819 2077 12 SysGroup Plc Annual Report and Accounts 2017 59 Group Company Financial liabilities At amortised cost Trade and other payables 1Loans and other borrowings 407 105 At fair value 1Contingent consideration 69telT o t a l fina n c ia l l ia b i l i t ie s Per the fair value hierarchy classifications under IFRS 7 Financial Instruments the contingent consideration due on acquisitions shown above are considered to be level 3 financial liabilities as there are no observable inputs for valuation.
+Group
+Company
+Contingent consideration At 1 April 2015 1225 1225 Settled during the year 520 520 Notional interest charged 132 132 Fair value adjustment through Income Statement 402 402 At acquisition 435 435 At 31 March telSettled during the year 666 666 Notional interest charged 116 116 Fair value adjustment through Income Statement 184 184 Fair value adjustment through Income Statement 621 621 At 31 March telThe fair value adjustment related to the change in fair value calculation of the contingent consideration payable on the Q4Ex acquisition.
+Liquidity Risk Liquidity risk arises from the Groups management of working capital and the finance charges and principal repayments on its debt instruments.
+It is the risk that the Group will encounter difficulty in meeting its financial obligations as they fall due.
+The Groups policy is to prepare periodic working capital forecasts allowing an assessment of the cash requirements of the Group and Company to manage liquidity risk.
+Cash resources are managed in accordance with planned expenditure forecasts and the Directors have regard to the maintenance of sufficient cash resources to fund the Group and Companys immediate operating requirements and capital expenditure.
+SysGroup Plc Annual Report and Accounts 2017 60 The following table sets out the contractual maturities representing undiscounted contractual cashflows of financial liabilities
+At 31st March 2016 Up to 3 months
+3 and 12 months
+1 and 2 years
+2 and 5 years
+5 years Trade and other payables 563 Contingent consideration   435 Loans and borrowings 28 188 91
+At 31st March 2017 Up to 3 months
+3 and 12 months
+1 and 2 years
+2 and 5 years
+5 years Trade and other payables 1409 Contingent consideration   690 Loans and borrowings Total 1
+At 31st March 2016 Up to 3 months
+3 and 12 months
+1 and 2 years
+2 and 5 years
+5 years Trade and other payables 71 Contingent consideration   435 Loans and borrowings Total 71  435
+At 31st March 2017 Up to 3 months
+3 and 12 months
+1 and 2 years
+2 and 5 years
+5 years Trade and other payables 134 Contingent consideration   690 Loans and borrowings Total 134  690   SysGroup Plc Annual Report and Accounts 2017 61 Interest Rate Risk The Group seeks to minimise exposure to interest rate risk by borrowing at fixed interest rates.
+Credit Risk The Group generally gives 30 day credit terms on its continuing business and provides against doubtful debts only when recoverability is considered to be at risk.
+For cash and cash equivalents the Group only uses recognised banks with high credit ratings.
+Capital Disclosures The Group monitors adjusted capital which comprises all components of equity i. retained earnings.
+The Groups objective when maintaining capital are to safeguard the entitys ability to continue as a going concern so that it can provide returns for shareholders in future periods and benefits for other stakeholders and to provide an adequate return to shareholders by pricing products and services commensurately with the level of risk.
+The Group sets the amount of capital it requires in proportion to risk.
+The Group manages its capital structure and makes adjustments to it in the light of changes in economic conditions and the risk characteristics of the underlying assets.
+Segmental Analysis The chief operating decision maker for the Group is the Board of Directors.
+The Group reports in three segments SME Mass Market  this segment provides a range of VPS shared hosting email and domain registration services to individuals and SMEs.
+This business was divested during the year.
+Managed Services  this segment provides all forms of Managed Services to customers.
+This segment was created on the acquisition of Netplan in November 2013 and has been further expanded with the acquisition of Q4Ex Ltd and System Professional Ltd.
+This segment was previously referred to as Managed Hosting.
+Value Added Resale VAR of productsservices  this segment provides all forms of VAR sales where the business is acting as a reseller.
+This segment was created following the acquisition of System Professional Ltd Information regarding the operation of the reportable segments is included below.
+The performance of each operating segment is based on revenue and earnings before interest tax depreciation and amortisation EBITDA before any allocation of Group overheads share based payments fair value adjustments or acquisition costs as the Board believe this is the best measure for performance.
+The Groups Adjusted EBITDA has been calculated after deducting Group overheads which include the cost of the Board Group marketing legal and professional fees share based payments fair value adjustments and acquisition costs.
+Assets and liabilities are not reviewed on a segmental basis.
+All segments are continuing operations.
+The accounting policies of the operating segments are the same as those described in the summary of significant accounting policies.
+Transactions between segments are accounted for using an arms length commercial basis.
+SysGroup Plc Annual Report and Accounts 2017 62 Revenue by operating segment % % SME Mass Market discontinued 700 9% 2249 47% Managed Services 5400 69% 2515 53% Value Added Resale VAR 1765 22% Total 7865 100% 4764 100% No individual customer accounts for more than 10% of the Groups revenue.
+The Group operates out of the UK and sells services to the following geographical locations % % UK 7267 92% 3792 80% Rest of World 598 8% 972 20% Total 7865 100% 4764 100% 2017 2016
+Depreciation and amortisation P r o fi t  l o s s before tax
+Depreciation and amortisation P r o fi t  l o s s before tax SME Mass
+Managed Ser vices Value Added Resale VAR 1566 680 886 1300 599 701
+Acquisition costs   804   34 Share based payments Fair value adjustment Group interest   27   51 Profit on sale of
+Total 829 695 320 666 611 248 SysGroup Plc Annual Report and Accounts 2017 63 Operating loss Operating loss is after charging the following Auditors remuneration Group Audit 36 31 Taxation  compliance 4 4 Corporate finance 75 Other advisory 1 1 Company Audit 4 4 D e p r e c i a t i o n o f t a n g i b l e fi x e d a s s e t s Owned 189 134 Held under finance leases 135 107 Amortisation of intangible assets 326 205 Share based payments  8 Rentals payable under operating leases 89 81 Acquisition and integration costs 791 34 Finance Expense Interest payable on finance leases 27 32 Interest payable on loan notes  12 Total 27 44 SysGroup Plc Annual Report and Accounts 2017 64 Staff Numbers and Costs The average number of full time persons employed by the Group including executive Directors during the year was 2017 2016 Research and Development 6 4 Technical Support 37 20 Sales and Marketing 5 1 Executive and Administration 8 6 Total 56 31 The aggregate payroll costs including executive Directors but excluding NonExecutive Director service fees were as follows Wages and salaries 3278 1387 Social security costs 289 156 Benefits in kind 24 6 Pension benefits accrued 31 23 Share based payment expense  8 Total 3622 1564 Total staff costs for the company are 339599 2016 328376.
+Average staff numbers for the year for the company are 5.
+Directors and Key Management Personnel Key management personnel are those persons having authority and responsibility for planning directing and controlling the activities of the Group they are also the Directors of the Company listed on page 19.
+Fees and salaries 395 287 Social security costs 27 156 Benefits in kind 3 3 Pension 12 23 Share based payment expense  8 Total 437 290 SysGroup Plc Annual Report and Accounts 2017 65 The emoluments of the highest paid director Julie Joyce were 126000 2016 Christopher Evans 96000.
+The Group does not operate a defined benefit pension scheme and executive Directors who are entitled to receive pension contributions may nominate a defined contribution scheme into which the Company makes pension contributions.
+The fees relating to NonExecutive Directors are in some cases payable to third parties in connection with the provision of their services.
+Acquisition and Restructuring Costs Professional fees on acquisition of System Professional Ltd 414 4 Professional fees on aborted transaction 38 30 Integration and restructuring of continuing business 339 Total 791 34 Integration and restructuring costs relate to closing and relocating officesteams streamlining operations and establishing single front and back office IT platformssystems.
+This includes costs of 161k in relation to the use of internal management and technical staff resources to deliver the changes.
+Share Based Payments and Warrants The Company has granted a number of EMI options.
+The Directors have the discretion to grant options to subscribe for ordinary shares up to a maximum of 10 per cent of the Companys issued share capital.
+Options can be granted to any employee of the Group.
+There are no performance criteria associated with the options.
+The weighted average exercise price is 50.97p per share.
+Rights to options over ordinary shares of the Company are summarised as follows Grant date
+Exercise period
+At
+31 March 2016 Granted Waived
+31 March to 300717 28p 89286   89286 to 181222 40p 2175000   2175000 to 111223 60p 625000   625000 to 010325 62.8p 100000   100000 to 130825 68p 1000000   1000000 SysGroup Plc Annual Report and Accounts 2017 66 Grant date
+Exercise period
+At
+31 March 2016 Granted Waived
+31 March to 200226 55.2p 475000   475000 to 140826 60.5p  125000 125000 to 120926 60.5p  5000  5000 Total   4464286 130000 125000 4469286 The options have been valued using the Black Scholes method using the following assumptions Number of instruments granted 89286 2175000 625000 100000 Grant date 230309 191212 121213 020315 Expiry date 300717 181222 111223 010325 Contract term years 8.
+Share price at granting 200p 100p 85p 62p Annual risk free rate % 5% 0.5% 0.5% 0.5% Annual expected dividend yield % 0% 0% 0% 0% Volatility % 50% 40% 90% 40% Fair value per grant instrument 18.4p 54.4p 74.46p 32p Number of instruments granted 1000000 475000 5000 Grant date 140815 210216 130916 Expiry date 130825 200226 120926 Contract term years 10 10 10 Exercise price 68p 55.2p 60.5p Share price at granting 68p 70.8p 60.5p Annual risk free rate % 0.5% 0.5% 0.5% Annual expected dividend yield % 0% 0% 0% Volatility % 90% 55% 55% Fair value per grant instrument 57.6p 47.6p 52.17p The inputs to the share valuation model utilised at the grant of option is shown in the tables above.
+Management has SysGroup Plc Annual Report and Accounts 2017 67 determined volatility using their knowledge of the business.
+At 31 March 2017 there were 140000 outstanding warrants to subscribe for the ordinary share capital of the Company as follows Grant date
+Exercise period 200p Total 09012012 08012022 140000 140000 The fair value of the convertible loan warrants has been calculated at 0.36p based on the following assumptions  share price at granting 50p annual risk free rate 0.5% and volatility 20%.
+No provision has been made for the convertible loan note warrants in shared based payments.
+Acquisitions
+There has been one acquisition during the period.
+The Board strategically expect acquisitions to be a common component of growth in the future.
+Acquisitions made during the year to 31 March 2017 were System Professional Ltd The Group acquired 100% of the share capital of System Professional Ltd SysPro on 4 July 2016.
+SysPro provides managed services cloud hosting value added resale services and IT consultancy support.
+During the year to 31 March 2017 the Group incurred 414000 of costs in relation to this acquisition.
+These costs are included in administrative expenses in the Groups consolidated statement of comprehensive income for the year ended 31 March 2017.
+The amount of identifiable net assets assumed at the acquisition date is shown below Recognised amounts of net assets acquired and liabilities assumed Fair Values Cash and cash equivalents 289 Trade and other receivables 589 Property plant and equipment 96 Stock and work in progress 69 Intangible assets 948 Trade and other payables 579 Current income tax liability 383 Deferred tax liability 203 Identifiable net assets 826 Goodwill 3844 SysGroup Plc Annual Report and Accounts 2017 68 Recognised amounts of net assets acquired and liabilities assumed Fair Values Total consideration 4670 Satisfied by Cash consideration  paid on acquisition Consideration  new ordinary shares issued at 60p per share Contingent consideration Total consideration 4670 The fair value of acquired customer relationships intangible asset has been estimated using a discounted cashflow method based on the estimated level of profit to be generated from them.
+A post tax discount rate of 19% was used in the valuation.
+Customer relationships are being amortised over an estimated useful life of 5 years.
+The acquisition of Sys Pro included a contingent consideration which is payable 85% in cash and 15% in shares at 60p resulting in the issue of 975000 consideration shares in respect of the 15%.
+The contingent consideration payable is based on delivering certain performance criteria and is capped at 1.865m.
+The earn out period is to 31 March 2018 unless achieved in 31 March 2017.
+If EBIT earnings before interest and tax of less than 714k in the year ended 31 March 2018 then no consideration is payable there is a ratchet mechanism and a set of ranges.
+Achieving the maximum potential consideration would require SysPro to deliver 1.3m or more of EBIT for the respective full financial year.
+Since the acquisition date to 31 March 2017 System Professional Limited has contributed 4058034 to Group revenue and 331472 to Group EBITDA.
+Had the acquisition taken place on 1 April 2016 the contribution to Group revenue would have been 5208639 and 911283 to Group EBITDA.
+Earnings Per Share 2017 2016 Profit for the financial year attributable to shareholders 378000 248000 Weighted number of equity shares used in basic EPS 19805397 12076486 Weighted number of equity shares used in diluted EPS 20164861 12076486 Basic earnings per share 0.0190 0.0205 Diluted earnings per share 0.0187 0.0205 Basic earnings per share is calculated by dividing the earnings attributable to equity shareholders by the weighted average number of ordinary shares in issue during the year excluding treasury shares which are treated as cancelled.
+For diluted earnings per share the weighted average number of ordinary shares in issue during the year is adjusted to include the weighted average number of ordinary shares that would be issued on the conversion of all the dilutive potential ordinary shares into ordinary shares.
+SysGroup Plc Annual Report and Accounts 2017 69
+Current tax charge 65 31 Deferred tax Timing differences 123 85 Total tax charge 58 54 Factors affecting the tax charge for the year P r o fi t  l o s s  o n o r d i n a r y a c t i v i t i e s b e f o r e t a x a t i o n 320 248 Profit loss on ordinary activities before taxation multiplied by the Standard rate of UK corporation tax of 20% 201620% E ff e c t s o f Tax losses  3 Deferred tax movements 123 85 Total tax charge 58 54 The Group recognised deferred tax assets and liabilities as follows Deferred tax on customer relationships 242 267 Capital allowances timing differences 123 25 Deferred tax liability 365 242 Recognition of deferred tax assets is restricted to those instances where it is highly probable that relief against taxable profit will be available.
+The movement in the deferred tax account during the year was
+Customer relationships
+Balance at 1 April 2016 25 267 242 Credited to statement of comprehensive income 25 98 123 Balance at 31 March 2017  365 365 SysGroup Plc Annual Report and Accounts 2017 70 Intangible Assets
+Website
+Cost
+Development
+Cost
+Software
+Cost
+Customer
+Relationships
+Positive
+Goodwill
+Total
+At 1 April tel7 1914 4454 6804 Additions   54   54 Acquired from acquisition
+At 31 March tel61 1914 4454 6858 At 1 April tel61 1914 4454 6858 Acquired from acquisitions 948 3844 4792 Additions   11   11 Disposals  232  479 858 1569 At 31 March 2017 197  72 2383 7440 10092 Accumulated amortisation and impairment At 1 April tel1 354  756 On disposals Charge for the year 11  7 301  319 At 31 March tel8 655  1075 At 1 April tel8 655  1075 On disposals  232  479  711 Charge for the year 11  22 638  671 At 31 March 2017 191  30 814  1035 Net book value At 31 March 2016 17  53 1259 4454 5783 At 31 March 2017 6  42 1569 7440 9057 SysGroup Plc Annual Report and Accounts 2017 71 The Company held no intangible assets at 31 March 2017 or 31 March 2016.
+All amortisation and impairment charges are included in the depreciation amortisation and impairment of nonfinancial assets classification which is disclosed as administrative expenses in the statement of comprehensive income.
+During the year goodwill was reviewed for impairment in accordance with IAS 36 Impairment of Assets.
+No impairment charges arose as a result of this review.
+The recoverable amount is determined based on a discounted cash flow basis and is allocated to individual cash generating units.
+The calculation uses pretax cash flow projections based on financial budgets approved by the Board covering a two year period.
+Cash flows beyond the two year period are extrapolated using the estimated growth rates stated below.
+The growth rates and margins used to estimate future performance are based on past performance and the experience of growth rates.
+The carrying value of each CGU is as follows SME Mass Market divested in year  620 Netplan 5348 4977 System Professional 4585 Total 9932 5597 The assumptions used for the impairment reviews are as follows
+Professional Netplan Discount rate 19% 19% Growth rate year 2 to year 5 10% 10% Terminal growth rate 5% 5% Forecast period for which cashflows are estimated 2 years 2 years The Group had no contractual liability for development costs at 31st March 2017.
+As a result of the impairment testing carried out on the basis of these estimates and assumptions no impairment provisions are required.
+The recoverable amount for the Netplan and System Professional businesses exceeds the carrying value of the total net assets by 2.8m.
+A 1% increase in the discount rate would reduce the recoverable amount by approximately 0.5m.
+A 4% reduction in the growth rate would reduce the recoverable amount by approximately 0.27m.
+SysGroup Plc Annual Report and Accounts 2017 72 Property Plant and Equipment
+Furniture and equipment
+At 1 April 2015 1341 1341 Additions 161 161 Acquisition of subsidiary Disposals 11 11 At 31 March 2016 1491 1491 At 1 April 2016 1491 1491 Additions 571 571 Acquisition of subsidiary 96 96 Disposals 737 737 At 31 March 2017 1421 1421 Accumulated depreciation At 1 April telCharge for the year 294 294 On disposal 2 2 At 31 March 2016 1041 1041 At 1 April 2016 1041 1041 Charge for the year 337 337 On disposal 624 624 At 31 March telNet book value At 31 March telAt 31 March telAt 31 March telIncluded in the net book value of 666000 2016 450000 are assets held under finance leases with a NBV of 340291 2016 151000.
+The depreciation for the year on these assets was 135000 2016 77000.
+SysGroup Plc Annual Report and Accounts 2017 73
+Furniture and equipment
+At 1 April 2015 3 3 Additions 42 42
+At 31 March 2016 45 45 At 1 April 2016 45 45 Additions 36 36
+At 31 March 2017 81 81 Accumulated depreciation At 1 April 2015 On disposal Charge for the year 12 12 At 31 March 2016 12 12 At 1 April 2016 12 12 On disposal Charge for the year 13 13 At 31 March 2017 25 25 Net book value At 31 March 2015 3 3 At 31 March 2016 33 33 At 31 March 2017 56 56 The Company held no finance leases at 31 March 2017 or 31 March 2016.
+SysGroup Plc Annual Report and Accounts 2017 74
+Company
+Investment in Subsidiaries At 1 April 2016 6576 6576 Additions 4952 Impairment following disposals 1099 Cost 31 March 2017 10429 6576 The Companys subsidiary undertakings all of which are wholly owned unless otherwise stated and included in the consolidated accounts are Undertaking Registration Principal activity System Professional Ltd England Managed Services Netplan Internet Solutions Limited England Managed Services Netplan LLC USA Managed Services SysGroup DIS Ltd England Managed Services SysGroup NH Ltd England Managed Services Project Clover Ltd England Managed Services SysGroup EH Ltd England Managed Services Netplan LLC is a wholly owned subsidiary of Netplan Internet Solutions Ltd The recoverable amounts have been determined from discounted cash flow calculations based on cash flow projections from approved budgets covering a oneyear period to 31 March 2018.
+The major assumptions can be found in note 13.
+The impairment charge above relates to the disposal of the SME segment during the period.
+SysGroup NH Limited Company Number  SysGroup EH Limited Company Number  SysGroup DIS Ltd Company number  Project Clover Ltd Company number  are taking advantage of the exemption from audit under section 479a of the Companies Act 2006 following the guarantee provided by SysGroup plc under section 479C of the companies Act 2006.
+The registered office of all subsidiaries is the same as the registered office of the parent company.
+SysGroup Plc Annual Report and Accounts 2017 75 Trade and Other Receivables Amounts due within one year
+Company
+Group
+Company
+Trade debtors 902  306 Other debtors Amounts owed by subsidiary undertakings Prepayments and accrued income Total Debtors 1The Group is not exposed to any significant credit risk from trade receivables.
+Trade and Other Payables Amounts falling due within one year
+Company
+Group
+Company
+Trade payables Corporation tax 106  62 Other payables Accruals Total financial liabilities excluding loans and borrowings measured at amortised cost 1Other taxes and social security costs Deferred Income 465  707
+2136 151 1425 71 Contingent consideration due on acquisitions
+Company
+Group
+Company
+Q4Ex Ltd   435 435 System Professional 690 690 The fair value of contingent consideration was based on the present value of cash flows and the market value of the shares to be issued.
+SysGroup Plc Annual Report and Accounts 2017 76 To the extent trade payables and other payables are not carried at fair value in the consolidated balance sheet book value approximates to fair value at 31 March 2017 and 31 March 2016.
+Maturity of the financial liabilities excluding loans and borrowings classified as financial liabilities measured at amortised cost is shown in note 3.
+Loans and Borrowings The book value and fair value of loans and borrowings are as follows
+Group
+Company
+Group
+Company
+Finance lease creditor 184  91 Total 184  91
+Group
+Company
+Group
+Company
+Convertible loan Other loan   105 Finance lease creditor 223  111 Total 223  216
+Group Finance Leases Future lease payments are due as follows Minimum Lease Payments 2016
+Present
+Value 2016 Not later than one year 126 15 111 Later than one year and not later than 5 years 97 6 91 Later than 5 years Total 223 21 202 SysGroup Plc Annual Report and Accounts 2017 77 Minimum Lease Payments 2017
+Present
+Value 2017 Not later than one year 235 12 223 Later than one year and not later than 5 years 189 5 184 Later than 5 years The Company has no finance leases.
+Group Operating Leases The total future value of minimum lease payments is due as follows
+Property 2017
+Leasehold
+Property 2016
+Within one year 109  60 Within two to five years 364  131 After five years 13  35 Total 486  226 Company Operating Leases
+Property 2017
+Leasehold
+Property 2016
+Within one year 13  13 Within two to five years 52  65 After five years Total 65  78 Contingent Liabilities There are no contingent liabilities at the yearend for either the Group or Company.
+SysGroup Plc Annual Report and Accounts 2017 78 Related Party Transactions Details of Directors remuneration are given in the Directors Remuneration Report.
+Other related party transactions are as follows
+Balance Due to Related Party Related party relationship Type of Transaction
+Use of personal credit cards to pay online suppliers Companies in which directors or their immediate family have a significant  controlling interest Provision of management services and website design Share Capital and Capital Restructuring
+Company
+Group
+Company
+Allotted called up and fully paid At start of year 510379335 Ordinary shares of 0.5p each consolidated to 12759484 shares of 20 pence and later reduced by capital reduction to 1p 2552 2552 2399 2399 Issued during the year 10344414 Ordinary shares of 20p 2068 2068 153 153 At end of year 23103898 Ordinary shares of 1p 4620 4620 2552 2552 Following a 1 for 40 share consolidation each block of 40 shares with a nominal value of 0.5p share became one single share of 20 pence then following a capital reduction became 1p one pence this is further setout in the note below.
+On 15 June 2016 the Group announced the proposed acquisition of SysPro and a placing of 8333334 new ordinary shares at 60 pence per share to raise 5.0 million gross.
+The Group also announced a share consolidation and a capital reduction.
+As at the date of that announcement the Company had 510379335 existing Ordinary Shares in issue and the midmarket price of each existing ordinary share as at the close of business on 14 June 2016 was 0.0165 1.65 pence.
+The Directors considered that the share consolidation was necessary in order to increase the marketability of the Companys shares through the creation of a higher price per share.
+Shareholder approval was granted at the General Meeting GM held on 5 July 2016 with 40 existing ordinary shares becoming one new ordinary share.
+The Share Consolidation reduced the number of existing ordinary shares in issue from 510379360 after the issue to the Company Secretary of an additional 25 existing ordinary shares for the purpose of effecting the share consolidation given that the number of existing ordinary shares in issue is not divisible by 40 to new ordinary shares 12759484 and increased the nominal value of the Companys shares from 0.005 0.5 pence to 0.20 20 pence.
+SysGroup Plc Annual Report and Accounts 2017 79 The nominal share capital of each new ordinary share was then reduced to 0.01 1 pence following a Court sanctioned capital reduction.
+This capital reduction was approved at the same GM and became effective following the registration of the Court Order with Companies House on 4 August 2016.
+The Capital Reduction as approved by the Court created realised profits of 10250042 which was applied in eliminating the accumulated deficit on the Companys profit and loss account.
+The Group now has distributable reserves and so is in a position to pay a dividend in the future if appropriate.
+When appropriate a progressive dividend policy will be adopted.
+Discontinued Operations Discontinued operations relate to the SME Mass Market business.
+The trade and assets of this business were disposed of on 22 July 2016 for a total cash consideration of 2735727 less an initial amount of 465519 in respect of advance receiptspayments.
+The following table summarises the results of the SME Mass Market segment included in discontinued operations in the Consolidated statement of income Year to 31 March 2017 Year to 31 March 2016 Sales 700 2249 Costs and expenses 566 1887 Profit on sale 1336 Profit before tax 1470 362 Taxation 38 13 P r o fi t a t t r i b u t a b l e t o t h e s h a r e h o l d e r s o f t h e c o m p a n y 1508 375 Profit on disposal is calculated as the fair value of consideration received less the fair value of assets and liabilities disposed.
+Earnings per share for discontinued activities is 0.076 Post Balance Sheet Event On 06 June 2017 the Group entered into a Deed of Variation with the Vendors of System Professional Ltd.
+In consideration of payment by SysGroup plc of 150000 and various legal waivers to the Vendors of System Professional Ltd the earn out was considered satisfied and the Group released from various Sellers Protections allowing for the business to be integrated at a faster rate and allowed for the exit of certain of the vendor management team and for other changes to be made within the business.
+SysGroup Plc Annual Report and Accounts 2017 80 notice of annual general meeting SysGroup Plc Annual Report and Accounts 2017 81 notice of annual general meeting Notice is hereby given that the Annual General Meeting of SysGroup plc Company will be held on Friday 25 August 2017 at 10.00 am at SysGroup Plc Walker House Exchange Flags Liverpool L2 3YL for the purpose of considering and if thought fit passing the resolutions set out below of which Resolutions 1 to 6 will be proposed as ordinary resolutions and Resolutions 7 and 8 will be proposed as special resolutions.
+Ordinary Business To consider and if thought fit pass the following resolutions TO receive consider and adopt the Annual Report and Financial Statements for the year ended 31 March 2017 together with the Directors and Auditors Reports contained therein.
+TO reappoint John Michael Edelson as a director who retires by rotation.
+TO reappoint Amy Louise YatemanSmith as a director in accordance with the Companys articles of association.
+TO reappoint Julian David Llewellyn as a director in accordance with the Companys articles of association.
+TO reappoint BDO LLP Chartered Accountants as auditors of the Company and authorise the Directors to fix their remuneration.
+THAT in accordance with section 551 of the CA 2006 the Directors be generally and unconditionally authorised to allot Relevant Securities as defined in the notes to this resolution a.
+153000 such amount to be reduced by the nominal amount of any Relevant Securities allotted pursuant the authority in resolution 6. i. ii. b. amount of any equity securities allotted pursuant to the authority in resolution 6.
+SysGroup Plc Annual Report and Accounts 2017 82 the date of this resolution or if earlier the date of the next annual general meeting of the Company save that the Company may before such expiry make offers or agreements which would or might require Relevant Securities to be allotted and the Directors may allot Relevant Securities in pursuance of such offer or agreement notwithstanding that the authority conferred by this resolution has expired.
+This resolution revokes and replaces all unexercised authorities previously granted to the Directors to allot Relevant Securities but without prejudice to any allotment of shares or grant of rights already made offered or agreed to be made pursuant to such authorities.
+For the purposes of the resolution Relevant Securities means i. ii. defined by section 1166 of the CA 2006.
+References to the allotment of Relevant Securities in the resolution include the grant of such rights.
+Special Business As special business to consider and if thought fit pass the following resolutions THAT subject to the passing of resolution 6 the Directors be given the general power to allot equity securities as defined by section 560 of the Act for cash either pursuant to the authority conferred by resolution 6 or by way of a sale of treasury shares as if section  of the Act did not apply to any such allotment provided that this power shall be limited to a. i. ii. b. amount of 23103.
+The power granted by this resolution will expire 15 months from the date this resolution is passed or if earlier the SysGroup Plc Annual Report and Accounts 2017 83 conclusion of the Companys next annual general meeting unless renewed varied or revoked by the Company prior to or on such date save that the Company may before such expiry make offers or agreements which would or might require equity securities to be allotted after such expiry and the Directors may allot equity securities in pursuance of any such offer or agreement notwithstanding that the power conferred by this resolution has expired.
+This resolution revokes and replaces all unexercised powers previously granted to the Directors to allot equity securities as if section  of the 2006 Act did not apply but without prejudice to any allotment of equity securities already made or agreed to be made pursuant to such authorities.
+TO authorise the Company generally and unconditionally to make market purchases within the meaning of section of the Companies Act 2006 of ordinary shares of 0.01 each Ordinary Shares provided that a. b. c. i.
+105 per cent of the average market value of an Ordinary Share in the Company for the five business days prior to the day the purchase is made and ii. d. may be executed wholly or partly after the expiry of such authority.
+By order of the board Julian Llewellyn Registered Office Company Secretary Walker House 11 July 2017 Exchange Flags Liverpool L2 3YL SysGroup Plc Annual Report and Accounts 2017 84
+Any member entitled to attend and vote at the Annual General Meeting is entitled to appoint one or more proxies who need not be a member of the Company to attend and to vote instead of the member.
+Completion and return of a form of proxy will not preclude a member from attending and voting at the meeting in person should he subsequently decide to do so.
+In order to be valid any form of proxy and power of attorney or other authority under which it is signed or a notarially certified or office copy of such power of attorney must reach the Companys registrars Computershare Investor Services PLC The Pavilions Bridgwater Road Bristol BS99 6ZY not less than 48 hours excluding weekends and bank holidays before the time of the meeting or of any adjournment of the meeting.
+Pursuant to Regulation 41 of the Uncertificated Securities Regulations 2001 the Company specifies that to be entitled to attend and vote at the meeting and for the purposes of the determination by the Company of the number of votes they may cast holders of Ordinary Shares must be entered on the relevant register of securities by 10.00 am on 23 August 2017.
+Changes to entries on the relevant register of securities after 10.00am on 23 August 2017 shall be disregarded in determining the rights of any person to attend and vote at the meeting.
+Copies of the service contracts and letters of appointment of each of the Directors of the Company together with the Register of Directors Interests will be available for inspection at the registered office of the company during usual business hours on any weekday Saturday and public holidays excluded and at the place of the Annual General Meeting from at least 15 minutes prior to and until the conclusion of the Annual General Meeting.
+The Directors have no present intention of exercising either the allotment authority under resolution 6 or the disapplication of preemption rights authority under resolution 7.

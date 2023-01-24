@@ -1,0 +1,1225 @@
+ANNUAL
+REPORT
+AND
+ACCOUNTS
+YEAR ENDED 31 MARCH COMPANY NO ANNUAL REPORT AND ACCOUNTS YEAR ENDED 31 MARCH 2017 This Annual Report contains forwardlooking statements.
+These include but are not limited to statements regarding the growth and prospects of the digital advertising industry forecasts regarding Internet usage and advertising spend projected levels of growth in our markets our expectations about the factors that drive business the growth of our business and revenues the potential for declines in our revenue our plans to continue to invest in our people processes and products our plans to continue our current pace of acquisitions our investments in international and emerging markets and sectors estimates of future compensation expenses our plans to use funds operating expenses and other statements regarding our prospects and business strategies.
+By their nature forwardlooking statements involve risk and uncertainty because they relate to future events and circumstances including but not limited to US and UK domestic and global economic and business conditions the effects of blogs and media coverage the effects of continued volatility in credit markets marketrelated risks such as changes in interest rates and exchange rates the policies and actions of governmental and regulatory authorities changes in legislation the further development of standards and interpretations under International Financial Reporting Standards IFRS applicable to past current and future periods evolving practices with regard to the interpretation and application of standards under IFRS the outcome of pending and future litigation the success of future acquisitions and other strategic transactions and the impact of competitiona number of which are beyond RhythmOnes control.
+As used herein RhythmOne the Company the Group we our and similar terms include RhythmOne plc and its subsidiaries unless the context indicates otherwise.
+RhythmOne and other trademarks of ours appearing in this report are our property.
+This report contains additional trade names and trademarks of other companies.
+We do not intend our use or display of other companies trade names or trademarks to imply an endorsement or sponsorship of us by such companies or any relationship with any of these companies.
+Except as required by the Financial Conduct Authority FCA Alternative Investment Market AIM or applicable law RhythmOne expressly disclaims any obligation or undertaking to release publicly any updates or revisions to any forward any changes in RhythmOnes expectations with regard thereto or any changes in events conditions or circumstances on which any such statement is based.
+Neither the content of the Companys website or any other website nor the content of any website accessible from hyperlinks on the Companys website or any other website is incorporated into or forms part of this report.
+None of these statements should be construed as a recommendation to invest in the
+SAFE HARBOR DISCLOSURE CONTENTS STRATEGIC REPORT
+KEY HIGHLIGHTS
+BUSINESS OVERVIEW
+CHAIRMANS STATEMENT
+CEOS REPORT CFOS REPORT CORPORATE STRATEGY COMMERCIAL MODEL
+CORPORATE GOVERNANCE REPORT BOARD OF DIRECTORS
+REMUNERATION COMMITTEE REPORT
+AUDIT COMMITTEE REPORT NOMINATION COMMITTEE REPORT DIRECTORS REPORT
+INDEPENDENT AUDITORS REPORT
+CONSOLIDATED INCOME STATEMENT CONSOLIDATED BALANCE SHEET CONSOLIDATED CASH FLOW STATEMENT NOTES TO FINANCIAL STATEMENTS SHAREHOLDER INFORMATION AND ADVISORS 80
+81 KEY HIGHLIGHTS FY2017 was a pivotal year for RhythmOne.
+With a return to underlying
+OPERATIONS AND GOVERNANCE side
+Core revenue is revenue recognized within Continuing Operations in the NonCore revenue is revenue recognized within Discontinued Operations Discontinued Operations.
+Millions FY2017 1 FY2017 WAS A PIVOTAL YEAR FOR RHYTHMONE THE COMPANY REINFORCED ITS POSITION AS A LEADING MULTICHANNEL MULTIFORMAT PROGRAMMATIC PLATFORM WITH SIGNIFICANT SCALE CUTTINGEDGE TECHNOLOGY AND UNIQUE HIGHQUALITY INVENTORY.
+Time Period FY2017 top  FY2016 bottom
+REVENUE
+ADJ.
+EBITDA
+NET CASH and
+SECURITIES
+RHYTHMONE
+MARKET OUTLOOK DOMINANCE OF PROGRAMMATIC TRADING BUSINESS OVERVIEW
+ECOSYSTEM
+DEVICES
+CONTENT
+RhythmOne
+AUDIENCES BRANDS 5tel Source eMarketer Comparative Estimates 2017
+OPERATING MODEL
+MODEL
+DEVICES
+CONTENT
+RhythmOne
+AUDIENCES PUBLISHERS AGENTS BRANDS 7
+Revenue
+EQUATION
+Denitions
+Volume T otal number of ad requests processed through the platform and available to monetize Fill Proportion of ad requests actually monetized based on ltering targeting and availability of demand Price Weighted average price of inventory across all ad formats owing through the platform
+FILL
+RATE
+PRICE REVENUE 8 RHYTHMONE HAS GROWN INTO A SIGNIFICANT DIGITAL ADVERTISING ENTITY WITH MASSIVE SCALE CUTTINGEDGE TECHNOLOGY AND QUALITY DIFFERENTIATED SUPPLY.
+THE COMPANY IS WELL ON ITS WAY TO BECOMING A FULL STACK PROVIDER THAT RIVALS THE SCALE AND SCOPE OF THE SUPERMAJORS. development efforts.
+CHAIRMANS STATEMENT
+Raj Chellaraj Chairman of the Board of Directors 10 CEOS REPORT Subhransu Brian
+Chief Executive Officer 11
+THE COMPANYS CORE PRODUCT INVESTMENTS AND INITIATIVES HAVE PROVIDED THE STRUCTURE FOR
+ORGANIC AND INORGANIC GROWTH AS THE COMPANY
+THROUGH THE VALUE CHAIN STREAMLINING THE VALUE EXCHANGE BETWEEN CONSUMERS AND ADVERTISERS.
+Richard OConnor Chief Financial Officer KPI 2017 VS.
+CFOS REPORT 2017 2016 EARNINGS AND TAX trading platform.
+FINANCIAL POSITION AND OUTLOOK OPERATING METRICS forward.
+FY2017 WAS A PIVOTAL YEAR FOR RHYTHMONE AS THE COMPANY ACHIEVED ITS STATED GOAL FOR THE PERIOD WITH A RETURN TO FULLYEAR GROWTH AND UNDERLYING PROFITABILITY ON AN ADJUSTED EBITDA BASIS.
+PRINCIPAL RISKS AND UNCERTAINTIES these innovations. in the future.
+CORPORATE STRATEGYteltel Source eMarketer March 2017 US TOTAL AD SPEND BY MEDIA 20162021 B
+TV
+Traditional Ex.
+TV their smartphones.
+TOTAL US DIGITAL VIDEO AD SPEND 20162020 B Source eMarketer Marchtel TOTAL US DIGITAL VIDEO VIEWERS 20162021 Mteltel Source eMarketer January tel22telMobile
+49teltel 2021 Source JMP Securities Internet and Digital Media January 19 US DIGITAL AD SPEND BY DEVICE 20162021 B US DIGITAL AD SPEND BY FORMAT 20162020 B
+Video
+Rich Media
+Searchtel 2019 2020 Source eMarketer Sept CORPORATE STRATEGY US PROGRAMMATIC AD SPEND 20162019 Programmatic digital display ad spend B % of total digital display ad spend Source eMarketer Apriltel 2018 2019 73% 78% 82% 84% US MOBILE PROGRAMMATIC DISPLAY AD SPEND Mobile programmatic display ad spend B % of total mobile display ad spend Source eMarketer Apriltel 2017 2018 75% 80% 83% 66% 85% US PROGRAMMATIC DIGITAL VIDEO AD SPEND 20152019 Programmatic digital video ad spend B % of total digital video ad spend Source eMarketer Apriltel 2017 2018 60% 69% 74% 39% 77% Programmatic NonRTB
+NonProgrammatic
+Source BI Intelligence estimates based on historical data from IDC PubMatic and Magna Globaltel 2019 36% 47% 18% 37% 44% 19% 38% 42% 20% 42% 37% 22% 35% 48% 17% US DIGITAL AD REVENUE SHARE BY TYPE % 0F TOTAL DEMAND
+PLATFORM
+DIRECT
+NETWORK
+PROGRAMMATIC
+SUPPLY
+OWNED
+CONTROLLED
+EXTENDED
+CORPORATE STRATEGY 20 CORPORATE STRATEGY
+INTERNATIONALLY
+RhythmGuard
+PROCESS
+INDUSTRY
+ASSOCIATIONS
+POSTBID
+PREBID
+PLACEMENT
+CREATIVE
+USER
+SOURCE
+DOMAIN
+3RD PARTY VERIFICATION PARTNERS QUALITY RANKINGS 21 The Value
+MONETIZATION
+AUDIENCE
+DEVICES CONTENT
+MONETIZATION DISTRIBUTION
+BRANDS AUDIENCES COMMERCIAL MODEL PROGRAMMATIC TRADING
+CHAIN
+AUDIENCES BRAND ATD Agency Trading Desk DSP Demand Side Platform SSP Supply Side Platform NWK Network EXCHANGE AGENCY ATD DSP SSP NWK WEBSITE RHYTHMMAX FOR ADVERTISERS
+FORECASTING
+CREATIVES SAFETY
+SERVICES SECURITY OPTIMIZATION AD SERVING INFRASTRUCTURE
+RHYTHMMAX FOR PUBLISHERS
+TRAFFICKING
+PORTAL
+YIELD
+MONETIZATION
+Product
+ARCHITECTURE RHYTHMONES MISSION IS TO MAXIMIZE RETURN ON INVESTMENT BY PROVIDING THE MOST EFFICIENT AND EFFECTIVE MARKETPLACE FOR DIGITAL ADVERTISING AND CONTENT DISTRIBUTION.
+18 24 CORPORATEGOVERNANCEREPORT
+The Directors recognize the value and importance of the highest standards of Corporate Governance.
+We strive to comply with the principles and provisions of Corporate Governance as far as practicable for a Group of its size and structure even though as the Group is listed on the AIM Market of the London Stock Exchange it is not required to comply fully with the principles of Corporate Governance as set out in the UK Corporate Governance Code the Code.
+This report sets out the Governance approach.
+ROLEANDCOMPOSITION OFTHEBOARD The Boards role is to provide entrepreneurial leadership to the Company.
+The Board is focused on ensuring that the risk register and management of those risks remain pertinent in the face of a continually evolving business.
+The principal risks and uncertainties are reviewed regularly and are set out on pages 14 to 15.
+Whilst it is recognized that the Group is subject to a number of risks greater than this list we include those that are of most concern and relevance to the business at this point in time.
+The Board is also responsible for articulating the Companys strategic aims and ensuring that the business has the resources necessary to enable the Company to meet its objectives.
+It also determines the Companys values and standards and ensures that its obligations to shareholders are met.
+The Board is comprised of Executive Directors and NonExecutive Directors.
+Corporate governance guidelines require that boards should be balanced between Executive and NonExecutive Directors and should have at least two independent NonExecutive Directors.
+At the yearend date RhythmOne plc exceeds this requirement with five of the seven Board Directors being independent NonExecutive
+The beneficial interests of the NonExecutive Directors in the share capital of the Company are set out on page 31.
+In the opinion of the Board these interests do not detract from the Directors independence.
+In the event of a conflict of interest the relevant Director is required to declare the conflict and where appropriate abstain from voting on any resolutions connected to it.
+DIVISION OFRESPONSIBILITIES There is a clear division of responsibility at the head of the Company between the running of the Board which is delegated to the Chairman Mr.
+Raj Chellaraj and the executive responsibility for the running of the Companys business which is delegated to the Chief Executive Officer Mr.
+Subhransu Brian Mukherjee.
+As Chairman Mr.
+Chellaraj is responsible for leadership of the Board setting the Boards agenda and ensuring that there is sufficient time available for discussion of all agenda items.
+The NonExecutive Directors do not have any daytoday involvement in the running of the business.
+They work together to constructively challenge and assist in the development of strategic proposals and to fulfill the Board committee roles.
+The Board convenes at regular scheduled intervals and follows a formal agenda of matters specifically reserved for discussion including such matters as determining the Groups strategy ensuring open and informative communication with shareholders reviewing and managing risks evaluating major capital expenditures evaluating material contracts to be entered into shaping key operational policies reviewing and approving the Groups business plan and forecasts measuring performance and approving the annual and interim financial statements.
+It also meets outside of the formal schedule of meetings as and when required.
+The number of formal meetings of the Board during the year ended 31 March 2017 and attendance at each are summarized below
+NUMBER OF MEETINGS DURING APPOINTMENT NUMBER OF MEETINGS
+Raj Chellaraj 15 14 Subhransu Brian Mukherjee 15 15 Suranga Chandratillake 15 14 Mark Opzoomer 15 14 Ujjal Kohli 15 14 Andrea Lee Andy Cunningham 15 14 Edward Ted Hastings appointed 10 February 2017 1 1 In the event that any Director is unable to attend a meeting they have the opportunity to relay their comments through the Chairman.
+If the Chairman is absent another NonExecutive Director is appointed Chairman for that meeting.
+At certain times where there may be a perceived conflict due to the subject matter of a meeting a Director is recused from that meeting.
+The size and composition of the Board is regularly reviewed to ensure that it is of an appropriate size and structure.
+The Directors may take independent professional advice at the Groups expense and all are covered by Directors and Officers insurance.
+25 BOARDCOMMITTEES The Board has established an Audit Committee Nomination Committee and a Remuneration Committee.
+These committees each comprise a small subcommittee of the main Board and are entirely made up of NonExecutive Directors.
+Each has its own terms of reference and responsibilities.
+The reports of each Board Committee are set out later in this document.
+EFFECTIVENESS
+We have considered the overall balance between Executive and NonExecutive Directors and believe that the structure of the Board coupled with the integrity and commitment of the individuals who make up the Board ensures that no one individual has a greater proportion of decisionmaking power.
+The Board has a good balance between financial industryspecific and general business knowledge experience with a highly experienced executive management team.
+All Directors are considered able to dedicate sufficient time to their role to ensure that they can discharge their responsibilities effectively.
+On joining the Board all new Directors receive a comprehensive induction to introduce them to the business enhance their knowledge of the industry and to meet the key personnel across the Group.
+The Board is committed to a culture of continued personal development and all members of the Board are encouraged to undertake any training which will enhance their understanding or ability to serve the Board and refresh their knowledge.
+Regular updates on Corporate Governance are also provided.
+Board effectiveness is reviewed regularly.
+The most recent review shortly before the year end concluded that the Board and its individual members continue to perform effectively.
+The review is considered a general overview as to the operation of the Board opinions on shareholder relationships views on the Boards inputs into strategy governance and compliance risk management and succession planning.
+INFORMATIONANDSUPPORT
+The Board is supplied with information in a form that enables it to discharge its responsibilities effectively.
+Board papers are supplied on a timely basis with sufficient time for the Board to review and raise questions ahead of the formal meeting to which they relate.
+The culture of the Board is to encourage participation and active debate in a constructive and supportive manner.
+RELATIONSHIPSWITH SHAREHOLDERS The Board believes in open and regular dialogue with shareholders to ensure that the objectives and overall business strategy of the Group are effectively communicated.
+As such the Chief Executive Officer Chief Financial Officer and the Chairman working in consultation with the Groups corporate brokers and advisors make themselves available to meet shareholders at least once a year at the Annual General Meeting.
+There are also a series of meetings with analysts and institutional investors in relation to the Companys annual and interim financial statements.
+The NonExecutive Directors make themselves available to meet shareholders on an ad hoc basis as necessary and consider the Annual General Meeting a good opportunity to canvas opinion and hold discussions with individual shareholders.
+The Board makes constructive use of the Annual General Meeting to communicate with investors and encourages full participation.
+Trading updates and press releases are issued as appropriate and the Companys brokers provide information on shareholder opinion and compile independent feedback from investor meetings.
+INTERNAL CONTROLANDRISKMANAGEMENT The Board acknowledges its responsibility for ensuring that the Group maintains a sound system of internal control to provide them with reasonable assurance that the assets of the Group are safeguarded and that the shareholders investments are protected.
+It has established a continuous process for identifying evaluating and monitoring the significant risks to which the Group is exposed.
+The Board has overall responsibility for ensuring the Group maintains an adequate system of internal control and risk management while the Audit Committee reviews the effectiveness of those systems on behalf of the Board.
+This review is performed at least annually.
+The implementation of internal control systems is the responsibility of executive management.
+The organizational structure of the Group has clearly defined lines of responsibility and delegation of accountability and authority.
+The Boards review of the significant risks in the year covered financial operational commercial regulatory fraud and RandD risks.
+The risk review is an ongoing process with at least annual input and review from the Board.
+The primary purpose of this review is to ensure that having considered the controls that are in place to mitigate risks the Board is satisfied with the residual level of risk being taken in pursuit of the Companys strategy.
+26 Our risk review comprised the review of the risk register considering the ongoing pertinence of each risk and whether changes in the business meant that additional risks had been identified which should be added to the register.
+All risks were recorded in a centrally maintained register risk assessment which is performed in terms of the likelihood of occurrence and the potential impact on the Group and identification of appropriate mitigating actions for each risk with responsible parties and a timetable for completion assigned.
+Any system of internal control is designed to manage rather than eliminate the risks inherent in a fastmoving industry and can therefore only provide reasonable and not absolute assurance against the possibility of material misstatement or loss.
+However during the course of its reviews of the system of internal control during the year the Board has not identified nor been informed of any instances of control failings or significant weaknesses.
+The Board also operates a whistleblowing policy which provides for all employees to raise concerns to the Audit Committee in strict confidence about any unethical behaviors suspected fraud misconduct or wrongdoing without fear of recrimination.
+There were no whistleblowing reports throughout financial year 2017 and to the date of this report.
+FINANCIALREPORTING
+The Board is responsible for reviewing and approving the annual and half year financial statements and for ensuring that they present a fair balanced and understandable assessment of the Groups position and performance.
+The Strategic Report on pages 4 to 7 sets out the information necessary to enable readers to understand the business model and strategy.
+Drafts of the annual report are reviewed by the Board prior to approval with a formal process for addressing comments from the Board.
+27 BOARDOFDIRECTORS The Directors who served throughout the year to 31 March 2017 and to the date of this report were as follows NAME AGE POSITION Raj Chellaraj 61 NonExecutive Chairman
+Brian Mukherjee 50 Executive Director Suranga Chandratillake 39 NonExecutive Director Mark Opzoomer 60 NonExecutive Director Ujjal Kohli 58 NonExecutive Director Andy Cunningham 60 NonExecutive Director Ted Hastings 43 Executive Director On 10 February 2017 Ted Hastings joined the Board of Directors as an Executive Director.
+RAJCHELLARAJ
+Based in Palo Alto California Raj currently serves as the NonExecutive Chairman of RhythmOne plc.
+LSE AIM RTHM He also serves as Associate Dean for Finance and Administration at the Stanford Business School and as the Chief Operating Officer at the Stanford Institute for Innovation in Developing Economies SEED.
+Prior to joining Stanford University Raj held several senior government positions.
+Most recently he was the Assistant Secretary of State for Administration in the United States Department of State to which he was nominated by President George W.
+Bush and confirmed unanimously by the United States
+Previously he was a Senior Executive Officer at the United States Mint in Washington
+In addition to his public sector expertise Mr.
+Chellaraj has several years of senior corporate leadership experience most recently as Vice President Planning at Hostess Brands Corporation part of Ripplewood Holdings where he was a member of the CEOs Senior Leadership Team.
+Earlier he served as Director of Corporate Development at Celanese Corporation NYSE CE a Blackstone Group Company.
+He also held various management finance operations and planning roles at Exxon Corporation NYSE XOM Strategic Analysis and FMC Corporation NYSE FMC.
+Raj holds an M. in Business and Government Policy from Harvard University an M.
+Finance from New York University an M. in Chemical Engineering from Clarkson University and a B.
+Madras University India.
+S.
+RIANMUKHERJEE
+Brian is the Chief Executive Officer of RhythmOne plc LSE AIM RTHM.
+With a strong strategy operations and engineering background Brian has helped build and transform several public and private technology and media businesses globally.
+Brian joined the Company in 2011 through the acquisition of Prime Visibility Media Group Inc.
+PVMG where he was the President and CEO after its sale to RhythmOne.
+Before PVMG Brian was the Senior Vice President and Group Managing Director of Miva Inc.
+NASDAQ MIVA responsible for the turnaround and eventual sale of its global Media Division.
+Earlier in his career Brian held executive staff and line management positions at several private equity and venturebacked Internet mobile and software companies where he played pivotal roles in building high performance teams accelerating growth and profitability raising capital mergers acquisitions and exits.
+Brian started his career as an engineer and a strategy consultant.
+He currently serves on the Board of Directors of Inflexxion Inc.
+Brian holds B.
+Honors and M.
+Honors degrees in Engineering and an M.
+Honors from the University of Chicago Booth School of
+28 SURANGA CHANDRATILLAKE Suranga is a General Partner at Balderton Capital.
+He was previously an entrepreneur and engineer.
+Suranga founded blinkx LSE AIM BLNX the intelligent search engine for video and audio content in Cambridge in 2004.
+He then led the company for eight years as CEO through its journey of moving to San Francisco building a profitable business and going public in London.
+He continues to serve on the RhythmOne plc LSE AIM RTHM Board.
+Before founding blinkx Suranga was an early employee at Autonomy Corporation LSE AUjoining as an engineer in the Cambridge RandD team and ultimately serving as the companys US CTO in San Francisco.
+Suranga also serves on the boards of Banjo Contentful Dalia Research Tab Media and Vivino.
+Suranga has an M. in Computer Science from the University of Cambridge.
+He holds patents in the areas of video discovery and online video advertising was elected a Fellow of the Royal Academy of Engineering in 2012 and was chosen as one of the World Economic Forums Young Global Leaders in 2009.
+MARK OPZOOMER Mark Opzoomer has extensive knowledge of Internet communications and media markets in many different countries and 25 years of corporate operating and deal making experience.
+Mark is currently a partner in Bond Capital Partners a NonExecutive Director of Entertainment One Limited LSE ETO Benross Golf Limited and NonExecutive Chairman of Somo Global Limited.
+Previous NonExecutive directorships include Web Reservations International Limited Newbay Software Limited Autonomy plc and Miva Inc.
+NASDAQ MIVA Previous operating experience includes CEO of Rambler Media Limited regional VicePresident of Yahoo Europe NASDAQ YHOO Deputy Chief Executive of Hodder Headline plc Commercial and Finance Director of Sega Europe Ltd and Commercial Director of Virgin Communications Ltd.
+Mark qualified as a chartered accountant through the Canadian Institute of Chartered Accountants and has an from IMD Lausanne Switzerland.
+UJJALKOHLI
+Ujjal Kohli joined the Board of Directors in 2014 as a NonExecutive Director.
+Ujjal brings over twentyfive years of executive management engineering marketing strategy MandA and board level experiences to RhythmOne LSE AIM RTHM.
+Ujjal cofounded and led Mountain Viewheadquartered Rhythm NewMedia Rhythm as CEO before its acquisition by RhythmOne plc in December 2013.
+Under his leadership Rhythm emerged as a dominant mobile video technology and advertising platform for tablets and smartphonesworking with ultrapremium media partners including NBC Universal CBS ABC Fox and Warner Bros.
+Verizon and Macys.
+Most recently Ujjal was the CEO of Preact Inc a SaaS company in predictive analytics that wasacquiredbySpotifyandbeforeRhythmUjjalcofoundedandservedasCEOofMeru Networks NASDAQ MERU.
+Prior to this he was EVP of Marketing and National Sales for AirTouch Cellular NYSE ATI and was part of the Executive team there.
+AirTouch merged with Vodafone LSE VOD in a 60B transaction in 1999.
+Previously Ujjal was a consultant with McKinsey and Company in London Los Angeles and Silicon Valley.
+Mr.
+Kohli has also been an investor advisor and a previous Board member at several technology companies including Magma Design Automation Berkeley Networks ByteMobile Maverick Semiconductor Convergenet and WirelessHome.
+Ujjal holds an M. an M.
+Technology New Delhi.
+29 ANDY CUNNINGHAM Andy brings over thirty years experience in creating and executing marketing branding and communication strategies that accelerate growth increase shareholder value and advance corporate reputation.
+She is the founder and president of Cunningham Collective a brand strategy firm dedicated to bringing innovation to market and has played a key role in the launch of a number of new categories that include video games personal computers desktop publishing digital imaging RISC microprocessors software as a service very light jets and clean tech investing.
+Andy began her career in 1983 working for Regis McKenna and helped Steve Jobs launch the Macintosh.
+When Steve left Apple NASDAQ AAPL to form NeXT and acquire Pixar he selected Andys public relations agency Cunningham Communication to represent him.
+Andy serves on the following corporate boards Specialized Bicycle Components Inc.
+Finelite
+Inc.
+GrowthPlay LLC and RhythmOne plc LSE AIM RTHM.
+Andy also advises the following companies Virta Health AirPR Traackr MixR OptzzChain and Wellomics.
+In addition Andy sits on the boards of the following institutions and nonprofit organizations The Aspen Institute Menlo College Northwestern University Medill School of Journalism Media Integrated Marketing Communications and ZERO1 The Art and Technology Network.
+Past board affiliations include YPO WPO CEO the Peninsula Open Space Trust and the Computer History Museum.
+She is an Aspen Institute Henry Crown Fellow and holds memberships in WPO CEO TED and Women Corporate Directors.
+TEDHASTINGS
+Ted Hastings is the President of RhythmOne plc LSE AIM RTHM and joined the Board of Directors in 2017 as an Executive Director bringing with him significant digital advertising publishing and ad tech experience to the Board.
+Most recently he served as the CEO of Perk Inc TSE PER the mobilefirst supply side rewards and engagement platform that was acquired by RhythmOne plc in January 2017.
+Prior to Perk Ted served as CEO for Rebellion Media a diversified digital media company where he completed 13 acquisitions in the first two years of operation.
+Previously he served as President at Geosign Corporation which was subsequently sold to Moxy MediaTsavo Media a whollyowned subsidiary of American Capital.
+As the President and CEO at these firms Ted built out the executive teams managed company restructuring and oversaw key financing and acquisition activities.
+Earlier in his career Ted was CEO at sales and distribution software company Global Beverage Group.
+He began his career as an associate in the Audit division of Deloitte and Touche LLP in Canada.
+Ted currently serves on the boards of Push Strength and Fongo.
+Previously he served on the boards of Maintenance Assistant Coreworx Brick Brewing TSE BRB and Communitech.
+He was inducted into the Waterloo Region Hall of Fame as Intrepid award winner in 2010 and named to Canadas Top 40 under 40 for 2009.
+He also served as head executive coach of HyperDrive a 30 million venture fund located in Waterloo Ontario.
+Ted holds a Bachelor of Business Administration from Wilfrid Laurier University.
+30 REMUNERATION COMMITTEEREPORT UNAUDITEDUNLESS STATED OTHERWISE The Remuneration Committee hereafter referred to as the Committee in this report is appointed by the Board and is formed of NonExecutive Directors.
+The Committee is chaired by Mr.
+Ujjal Kohli.
+Other members of the Committee include Andy Cunningham and Suranga Chandratillake.
+The Committees principal responsibilities are to review and make recommendations in relation to the remuneration policy consult with key shareholders on compensationrelated proposals and recommendations apply these recommendations to the Executive Director and senior members of the executive management team determine the metrics for the bonus scheme of the executive management team ensure that the policies and metrics are aligned with the Companys strategy and to consider and award other performancerelated benefits such as Restricted Stock Units RSUs and Market Value Share Options MVSOs as and when appropriate.
+The Committee met once during the year and details of the attendance at the meetings of the Committee are as shown below.
+The
+Committees terms of reference are available for public inspection on the Companys websitehttpsinvestor.
+10 FEBRUARY 2017 Ujjal Kohli Suranga Chandratillake Andy Cunningham The Company has not appointed any external consultants during the year for any advice on executive and employee remuneration.
+PAY PHILOSOPHY The remuneration policy continues to be designed to ensure that senior managers and Executive Directors are appropriately incentivized and rewarded for their performance responsibility and experience.
+The Remuneration Committee aims to ensure that the policy aligns the interests of the Executive Directors with those of the shareholders.
+The Companys pay policy is designed to ensure salaries and bonus amounts are paid at or around market levels.
+Equity awards are linked to performance conditions which more closely align with longterm value creation for shareholders.
+PAY POLICY FOR EXECUTIVE DIRECTORS Remuneration at the Company for Executive Directors is comprised of three elements base salary annual bonus and longterm equity incentives.
+Details of the CEOs remuneration are indicated below.
+BASE SALARY AND ANNUAL BONUS The Chief Executives base salary and bonus opportunity was adjusted in FY2016 to bring in line with market levels when compared to both US and UK competitors.
+The bonus opportunity for FY2017 was based on achievement of FY2017 Revenue adjusted EBITDA targets and Management Business Objectives MBOs.
+LONGTERM INCENTIVES During FY2017 equity awards were made in MVSOs that vest quarterly and have been in use within the Company since the IPO but with an additional performance component where the equity awards require a minimum stock price threshold for options to vest and an accelerated vesting schedule upon the stock price reaching certain predetermined thresholds above the stock price at grant.
+The
+Committee believes that along with the performance criteria for bonus eligibility that addresses operational excellence the quantum and performance criteria for the equity grants fully aligns the interests of the shareholders and management team to drive longterm value.
+The table below sets out the beneficial interests in shares and vested share options of the Directors holding office at year end audited.
+No equity awards were made to Executive or Nonexecutive Directors during FY2017.
+INTERESTS IN ORDINARY SHARES INTERESTS IN SHARE OPTIONS INTERESTS IN RSUs TOTAL
+AT
+31 MARCH
+AT
+31 MARCH
+AT
+31 MARCH
+AT
+31 MARCH
+AT
+31 MARCH
+AT
+31 MARCH
+AT
+31 MARCH
+AT
+31 MARCH
+RajChellaraj 50000 50000  50000 50000
+Brian Mukherjee 750000 850000 9080000 9080000 100000  9930000 9930000 Suranga Chandratillake 159770 735047 2487179 1752132 33333  2680279 2487179 Mark Opzoomer 400000 400000  400000 400000 UjjalKohli 46867 46867  46867 46867 Andy Cunningham  50000  50000 Ted Hastings  4469898 4469898 31 PAY POLICY FOR NONEXECUTIVE DIRECTORS Fees for NonExecutive Directors are set with reference to time commitment the number of committees chaired and relevant external market benchmarks.
+Other than covering travel expenses no additional fees or equity compensation is provided to NonExecutive Directors for ad hoc services such as Committee memberships Board meetings etc.
+PAY AND CONDITIONS ELSEWHERE IN THE GROUP No element of remuneration is operated exclusively for Executive Directors and the philosophy of using variable remuneration to drive the Companys performance is applied to all roles throughout the Group.
+All employees are eligible for an annual bonus and some senior roles are eligible to receive share options.
+When setting the quantum of remuneration for Executive Directors the Committee considers the pay differential between Executive Directors and other roles.
+SERVICE AGREEMENTS The Chief Executives Service Agreement provides that his employment with the Company is on an at will basis which means that either the Executive or the Company shall be entitled to terminate employment at any time and for any reason with or without cause.
+In line with typical US practice the Service Agreement includes a number of protections for the Chief Executive in the event of a termination of his employment in certain circumstances.
+All NonExecutive Directors appointments are terminable on at least three months notice on either side.
+The current service contracts and letters of appointment of the Directors include the following terms DIRECTOR DATE OF CONTRACT NOTICE PERIOD EXECUTIVE DIRECTORS
+Brian Mukherjee 19 July 2012 None Ted Hastings 10 February 2017 None NONEXECUTIVE DIRECTORS Raj Chellaraj Chairman 1 October 2014 3 months Suranga Chandratillake 9 May 2007 3 months Mark Opzoomer 9 May 2007 3 months Ujjal Kohli 20 February 2014 3 months Andy Cunningham 1 March 2016 3 months DIRECTORSREMUNERATIONREPORT AUDITED The Directors received the following remuneration for the years ended 31 March 2017 and 31 March 2016.
+DIRECTOR
+BASE
+SALARY
+NED FEES
+BONUS
+LONGTERM
+INCENTIVES
+OTHER
+FEES PAID IN RSUs YEAR ENDED 31 MARCH 2017 TOTAL YEAR ENDED 31 MARCH 2016 TOTAL EXECUTIVE DIRECTOR AND HIGHEST PAID DIRECTOR
+Brian Mukherjee 500000 355000 893574 1475000 Ted Hastings 34000 NONEXECUTIVE DIRECTORS Raj Chellaraj 104000    104000 108000 Suranga Chandratillake 65000  12857  77857 162000 Mark Opzoomer 65000    65000 75000 Ujjal Kohli 65000    65000 75000 Andy Cunningham 65000  11700  76700 Anthony Bettencourt former Director      75000 Judy Vezmar former Director      30000 AGGREGATE EMOLUMENTS 898000 335000 63131  1316131 2000000 NonExecutive Directors fees are set at 50000 for all Directors except for the Chairman of Board whose fees are set at 80000.
+The above table includes the value in  using an exchange rate of 1.30 to 1.
+Bonus payments are made to Executive Directors only and are determined based on the following performance conditions individual Executive Directors MBOs and Company operating performance.
+Annual bonus amount was earned in FY2017 and paid in FY2017.
+Longterm incentive awards represent awards of MVSOs and RSUs issued to Executive Directors and NonExecutive Directors which vested during the year.
+Longterm incentive value represents the notional gain on MVSOs or RSUs but are not realized until the awards are sold.
+Ted Hastings was appointed to the Board of Directors on February 10 2017.
+32 None of the Directors had pension retirement benefits or similar entitlement.
+No payment or awards were made to former Directors during the year and no payments were made in compensation for loss of office.
+Longterm incentives include MSOVs which are fully vested and have an expiry period of 10 years.
+There are also MSOVs outstanding which vest quarterly but cannot be exercised until a minimum share price threshold for RhythmOne plc is achieved.
+These MSOVs also have an expiry period of 10 years.
+Aggregate emoluments disclosed above do not include any amounts for the value of MVSOs to acquire ordinary shares or restricted stock units in the Company granted to or held by any Directors.
+Details of the options and RSUs exercised during the year are as follows DIRECTOR SCHEME NUMBER RANGE OF
+PRICES AT VEST DATE GAINS ON EXERCISES IN YEAR ENDED 31 MARCH 2017 GAINS ON EXERCISES IN YEAR ENDED 31 MARCH 2016
+Brian Mukherjee RSUs 100000 0.220.37 38574 72000 Suranga Chandratillake RSUs 33333 0.220.37 12857 24000 Andy Cunningham RSUs 50000 0.190.22 9000 Total 183333 60431 96000 Details of options and RSUs for Directors who served during the year are as follows DIRECTOR SCHEMES AT 31 MARCH
+GRANTED
+NUMBER
+VESTED
+NUMBER
+AT 31 MARCH
+S.
+Brian Mukherjee Options
+Suranga Chandratillake Options
+Andy Cunningham Options
+LONGTERMINCENTIVES
+Details of the contractual RSU awards and longterm incentive awards vesting during the year are as follows DIRECTOR SCHEMES
+VESTED
+MARKET PRICES AT AWARD DATE RANGE OF MARKET PRICES AT VESTING DATE
+Brian Mukherjee blinkx US share option plan RSUs 100000 1.55 0.220.37 Suranga Chandratillake blinkx US share option plan RSUs 33333 1.55 0.220.37 Any Cunningham RSUs 50000 0.19 0.190.22 Total 183333 33 AUDIT COMMITTEEREPORT The Audit Committee hereafter referred to as the Committee in this report is appointed by the Board and is formed of NonExecutive Directors chaired by Mark Opzoomer.
+Other members of the Committee are Suranga Chandratillake and Raj Chellaraj.
+Its principal responsibilities are monitoring the integrity of the financial statements of the Group and any formal announcements relating to the Groups financial performance overseeing the involvement of the Groups external auditors in planning and reviewing the audit of the financial statements recommending the appointment and fees of the external auditor including maintaining an appropriate policy on the level of nonaudit fees reviewing and monitoring the independence and objectivity of the external auditor and the effectiveness of the external audit process reviewing at least annually the need for an internal audit function reviewing the risk management process and the effectiveness of internal controls including identifying and implementing improvements and reviewing the arrangements through which staff may raise concerns about possible improprieties in confidence.
+The Committee met three times during the year and details of the attendance at the meetings of the Committee are as shown below.
+The Committees terms of reference are available for public inspection on the Companys websitehttpsinvestor.
+10 MAY 8 NOVEMBER 9 FEBRUARY Mark Opzoomer Chairman Suranga Chandratillake Raj Chellaraj The Committee promotes the highest standards of integrity financial reporting risk management and internal control.
+In addition to the members of the Committee meetings are typically also attended by the Chief Executive Officer and the Chief Financial Officer.
+The
+Committee meets the external auditors at least three times a year including at least one meeting each year without members of executive management present.
+The Committee should include at least one financially qualified individual with recent and relevant experience and currently Mark Opzoomer a qualified chartered accountant who trained with Coopers and Lybrand and Raj Chellaraj who has an M. in Finance from New York University fulfill these criteria.
+The Board has overall responsibility for the establishment and oversight of the Groups risk register including the identification and evaluation of any newly recognized risks and implementing mitigating actions on a timely basis.
+The Committee assists the Board in its oversight and monitoring of financial reporting risk management and internal controls.
+The Committee has considered the recent FRC guidance on audit committees and has expanded its report to include more information on significant matters considered by the Committee.
+There has been a particular focus throughout the year on ensuring that the Groups risk management and internal controls are adequately evolving and developing in line with changes in the Group and best practices in the industry.
+During the year the Committee engaged Moss Adams LLP to continue a review of its controls over the key financial reporting areas to ensure that controls remained robust and enabled executive management to be satisfied as to the reliability of the Groups internal systems and processes.
+ASSESSMENT OFTHEEXTERNALAUDITOR Each year the Committee assesses the expertise independence and quality of the external auditor and the objectivity and effectiveness of the audit process.
+This assessment was carried out on the basis of the Committees own appraisal of the performance of the auditor and the views of its senior management team as well as consideration of materials provided by the auditor.
+The criteria used for this assessment remained unchanged from last year and were as follows delivery of a thorough and efficient audit in compliance with agreed plan and timescales provision of accurate robust and perceptive advice on key accounting and audit judgments technical issues and best practices a high level of professionalism and technical expertise consistently demonstrated by all audit staff plans for ensuring the maintenance of continuity within the core audit team and strict adherence to independence policies and other regulatory requirements.
+Independence and objectivity are regularly considered by the Committee taking into consideration the relevant UK professional and regulatory requirements and the audit firms own policies to maintain auditor independence which include rotation of the Senior Statutory Auditor every five years.
+Our policy on nonaudit services is to appoint the adviser who we believe is in the best position to advise the Company on the matter in question and where we believe we are best served by our audit firm auditor objectivity and independence is carefully considered and safeguarded via the monitoring of fees paid in respect of audit and nonaudit work and approving all additional work performed by the external auditor.
+The fees paid to the auditor for audit and nonaudit services are set out in note 9.
+The Committee has confirmed it is satisfied with the independence objectivity and effectiveness of PricewaterhouseCoopers LLP and has recommended to the Board that the auditors be reappointed and there will be a resolution to this effect at the forthcoming Annual General Meeting.
+34 REVIEW OF FINANCIAL STATEMENTSANDAUDIT FINDINGS The Committee reviews the full and halfyear financial statements and the reports from the auditor on these statements.
+It takes the opportunity to discuss key accounting matters with the auditor and the range of approaches to each.
+Significant matters which were specifically considered by the Committee in the year were as follows ISSUE SPECIFIC CONSIDERATIONS Impairment of goodwill and intangible assets In accordance with IAS 36 management prepared an impairment review on a CGU basis.
+The Committee discussed the calculations including the assumptions within the methodology applied and the anticipated forecasts.
+It also reviewed the auditors report detailing the results and conclusion of the audit testing.
+Revenue recognition The Committee keeps under close review the revenue recognition policies of the Group with particular reference to the appropriateness of the revenue recognition policies of acquired businesses and the continued pertinence of the policies in the legacy RhythmOne plc business.
+Acquisition accounting for Perk Acquired intangibles must be fair valued in accordance with IFRS 3.
+The Committee reviewed the valuation reports related to the Perk acquisition prepared by the external valuator to ensure that the assumptions inherent in the valuation model were reasonable and appropriate and that the disclosures in the financial statements were prepared in accordance with IFRS 3.
+Disposal of noncore business units In accordance with IFRS 5 the Committee reviewed the facts surrounding the disposal of the noncore business units by the Company and determined that they met the criteria to present the income statement of the discontinued operations separately from that of the continuing operations.
+INTERNALAUDIT
+The Committee considers the need for an internal audit function at least annually.
+Given the size of the Group and the organization of the finance team into centers of excellence which are overseen by an experienced CFO and considering the robustness and integrity of the internal controls of the Group which are overseen centrally the Committee is of the opinion that no internal audit function is required at this time but will keep this matter under close scrutiny.
+The Committee has however engaged Moss Adams to document the Groups key controls and initiate a rolling testing strategy of those controls similar to the controls oversight that would be exercised by an internal audit function.
+35 NOMINATION COMMITTEEREPORT The Nomination Committee is appointed by the Board and is responsible for the structure size and composition of the Board the diversity on the Board and across the Group advising the Board on areas where further recruitment may be appropriate the overall leadership needs of the organization consideration of succession planning for Directors and the search for and selection of suitable candidates for the appointment or replacement of additional Directors.
+The Nomination Committee hereafter the Committee throughout this report was chaired by Raj Chellaraj.
+Ujjal Kohil and Andy Cunningham are also members of the Committee.
+The Committee met once during the year and details of the attendance at the meetings of the Committee are as shown below.
+The
+Committee meets as required to initiate the selection process of and make recommendations to the Board with regard to the appointment of new Directors.
+The Committees terms of reference are available for public inspection on the Companys website httpsinvestor.
+10 FEBRUARY Raj Chellaraj Chairman Ujjal Kohil Andy Cunningham APPOINTMENT OFNEW DIRECTORS During the year the Committee met and made recommendations to the Board regarding the appointment of Ted Hastings as an Executive Director.
+Mr.
+Hastingss brings significant digital advertising publishing and adtech and MandA expertise and his appointment will be instrumental to the Board as RhythmOne plc actively pursues continued growth.
+The Articles of Association require that any Director appointed by the Board shall unless appointed at such meeting hold office only until the dissolution of the next Annual General Meeting of the Company following appointment.
+REELECTIONTOTHEBOARD
+Following evaluation of the Board we consider that the performance of all members of the Board continues to be effective and that all individuals demonstrate appropriate commitment to their roles.
+In accordance with best practice and the Companys articles of Association which require at least one third of Directors to be subject to reelection at each Annual General Meeting Mark Opzoomer and Ujjal Kohli retire by rotation and will stand for reappointment while Ted Hastings will stand for appointment at the AGM on June 27 2017.
+DIVERSITYPOLICY
+The Board recognizes the value in diversity in its richest sense and considers it essential in maximizing its effectiveness.
+The Group approaches diversity comprehensively in order to recruit the best talent available at all levels in the business based on merit and assessed against criteria such as range of skills experience and independence.
+36 DIRECTORSREPORT The Directors present their annual report on the affairs of the Group together with the Financial Statements and auditors report for the year ended 31 March 2017.
+This report contains certain statutory regulatory and other information and incorporates by reference the Strategic Report and Corporate Governance reports included earlier in this document.
+The table below sets out the location of certain information specifically related to the business review CONTENT SECTION PAGES Review of the Business and Future Developments Strategic Review Chairman and CEO Reports 211 Principal Risk and Uncertainties CFO Report 1215 Corporate Governance Corporate Governance Report 2527 Directors Reelection and Appointment Corporate Governance Report and Nomination Committee report 2536 Directors Interests Remuneration Committee Report 3133 Key Performance Indicators CFO Report 12 Research and Development CFO Report 13 CAPITAL STRUCTURE Details of the issued share capital together with details of the movements in the Companys issued share capital during the year including the issue of 90631068 shares are shown in note 22.
+The Company has one class of ordinary shares which carry no right to fixed income.
+Each share carries the right to one vote at general meetings of the Company.
+There are no specific restrictions on the size of a holding nor on the transfer of shares which are both governed by the general provisions of the Articles of Association and prevailing legislation.
+The Directors are not aware of any agreements between holders of the Companys shares that may result in restrictions on the transfer of securities or on voting rights.
+Details of employee share schemes are set out in note 26.
+FINANCIALRISKMANAGEMENT
+The Groups financial risk management objective is to minimize risk whilst achieving maximum return on liquid assets.
+The Directors are averse to principal loss and manage the safety and preservation of the Groups invested funds by limiting default and market risks by investing only with highlyrated financial institutions.
+The Groups financial instruments primarily comprise cash and cash equivalents marketable securities loans trade receivables and payables from operations.
+No derivative financial instruments are used.
+Foreign currency risks are managed through natural hedges arising from currency bank accounts.
+The Group has not faced any material exposure to price risk liquidity risk or cash flow risk that would affect the ultimate objectives of thebusiness. eenote27.
+The Board is cautious and measured in respect to investing the Groups surplus funds and in relation to treasury planning.
+The Boards objectives are to minimize risk whilst achieving maximum return on liquid assets.
+Risk is limited by investing cash surplus only in highlyrated financial institutions and instruments.
+Foreign currency risks are managed through natural hedges with currency bank accounts.
+The Group has not experienced any material exposure to price risk liquidity risk or cash flow risk that would affect the ultimate objectives of the Group.
+Further details on the Groups financial risk management policies are included in note 27 to the financial statements.
+Detailed working capital projections and forecasts are prepared by management and reviewed and approved by the Board at least annually.
+These are updated throughout the year for significant events.
+Actual monthly results are compared to forecasts and variances investigated and explained by the executive management team.
+There are no external capital requirements or financial covenants that the Group has to abide by and the Boards consideration of going concern is discussed on page 38.
+RESULTSANDDIVIDENDS
+The results of the Group are set out in the Consolidated Income Statement on page 43.
+The Directors are unable to recommend the payment of a dividend 2016 nil.
+CHARITABLEANDPOLITICAL DONATIONS No charitable or political donations were made during the year.
+DIRECTORSINDEMNITIES
+The Group has made qualifying third party indemnity provisions for the benefit of its Directors which remain in force at the date of this report.
+37 EMPLOYEE CONSULTATION The Group places considerable value on the involvement of its employees and has continued to keep them informed on matters affecting them as employees and on the various factors affecting the performance of the Group.
+This is achieved through formal and informal meetings the Group Intranet site and internal communications from the management team.
+Employees are consulted regularly on a wide range of matters affecting their current and future interests.
+We value employees opinions and seek to actively consult them in the decision making process and keep them apprised of Company news.
+Companywide briefings and communications are held and feedback is actively sought from all employees.
+The employee share option scheme has been running successfully since its inception and is open to all employees.
+In addition employees typically receive an annual bonus related to the overall profitability of the Group.
+EQUAL OPPORTUNITIES Our employment policies including a commitment to equal opportunity are designed to attract and retain highcaliber individuals regardless of age sex religion disability marital status race ethnicity nationality or sexual orientation.
+RhythmOne plc is an equal opportunities employer and ensures that applications for employment from people with disabilities and other underrepresented groups are given full and fair consideration.
+Applications for employment by disabled persons are always fully considered bearing in mind the aptitudes of the applicant concerned.
+In the event of members of staff becoming disabled every effort is made to ensure that their employment with the Group continues and that appropriate training is arranged and support provided including flexible working to assist reentry into the workplace and making any necessary alternate provisions.
+It is our policy to provide equally to all staff training and career development for growth within the Company and to explore objectively through performance appraisal opportunities for employee advancement.
+We take measures to ensure good working conditions.
+Employees are expected at all times to act honestly respectfully and in accordance with our Company ethos.
+The Company does not tolerate misconduct or harassment in any form and will diligently investigate and where necessary take action against any complaints therein including those of confidential whistle blowers.
+SUBSTANTIAL SHAREHOLDINGS On 31 March 2017 the Company had been notified of the following voting rights as a shareholder of the Company NUMBER SHARES % Toscafund Asset Management 138465657 27.97% River and Mercantile Asset Management 45285860 9.15%
+Richard Griffiths 30443134 6.15% Hargreaves Lansdown Asset Mgt 27285858 5.51% TD Direct Investing 21462273 4.33% Total shares outstanding at 31 March 2017 495093938 On April 30 2017 the Company received notification of the following voting rights as a shareholder of the Company NUMBER SHARES % Toscafund Asset Management 138651013 28.00% River and Mercantile Asset Management 45635860 9.22%
+Richard Griffiths 30415963 6.14% Hargreaves Lansdown Asset Mgt.
+26994377 5.45% TD Direct Investing 20982832 4.24% Total shares outstanding at 30 April 2017 495189527 POSTBALANCE SHEET EVENTS There are no significant post balance sheet events.
+GOINGCONCERN
+The Directors have considered the financial resources of the Group and the risks associated with doing business in the current economic climate and believe the Group is well placed to manage these risks successfully.
+In doing this the Board has reviewed managements business plan and cash flow forecast setting out key business assumptions including the rate of revenue growth margins and cost 38 control.
+The Directors consider the assumptions therein to be reasonable and that the Group has adequate resources to continue in operational existence for the foreseeable future being a period of no less than 12 months from the date of signing this Annual Report.
+Accordingly they continue to adopt the going concern basis in preparing these financial statements.
+ANNUAL GENERALMEETING The Annual General Meeting will be held at 200 Aldersgate Street London EC1A 4HD United Kingdom on June 27 2017 at 900 AM
+Members of the Board will present on recent developments and the performance of the business and shareholders will have the opportunity to ask questions of the Board members present.
+INDEPENDENTAUDITORS
+Each of the persons who is a Director at the date of approval of this Annual Report confirms that so far as the Director is aware there is no relevant audit information of which the Companys auditor is unaware and the Director has taken all of the steps that heshe ought to have taken as a Director in order to make himherself aware of any relevant audit information and to establish that the Companys auditor is aware of that information.
+This confirmation is given and should be interpreted in accordance with the provisions of section 418 of the Companies Act 2006.
+STATEMENT OF DIRECTORSRESPONSIBILITIES The Directors are responsible for preparing the Annual Report and the financial statements in accordance with applicable law and regulation.
+Company law requires the Directors to prepare financial statements for each financial year.
+Under that law the directors have prepared the Group financial statements in accordance with International Financial Reporting Standards IFRSs as adopted by the European Union and parent company financial statements in accordance with International Financial Reporting Standards IFRSs as adopted by the European Union.
+Under Company law the Directors must not approve the financial statements unless they are satisfied that they give a true and fair view of the state of affairs of the Group and parent company and of the profit or loss of the Group and parent company for that period.
+In preparing the financial statements the Directors are required to select suitable accounting policies and then apply them consistently state whether applicable IFRSs as adopted by the European Union have been followed for the Group financial statements and IFRSs as adopted by the European Union have been followed for the Company financial statements subject to any material departures disclosed and explained in the financial statements make judgments and accounting estimates that are reasonable and prudent and prepare the financial statements on the going concern basis unless it is inappropriate to presume that the Group and parent company will continue in business.
+The Directors are responsible for keeping adequate accounting records that are sufficient to show and explain the Group and parent companys transactions and disclose with reasonable accuracy at any time the financial position of the Group and parent company and enable them to ensure that the financial statements comply with the Companies Act 2006 and as regards the Group financial statements Article 4 of the IAS Regulation.
+The Directors are also responsible for safeguarding the assets of the Group and parent company and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+The Directors are responsible for the maintenance and integrity of the parent companys website.
+Legislation in the United Kingdom governing the preparation and dissemination of financial statements may differ from legislation in other jurisdictions.
+The Directors consider that the annual report and accounts taken as a whole is fair balanced and understandable and provides the information necessary for shareholders to assess the Group and parent companys performance business model and strategy.
+Each of the Directors whose names and functions are listed in the Board of Directors confirm that to the best of their knowledge the parent company financial statements which have been prepared in accordance with IFRSs as adopted by the European Union give a true and fair view of the assets liabilities financial position and loss of the Company the Group financial statements which have been prepared in accordance with IFRSs as adopted by the European Union give a true and fair view of the assets liabilities financial position and loss of the Group and the Directors Report includes a fair review of the development and performance of the business and the position of the Group and parent company together with a description of the principal risks and uncertainties that it faces.
+The Strategic and Directors report have been signed on behalf of the Board by Subhransu Brian Mukherjee
+Chief Executive Officer
+RhythmOne plc 15 May 2017 39 FINANCIAL STATEMENTS 40 INDEPENDENTAUDITORSREPORTTOTHEMEMBERSOF
+REPORTONTHEFINANCIALSTATEMENTS
+OUR OPINION In our opinion RhythmOne plcs group financial statements and company financial statements the financial statements give a true and fair view of the state of the groups and of the companys affairs as at 31 March 2017 and of the groups loss and the groups and the companys cash flows for the year then ended the group financial statements have been properly prepared in accordance with International Financial Reporting Standards IFRSs as adopted by the European Union the company financial statements have been properly prepared in accordance with IFRSs as adopted by the European Union and as applied in accordance with the provisions of the Companies Act 2006 and the financial statements have been prepared in accordance with the requirements of the Companies Act 2006.
+WHAT WE HAVE AUDITED The financial statements included within the Annual Report and Accounts the Annual Report comprise the Consolidated and company balance sheets as at 31 March 2017 the Consolidated income statement and the Consolidated statement of comprehensive income for the year then ended the Consolidated and company cash flow statements for the year then ended the Consolidated and company statements of changes in equity for the year then ended and the notes to the financial statements which include a summary of significant accounting policies and other explanatory information.
+Certain required disclosures have been presented elsewhere in the Annual Report rather than in the notes to the financial statements.
+These are crossreferenced from the financial statements and are identified as audited.
+The financial reporting framework that has been applied in the preparation of the financial statements is IFRSs as adopted by the European Union and as regards the company financial statements as applied in accordance with the provisions of the Companies Act 2006 and applicable law.
+In applying the financial reporting framework the directors have made a number of subjective judgements for example in respect of significant accounting estimates.
+In making such estimates they have made assumptions and considered future events.
+OPINIONSON OTHERMATTERSPRESCRIBEDBYTHECOMPANIESACT2006 In our opinion based on the work undertaken in the course of the audit the information given in the Strategic Report and the Directors Report for the financial year for which the financial statements are prepared is consistent with the financial statements and the Strategic Report and the Directors Report have been prepared in accordance with applicable legal requirements.
+In addition in light of the knowledge and understanding of the group the company and their environment obtained in the course of the audit we are required to report if we have identified any material misstatements in the Strategic Report and the Directors Report.
+We have nothing to report in this respect.
+OTHERMATTERSONWHICHWEAREREQUIREDTOREPORTBY EXCEPTION ADEQUACY OF ACCOUNTING RECORDS AND INFORMATION AND EXPLANATIONS RECEIVED Under the Companies Act 2006 we are required to report to you if in our opinion we have not received all the information and explanations we require for our audit or adequate accounting records have not been kept by the company or returns adequate for our audit have not been received from branches not visited by us or the company financial statements are not in agreement with the accounting records and returns.
+We have no exceptions to report arising from this responsibility.
+DIRECTORS REMUNERATION Under the Companies Act 2006 we are required to report to you if in our opinion certain disclosures of directors remuneration specified by law are not made.
+We have no exceptions to report arising from this responsibility.
+RESPONSIBILITIES FORTHEFINANCIAL STATEMENTSANDTHEAUDIT OUR RESPONSIBILITIES AND THOSE OF THE DIRECTORS As explained more fully in the Statement of Directors Responsibilities set out on page 39 the directors are responsible for the preparation of the financial statements and for being satisfied that they give a true and fair view.
+Our responsibility is to audit and express an opinion on the financial statements in accordance with applicable law and International Standards on Auditing UK and Ireland ISAs UK and Ireland.
+Those standards require us to comply with the Auditing Practices Boards Ethical Standards for Auditors.
+41 This report including the opinions has been prepared for and only for the companys members as a body in accordance with Chapter 3 of Part 16 of the Companies Act 2006 and for no other purpose.
+We do not in giving these opinions accept or assume responsibility for any other purpose or to any other person to whom this report is shown or into whose hands it may come save where expressly agreed by our prior consent in writing.
+WHAT AN AUDIT OF FINANCIAL STATEMENTS INVOLVES We conducted our audit in accordance with ISAs UK and Ireland.
+An audit involves obtaining evidence about the amounts and disclosures in the financial statements sufficient to give reasonable assurance that the financial statements are free from material misstatement whether caused by fraud or error.
+This includes an assessment of whether the accounting policies are appropriate to the groups and the companys circumstances and have been consistently applied and adequately disclosed the reasonableness of significant accounting estimates made by the directors and the overall presentation of the financial statements.
+We primarily focus our work in these areas by assessing the directors judgements against available evidence forming our own judgements and evaluating the disclosures in the financial statements.
+We test and examine information using sampling and other auditing techniques to the extent we consider necessary to provide a reasonable basis for us to draw conclusions.
+We obtain audit evidence through testing the effectiveness of controls substantive procedures or a combination of both.
+In addition we read all the financial and nonfinancial information in the Annual Report to identify material inconsistencies with the audited financial statements and to identify any information that is apparently materially incorrect based on or materially inconsistent with the knowledge acquired by us in the course of performing the audit.
+If we become aware of any apparent material misstatements or inconsistencies we consider the implications for our report.
+With respect to the Strategic Report and Directors Report we consider whether those reports include the disclosures required by applicable legal requirements.
+Jaskamal Sarai Senior Statutory Auditor for and on behalf of PricewaterhouseCoopers LLP Chartered Accountants and Statutory Auditors
+15 May 2017 42 CONSOLIDATEDINCOMESTATEMENT FORTHEYEAR ENDED 31MARCH2017 RhythmOne plc
+YEAR ENDED 31 MARCH 2017 YEAR ENDED 31 MARCH 2016
+BEFORE
+EXCEPTIONAL
+COSTS
+EXCEPTIONAL
+COSTS
+TOTAL
+BEFORE
+EXCEPTIONAL
+COSTS
+EXCEPTIONAL
+COSTS
+TOTAL
+Revenue 5 149025  149025 116058  116058 Cost of revenue 98478  98478 72690  72690 Operating expenses 28 and 29 60557 5245 65802 73415 47192 120607 Loss before tax and finance income and expense 10010 5245 15255 30047 47192 77239 Finance income 11 631  631 256  256 Finance expense 11 266  266 198  198 Loss before income tax 9645 5245 14890 29989 47192 77181 Income tax recovery 12 861  861 1654  1654 Loss from continuing operations 8784 5245 14029 28335 47192 75527 Discontinued operations Loss from discontinued operations net of tax 6 827 3934 4761 1377 18103 16726 Loss for the year 9611 9179 18790 29958 65295 92253 NOTE CENTS CENTS LOSS PER SHARE ATTRIBUTABLE TO RHYTHMONE PLC DILUTED 13 4.45 22.88 LOSS PER SHARE FROM CONTINUING OPERATIONS DILUTED 13 3.32 18.73 43 CONSOLIDATED STATEMENT OF
+FORTHEYEAR ENDED 31MARCH2017 RhythmOne plc
+YEAR ENDED 31 MARCH 2017 YEAR ENDED 31 MARCH 2016 Loss for the year 18790 92253 Items which might be potentially reclassified to profit or loss Exchange difference on translation of foreign operations 245 34 Loss  gains on marketable securities net of tax 27 19 TOTAL COMPREHENSIVE LOSS FOR THE YEAR 18572 92268 44 CONSOLIDATEDBALANCE SHEET ASAT 31MARCH2017 RhythmOne plc
+NOTE
+AS AT 31 MARCH 2017 AS AT 31 MARCH 2016
+NONCURRENT ASSETS Goodwill 14 48530 37207 Intangible assets 15 37971 24200 Property plant and equipment 16 4556 3358 Other receivables and restricted cash 18 4686 828 Deferred tax asset 20 19271 19208 Marketable securities 19 22864 29539 137878 114340 CURRENT ASSETS Trade receivables 18 41470 22825 Other receivables and restricted cash 18 3433 2422 Cash and cash equivalents 19338 18222 Marketable securities 19 33002 30725 97243 74194 TOTAL ASSETS 235121 188534
+NONCURRENT LIABILITIES Deferred tax liability 20 3863 318 Other payables 21 2228 1679 Provisions 21 1502 5 7593 2002 CURRENT LIABILITIES Trade and other payables 21 43386 29894 Provisions 21 907 700 44293 30594 TOTAL LIABILITIES 51886 32596 NET ASSETS 183235 155938 SHAREHOLDERS EQUITY Share capital 22 8667 7537 Share premium account 23 168159 168045 Shares to be issued 24 24 24 Sharebased compensation reserve 28605 26590 Currency translation reserve 8591 8836 Merger reserve 24 107820 65208 Accumulated other comprehensive lossincome 8 19 Retained deficit 121441 102649 TOTAL EQUITY 183235 155938 Note 1 to note 31 form an integral part of the financial statements The consolidated financial statements of RhythmOne plc registered number  were approved by the Board of Directors and authorized for issue on 15 May 2017.
+They were signed on its behalf by Subhransu Brian Mukherjee
+Chief Executive Officer
+RhythmOne plc 15 May 2017 45 CONSOLIDATED STATEMENT OF CHANGESIN
+FORTHEYEAR ENDED 31MARCH2017 RhythmOne plc
+ORDINARY
+SHARE
+CAPITAL
+SHARE
+PREMIUM
+ACCOUNT
+SHARES
+TO BE
+SHARE BASED
+RESERVE
+CURRENCY
+TRANSLATION
+RESERVE
+MERGER
+RESERVE
+OTHER
+RESERVES
+RETAINED
+DEFICIT
+EARNINGS
+TOTAL
+EQUITY
+BALANCE AS AT 31 March 2015 7502 168008 1686 22175 8802 63554  10697 Net loss for the year        92253 92253 Other comprehensive loss     34  19  15 Total comprehensive loss for the year     34  19 92253 92268 Issue of shares net of costs 35 37 1662   1654   64 Credit to equity for Share based payments    4415     4415 Tax movement on share options        30 30 BALANCE AS AT 31 March 2016 7537 168045 24 26590 8836 65208 19 102649 155938 Net loss for the year        18790 18790 Other comprehensive loss     245  27  218 Total comprehensive loss for the year     245  27 18790 18572 Issue of shares net of costs 1130 114    42612  2 43854 Credit to equity for Share based payments    2015     2015 BALANCE AS AT 31 March 2017 8667 168159 24 28605 8591 107820 8 121441 183235 46 CONSOLIDATED CASH FLOW STATEMENT FORTHEYEAR ENDED 31MARCH2017 RhythmOne plc
+YEAR ENDED 31 MARCH 2017 YEAR ENDED 31 MARCH 2016 CASH FLOWS FROM OPERATING ACTIVITIES LOSS FOR THE YEAR 18790 92253 Adjustments for Taxation 861 2031 Depreciation and amortization 10208 26180 Share based payments 2015 4415 Interest income 631 256 Interest expense 266 201 Impairment of goodwill  50322 Loss on sale of computer equipment 82 56 Loss on disposal of PVMG assets 3858 Foreign exchange gain 66 3 OPERATING CASH FLOWS BEFORE MOVEMENTS IN WORKING CAPITAL 3787 13363 CHANGES IN OPERATING ASSETS AND LIABILITIES Increase  Decrease in trade and other receivables 11991 18350 Increase  Decrease in trade and other payables 7507 14891 Increase  Decrease in provisions 1704 490 6567 10394 Income tax refund received 1250 4182 Income tax paid 1065 NET CASH USED IN OPERATING ACTIVITIES 6382 6212 CASH FLOWS FROM INVESTING ACTIVITIES Interest received 631 256 Purchase of property plant and equipment 2394 741 Capitalization of internal development charges 3266 4353 Purchase of marketable securities 631 60245 Acquisition payment of deferred consideration 499 5000 Proceeds from the sale of computer equipment 4 Proceeds from the sale of the assets of PVMG 1064 Proceeds from the sale of marketable securities 5002 Acquisitions net of cash acquired 10229 NET CASH FROM  USED IN INVESTING ACTIVITIES 10136 70079 CASH FLOWS FROM FINANCING ACTIVITIES Net payments on finance lease 1050 1080 Interest payments 187 198 Repayment of credit facility 1507 Proceeds from issuance of shares 159 64 NET CASH USED IN FINANCING ACTIVITIES 2585 1214 Net increase  decrease in cash and cash equivalents 1169 77505 Beginning cash and cash equivalents 18222 95734 Effect of foreign exchange on cash and cash equivalents 53 7 ENDING CASH AND CASH EQUIVALENTS 19338 18222 47 NOTESTOTHECONSOLIDATED FINANCIAL
+RhythmOne plc
+1 GENERALINFORMATION RhythmOne plc is a public limited Company incorporated in England and Wales under the Companies Act 2006.
+The Companys ordinary shares are traded on the Alternative Investment Market AIM.
+The address of the registered office is 40 Dukes Place London EC3A 7NH United Kingdom.
+The nature of the Groups operations and its principal activities are set out in the Strategic
+On June 16 2016 the Company changed its name from blinkx plc to RhythmOne plc.
+The Parent Companys functional currency is Sterling being the currency of the primary economic environment in which the Company operates.
+The presentational currency of the Group is US Dollars as that is the currency of the primary economic environment in which the Group operates.
+Foreign operations are included in accordance with policies set out in note 3.
+2ADOPTION OFNEWANDREVISED STANDARDS The following new and revised Standards and Interpretations have been adopted in the current Period.
+Their adoption has not had any significant impact on the amounts reported in these consolidated financial statements but may impact the accounting for future transactions and arrangements.
+Amendments to IAS 19 Employee benefits on defined benefit plans Annual improvements 20102012 IFRS 2 Share based payment on definition of a vesting condition IFRS 3 Business combinations to clarify obligations to pay contingent consideration IAS16 Property plant and equipment and IAS 38 Intangible assets on gross carrying amount and depreciation are treated with revaluation model IFRS 8 Operating segments on disclosure of judgments IAS 24 Related party disclosures regarding disclosures of the reporting entity Annual improvements 20122014 IFRS 5 Noncurrent assets held for sale and discontinued operations regarding methods of disposal IFRS 7 Financial instruments Disclosures IAS 19 Employee benefits IAS 34 Interim financial reporting IFRS 14 Regulatory deferral accounts Amendment to IFRS 11 Joint arrangements on Accounting for acquisitions of interests in joint operations Amendments to IAS 16 Property plant and equipment and IAS 41 Agriculture on Agriculture Bearer plants Amendments to IAS 16 Property plant and equipment and IAS 38 Intangible assets on clarification of acceptable methods of depreciation and amortization Amendments to IAS 27 Separate financial statements on equity method in separate financial statements Amendments to IFRS 10 Consolidated financial statements and IAS 28 Investments in associates on Investment entities Applying the consolidation exception Amendments to IAS 1 Presentation of financial statements Disclosure initiative Amendments to IFRS 10 Consolidated financial statements and IAS 28 Investments in associates on the sale or contribution between an investor and its associate or joint venture At the date of authorization of these consolidated financial statements the following Standards and Interpretations which have not yet been applied in these consolidated financial statements were in issue but not yet effective Amendment to IAS 12 Income taxes Recognition of deferred tax assets for unrealized losses Amendment to IAS 7 Cash flow statements Disclosure initiative Annual improvements 20142016 IFRS 12 Disclosure of interests in other entities IFRS 9 Financial instruments IFRS 15 Revenue from contracts with customers Amendment to IFRS 15 Revenue from contracts with customers clarifications Amendments to IFRS 2 Share based payments classification and measurement of sharebased payment transactions Amendments to IFRS 4 Insurance contracts regarding implementation of IFRS 9 Amendment to IAS 40 Investment property regarding the transfer of property IFRS 1 First time adoption of IFRS regarding IFRS 7 IAS 19 and IFRS 10 IAS 28 Investment in associates and joint ventures IFRIC 22 Foreign currency transactions and advance consideration IFRS 16 Leases The Directors do not expect that the adoption of the standards listed above will have a material impact on the financial statements of the Group in future periods other than IFRS 15 Revenue from contracts with Customers and IFRS 16 Leases which may impact the way the Group recognizes revenue and accounts for leases.
+3SIGNIFICANTACCOUNTINGPOLICIES BASIS OF ACCOUNTING The consolidated financial statements have been prepared in accordance with International Financial Reporting Standards IFRS and IFRS Interpretations Committee IFRS IC interpretations as adopted by the European Union and the Companies Act 2006 applicable to companies reporting under IFRS.
+The consolidated financial statements have been prepared under the historical convention as modified.
+48 RhythmOne plc
+As a result of the discontinued operations in FY2017 certain comparative figures in the primary financial statements have been adjusted to conform to the current year presentation of the financial statements.
+Certain comparative notes have been adjusted to reflect the change to continuing operations which are clearly labelled.
+The preparation of the financial statements in conformity with IFRS requires the use of certain critical accounting estimates.
+It also requires management to exercise its judgment in the process of applying the Groups accounting policies.
+The areas involving a higher degree of judgment or complexity or areas where assumptions and estimates are significant to the consolidated financial statements are disclosed in note 4.
+The financial statements have been prepared on the historical cost basis except for marketable securities which are carried at fair value.
+The principal accounting policies adopted are set out below.
+GOING CONCERN The Directors have at the time of approving the financial statements a reasonable expectation that the Company and the Group have adequate resources to continue in operational existence for the foreseeable future.
+They continue to adopt the going concern basis of accounting in preparing the financial statements.
+Further detail is contained in the Directors Report on page 38.
+BASIS OF CONSOLIDATION The consolidated financial statements incorporate the financial statements of the Company and entities controlled by the Company its subsidiaries prepared up to 31 March each year.
+Control is achieved where the Company has the power to govern the financial and operating policies of an investee entity so as to obtain benefits from its activities.
+The results of subsidiaries acquired or disposed of during the year are included in the consolidated income statement from the effectivedateofacquisitionoruptotheeffectivedateofdisposalasappropriate. financial statements of subsidiaries to bring the accounting policies used into line with those used by the Group.
+All intraGroup transactions balances income and expenses are eliminated on consolidation.
+GOODWILL
+Goodwill arising on consolidation represents the excess of the cost of acquisition over the Groups interest in the fair value of the identifiable assets and liabilities of a subsidiary associate or jointly controlled entity at the date of acquisition.
+Goodwill is initially recognized as an asset at cost and is subsequently measured at cost less any accumulated impairment losses.
+Goodwill which is recognized as an asset is reviewed for impairment at least annually.
+Any impairment is recognized immediately in profit or loss and is not subsequently reversed.
+Goodwill is tested for impairment annually or more frequently when there is an indication that the unit may be impaired.
+If the recoverable amount is less than the carrying amount the impairment loss is allocated to reduce the carrying amount of goodwill.
+An impairment loss recognized for goodwill is not reversed in a subsequent period.
+REVENUE RECOGNITION The Group earns its revenue from providing online advertising services.
+The Groups business is based on the principle of facilitating free access to technology and content via an advertisingsupported distribution model and its revenues are derived from advertising on the Internet.
+The Group applies its technology across a set of standard and interrelated products to connect its audience with contextually relevant advertising in a variety of formats.
+Advertisers select from these formats which are priced on different pricing schemes that include both impressionbased Cost per Mille CPM and performancebased Cost per Click CPC and Cost per Action CPA options.
+Contracts containing multiple deliverables are split into their constituent parts and each deliverables fair value is separately determined and recognized accordingly.
+The policies for each of the Groups key revenue streams in relation to services are set out below ADVERTISING REVENUE When sales values are based on the volume of impressions Cost per Mille revenue is based on an agreed amount per impression and the number of impressions displayed.
+This revenue is recognized as the volumes are reported either by the Groups customers the Groups internal reporting system or an authoritative third party based on the contractual terms.
+When sales values are based on volume of clicks pay per click revenue is based upon an agreed amount per click that the end user makes after viewing the advertisement and the number of clicks made by the users in the period in which the clicks occur.
+SHARE OF ADVERTISING REVENUES Where customers use the RhythmOne technology to retrieve their own content contractual arrangements may provide for the Group to receive a share of the customers advertising revenues.
+The amount of revenue is dependent upon the amount paid per click or per advertisement shown.
+This revenue is recognized as reported by the Groups customers in the period to which it relates.
+49 RhythmOne plc
+FINANCE INCOME AND EXPENSE Finance income includes bank interest and income from shortterm deposits and marketable securities.
+Finance expense includes interest on finance leases.
+CLASSIFICATION OF EXPENSES COST OF REVENUES Cost of revenues consists primarily of traffic acquisition costs TAC that are directly attributable to revenue generated by the Group.
+OPERATING EXPENSES Operating expenses consist of costs associated with the Companys research and development and sales and marketing activities in addition to general and administrative costs and charges for depreciation of property plant and equipment and amortization of intangible assets.
+Research and development expenses consist primarily of compensation and related costs for personnel responsible for the research and development of new and existing products and services in addition to colocations and facilities charges.
+The development expenditures are capitalized in accordance with the Groups standard internal capitalization policy outlined further below.
+All research costs are expensed when incurred.
+Sales and marketing expenses consist primarily of compensation and related costs for personnel engaged in customer service sales and sales support functions as well as advertising and promotional expenditures that are not directly attributable to revenue in addition to facilities charges.
+General and administrative expenses consist primarily of compensation and related costs for personnel and facilities and include costs related to our facilities finance human resources information technology and legal organizations and fees for professional services.
+Professional services are principally comprised of outside legal audit information technology consulting and outsourcing services.
+ACQUISITION AND EXCEPTIONAL COSTS In line with the way the Board and chief operating decisionmaker review the business large oneoff acquisition and exceptional costs are separately identified and shown in the financial statements.
+The types of costs included within acquisition costs are those which are directly attributable to an acquisition for example legal and accounting expenses integration costs severance and retention remuneration.
+An example of the type of cost considered exceptional is severance costs impairment losses and other significant assets writedowns.
+LEASING
+Leases are classified as finance leases whenever the terms of the lease transfer substantially all the risks and rewards of ownership to the lessee.
+All other leases are classified as operating leases.
+Assets held under finance leases are recognized as assets of the Group at their fair value or if lower at the present value of the minimum lease payments each determined at the inception of the lease.
+The corresponding liability to the lessor is included in the balance sheet as a finance lease obligation.
+Lease payments are apportioned between finance expenses and reduction of the lease obligation so as to achieve a constant rate of interest on the remaining balance of the liability.
+Finance expenses are recognized immediately in profit or loss unless they are directly attributable to qualifying assets in which case they are capitalized in accordance with the Groups general policy on borrowing costs.
+Rentals payable under operating leases are charged to income on a straightline basis over the term of the relevant lease except where another more systematic basis is more representative of the time pattern in which economic benefits from the lease asset are consumed.
+Contingent rentals arising under operating leases are recognized as an expense in the period in which they are incurred.
+In the event that lease incentives are received to enter into operating leases such incentives are recognized as a liability.
+The aggregate benefit of incentives is recognized as a reduction of rental expense on a straightline basis except where another systematic basis is more representative of the time pattern in which economic benefits from the leased asset are consumed.
+FOREIGN CURRENCIES Transactions in currencies other than the functional currency of the entity concerned are recorded at the rates of exchange prevailing on the dates of the transactions.
+At each balance sheet date monetary assets and liabilities that are denominated in foreign currencies are retranslated into the presentational currency US Dollars at the rates prevailing on the balance sheet date.
+The Group has selected US Dollars as its presentational currency as that is the currency of the principal economic environment in which the Group operates.
+50 RhythmOne plc
+Exchange differences are recognized in profit or loss in the period in which they arise except for exchange differences on monetary items receivable from or payable to a foreign operation for which settlement is neither planned nor likely to occur therefore forming part of the net investment in the foreign operation which are recognized initially in other comprehensive income and reclassified from equity to profit or loss on disposal or partial disposal of the net investment.
+On consolidation the assets and liabilities of the Groups foreign denominated operations are translated at exchange rates prevailing on the balance sheet date.
+Income and expense items are translated at the average exchange rates for the Period unless exchange rates fluctuate significantly.
+Exchange differences arising if any are classified as equity and transferred to the Groups translation reserve.
+Such translation differences are recognized as income or as expenses in the period in which the operation is disposed of.
+DISCONTINUED OPERATIONS A discontinued operation is a component of the Companys business the operations and cash flows of which can be clearly distinguished from the rest of the Company and which Represents a separate major line of business or geographic area Is part of a single coordinated plan to dispose of a separate major line of business or geographic area of operations or Is a subsidiary acquired exclusively with a view to resale.
+Classification as a discontinued operation occurs at the earlier of disposal or when the operation meets the criteria to be classified as heldforsale.
+When an operation is classified as a discontinued operation the income statement and comprehensive loss is represented as if the operation has been discontinued from the start of the comparative year.
+During the year ended March 31 2017 the Company has classified its noncore operations as discontinued operations as further described in note 6.
+The 2016 income statement has been restated to remove the results of discontinued operations.
+TAXATION
+The tax expense represents the sum of the tax currently payable and deferred tax.
+The tax currently payable or receivable is based on taxable lossprofit for the year.
+Taxable lossprofit differs from net lossprofit as reported in the income statement because it will exclude items of income or expense that are taxable or deductible in other years and it further excludes items that are never taxable or deductible.
+The Groups liability for current tax is calculated using tax rates that have been enacted or substantively enacted by the balance sheet date.
+Deferred tax is the tax expected to be payable or recoverable on differences between the carrying amounts of assets and liabilities in the financial statements and the corresponding tax bases used in the computation of taxable profit and is accounted for using the balance sheet liability method.
+Deferred tax liabilities are recognized for all taxable temporary differences and deferred tax assets are recognized to the extent that it is probable that taxable profits are available against which deductible temporary differences can be utilized.
+Such assets and liabilities will not be recognized if the temporary difference arises from goodwill or from the initial recognition other than in a business combination of other assets and liabilities in a transaction that affects neither the tax profit nor the accounting profit.
+Deferred tax liabilities are recognized for taxable temporary differences arising on investments in subsidiaries and associates and interests in joint ventures except where the Group is able to control the reversal of the temporary difference and it is probable that the temporary difference will not reverse in the foreseeable future.
+The carrying amount of deferred tax assets is reviewed at each balance sheet date and reduced to the extent that it is no longer probable that sufficient taxable profits are available to allow all or part of the asset to be recovered.
+Deferred tax is calculated at the tax rates that are expected to apply in the period when the liability is settled or the asset is realized.
+Deferred tax is charged or credited in the income statement except when it relates to items charged or credited directly to equity in which case the deferred tax will also be dealt with in equity.
+Deferred tax assets and liabilities are offset when there is a legally enforceable right to set off current tax assets against current tax liabilities and when they relate to income taxes levied by the same tax authority and the Group intends to settle its current tax assets and liabilities on a net basis.
+PROPERTY PLANT AND EQUIPMENT Property plant and equipment is stated at cost less accumulated depreciation and any recognized impairment loss.
+Cost includes expenditure that is directly attributable to the acquisition of the assets.
+Depreciation is charged so as to write off the cost of assets over their estimated useful lives using the straightline method on the following bases Fixtures fittings office and computer equipment Over 35 years Leasehold improvements Over shorter of economic life or lease term 51 RhythmOne plc
+The gain or loss arising from the disposal or retirement of an asset is determined as the difference between the sales proceeds and the carrying amount of the asset and is recognized in income.
+INTERNALLYGENERATED INTANGIBLE ASSETSRESEARCH AND DEVELOPMENT EXPENDITURE Expenditure on research activities is recognized as an expense in the period in which it is incurred.
+An internallygenerated intangible asset arising from the Groups product development is recognized only if all of the following conditions are met the product from which the asset arises meets the Groups criteria for technical feasibility so it will be available for use the asset is intended to be completed and will be used or sold the asset created is expected to generate demonstrable future economic benefits the development cost of the asset can be measured reliably and adequate technical financial and other resources are available to complete development of the asset.
+Internallygenerated intangible assets are amortized on a straightline basis over their useful life which is considered to be three years starting when the associated technology is available for use.
+Where no internallygenerated intangible asset can be recognized development expenditure is recognized as an expense in the period in which it is incurred.
+OTHER INTANGIBLE ASSETS EXCLUDING GOODWILL Other intangible assets excluding goodwill are measured initially at purchase cost or at fair value if acquired as part of a business combination and are amortized on a straightline basis over their estimated useful lives on the following bases Tradenames patents and trademarks 310 years Software licenses 3 years Purchased technology 35 years Relationships with publishers and customers 312 years IMPAIRMENT OF ASSETS EXCLUDING GOODWILL At each balance sheet date the Group will review the carrying amounts of its tangible and intangible assets to determine whether there is any indication that those assets have suffered an impairment loss.
+If any such indication exists the recoverable amount of the asset is estimated in order to determine the extent of the impairment loss if any.
+Where the asset does not generate cash flows that are independent from other assets the Group estimates the recoverable amount of the cashgenerating unit to which the asset belongs.
+Recoverable amount is the higher of fair value less costs to sell and value in use.
+In assessing value in use the estimated future cash flows are discounted to their present value using a pretax discount rate that reflects current market assessments of the time value of money and the risks specific to the asset for which the estimates of future cash flows have not been adjusted.
+If the recoverable amount of an asset or cashgenerating unit is estimated to be less than its carrying amount the carrying amount of the asset cashgenerating unit is reduced to its recoverable amount.
+An impairment loss is recognized as an expense immediately unless the relevant asset is carried at a revalued amount in which case the impairment loss is treated as a revaluation decrease.
+Where an impairment loss subsequently reverses the carrying amount of the asset cashgenerating unit is increased to the revised estimate of its recoverable amount but so that the increased carrying amount does not exceed the carrying amount that would have been determined had no impairment loss been recognized for the asset cashgenerating unit in prior years. which case the reversal of the impairment loss is treated as a revaluation increase.
+Any increase in the recoverable amount of previously impaired goodwill is not subsequently reversed.
+PROVISIONS
+Provisions are recognized when the Group has a present obligation as a result of a past event it is probable that the Group will be required to settle that obligation and a reliable estimate can be made of the amount of the obligation.
+Provisions are measured at the Directors best estimate of the expenditure required to settle the obligation at the balance sheet date taking into account risks and uncertainties surrounding the obligation.
+Where a provision is measured using the cash flows estimated to settle the present obligation its carrying amount is the present value of those cash flows.
+A restructuring provision is recognized when the Group has developed a detailed formal plan for the restructuring and has raised a valid expectation in those affected that it will carry out the restructuring by starting to implement the plan or announcing its main features to those affected by it.
+The measurement of a restructuring provision includes only the direct expenditures arising from the restructuring which are those amounts that are both necessarily entailed by the restructuring and not associated with the ongoing activities of the entity.
+52 RhythmOne plc
+Present obligations arising under onerous contracts are recognized and measured as provisions.
+An onerous contract is considered to exist where the Group has a contract under which the unavoidable costs of meeting the obligations under the contract exceed the economic benefits expected to be received under it.
+SHAREBASED PAYMENTS The Group applies IFRS 2 Sharebased Payments in accounting for its Sharebased Compensation plans.
+The Group issues equitysettled sharebased payments to certain employees.
+Equitysettled sharebased payments are measured at fair value at the date of grant by use of an appropriate valuation model.
+The fair value determined at the grant date of the equitysettled sharebased payments is expensed on a straightline basis over the vesting period based on the Groups estimate of shares that will eventually vest.
+Fair value is measured by use of the BlackScholes and Monte Carlo models.
+The expected life used in the model has been adjusted based on managements best estimate for the effects of nontransferability exercise restrictions and behavioral considerations.
+At each balance sheet date the Group revises its estimate of the number of equity instruments expected to vest as a result of the effect of nonmarketbased vesting conditions.
+The impact of the revision of the original estimates if any is recognized in profit and loss such that the cumulative expense reflects the revised estimate with a corresponding adjustment to equity reserves.
+When the options are exercised the Company issues new shares.
+The proceeds received net of any directly attributable costs are credited to share capital nominal value and share premium.
+RETIREMENT BENEFITS Payments to a defined contribution scheme are charged as an expense as they fall due.
+FINANCIAL INSTRUMENTS Financial assets and financial liabilities are recognized in the Groups balance sheet when the Group becomes a party to the contractual provisions of the instrument.
+LOANS AND RECEIVABLES Trade receivables loans and other receivables that have fixed or determinable payments that are not quoted in an active market are classified as loans and receivables.
+Loans and receivables are measured at amortized cost using the effective interest method less any impairment.
+Interest income is recognized by applying the effective interest rate except for shortterm receivables when the recognition of interest would be immaterial.
+RESTRICTED CASH Where required the Group keeps amounts on deposit with financial institutions as a condition of certain property leases and purchase card facility requirements.
+This cash may not be used by the Group and is held as security against the lease or credit facility.
+At the cessation of the lease or credit facility the cash restrictions cease and the cash will be immediately accessible.
+Until this time the cash is classified as Restricted cash in noncurrent assets.
+IMPAIRMENT OF FINANCIAL ASSETS For certain categories of financial assets such as trade receivables assets that are assessed not to be impaired individually are subsequently assessed for impairment on a collective basis.
+Objective evidence of impairment for a portfolio of receivables could include the Groups past experience of collecting payments an increase in the number of delayed payments in the portfolio past the average credit period as well as observable changes in national or local economic conditions that correlate with default on receivables.
+For financial assets carried at amortized cost the amount of the impairment is the difference between the assets carrying amount and the present value of the estimated future cash flows discounted at the financial assets original effective interest rate.
+The carrying amount of the financial asset is reduced by the impairment loss directly for all financial assets with the exception of trade receivables where the carrying amount is reduced through the use of an allowance account.
+When a trade receivable is considered uncollectible it is written off against the allowance account.
+Subsequent recoveries of amounts previously written off are credited against the allowance account.
+Changes in the carrying amount of the allowance account are recognized in profit or loss.
+CASH AND CASH EQUIVALENTS Cash and cash equivalents comprise cash on hand and demand deposits and other shortterm highly liquid investments that are readily convertible to a known amount of cash and are subject to an insignificant risk of changes in value.
+MARKETABLE SECURITIES Marketable securities represent the Groups investments in corporate bonds commercial papers government bonds collateralized securities and certificates of deposit.
+These are recognized either as current or noncurrent assets in accordance with their maturity.
+Marketable securities are carried at fair value with the change in its fair value recognized directly in the Statement of Comprehensive Income.
+Interest income and dividends on marketable securities is recognized in the Income Statement as well as any foreign exchange gains and losses and impairment losses.
+53 RhythmOne plc
+FINANCIAL LIABILITIES AND EQUITY Financial liabilities and equity instruments are classified according to the substance of the contractual arrangements entered into.
+EQUITY INSTRUMENTS An equity instrument is any contract that evidences a residual interest in the assets of the Group after deducting all of its liabilities.
+Equity instruments issued by the Group are recorded at the proceeds received net of direct issue costs.
+FINANCIAL LIABILITIES All financial liabilities are classified as other financial liabilities.
+Other financial liabilities including borrowings are initially measured at fair value net of transaction costs.
+Other financial liabilities are subsequently measured at amortized cost using the effective interest method with interest expense recognized on an effective yield basis.
+The effective interest method is a method of calculating the amortized cost of a financial liability and of allocating interest expense over the relevant period.
+The effective interest rate is the rate that exactly discounts estimated future cash payments through the expected life of the financial liability or where appropriate a shorter period to the net carrying amount on initial recognition.
+The Group derecognizes financial liabilities when and only when the Groups obligations are discharged canceled or they expire.
+DERIVATIVE FINANCIAL INSTRUMENTS The Group does not use derivative financial instruments.
+BUSINESS COMBINATIONS Acquisitions of subsidiaries and businesses are accounted for using the acquisition method.
+The consideration for each acquisition is measured at the aggregate of the fair values at the date of exchange of assets given liabilities incurred or assumed and equity instruments issued by the Group in exchange for control of the acquiree.
+Acquisitionrelated costs are recognized in profit or loss as incurred.
+Where applicable the consideration for the acquisition includes any asset or liability resulting from a contingent consideration arrangement measured at its acquisitiondate fair value.
+Subsequent changes in such fair values are adjusted against the cost of acquisition where they qualify as measurement period adjustments.
+All other subsequent changes in the fair value of contingent consideration classified as an asset or liability are accounted for in accordance with relevant IFRSs.
+Changes in the fair value of contingent consideration classified as equity are not recognized.
+Where a business combination is achieved in stages the Groups previouslyheld interests in the acquired entity are remeasured to fair value at the acquisition date i. profit or loss.
+Amounts arising from interests in the acquiree prior to the acquisition date that have previously been recognized in other comprehensive income are reclassified to profit or loss where such treatment would be appropriate if that interest were disposed of.
+The acquirees identifiable assets liabilities and contingent liabilities that meet the conditions for recognition under IFRS 3 Revised 2008 are recognized at their fair value at the acquisition date except that deferred tax assets or liabilities and liabilities or assets related to employee benefit arrangements are recognized and measured in accordance with IAS 12 Income Taxes and IAS 19 Employee Benefits respectively liabilities or equity instruments related to the replacement by the Group of an acquirees sharebased payment awards are measured in accordance with IFRS 2 Sharebased Payment and assets or disposal groups that are classified as held for sale in accordance with IFRS 5 Noncurrent Assets Held for Sale and Discontinued Operations are measured in accordance with that Standard.
+If the initial accounting for a business combination is incomplete by the end of the reporting period in which the combination occurs the Group reports provisional amounts for the items for which the accounting is incomplete.
+Those provisional amounts are adjusted during the measurement period or additional assets or liabilities are recognized to reflect new information obtained about facts and circumstances that existed as of the acquisition date that if known would have affected the amounts recognized as of that date.
+The measurement period is the period from the date of acquisition to the date the Group obtains complete information about facts and circumstances that existed as of the acquisition date and is subject to a maximum of one year.
+4CRITICAL JUDGMENTSANDKEY SOURCES OF ESTIMATIONUNCERTAINTY CRITICAL JUDGMENTS IN APPLYING THE GROUPS ACCOUNTING POLICIES The following are the critical judgments apart from those involving estimations which are dealt with separately below that the Directors have made in the process of applying the Group accounting policies and that have the most significant effect on the amounts recognized in the financial statements.
+54 RhythmOne plc
+BUSINESS COMBINATIONS In making their judgments with regards to the fair value and useful life of assets and liabilities for acquired businesses the Directors have considered the classification criteria for accounting for business combinations set out in IFRS 3 Business Combinations including the identification and valuation of acquired intangible assets.
+IDENTIFICATION AND VALUATION OF ACQUIRED INTANGIBLES In making judgments in relation to the identification valuation and useful economic life of acquired intangibles the Directors base their assessment on valuation reports prepared by an expert third party at the time of an acquisition.
+DISCONTINUED OPERATIONS When assessing whether to account for a business segment as a discontinued operation the Directors have considered the detailed criteria set out in IFRS 5 NonCurrent Assets Held for Sale and Discontinued Operations in particular whether a business unit qualifies for disclosure as a discontinued operation.
+The Directors consider the noncore operations to represent a major line of business and part of a single disposal plan.
+REVENUE RECOGNITION In making their judgment with regard to revenue recognition the Directors have considered the detailed criteria for the recognition of revenue for the provision of services set out in IAS 18 Revenue and the policy in note 3 in particular regarding whether the debt is collectible.
+There is a policy in relation to the sales and doubtful debt allowance and the Directors have exercised judgment in relation to this.
+DETERMINATION OF FUNCTIONAL CURRENCY Determining the appropriate functional currency requires management judgment and consideration of the economic factors in which the entity operates such as the currency that mainly influences revenue labour material and other costs.
+KEY SOURCES OF ESTIMATION UNCERTAINTY The key assumptions concerning the future and other key sources of estimation uncertainty at the balance sheet date that have a significant risk of causing a material adjustment to the carrying amounts of assets and liabilities within the next financial period are discussed below.
+IMPAIRMENT OF GOODWILL Determining whether goodwill is impaired requires an estimation of the value in use of the cash generating unit CGU to which goodwill has been allocated.
+The value in use calculation requires the entity to estimate the future cash flows of the CGU and a suitable discount rate in order to calculate present value.
+The carrying amount of goodwill at the balance sheet date was 48.5m 2016 37.2m.
+SUBSIDIARY INVESTMENTS The Companys initial valuation of its investments in its subsidiary undertakings are based on cost and subsequent capital contributions.
+The Directors have considered the criteria in IAS 36 Impairment of Assets in assessing the carrying value.
+DEFERRED TAX ASSET In determining the level of recognition of the deferred tax assets the Directors have considered the level of future taxable profits that are expected to be received in the foreseeable future.
+SHARE OPTIONS AND RESTRICTED SHARE UNITS In calculating the fair value of the share options the Directors have considered the expected life of the option the volatility of the Companys share price the risk free rate and forfeiture rates.
+In calculating the fair value of the restricted share units the Company uses the share price at the date of grant.
+5SEGMENTALANALYSIS RhythmOne plc is organized internally along function lines with each line reporting to the Groups chief operating decisionmaker
+the Chief Executive Officer.
+The primary function lines include finance human resources operations marketing sales business development technology and product development.
+Each of these functions supports the overall business activities however they do not engage in activities from which they earn revenues or incur expenditure in their operations with each other.
+No discrete financial information is produced for these functional lines.
+The Groups chief operating decisionmaker is ultimately responsible for entitywide resource allocation decisions and evaluates the performance of the Group on a Groupwide basis.
+The Company integrates acquired businesses and products into the RhythmOne business model such that separate management financial data on these entities is not generally maintained postacquisition.
+Acquired businesses immediately benefit from the primary function lines noted above and their products and services are enhanced by the inclusion of RhythmOne technology functionality and the Groups wider sales channels to the market.
+55 RhythmOne plc
+The Group operates a global Internet business and its commercial activity is not generated from distinguishable geographic origins.
+Although the Group has operations in several geographic locations no discrete financial performance information is maintained on a regional basis because of the globally distributed nature of the revenues and high degree of functional integration among the different geographic locations.
+Consequently decisions around the allocation of resources are not determined on a regional basis and the chief operating decisionmaker does not assess the Groups performance on a geographic basis.
+Consequently the Groups chief operating decision maker reviews financial information for the Group as a whole determining where to allocate resources and drive business forward by examining consolidated results showing underlying results adjusted for acquisition and exceptional charges and amortization of purchased intangibles.
+The Groups business is based on the principle of facilitating free access to content via an advertisingsupported distribution model and its revenues are derived from online advertising.
+The Group applies its technology across a set of standard and interrelated products to connect its audience with contextually relevant advertising.
+Advertisers select from several product types which are priced on different pricing schemes.
+Each of the products generates revenues from a mix of the various pricing methodologies.
+There is considerable overlap among the products and advertisers and it is not meaningful to separate the revenues by primary pricing scheme or product.
+Consequently separate financial information is not reviewed by the chief operating decisionmaker for the various products to assess their performance or for the purpose of resource allocation decisions.
+As a consequence of the above factors the Group has one operating and reportable segment in accordance with IFRS 8 Operating
+IFRS 8 also requires information on any customer who accounts for 10% or more of the combined revenue.
+There is one customer who accounts for 23.62% of the combined current year revenue 2016 one customer accounted for 12.56% of combined revenue.
+Geographical analysis of the Groups revenues including analysis between the Groups country of domicile and other countries is not disclosed under IFRS 8 as materially all the customers are USbased.
+As required in accordance with IAS 18 Revenue an analysis of the Groups revenue is as follows YEAR ENDED 31 MARCH 2017 YEAR ENDED 31 MARCH 2016 CONTINUING OPERATIONS Rendering of services 149025 116058 6DISCONTINUED OPERATIONS On March 31 2017 the Company discontinued its NonCore business operations.
+This included ceasing the operations of its consumer business activities and the sale of certain assets and specific liabilities of Prime Visibility Media Group PVMG.
+The results of these operations are presented as discontinued operations in the Groups Income Statement.
+The comparatives have been restated to show the discontinued operation separately from the continuing operations.
+Management committed to a plan to discontinue NonCore operations and sell certain assets and specific liabilities of PVMG in February 2017 and the disposals were finalized on March 31 2017.
+Results of the discontinued operations for the periods presented through to the date of discontinuance are as follows YEAR ENDED 31 MARCH 2017 YEAR ENDED 31 MARCH 2016
+EXCEPTIONAL
+COSTS
+EXCEPTIONAL
+COSTS
+TOTAL
+BEFORE
+EXCEPTIONAL
+COSTS
+EXCEPTIONAL
+COSTS
+TOTAL
+Revenue 26356  26356 50657  50657 Cost of revenue 13779  13779 27750  27750 Operating expenses 13404 76 13480 21904 18103 40007 Profit  Loss before tax and loss on other items 827 76 903 1003 18103 17100 Finance expense    3 3 Loss on disposition of assets  3858 3858 Profit  Loss before income taxes 827 3934 4761 1000 18103 17103 Income tax recovery    377  377 Profit  loss discontinued operations 827 3934 4761 1377 18103 16726 CENTS CENTS LOSS PER SHARE BASIC 1.13 4.15 DILUTED 1.13 4.15 56 RhythmOne plc
+CASH FLOWS FROM  USED IN DISCONTINUED OPERATIONS YEAR ENDED 31 MARCH 2017 YEAR ENDED 31 MARCH 2016 Net cash used in  from operating activities 776 5439 Net cash from  used in investing activities 948 206 Net cash used in financing activities 438 5791 Net cash used in discontinued operations 266 558 CONSIDERATION RECEIVED FOR SALE OF CERTAIN ASSETS AND SPECIFIC LIABILITIES OF PVMG 31 MARCH 2017 Consideration received from the purchaser Cash consideration received 1064 Deferred sales proceeds The acquirer issued an unsecured promissory note to the Company which is repayable in annual installments of 0.8m through March 31 2020 and bears interest at 6% per annum.
+DETAILS OF THE NET ASSETS AND LIABILITIES OF PVMG DISPOSED OF ARE AS FOLLOWS 31 MARCH 2017 Assets disposed of Prepaid expenses 14 Property plant and equipment 15 Intangible assets 922 Goodwill 6121 LOSS ON DISPOSITION OF ASSETS AND LIABILITIES OF PVMG 31 MARCH 2017 Consideration received 3514 Transaction costs 300 Net assets of PVMG disposed of 7072 NET CASH INFLOW ON DISPOSAL OF PVMG 31 MARCH 2017 Consideration received satisfied in cash 1064 Transaction costs 300 7 BUSINESSCOMBINATION On January 19 2017 the Company acquired 100% of the issued and outstanding shares of Perk Inc.
+Perk a Waterloo Ontario Canada based innovator in rewarded video for mobile devices for consideration of 43.7m.
+The acquisition accelerates the Companys strategy to build a unified programmatic platform with unique audiences of uniform quality at scale.
+Through Perk RhythmOne plc gains access to a number of premium consumer mobile apps and web properties adding exclusive inventory to the Companys supply side portfolio as well as strategic demand relationships.
+The Company issued 88235410 of its common shares with a value of 43.7m in consideration for the acquisition.
+The acquisition was accounted for using the acquisition method in accordance with IFRS 3 Business Combinations with the results of operations consolidated with those of the Company effective January 19 2017.
+Transaction costs of 0.9m were recorded in transaction costs within net loss.
+The acquisition incrementally added 13.1m of revenue to the Group in the current fiscal year and generated a loss before tax of If the acquisition had been completed on the first day of the financial year Group revenues for the period would have been 234m and loss before tax would have been 21.5m.
+57 RhythmOne plc
+The provisional allocation of the purchase price as follows is subject to change once management has finalized the acquisition accounting PURCHASE CONSIDERATION Consideration in the Companys shares 88235410 common shares 43697
+Current assets Cash 10229 Trade accounts receivable 10255 Other receivables 1753 Property plant and equipment 630 Software 99 Trade names and trademarks 5400 Technology related assets 4700 Customer relationships and user base 9700
+Current liabilities Trade and other payables 9058 Term loans 832 Provisions 300 Income tax payable 953 Term loans 675 Deferred tax liabilities 4695 PROVISIONAL FAIR VALUE OF NET IDENTIFIABLE ASSETS AND LIABILITIES ASSUMED 26253 PROVISIONAL GOODWILL 17444 The provisional fair value of the financial assets includes trade accounts receivables with a fair value of 10.3m and a gross contractual value of 10.3m.
+The best estimate at acquisition date of the contractual cash flows not to be collected is  nil.
+The goodwill of 17.4m arising from the acquisition was primarily attributable to the assembled workforce of the acquired business and synergies expected to arise post acquisition and integration of the business.
+None of the goodwill recognized is expected to be deductible for tax purposes.
+The Group engaged an independent valuator to assess and determine the acquired intangibles and goodwill balances.
+8 LOSS FORTHEYEAR Loss for the year is stated after charging YEAR ENDED 31 MARCH 2017 YEAR ENDED 31 MARCH 2016 Net foreign exchange losses 66 3 Operating lease payments see note 25 2992 3461 Research and development costs excluding amortization of intangibles below 22668 16198 Depreciation of property plant and equipment see note 16 Owned 535 1050 Leased 1201 1122 Amortization of intangibles see note 15 Relationships with customers and publishers 3882 8994 Purchased technology 932 6525 Capitalized development costs 2089 6837 Trade names trademarks and patents 896 1016 Software licenses 673 657 Loss on disposal of property and equipment 82 56 Acquisition and exceptional costs see note 28 9179 65295 Staff costs see note 10 38830 45588 Impairment loss recognized on trade receivables see note 18 495 585 Exceptional costs include 5.2m from continuing operations 201647.2m and 3.9m from discontinued operations 201618.1m.
+58 RhythmOne plc
+9 AUDITORSREMUNERATION The analysis of auditors remuneration is as follows YEAR ENDED 31 MARCH 2017 YEAR ENDED 31 MARCH 2016 Fees payable to the Companys auditors for the audit of the Parent Company and Consolidated annual financial statements 440 394 Fees payable to the Companys auditors and their associates for other services to the
+Audit related assurance services 64 70 Taxadvisoryservices  145 Transaction related services 156 Total Fees 660 609 10STAFF COSTS The average monthly number of employees including Directors and related staff costs for continuing and discontinued operations was YEAR ENDED 31 MARCH 2017 YEAR ENDED 31 MARCH 2016 Sales and marketing 154 185 Research and development 88 85 Administration and operations 41 45 TOTAL 283 315 YEAR ENDED 31 MARCH 2017 YEAR ENDED 31 MARCH 2016 Wages and salaries 31686 36066 Share based compensation 2015 4415 Social Security costs 2138 2579 Other pension costs 15 35840 43065 Other employee benefits and costs 3695 4291 Costs allocated to internallygenerated assets 705 1768 INCLUDED IN LOSS FOR THE YEAR 38830 45588 11 FINANCEINCOMEANDEXPENSE FROM CONTINUINGOPERATIONS YEAR ENDED 31 MARCH 2017 YEAR ENDED 31 MARCH 2016 Interest income on cash and cash equivalents 631 256 Interest expense on obligations under finance leases 266 198 NET FINANCE INCOME 365 58 12 TAX FROM CONTINUINGOPERATIONS YEAR ENDED 31 MARCH 2017 YEAR ENDED 31 MARCH 2016 Current tax 352 1864 Deferred tax 1213 210 861 1654 Changes to the UK corporation tax rates were substantively enacted as part of Finance Bill 2015 on 26 October 2015 and Finance Bill 2016 on 7 September 2016.
+These include reductions to the main rate to reduce the rate to 19% from 1 April 2017 and to 17% from 1 April 2020.
+Deferred taxes at the balance sheet date have been measured using these enacted tax rates and reflected in these financial statements.
+59 RhythmOne plc
+The credit for the year can be reconciled to the loss per the income statement as follows YEAR ENDED 31 MARCH 2017 YEAR ENDED 31 MARCH 2016 Loss before tax 14890 77181 Tax at UK corporation rate of 20% 2016 20% 2978 15437 Adjustment for overseas tax rate 15107 12127 Tax effect of expense not deductible in determining taxable profit  loss 444 1392 Non deductible impairment expense  13750 Reduced tax in subsidiaries operating in other jurisdictions 39848 1103 Deferred tax not recognizedutilisation of tax losses 23852 13794 Impact of sharebased payments 368 1141 Adjustment in respect to prior years 416 3064 TAX CREDIT 861 1654 13EARNINGSPER SHARE YEAR ENDED 31 MARCH 2017 YEAR ENDED 31 MARCH 2016
+Loss used in calculation of basic and diluted earnings per share 18790 92253 Loss used in calculation of basic and diluted earnings per share from continuing operations 14029 75527 SHARES SHARES NUMBER OF SHARES Weighted average number of shares for the purpose of basic earnings per share 422606922 403198763 Weighted average number of shares for the purpose of diluted earnings per share 422606922 403198763 In accordance with IAS 33 Earnings per share as the Group generated a loss for the year.
+The inclusion of potentially dilutive options and shares to be issued would have an antidilutive effect on the loss per share for the Period.
+The impact of these has therefore been excluded from the calculation for the year ended 31 March 2017 and 2016.
+14 GOODWILL The Group tests goodwill for impairment annually or more often if there are indications that it may be impaired.
+The carrying amount of goodwill has been allocated between the CGUs AS AT 31 MARCH 2016 ACQUISITION AND
+ADJUSTMENTS
+RECLASSIFICATION
+AS AT 31 MARCH 2017 RhythmOne 21086  10000 31086 AdKarma 10000  10000 PVMG 6121 6121 Perk Inc.
+17444  17444 Total 37207 11323  48530 During the period RhythmOne plc consolidated certain products infrastructure sales and marketing efforts under its trade name
+The AdKarma CGU was consolidated with RhythmOne resulting in the goodwill associated with AdKarma being reclassified to the RhythmOne CGU.
+The key assumptions for the value in use calculations are those regarding the discount rates revenue growth rates and terminal growth rate.
+The Group prepares cash flow forecasts derived from the most recent financial budgets approved by management for the next five years and extrapolates cash flows into perpetuity using a terminal growth rate.
+The cash flow forecasts were prepared using an average revenue growth rate of 6% per year for RhythmOne and 4.7% per year for Perk.
+The cash flows beyond the five year period are extrapolated into perpetuity using a terminal growth rate of 2% 2016 2%.
+This rate is based on an estimated longterm growth rate for the industry and countries in which RhythmOne operates and does not exceed the average longterm growth rate for the relevant markets based on the historical Consumer Price Index in the United States.
+The assumptions for growth rates are based on past experience of each CGUs trading performance and are consistent with industry analyst expectations.
+The assumptions used differ between CGUs reflecting the differences in products customers and suppliers between each CGU.
+60 RhythmOne plc
+The pretax rate used to discount the forecast cash flows is 21.6% 2016 19% for all CGUs.
+Management estimates discount rates using pretax rates that reflect current market assessments of the time value of money and the risks specific to the CGUs.
+No reasonable changes in assumptions would lead to an impairment of the goodwill.
+15 INTANGIBLEASSETS
+WITH
+CUSTOMERS and
+PURCHASED
+TECHNOLOGY
+CAPITALIZED
+DEVELOPMENT
+COSTS
+TRADENAMES
+TRADEMARKS and PATENTS
+LICENSES
+TOTAL
+COST
+At 31 March 2015 39180 17754 13537 10177 6802 87450 Additions   4283 24 46 4353 Acquired through acquisitions  60  10  70 At 31 March 2016 39180 17814 17820 10211 6848 91873 Additions   3266   3266 Acquired on acquisition of subsidiaries 9700 4700  5400 99 19899 Disposed through disposition of subsidiary 1100   2150 1088 4338 At 31 March 2017 47780 22514 21086 13461 5859 110700 ACCUMULATED AMORTIZATION At 31 March 2015 15084 10182 7268 6079 5031 43644 Amortization 8994 6525 6837 1016 657 24029 At 31 March 2016 24078 16707 14105 7095 5688 67673 Disposed through disposition of subsidiary 1100 1228 1088 3416 Amortization 3882 932 2089 896 673 8472 At 31 March 2017 26860 17639 16194 6763 5273 72729 NET BOOK VALUE At 31 March 2016 15102 1107 3715 3116 1160 24200 At 31 March 2017 20920 4875 4892 6698 586 37971 61 RhythmOne plc
+16 PROPERTYPLANTANDEQUIPMENT
+EQUIPMENT
+FIXURES FITTINGS AND OFFICE
+LEASEHOLD
+IMPROVEMENTS
+TOTAL
+COST
+At 31 March 2015 7136 1882 728 9746 Additions 1880 38 341 2259 Disposal 162 88 4 254 Exchange differences 13 3 3 19 At 31 March 2016 8841 1829 1062 11732 Additions 2112 229 53 2394 Acquired upon acquisition of subsidiary Disposals 1050 665 354 2069 Disposed of upon disposition of subsidiary  114 20 134 Exchange differences 55   55 At 31 March 2017 10171 1337 990 12498 ACCUMULATED DEPRECIATION At 31 March 2015 4756 1224 426 6406 Depreciation 1695 317 160 2172 Disposal Exchange differences At 31 March 2016 6311 1479 584 8374 Depreciation 1389 194 153 1736 Disposals 1036 665 302 2003 Disposed of upon disposition of subsidiary  103 15 118 Exchange differences 47   47 At 31 March 2017 6617 905 420 7942 NET BOOK VALUE At 31 March 2016 2530 350 478 3358 At 31 March 2017 3554 432 570 4556 The carrying value of assets under finance leases at 31 March 2017 was 2.8m 2016 2.0m all of which is included in Computer
+The Groups obligations under finance leases are typically secured by the assets to which the lease relates.
+62 RhythmOne plc
+17SUBSIDIARIES NAME OF COMPANY NATURE OF
+PROPORTION
+OF ALLOTTED
+CAPITAL HELD DIRECTLY OR
+PRINCIPAL
+PLACE OF BUSINESS COUNTRY OF
+RhythmOne US Holdings Inc.
+Holding company 100%Directly held 251 Kearny St San Fransisco CA 94108 United States RhythmOne LLC Trading company 100%Indirectly held 251 Kearny St San Fransisco CA 94108 United States BlinkxCanada Inc.
+Trading company 100%Directly held 3500 Maisonneuve West Westmount QC H3Z 3C1
+Prime Visibility LLC Trading company 100%Indirectly held 251 Kearny St San Fransisco CA 94108 United States Verti Technology Group Inc Trading company 100%Indirectly held 251 Kearny St San Fransisco CA 94108 United States AdOn Network LLC Trading company 100%Indirectly held 251 Kearny St San Fransisco CA 94108 United States Perk Inc.
+Holding company 100%Indirectly held 150 Caroline Street Waterloosite U.
+Inc.
+Trading company 100%Indirectly held 720 Brazos Street Austinsite Canada Inc.
+Trading company 100%Indirectly held 150 Caroline Street Waterloosite Software Private Limited Trading company 100%Indirectly held No.
+95 Koramangala 4thBlockS.
+India
+Perkstar LLC Holding company 100%Indirectly held 720 Brazos Street Austin TX 78701 United States AppRedeem Inc.
+Trading company 100%Indirectly held 720 Brazos Street Austin TX 78701 United States Playerize Network Inc.
+Trading company 100%Indirectly held 150 Caroline Street Waterloo ON H3Z 0A5
+BC Ltd.
+Holding company 100%Indirectly held 150 Caroline Street Waterloo ON H3Z 0A5
+Playerize Inc.
+Trading company 100%Indirectly held 720 Brazos Street Austin TX 78701 United States Viggle Rewards Inc.
+Trading company 100%Indirectly held 720 Brazos Street Austin TX 78701 United States 18OTHERRECEIVABLESANDRESTRICTED CASH AS AT 31 MARCH 2017 AS AT 31 MARCH 2016 CURRENT ASSETS Trade receivables 42413 24246 Sales and doubtful debts allowance 943 1421 NET TRADE RECEIVABLES 41470 22825 Other receivables and deposits 1753 39 Prepayments 1680 2383 OTHER RECEIVABLES 3433 2422 NON CURRENT ASSETS Other receivables 1804 200 Restricted cash amounts 2882 628 OTHER RECEIVABLES AND RESTRICTED CASH 4686 828 The average credit period taken on sales is 67 days 2016 50 days.
+Refer to the financial instruments note 27 for information on credit risk.
+63 RhythmOne plc
+Movement in the sales and doubtful debts allowance is as follows AS AT 31 MARCH 2017 AS AT 31 MARCH 2016 Balance at beginning of the Period 1421 2105 Receivables written off during the year as uncollectible 973 1269 Provision for receivables impairment 495 585 Balance at end of the Period 943 1421 AGING OF PAST DUE BUT NOT IMPAIRED RECEIVABLES As at 31 March 2017 trade receivables of 5.9m 2016 8.0m were past due but not impaired.
+These relate to a number of independent customers for whom there is no recent history of default.
+The aging analysis of these trade receivables is as follows AS AT 31 MARCH 2017 AS AT 31 MARCH 2016 190days 5399 3728 in excess of 90 days 547 4264 Totalpastduebutnotimpaired 5946 7992 AGING OF PAST DUE AND IMPAIRED RECEIVABLES As at 31 March 2017 trade receivables of 0.9m 2016 1.4m were impaired.
+The aging of these receivables is as follows AS AT 31 MARCH 2017 AS AT 31 MARCH 2016 190days 517 in excess of 90 days 938 1404 Total past due and impaired 943 1421 The Directors have considered the credit quality of assets neither past due nor impaired and do not consider further credit provision is required in excess of the allowance for sales and doubtful debts.
+No interest has been charged for overdue debts in the period.
+The Directors consider that the carrying amount of trade and other receivables approximates their fair value.
+Cash and cash equivalents comprise cash held by the Group and shortterm bank deposits with an original maturity of one month or less.
+The carrying amount of these assets approximates their fair value.
+Restricted cash is classified in noncurrent assets as it is not immediately accessible by the Group.
+64 RhythmOne plc
+19 MARKETABLE SECURITIES AS AT 31 MARCH 2017 AS AT 31 MARCH 2016 Balance at beginning of the Period 60264 Additions 631 60245 Withdrawal 5002 Net loss  gain recorded in other reserves 27 19 Balance at the end the Period 55866 60264 Less noncurrent portion 22864 29539 Current portion 33002 30725 Marketable securities include the following AS AT 31 MARCH 2017 AS AT 31 MARCH 2016 Listed securities Corporate and government debt instruments 55063 59461 Certificates of deposit 803 803 TOTAL 55866 60264 The maximum exposure to credit risk at the reporting date is the carrying value of the debt securities classified as marketable securities.
+None of these financial assets are either past due or impaired.
+20 DEFERREDTAX Deferred tax is calculated in full on temporary differences under the liability method using the substantively enacted tax rates of the jurisdictions in which the temporary differences are expected to reverse.
+Deferred tax assets have been recognized in respect of tax losses and other deductible temporary differences where it is probable that these assets will be recovered.
+The movements in deferred tax assets and liabilities including offsetting of balances within the same jurisdiction as permitted under IAS 12 during the period is shown below.
+Deferred tax assets and liabilities are only offset where there is a legally enforceable right of offset and there is an intention to settle the balances net.
+ASSETS
+31 MARCH
+31 MARCH
+31 MARCH
+31 MARCH
+31 MARCH
+31 MARCH Property plant and equipment and intangible assets 4606 3145 3422  1184 3145 Tax credit and loss carry forward 13080 12021   13080 12021 Share based payments 583 387   583 387 Other deductible temporary differences 1002 3723 441 386 561 3337 Deferred tax assets  liabilities 19271 19276 3863 386 15408 18890 Offset tax 68  68 Net deferred tax assets  liabilities 19271 19208 3863 318 15408 18890 ii Unrecognized Deferred Tax Assets There is an unrecognized deferred tax asset arising from unrecognized temporary differences of 25.6m 2016 18.2m which has not been recognized due to insufficient certainty that taxable profits will be available against which this asset could be used.
+65 RhythmOne plc
+BALANCE AT 31 MARCH 2016
+IN INCOME
+IN GOODWILL BALANCE AT 31 MARCH 2017 Property plant and equipment and intangible assets 3145 1304 3265 1184 Tax credit and losses carryforward 12021 1986 927 13080 Share based payments 387 196  583 Other deductible temporary differences 3337 2273 503 561 18890 1213 4695 15408 The amount of credit that can be recognized in the income statement is limited under IAS 12 and any remaining credit is taken to equity.
+21 OTHERPAYABLESANDPROVISIONSFORLIABILITIES TRADE AND OTHER PAYABLES AS AT 31 MARCH 2017 AS AT 31 MARCH 2016 CURRENT LIABILITIES Trade payables 29734 18722 Customer deposits 348 709 Onerous lease provision 907 700 Other accrued liabilities including the amount of finance leases due within 12 months 13304 10463 44293 30594 NON CURRENT LIABILITIES Deferred tax liability 3863 318 Onerous lease provision 1502 5 Non current liabilities 2228 1679 7593 2002 Trade creditors and accruals principally comprise amounts outstanding for trade purchases and ongoing costs.
+The average credit period taken for trade purchases is 86 days 2016 69 days.
+No interest has been charged by suppliers in respect of overdue amounts in the year.
+Noncurrent liabilities include deferred rent of 0.1m 2016 0.5m and obligations under finance leases of 2.1m 2016 1.2m.
+The Directors consider that the carrying amount of trade payables approximates to their fair value.
+The onerous lease provision comprises obligations for future rents payable on properties that are vacant or only partially utilized.
+These provisions are expected to be utilized by 30 September 2021.
+PROVISIONS
+AS AT 31 MARCH 2017 AS AT 31 MARCH 2016 Balance at beginning of the Period 705 749 Additional provision in the year 2159 193 Utilization of provision 455 237 Balance at end of the Period 2409 705 66 RhythmOne plc
+Obligations under finance lease The following table details the Groups remaining contractual maturity for its nonderivative financial liabilities with agreed repayment period AS AT 31 MARCH 2017 AS AT 31 MARCH 2016 AMOUNTS PAYABLE UNDER FINANCE LEASES Within one year 602 910 In second to fifth years inclusive 2165 1172 2767 2082 Less Amounts due for settlement within 12 months shown under current liabilities 602 910 Amounts due for settlement after 12 months 2165 1172 For the year ended 31 March 2017 the average effective borrowing rate was 6.6% 2016 8.7%.
+There is no material difference between the minimum lease payment and their present values.
+The Groups obligations under finance leases are typically secured on the assets to which the lease relates.
+22 SHARECAPITAL AS AT 31 MARCH 2017 AS AT 31 MARCH 2016 Issued and fully paid 495093938 ordinary shares of 1 pence each 2016 404462870 ordinary shares of 1 pence each 8667 7537 The Company has one class of ordinary share which carry no right to fixed income.
+During the current year 90631068 shares were issued of which 88235410 shares related to the acquisition of Perk 1588301 shares related to exercise of employee share options and 807357 shares related to restricted stock units.
+2016 2136359 shares were issued of which 512877 shares related to the acquisition of Rhythm NewMedia Inc.
+255980 shares related to exercise of employee share options and 1367502 shares related to restricted stock units.
+23SHAREPREMIUMACCOUNT
+PREMIUM
+Balance at 31 March 2015 168008 Premium arising on issue of equity shares net of costs 37 Balance at 31 March 2016 168045 Premium arising on issue of equity shares net of costs 114 Balance at 31 March 2017 168159 24SHARESTOBEISSUEDANDMERGERRESERVE The shares to be issued reserve relates to shares that are expected to be issued to former Burst shareholders as part of the consideration who have not yet submitted the paperwork to effect the exchange of Burst shares for RhythmOne plc shares.
+The merger reserve arises in business combinations where shares are issued for greater than 90% of consideration.
+The difference between the fair value and the nominal value of the shares transferred as consideration is taken to the merger reserve.
+67 RhythmOne plc
+25OPERATINGLEASEARRANGEMENTS YEAR ENDED 31 MARCH 2017 YEAR ENDED 31 MARCH 2016 Lease payments under operating leases recognized as an expense in the year 2992 3461 At the balance sheet date the Group had outstanding commitments for future minimum lease payments under noncancelable operating leases of which it is recovering a portion of the lease payments under noncancelable sublease agreements which fall due as follows YEAR ENDED 31 MARCH 2017 YEAR ENDED 31 MARCH 2016 Within one year 3140 2386 In the second to fifth years inclusive 6740 5236 More than five years  182 9880 7804 Amounts due to be received under noncancellable sublease agreements 1103 190 8777 7614 Operating lease payments represent rentals payable by the Group for certain of its office properties computer equipment and software.
+Lease terms range from two to ten years.
+26SHAREBASEDPAYMENTSANDEQUITY SETTLED SHAREOPTION SCHEMES On the demerger from Autonomy Corporation plc the Company has established the following share options schemes The blinkx 2007 Enterprise Management Incentive Plan the RhythmOne EMI Scheme The blinkx US Share Option Plan the RhythmOne US Plan The blinkx Autonomy Employee Discretionary Share Option Scheme 2007 the Autonomy Discretionary Scheme The blinkx Autonomy Employee US Share Option Plan the Autonomy US Plan The RhythmOne EMI Scheme and the RhythmOne US Plan allow for the grant of options over ordinary shares to employees of the Company and its subsidiaries.
+At the time of demerger two special grants were made under these plans.
+The first allowed a fully vested grant at nominal value and the second was a grant at nominal value but with a threeyear vesting period.
+Since then grants have been made at market value and with a three or fouryear vesting period with options vesting in varying sized tranches over that period.
+No option may be granted for a term in excess of 10 years.
+Vested options are exercisable following termination of employment for a period ranging from 40 to 90 days.
+Vesting criteria are based on continued employment with the Company.
+On 16 September 2013 the Board of Directors approved the amendment of RhythmOne Plc US Share Option Plan to allow the grant of Restricted Stock Units to be made under its terms.
+On 3 July 2015 the Board of Directors approved the Executive Plan for Market Value Share Options MVSOs that vest quarterly with an additional performance component.
+The equity awards require a minimum stock price threshold for options to vest and have a further accelerated vesting schedule when the stock price reaches a certain predetermined threshold above the stock price at grant.
+The Autonomy Discretionary Scheme and the Autonomy US Plan allowed a onetime grant of RhythmOne plc options to certain Autonomy employees who at the time of the demerger had vested Autonomy options.
+Options granted under this plan were granted at market price and vest over a period of three years.
+Sharebased compensation charges have been charged in the income statement within the following line YEAR ENDED 31 MARCH 2017 YEAR ENDED 31 MARCH 2016 Operating expenses 2015 4415 68 RhythmOne plc
+The following table summarizes options outstanding at 31 March 2017 relating to the RhythmOne EMI scheme and the RhythmOne US plan.
+All option exercise prices are quoted in sterling.
+NUMBER
+WEIGHTED
+AVERAGE
+NUMBER
+WEIGHTED
+AVERAGE
+Outstanding balance at beginning of year 29269661 0.38 23690152 0.50 Granted during the year 8102500 0.24 12747500 0.27 Exercised during the year 1588301 0.07 255980 0.10 Forfeited during the year 5310901 0.35 6912011 0.59 Outstanding balance at end of year 30472959 0.37 29269661 0.38 Exercisable at end of year 18013926 0.44 11669968 0.52 The weighted average share price at the date of exercise for share options exercised during the period was 0.34 FY2016 0.27.
+The options outstanding at 31 March 2017 had a weighted average exercise price of 0.37 FY2016 0.38.
+The weighted average remaining contractual life of the options was 8 years FY2016 8 years.
+The inputs to the BlackScholes and Monte Carlo models were as follows 2017 2016 Weighted average share price 0.25 0.27 Weighted average exercise price 0.34 0.27 Expected volatility 3974% 5185% Expected life 6 10 years 6 10 years Risk free rate 1.572.41% 2.172.37% Expected dividend Expected volatility was determined by calculating the historical volatility of the Groups share price for the last 90 days prior to grant.
+The expected life used in the model has been adjusted based on managements best estimate for the effects of nontransferability exercise restrictions and behavioral considerations.
+Options were granted on 2 June 2016 14 June 2016 16 June 2016 10 January 2017 10 February 2017.
+The weighted average of the fair value of the options granted in the year was 0.34 per share 2016 0.27 per share.
+The following table summarizes options outstanding as at 31 March 2017 in relation to the Autonomy Discretionary Share Scheme and Autonomy US Plan options.
+NUMBER
+WEIGHTED
+AVERAGE
+NUMBER
+WEIGHTED
+AVERAGE
+Outstanding balance at beginning of year 481139 0.45 543938 0.45 Lapsed during the year 252254 0.45 62799 0.45 Outstanding balance at end of year 228885 0.45 481139 0.45 Exercisable at end of year 228885 0.45 481139 0.45 No options were exercised during the year from the Autonomy plan.
+2016 No options were exercised during the year from the Autonomy plan.
+The options outstanding at 31 March 2017 had a weighted average exercise price of 0.45 2016 0.45.
+These stock options expire on 21 May 2017.
+In 2016 the weighted average remaining contractual life of the options was 1 year.
+No options were granted during the current or prior year.
+The following table summarizes Restricted Stock Units RSUs outstanding as at 31 March 2017.
+NUMBER OF
+NUMBER OF
+Outstanding balance at beginning of year 1325408 2933184 RSUs granted 50000 RSUs vested 807357 1367502 RSUs forfeited 501384 240274 66667 1325408 During the year 50000 RSUs were granted and immediately exercised.
+During the 2016 financial year there were no RSUs granted.
+The majority of RSUs that vested in fiscal year 2016 were netshare settled such that the Company withheld shares with value equivalent to the employees minimum statutory obligation for the applicable income and other employment taxes and remitted the cash to the appropriate taxing authorities.
+The weighted average vesting share price during the period was 0.32 2016 69 RhythmOne plc
+27FINANCIALINSTRUMENTS
+CAPITAL RISK MANAGEMENT
+The Group manages its capital to ensure that entities in the Group will be able to continue operating as a going concern while maximizing shareholder returns.
+The capital structure of the Group consists of cash and cash equivalents marketable securities and equity attributable to equity holders of the parent comprising issued capital reserves and retained earnings.
+The Groups overall strategy remains unchanged from the prior year.
+The Group finances its operations through a combination of retained profits and interest received on bank accounts.
+Management maintains its capital structure and makes adjustments as necessary in light of changes in the economic environment and strategic objectives of the Group ensuring that there are sufficient liquid resources available to take advantage of opportunities as they arise.
+The Groups capital risk management policies are unchanged from prior year.
+The Group is not subject to externally imposed capital requirements.
+Categories of financial instrument AS AT 31 MARCH 2017 AS AT 31 MARCH 2016 Financial assets Loans and receivables Cash and cash equivalents 19338 18222 Trade receivables 41470 22825 Restricted cash and other receivables 8119 3250
+Marketable securities 55866 60264 124793 104561 Financial liabilities amortized cost Provisions 2409 705 Trade and other payables 42343 29894 44752 30599
+FINANCIAL RISK MANAGEMENT
+Management is responsible for monitoring and managing the financial risks relating to the operations of the Group which include credit risk market risk arising from interest rate risk and currency risk and liquidity risk.
+The Board of Directors and the Audit Committee review and approve the internal policies for managing each of these risks as summarized below.
+The Group is not subject to any externally imposed capital requirements.
+The Groups financial function provides services to the business monitors and manages the financial risks relating to the operations of the Group.
+These risks together with the related risk management policy include CREDIT RISK Credit risk refers to the risk that a counterparty will default on its contractual obligations resulting in financial loss to the Group.
+The Groups credit risk is primarily with cash and cash equivalents and amounts owing from customers.
+The Groups principal financial assets are cash and cash equivalents trade and other receivables.
+One customer represents 23.62% of revenue in the year 2016 one customer represented 12.56% of revenue.
+This is not considered indicative of a high credit risk as the customer in question has a history with the Company and a positive credit rating.
+The Group does not have any significant credit risk exposure to any single counterparty or any group of counterparties having similar characteristics.
+The Group defines counterparties as having similar characteristics if they are related entities.
+Concentration of credit risk did not exceed 16% of gross monetary assets at any time during the year 2016 13%.
+Before accepting any new customer the Group uses an external credit rating system to assess the potential customers credit quality.
+All customers have credit limits set by credit managers and are subject to standard terms of payment.
+The Group has adopted a policy of only dealing with counterparties that are considered to be creditworthy by management having completed various credit checks.
+The risk of default from a financial institution is considered limited because counterparties are a number of different banks with high credit ratings assigned by international creditrating agencies which range from A to AA.
+The carrying amount of financial assets recorded in the financial statements which is net of impairment losses represents the Groups maximum exposure to credit risk.
+MARKET RISK INCLUDING INTEREST RATE RISK AND CURRENCY RISK Interest rate risk The Group has no loans and borrowings outside finance leases and as such the Directors are satisfied that interest rate risk is negligible.
+70 RhythmOne plc
+Currency risk The Group does not enter into or trade financial instruments including derivative financial instruments for any purpose.
+The Group maintains the majority of its cash in US Dollars as a natural hedge in line with our revenue and costs which are predominantly
+The Groups activities expose it primarily to the financial risks of changes in foreign currency exchange rates as it undertakes certain transactions denominated in foreign currencies.
+The Groups presentational currency is US Dollars and the Companys functional currency is Sterling.
+The Group operates subsidiaries in the US UK and Canada and as a result cash is held predominantly in Sterling Canadian Dollars and US Dollars.
+The Group holds its funds in several different financial institutions.
+The carrying amounts of the Groups foreign currency denominated monetary assets and monetary liabilities at the reporting date are as follows AS AT 31 MARCH 2017
+AS AT 31 MARCH 2016
+AS AT 31 MARCH 2017
+AS AT 31 MARCH 2016
+Sterling 61telCanadian Dollars 2766  1802 The following table details the Groups sensitivity to a 20% increase and decrease in the functional currency of the entity against the relevant foreign currencies.
+20% is the sensitivity rate used 2016 20% when reporting foreign currency risk internally to key management personnel and represents managements assessment of the reasonably possible change in foreign exchange rates.
+The sensitivity includes outstanding foreign currency denominated monetary items and adjusts their translation at the yearend for a 20% change 2016 20% in foreign currency rates.
+The sensitivity analysis includes loans to foreign operations within the Group where the denomination of the loan is in a currency other than the currency of the lender or the borrower.
+A negative number indicates a decrease in profit and other equity where the Sterling and Canadian Dollar weakens 20% against the US Dollar.
+For a 20% strengthening of the Sterling and Canadian Dollar against the US Dollar there would be an equal and opposite impact on the profit and other equity and the negative balances below would be positive.
+Cash and cash equivalents 308 44 Trade and other receivables 111 Trade and other payables 676 127 No sensitivity has been performed on a change in interest rates as the impact of interest rate risk is so low.
+Liquidity risk The Group seeks to manage financial risk to ensure sufficient liquidity is available to meet foreseeable needs and to invest cash safely and profitably by maintaining adequate reserves and cash on hand by continuously monitoring forecast and actual cash flows and by matching the maturity profiles of financial assets and liabilities.
+The Group reviews its cash flow requirements on a monthly basis to ensure that it maintains adequate cash reserves diversifying its cash accounts across several banking institutions and constantly monitoring forecast and actual cash flows.
+The fair value of all of the Groups financial instruments is derived from inputs other than unadjusted quoted prices that are observable for the asset or liability either directly or indirectly.
+The carrying amount of financial assets and financial liabilities recorded at amortized cost in the financial statements approximate their fair values.
+Therefore there is no difference between the carrying value and fair value of the above financial assets and liabilities.
+FAIR VALUE OF ASSETS AND LIABILITIES The Group has assets and liabilities that have been fair valued on a nonrecurring basis which have arisen through the acquisitions in the previous years.
+The only asset carried at fair value is marketable securities which represent the Groups investments in corporate bonds commercial papers government bonds collateralized securities and certificates of deposit.
+These are valued using both level 1 and level 2 inputs.
+Level 1 financial assets are valued using quoted prices in active markets for identical assets.
+Level 2 financial assets are valued by an external specialist based upon net asset value per unit of the collective assets in the pooled fund.
+71 RhythmOne plc
+28EXCEPTIONAL COSTSFROM CONTINUINGOPERATIONS Large oneoff acquisition and exceptional costs and other costs related to acquisitions are separately identified as exceptional costs.
+The types of costs included within acquisition costs are those which are directly attributable to an acquisition such as legal and accounting expenses integration costs severance and retention remuneration.
+The types of costs which are considered exceptional include severance costs impairment losses and other significant assets writedowns.
+YEAR ENDED 31 MARCH 2017 YEAR ENDED 31 MARCH 2016 Acquisition  related costs Severance and retention costs 217 825 Onerous lease 917 Professional fees 1301 309 Total acquisition related costs 2435 1134 Exceptional costs Goodwill impairment  32363 Change in intangible assets lives  12027 Restructuring charges 2042 595 Severance costs 768 1073 Total exceptional costs 2810 46058 Total acquisition  related and exceptional costs 5245 47192 The acquisition  related costs primarily relate to the acquisition of Perk Inc.
+The exceptional restructuring charges primarily relate to onerous lease provisions.
+29OPERATINGEXPENSESBYNATUREFROM CONTINUINGOPERATIONS Operating expenses by nature include the following YEAR ENDED 31 MARCH 2017 YEAR ENDED 31 MARCH 2016 Depreciation and amortization 9456 12485 Market research public and investor relations branding 4313 5278 Occupancy 4049 4340 Other expenses Professional services 3499 5811 Salaries and wages 29467 29331 Share based compensation 2015 4415 Technology 5177 9043 Travel 1612 1894 60557 73415 a Other expenses primarily include bank charges and merchant fees office costs training and recruitment costs.
+30 RELATEDPARTYTRANSACTIONS Balances and transactions between the Company and its subsidiaries which are related parties have been eliminated on consolidation and are not disclosed in this note.
+The remuneration of the Directors who are the Groups key management personnel in accordance with IAS 24 Related Party Disclosures is disclosed in the Directors Remuneration Report on page 32.
+There were no other related party transactions in either the current or prior year.
+31 EVENTSAFTERTHEBALANCE SHEET DATEGROUPANDCOMPANY There are no post balance sheet events to report.
+72 RhythmOne plc
+COMPANYBALANCESHEET
+ASAT31MARCH2017
+NOTE
+AS AT 31 MARCH 2017 AS AT 31 MARCH 2016
+NONCURRENT ASSETS Investment in subsidiaries 33 151877 110443 151877 110443 CURRENT ASSETS Amounts due from subsidiary undertakings 36 5285 4435 Other receivables 24 30 Cash and cash equivalents 233 505 Total assets 157419 115413 CURRENT LIABILITIES Trade and other payables 440 197 Amounts due to subsidiary undertakings 36 2065 233 Total liabilities 2505 430 NET ASSETS 154914 114983 CAPITAL AND RESERVES Share capital 37 4951 4045 Share premium account 38 98210 98119 Shares to be issued reserve 15 15 Sharebased compensation reserve 12506 11013 Merger reserve 44616 9984 Profit for the year 39 2809 131942 Retained deficit 39 8193 123749 TOTAL EQUITY 154914 114983 Note 32 to note 42 form an integral part of this balance sheet.
+The financial statements of RhythmOne plc registered number  were approved by the Board of Directors and authorized for issue on 15 May 2017.
+They were signed on its behalf by Subhransu Brian Mukherjee
+Chief Executive Officer
+RhythmOne plc 15 May 2017 73 RhythmOne plc
+COMPANY STATEMENT OF CHANGESIN EQUITY FORTHEYEAR ENDED 31MARCH2017
+SHARE
+CAPITAL
+SHARE
+ACCOUNT
+PREMIUM
+SHARES
+TO BE
+SHARE BASED
+RESERVE
+MERGER
+RESERVE
+RETAINED
+DEFICIT
+TOTAL
+EQUITY
+BALANCE AS AT 31 March 2015 4023 98096 1033 8129 138031 5381 243931 Net loss for the year      131942 131942 Other comprehensive loss Total comprehensive loss for the year      131942 131942 Reclassification of the impairment loss from retained deficit to merger reserve     129060 129060 Issue of shares net of costs 22 23 1018  1013  40 Tax movement on share options      70 70 Capital contribution    2884   2884 BALANCE AS AT 31 March 2016 4045 98119 15 11013 9984 8193 114983 Net profit for the year      2809 2809 Other comprehensive profit Total comprehensive profit for the year      2809 2809 Reclassification of the impairment loss from merger reserve to retaineddeficit Issue of shares net of costs 906 91   34632  35629 Capital contribution    1493   1493 BALANCE AS AT 31 March 2017 4951 98210 15 12506 44616 5384 154914 74 RhythmOne plc
+COMPANY CASH FLOW STATEMENT FORTHEYEAR ENDED 31MARCH2017 YEAR ENDED 31 MARCH 2017 YEAR ENDED 31 MARCH 2016 NET CASH USED IN OPERATING ACTIVITIES 388 5037 CASH FLOWS FROM INVESTING ACTIVITIES Investment in subsidiary  15948 Interest received 13 NET CASH USED IN INVESTING ACTIVITIES  15935 CASH FLOWS FROM FINANCING ACTIVITIES Proceeds from issuance of shares 116 40 NET CASH GENERATED FROM FINANCING ACTIVITIES 116 40 Net decrease in cash and cash equivalents 272 20932 Beginning cash and cash equivalents 505 22708 Effect of foreign exchange on cash and cash equivalents  1271 ENDING CASH AND CASH EQUIVALENTS 233 505 75 RhythmOne plc
+32 SIGNIFICANTACCOUNTINGPOLICIES The separate financial statements of the Company are presented in accordance with the Companies Act 2006.
+As permitted by that Act the separate financial statements have been prepared in accordance with International Financial Reporting Standards adopted by the European Union.
+The Company has two Executive Directors and five NonExecutive Directors.
+Their remuneration is shown in the Directors Remuneration Report on page 32.
+The financial statements have been prepared on the historical cost basis.
+The principal accounting policies adopted are the same as those set out in note 3 to the consolidated financial statements except as noted below.
+Investments in subsidiaries are stated at cost less where appropriate provisions for impairment.
+These Company financial statements are presented in sterling as that is the currency of the primary economic environment in which the Company operates.
+As permitted by section 408 of the Companies Act 2006 the income statement of the parent Company is not presented as part of these financial statements.
+The parent Companys profit for the financial year amounted to 2809000 2016 loss of 131942000.
+The Companys lossprofit for each year is the same as its total comprehensive income and hence no separate statement has been presented.
+33 INVESTMENTSIN SUBSIDIARIES COST AND NET BOOK VALUE At 31 March 2015 209381 Capital contribution due to sharebased payments 2884 Investment in subsidiaries 27238 Impairment of investment in subsidiary 129060 At 31 March 2016 110443 Capital contribution due to sharebased payments 1493 Investment in subsidiaries 39941 At 31 March 2017 151877 Investments in subsidiary companies are subject to review for impairment.
+The capital contribution is in respect of equity settled sharebased payments made to employees of the Companys subsidiaries for which the Company receives no reimbursement.
+Refer to note 40 for further details on the Groups Share Option Schemes.
+All subsidiary companies within the Groups operation at 31 March 2017 are shown in note 17.
+34 FINANCIALINSTRUMENTS FINANCIAL ASSETS AMOUNTS DUE FROM SUBSIDIARY UNDERTAKINGS At the balance sheet date there are receivables from fellow Group companies amounting to 5285000 2016 4435000.
+The carrying amount of these assets approximates their fair value.
+There are no past due or impaired receivable balances 2016 none.
+Amounts due from subsidiary undertakings are unsecured interest free have no fixed date of repayment and are repayable on demand.
+CASH AND CASH EQUIVALENTS These comprise cash held by the Company and shortterm bank deposits with an original maturity of three months or less.
+The carrying amount of these assets approximates their fair value.
+FINANCIAL LIABILITIES AMOUNTS DUE TO SUBSIDIARY UNDERTAKINGS At the balance sheet date there are payables to fellow Group companies amounting to 2065000 2016 233000.
+The carrying amount of these liabilities approximates to their fair value.
+Amounts due to subsidiary undertakings are unsecured interest free have no fixed date of repayment and are repayable on demand.
+TRADE AND OTHER PAYABLES Trade payables principally comprise amounts outstanding for trade purchases and ongoing costs.
+The average credit period taken for trade purchases is 134 days 2016 54 days.
+The carrying amount of trade payables approximates to their fair value.
+The financial risk and risk management policies are the same as those of the Group which are discussed in note 27.
+76 RhythmOne plc
+FOREIGN CURRENCY RISK MANAGEMENT
+The Company is mainly exposed to movements in US Dollar.
+The table below shows the carrying amounts of the Companys foreign currency monetary assets and monetary liabilities at the reporting date
+Liabilities
+Assets
+Assets
+US Dollar 2392 414 5309 4462 FOREIGN CURRENCY SENSITIVITY ANALYSIS The Company has maintained its sensitivity at 20% in 2017 2016 20%.
+The following table details the Companys sensitivity to a 20% increase and decrease 2016 20% in the functional currency of the entity against the relevant foreign currencies.
+20% is the sensitivity rate used when reporting foreign currency risk internally to key management personnel and represents managements assessment of the reasonably possible change in foreign exchange rates.
+The sensitivity analysis includes only outstanding foreign currency denominated monetary items and adjusts their translation at the yearend for a 20% change in foreign currency rates.
+The sensitivity analysis includes loans to foreign operations where the denomination of the loan is in a currency other than the currency of the lender or the borrower.
+A negative number indicates a decrease in profit and other equity where the US Dollar weakens 20% against the Sterling.
+For a 20% strengthening of the US Dollar against the Sterling there would be an equal and opposite impact on profit and other equity and the negative balances below would be positive.
+Cash and cash equivalents  80 Amounts due from subsidiary undertakings 1322 887 Amounts due to subsidiary undertakings 517 47 Categories of financial instrument Financial assets loans and receivables Cash and cash equivalents 233 505 Other receivables 24 30 Amounts due from subsidiary undertakings 5285 4435 5542 4970 Financial liabilities amortized cost Trade payables 327 197 Amounts due to subsidiary undertakings 2065 233 2392 430 The fair value of all of the Groups financial instruments is derived from inputs other than unadjusted quoted prices that are observable for the asset or liability either directly or indirectly.
+The carrying amount of financial assets and financial liabilities recorded at amortized cost in the financial statements approximate their fair values.
+Therefore there is no difference between the carrying value and fair value of the above financial assets and liabilities.
+35 DEFERREDTAX No deferred tax assets or liabilities have been recognized by the Company in the year.
+At the balance sheet date there is an unrecognized deferred tax asset of 0.8m 2016 0.8m.
+36 RELATEDPARTYTRANSACTIONS The amount owed by subsidiary undertakings is 5.3m 2016 4.4m.
+The amount owed to subsidiary undertaking is 2.1m 2016 0.2m.
+Amounts are repayable on demand.
+No interest is payable and the amounts are unsecured.
+The remuneration of the Directors who are the Groups key management personnel in accordance with IAS 24 Related Party Disclosures is disclosed in the Directors Remuneration Report on page 32.
+37 SHARECAPITAL AS AT 31 MARCH 2017 AS AT 31 MARCH 2016 Issued and fully paid 495093938 ordinary shares of 1 pence each 2016 404462870 ordinary shares of 1 pence each 4951 4045 77 RhythmOne plc
+The Company has one class of ordinary share which carries no right to fixed income.
+During the current year 90631068 shares were issued of which 88235410 relate to the acquisition of Perk 1588301 shares were issued related to exercise of employee share options and 807357 shares were issued related to restricted stock units 2016 2136359 shares were issued of which 512877 shares related to the acquisition of Rhythm NewMedia Inc.
+255980 shares were issued related to exercise of employee share options and 1367502 shares were issued related to restricted stock units.
+38 SHAREPREMIUM
+PREMIUM
+Balance at 31 March 2015 98096 Premium arising on issue of equity shares net of costs 23 Balance at 31 March 2016 98119 Premium arising on issue of equity shares net of costs 91 Balance at 31 March 2017 98210 39 RETAINED DEFICIT Balance at 31 March 2015 5381 Net loss for the year 131942 Reclassification of impairment loss to merger reserve 129060 Tax movement on share options 70 Balance at 31 March 2016 8193 Netprofitfortheyear 2809 Balance at 31 March 2017 5384 40 SHAREBASEDPAYMENTS See note 26 Sharebased Payments Equity Settled Share Option Schemes.
+41NOTESTOTHECASH FLOW STATEMENT YEAR ENDED 31 MARCH 2017 YEAR ENDED 31 MARCH 2016 Cash Flow From Operating Activities Profitloss for the year 2809 131942 Impairment in subsidiary  129060 Gain on intercompany balances 4260 Foreign exchange gain  loss 167 1271 Operating cash flows before movements in working capital 1618 1611 Decreaseincrease in amounts due from group undertakings 982 3468 Decrease in receivables 633 Increase in payables 242 9 Cash used in operations 388 5037 42 STAFF COSTS The average monthly number of employees including Directors and related staff costs for the year were YEAR ENDED 31 MARCH 2017 YEAR ENDED 31 MARCH 2016 Sales and marketing 1 Research and development 21 Total 31 78 RhythmOne plc
+YEAR ENDED 31 MARCH 2017 YEAR ENDED 31 MARCH 2016 Wages and salaries 435 40 Social Security costs 68 1 Other pension costs 1 Other employee benefits and costs 57 3 INCLUDED IN PROFIT FOR THE YEAR 561 44 79 SHAREHOLDERINFORMATIONANDADVISORS RhythmOne plc
+REGISTRARSANDRHYTHMONEPLCSHAREHOLDER SERVICES All administrative inquiries regarding shareholdings such as questions about lost share certificates should be directed to the Companys registrars as follows Computershare Investor Services PLC The Pavilions Bridgewater Road
+BS99 6ZY United Kingdom Tel 44tel email web.
+STOCK EXCHANGES RhythmOnes ordinary shares are listed on the London Stock Exchange AIM under the symbol RTHM.
+RhythmOne does not maintain listings on any other stock exchanges.
+SHAREHOLDER COMMUNICATIONS Topics featured in this Annual Report can be found via the RhythmOne plc home page on the Internet httpsite.
+Financial results news on RhythmOne products services and other activities can also be found via that address.
+ADVISORSAUDITOR
+AIM NOMINATED ADVISOR AND BROKER INVESTOR RELATIONS PricewaterhouseCoopers LLP Numis Securities Limited FTI Consulting Inc.
+The Atrium The London Stock 200 Aldersgate 1 Harefield Road Exchange Building Aldersgate Street Uxbridge UB8 1EX 10 Paternoster Square London EC1A 4HD United Kingdom London EC4M 7LT United Kingdom United Kingdom CORPORATE LEGAL ADVISORS REGISTERED OFFICE Bird and Bird LLP DLA Piper LLP 40 Dukes Place 15 Fetter Lane 2000 University Avenue London London EC4A 1JP East Palo Alto CA 94303 EC3A 7NH United Kingdom USA United Kingdom Headquarters 251 Kearny Street 2nd Floor San Francisco CA 94108 Tel 1 415 6551450  Fax 1 415 6651440 80 GLOSSARY RhythmOne plc
+AdBlocking  Using technology to remove or alter advertising content in a webpage.
+Advertising can exist in a variety of forms including static banners rich media video text or popup windows.
+AdExchange  An online marketplace for advertisers and publishers to buy and sell inventory often through realtime auctions.
+AdNetwork  A company that has deals with advertisers and publishers to manually buy and sell ads across the Internet.
+AdServer  Company whose technology relays an ad buy to a website and reports on how it performed.
+AgencyTradingDesk  A division within an ad agency focused on buying ads using ad technology.
+AudienceExtension  Sometimes called lookalike modeling a process that takes a known audience segment and catalogs various shared characteristics that can be used to target people who bear similarities.
+AudienceVerification  Thirdparty reporting to provide validation that a site and the ads on it reach a legitimate verifiable audience.
+BehavioralTargeting  Showing ads to people based on the type of sites they visit.
+ClickThroughRateCTR  Measure of how many people clicked on an ad or a piece of digital content.
+Used as a proxy to determine the level of engagement of the ad or content by the consumer.
+ConnectedTV  Television sets and settop boxes with builtin integration of web features such as streaming services and apps.
+Also known as Smart TVs.
+Cookie  Identifier attached to a persons Internet browser to track the sites he or she visits.
+CostPerClickCPC  Represents the cost an advertiser pays each time a user clicks on their ad.
+CostPerDownloadInstallCPDCPI  Represents the cost an advertisersoftware provider pays each time a consumer downloads or installs their software.
+CostPerMilleThousandAdvertisingImpressionsCPM  Represents the cost of an advertising placement divided by the number of impressions generated in thousands.
+CostPerViewCPV  The price an advertiser pays for a single view of their content or ad typically measured and priced in increments of one thousand views.
+DataManagementPlatformDMP  Company that provides technology to store and catalog marketer data.
+Demand Advertisers need for advertising inventory to place their ads on digital properties.
+Typically represented by volume price and ad format for a specified timeframe.
+Demand is typically executed on behalf of advertisers by their agency who may also use a series of intermediaries such as trading desks demand side platforms and advertising exchanges to execute ad campaigns. exchanges realtime auctions.
+FirstPartyData  Data that a company has collected directly like a retailers list of loyalty members.
+FraudulentAdvertising  When a company knowingly serves ads that no one will actually see as a way to drive views and revenue Ad
+Geotargeting Showing ads to people based on their mobile devices location ZIP code information they submit when registering for a siteservice or GPS coordinates collected by a siteservice.
+Hashing A way for separate companies to match their data sets without either side being able to access the others data.
+HeaderBidding  Also known as prebidding header bidding is a programmatic technique wherein publishers offer inventory to multiple ad exchanges simultaneously before making calls to their ad servers.
+By letting multiple demand sources bid on the same inventory at the same time publishers are able to better monetize their inventory.
+IdentifierforAdvertisersIDFAorIFA  A temporary device identifier used on mobile devices for targeted advertising which provides device identification without compromising personally identifiable information.
+Replaces Apples Unique Identifier UDID and Android ID and used instead of cookies that are common on desktop devices.
+Impression Measure of the number of times an ad is seen.
+InStream An ad that appears within a piece of content.
+MobileApps Specialized computer programs designed to run on smartphones tablets and other mobile devices.
+MobileWeb Access to the web from a handheld mobile device such as a smartphone or tablet.
+Pixel A piece of code placed on websites so companies can recognize which cookies have already been dropped on a persons browser and put in new cookies.
+ProgrammaticDirect  An ad buy done directly between a publisher and advertiser through automated adbuying systems.
+81 RhythmOne plc
+RealTimeBiddingRTB  The purchase and sale of ads through computerrun auctions that happen within milliseconds.
+Retargeting Showing an ad to a person who visited your site while that person is visiting another site.
+SecondPartyData  When a company makes its firstparty data directly available to another company.
+Supply Advertising inventory offered by publishers or owners of digital properties.
+Typically supply is represented by volume price and ad format for a specified time period.
+Supply may be offered up directly by the owners of the inventory owned and operated supply or through a series of intermediaries such as ad networks exchanges and Supply Side Platforms.
+SupplySidePlatformSSP  An adtech company that works with publishers to help them sell their inventory at scale.
+ThirdPartyData  Information that a company collects indirectly such as through cookies or aggregated from others such as credit card companies and magazine publishers and then sells to ad buyers to aid in targeting.
+Traffic  The result of the act of browsing the Internet or other digital properties by consumers.
+Such browsing behavior generates advertising inventory.
+Used as a proxy for the volume and level of user attention or engagement and typically priced and aggregated into and sold as audiences to agencies who represent advertisers.
+UniqueUserDeviceID  Identifier assigned to a device or user that lasts until the device in reset or the account is deleted.
+Viewability Measuring an ad to make sure that it was visible to the user.
+The industry is moving toward this as a new standard for impression.
+VTRViewThroughRate  The measurement of how many people saw an ad and eventually visited the advertisers site.
+82 THISPAGEINTENTIONALLYLEFTBLANK THISPAGEINTENTIONALLYLEFTBLANK
+251 Kearny Street 2nd Floor San Francisco CA 94108
