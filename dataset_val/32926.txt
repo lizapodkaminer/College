@@ -1,0 +1,1089 @@
+Annual Report and Accounts 2017 Formerly Crossrider plc Kape Technologies plc Annual Report and Accounts 2017 OVERVIEW Kape is a cybersecurity company which utilises its proprietary digital distribution technology to optimise its reach and create a superb user experience.
+Kape offers products which provide online security privacy and an optimal online experience.
+Kapes vision is to provide online autonomy for a secure and accessible personal digital life.
+STRATEGIC REPORT Highlights 1 Chairmans statement 2
+Chief Executive Officers review 4
+Chief Financial Officers review 8
+Principal risks and uncertainties 12
+Board of Directors 14 Corporate governance 16 Remuneration Committee report 18 Directors report 20 Directors responsibility statement 22
+Independent auditors report to the members of Kape Technologies plc 23 Consolidated statement of comprehensive income 28 Consolidated statement of financial position 29 Consolidated statement of changes in equity 30 Consolidated statement of cash flows 31 Notes to the consolidated financial statements 32 Shareholder information and advisors IBC CORPORATE
+FINANCIAL
+STATEMENTS
+STRATEGIC
+REPORT
+KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS HIGHLIGHTS 2017 Acquisition of CyberGhost a leading SaaS cybersecurity provider Significant growth in paying users Substantial progress made in transitioning the business towards a pure SaaS model Adjusted EBITDA
+Cash balance and no debt Adjusted cash flow from operations 92% Conversion of adjusted EBITDA 2 KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS
+CHAIRMANS STATEMENT
+DON ELGIE NONEXECUTIVE CHAIRMAN 2017 has been a pivotal year for our business in which we fully aligned our operations to focus on cybersecurity software.
+Introduction
+2017 has been a pivotal year for our business in which we fully aligned our operations to focus on cybersecurity software.
+Our management team has worked tirelessly to deliver on our stated growth objectives which has now culminated in the renaming and rebranding of the business to Kape Technologies plc previously Crossrider plc an important milestone in the repositioning of the business.
+Since October 2016 the Company has focused on both acquiring and developing cybersecurity software solutions for consumers whilst utilising its proprietary digital distribution technology to grow its user base across the Companys product suite.
+The Companys management has deployed Kapes indepth expertise and technological capabilities within its digital marketing platform to support and grow our expanded customer base and promote our own products and services.
+This market leading digital pedigree has enabled the Group to accelerate the Companys successful transformation during 2017.
+Products
+In the last year management has taken great strides to broaden our product stack which includes our Reimage software and DriverAgent solutions.
+In March 2017 we acquired CyberGhost a cybersecurity SaaS provider with specific focus on the provision of virtual private network VPN solutions as well as a sizeable customer base.
+With CyberGhost now fully integrated into the Group I am pleased to report it has performed ahead of managements expectations both on a revenue and profit level.
+In addition and as part of the expansion into new products the Company has launched Reimage for Mac expanding the products potential customer base.
+We continue to experience positive customer traction across all our products further demonstrating our ability to successfully leverage our expertise and digital marketing platform in order to drive higher margins.
+KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS
+GOVERNANCE
+FINANCIAL
+STATEMENTS
+STRATEGIC
+REPORT
+Strategic priorities Our management team remains committed to delivering sustainable growth and is therefore focused on the following key strategic priorities to develop the Companys product offering organically through internal RandD and to grow our user base across the Companys growing portfolio of software products leveraging Kapes proprietary distribution technology and expertise to continue to implement our plan for new acquisitions that expand both the Companys product offering and reach with the potential to enter additional complementary sector verticals and to grow the Companys recurring revenue stream by gradually transitioning to a fully SaaSbased model which will improve both the visibility and quality of earnings as well as increasing the lifetime value of our customers.
+Board appointments In February 2017 the Company appointed Moran Laufer Chief Financial Officer of Kape to the Board of the Company.
+Moran has been a key member of the Companys management supporting its recent acquisitions as well as being part of the finance team since 2012 successfully supporting the Groups admission to AIM in 2014.
+Looking forward Kapes management has been successful in demonstrating its ability to both drive organic growth initiatives alongside maximising the benefits from strategic acquisitions.
+The Board is therefore confident that with its new brand positioning strategic growth priorities and ongoing focus on consumer cybersecurity Kape will be able to continue to maximise shareholder value.
+The Board remains confident in delivering yearonyear growth in 2018.
+Don Elgie NonExecutive Chairman 12 March 2018 paying customers 82% growth in premium subscriptions 4 KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS CHIEF EXECUTIVE OFFICERS REVIEW IDO ERLICHMAN
+CHIEF EXECUTIVE OFFICER
+Over the past 12 months we have delivered on our growth strategy.
+The group has made significant headway in developing our product suite which has been greatly enhanced.
+Introduction
+When I joined Kape formerly Crossrider plc in May 2016 I did so with a clear vision of where I with the full support of the Board wanted to take this business.
+It was clear that despite our pedigree in digital marketing our future laid beyond adtech.
+I am therefore delighted to look back at 2017 as a year of significant strategic and operational progress.
+Over the past 12 months we have delivered on a number of key milestones and taken notable steps to becoming one of the leading next generation providers of consumer cybersecurity products.
+We have built on our existing PC repair Reimage and device driver update DriverAgent solutions through both the acquisition and internal development of new products during the year which is a clear sign of our ambition.
+Central to our strategy has been to shift our product focus to be B2Cdriven and SaaS enabled thereby increasing our recurring revenue base creating a more predictable sales platform from which to grow.
+We are therefore delighted to have delivered such a strong underlying EBITDA performance up 172% excluding the Web Apps and License segment further demonstrating the excellent performance of our business model.
+Operational update In March 2017 we acquired CyberGhost a leading cybersecurity SaaS provider with a focus on the provision of virtual private network VPN solutions.
+The acquisition was successfully integrated into Kape by June 2017 and I am delighted to report made a positive net profit contribution in the year of 1.5 million.
+With CyberGhost now consolidated into the larger Kape operation we have been successful in generating significant synergies and delivering superior customer traction postintegration with our digital user acquisition platform.
+This resulted in an increase in CyberGhosts user base by over 30% compared to December 2016 and the last quarter of 2017 saw record sales for the business in terms of volume and EBITDA.
+We have grown Kapes product portfolio this year and it now consists of four main products the CyberGhost VPN a SaaS product as well as the Reimage PC DriverAgent and Reimage for Mac which are purchased on a onetime and yearly unlimited use basis with a technical support component.
+We have started to implement a SaaS model in the Reimage PC and expect to see the results of this change towards the end of 2018 when the licences come up for renewal.
+In addition we started to utilise the growth in our product offering and user base and we now offer to purchase CyberGhost and Reimage as a package providing our customers the best in class products in one place.
+172% underlying Adjusted EBITDA 5 KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS
+GOVERNANCE
+FINANCIAL
+STATEMENTS
+STRATEGIC
+REPORT
+TARGET MARKET User acquisition Funnel expertise
+CUSTOMERS
+Rent onUpsell
+CUSTOMERS
+02 PROSPECTIVE
+01 TARGET
+03 EXISTING
+User acquisition Advanced user acquisition technology and leveraging of digital marketing platform Utilise extensive network to drive users to our products Leverage wide user base for indirect user acquisition Highly efficient method to drive traffic
+High brand awareness drives users to our products Referrals from existing customers Consumers go directly to our product websites or search for our product as a result of growing media presence Funnel expertise Proprietary data driven automatic funnel Ongoing customisation of product Automatic personalisation of user journey Proprietary targeting of purchase process Rent onUpsell Once acquired provide a subscription model to grow customers LTV Provide servicing such as remote technician and 247 support to increase customer retention Convert users to additional Kape products by channelling customers to further owned software solutions Increase the value of the user 6 KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS We have also been successful in growing our paying user base for Reimage and DriverAgent by over 18% and introduced a subscription based payment model.
+We also launched a Mac version of Reimage in September 2017 to complement our highly successful PC solution.
+We believe this new release will substantially grow our potential addressable market for this product.
+Given our focus on further strengthening our SaaS business model 2018 will be the first year we are able to generate significant revenues from our existing customer base.
+Therefore during 2018 we expect to deliver 8.0 million of recurring income from existing users which greatly improves both the visibility and quality of our earnings.
+Cybersecurity market Management identified the consumer cybersecurity space as presenting a significant opportunity for Kape as a sizeable growth market with few nimble B2C focusedplayers that can easily adapt to the everchanging digital landscape.
+As the internet has become increasingly central to peoples lives and concurrently hacking has also evolved significantly the sharing of data online is posing an increasing threat to individuals online security.
+In 2004 the global cybersecurity market was worth 3.5 billion and in 2017 it was worth over 120 billion representing growth of over 35 times in 13 years with key growth drivers including a growing number of internet users to c.
+3.17 billion globally increased network and WiFi connectivity across the world commercial entities increasingly collecting personal data cybercrime targeting individuals not just enterpriselevel hacks heightened regulatory uncertainty around privacy and online security and the emergence of the Internet of Things.
+The proliferation of internet users has led to a sizeable B2C cybersecurity marketplace with the addressable market for personal digital safety in 2018 estimated to be 10 billion.
+Kape is wellplaced to capitalise on the increasing awareness of individuals to protect both their privacy and security online as the Company has endto end control over the user journey by leveraging its digital marketing technology and expertise.
+The Companys renewed focus on the consumer cybersecurity market is increasingly coming to fruition as evidenced by the strong performance of Kapes core divisions and existing software solutions in 2017.
+This coupled with the acquisition and successful integration and performance of CyberGhost is a real testament to our ability to deliver in the cybersecurity space.
+CHIEF EXECUTIVE OFFICERS REVIEW CONTINUED To implement the change in business model and focus on profitability growth and earning predictability we have instated five key performance indicators which guide how we measure the success of our operations across the business deferred income adjusted operating cash flow retention rate paying users and premium subscriptions.
+Deferred income and adjusted operating cash flow are key measures as they demonstrate the true value of each product purchase from our customers given that they recognise the benefits across the lifetime of the contract.
+Paying users and premium subscriptions represent our ability to grow our customer base and we expect these to grow over time.
+The retention rate is an indication of the quality of our service and products and our aim is for this to remain constant over time and improve in the medium term.
+Key Performance Indicators 2017 2016 Paying users thousands 887 734 Premium subscriptions thousands 260 143 Retention rate 69% 69% Adjusted operating cash flow 000 7641 7873 Deferred income 000 4014 2187 KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS
+GOVERNANCE
+FINANCIAL
+STATEMENTS
+STRATEGIC
+REPORT
+Rebranding
+Given the extensive reengineering of the business we took the decision to rename and rebrand the Company to Kape Technologies plc.
+Kape will be the future umbrella for all our products and services as we focus on delivering upon the following strategic priorities strengthening and developing both our consumer and corporate brand globally better leveraging product cross selling opportunities within the cybersecurity arena growing our product offering through both organic growth and acquisitions developing and increasing our marketing reach under a unified banner and further strengthening our SaaS business thereby increasing our recurring revenue base.
+Kapes core principles are to be proactive accessible and bold.
+We believe there is a real need for innovative solutions for customers and a requirement for online privacy and security as individuals manoeuvre through todays everchanging online environment.
+It is this shift in buying and browsing behaviour that is ultimately driving demand for our products.
+Current trading and outlook Over the past 12 months we have delivered on our stated growth strategy.
+The Group has made significant headway in developing our product suite which has been greatly enhanced by the addition of CyberGhost.
+The launch of Reimage for Mac is a great example of our internal development capability and our unique inhouse digital user acquisition expertise has enabled Kape to expand our user base globally.
+We are motivated by the opportunities that exist within our growing portfolio of products and continue to constantly evaluate selective acquisition opportunities which could potentially broaden our software portfolio and accelerate our expansion into the global consumer cybersecurity market.
+In 2018 we are focusing on two core growth initiatives to continue to grow organically against our key KPIs including users and revenues from our existing product portfolio and to deliver on growthenhancing acquisitions which incorporate the following criteria a sizeable and growing user base an established recurring revenue model and the ability to deliver strong synergies with both Kapes digital distribution capabilities and expertise.
+We have made a strong start to 2018 with record monthly sales compared to the equivalent period in 2017 achieved across our products as we continue to reap the benefits of our renewed focus on the cybersecurity market.
+The Board therefore remains confident in delivering yearonyear growth in 2018 in line with market expectations.
+Special dividend Following our robust performance this year and significant adjusted cash flow from operations of 7.6 million the Board has declared a special dividend of 4.93 US cents per share amounting to a total of 7.0 million.
+This is the first special dividend the Company has issued it follows the successful transition of the business will contribute to maintaining balance sheet efficiency and reflects our confidence in the business.
+The dividend shall be paid in sterling and therefore it will be subject to a conversion exchange rate from US dollars based on a GBPUSD rate of 1.3887 being the rate at 4.30 pm on 12 March 2018 as a result shareholders will receive 3.55 pence per share.
+The special dividend will become payable on 13 June 2018 to those shareholders on the Companys register as at the record date of 25 May 2018.
+The exdividend date is 24 May 2018.
+Ido Erlichman
+Chief Executive Officer
+12 March 2018 1 On a proforma basis if CyberGhost was part of the Group on 31 December 2016.
+2 Based on deferred revenue balance and current retention rate for existing subscriptions.
+3 The Cybersecurity Market Report Q2 2017 edition by Cybersecurity Ventures.
+KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS CHIEF FINANCIAL OFFICERS REVIEW MORAN LAUFER CHIEF FINANCIAL OFFICER Strong financial performance of the core App Distribution and Media segments show a significant increase of 23.0% in revenue and 46.9% in combined segment results.
+Overview
+Revenue for the year to 31 December 2017 increased by 17.4% to 66.4 million 2016 56.5 million and Adjusted EBITDA by 28.9% to 8.3 million 2016 6.4 million.
+The increase was driven by the strong financial performance of the core App Distribution and Media segments which excluding the Web Apps and License segment shows a significant increase of 23.0% in revenue and 46.9% in combined segment results.
+The increase in core activities was offset by the winding down of the Web Apps and License business that was completed in September 2017.
+Kape remains a highly cash generative business with cash generated from operations after adjusting for oneoff nonrecurring items of 7.6 million 2016 7.9 million.
+This represents adjusted cash conversion of 92% 2016 123%.
+The
+Group balance sheet remains strong with cash of 69.5 million at 31 December 2017 31 December 2016 72.1 million and no debt.
+In March 2017 Kape completed the acquisition of CyberGhost S. million million.
+1.75 million 1.9 million was paid at closing as a prepayment of the deferred earnout consideration.
+The fair value of the contingent consideration at acquisition was 1.4 million 1.5 million.
+On 20 November 2017 the Company repurchased 3810667 options out of the 4400000 options granted to the founder for total cash consideration of 3.2 million 3.8 million following his reposition from Managing Director to Chairman and Corporate Development Manager of CyberGhost.
+Out of the total consideration 1.6 million 1.9 million was paid upon execution of the repurchase agreement while the remaining amount is to be paid in eight equal instalments.
+In April 2017 Kape increased its holding in Clearvelvet Trading Ltd Clearvelvet a programmatic video advertising company from 16.67% to 50.01% for an initial consideration of 1.7 million out of which 0.8 million was in cash and 0.9 million conversion of a loan balance.
+The cash balance of Clearvelvet at acquisition was 1.4 million.
+In addition the sellers would have been entitled to receive up to a total of 1.4 million in earnout consideration to be satisfied in cash subject to their continued employment by Clearvelvet.
+The earnout consideration was contingent on achieving EBITDA of 1.7 million in 2017 prorated from 60% of target and 2.2 million for 2018 prorated from 67% of target.
+The 2017 EBITDA goal was not achieved as a result no earnout has been charged for 2017 and no accrual made for 2018 earnout.
+The earnout consideration is accounted for remuneration in the postacquisition income statement rather than as part of the acquisition cost.
+35.7% App Distribution margin 9 KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS
+GOVERNANCE
+FINANCIAL
+STATEMENTS
+STRATEGIC
+REPORT
+Segment result Revenue Segment result App Distribution 48226 38241 17207 11267 Media 15781 13783 4464 3480 Web Apps and License 2376 4508 2376 4508 Revenue 66383 56532 24047 19255 The segment result has been calculated using revenue less costs directly attributable to that segment.
+Cost of sales comprises commissions paid to publishers and payment processing fees.
+Direct sales and marketing costs comprise traffic acquisition costs.
+App Distribution Revenue 48226 38241 Cost of sales 4572 2360 Direct sales and marketing costs 26447 24614 Segment result 17207 11267 Segment margin % 35.7 29.5 During the period App Distribution margins significantly improved reaching 35.7% compared to 29.5% in 2016.
+The improved return on marketing investment resulted in a 10.0 million increase in revenues and 5.8 million increase in the segment result which represents a 52.7% uplift.
+The increase is attributable to organic growth due to improvement in user acquisition processes and traffic quality which resulted in better conversion rates and a decrease in average user acquisition cost as well as the addition of the DriverAgent and CyberGhost software products to the Companys portfolio in October 2016 and March 2017 respectively.
+1 Adjusted EBITDA is a company specific measure which is calculated as operating loss before depreciation amortisation exceptional and nonrecurring costs employee sharebased payment charges and impairment of intangible assets which are considered to be oneoff and nonrecurring in nature as set out in note 6.
+The Directors believe that this provides a better understanding of the underlying trading performance of the business.
+Media
+Revenue 15781 13783 Cost of sales Direct sales and marketing costs 11317 10303 Segment result 4464 3480 Segment margin % 28.3 25.3 In the Media division revenues increased by 14.5% and segment results increased by 28.3% to 4.5 million.
+The increase was driven by the contribution of the Clearvelvet programmatic video advertising activity that was consolidated starting in April 2017 and compensating for a decrease in revenue from the mobile content and mobile apps marketing verticals.
+Web Apps and License Revenue 2376 4508 Cost of sales Direct sales and marketing costs Segment result 2376 4508 Segment margin % 100.0 100.0 In accordance with the Boards decision to cease investment in the Web Apps and License segment which Kape reported in 2016 revenue in the period came solely from a software licence and services agreement between Kape and Playtech Software pursuant to the terms of which Kape has granted to Playtech Software a licence to use certain software modules for Playtech Softwares licensees branded casino software.
+The agreement expired on 18 September 2017.
+Following the expiration of the licence and services agreement no further revenue is expected to be generated from this segment and as such it is expected this will be the last time we report it.
+KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS CHIEF FINANCIAL OFFICERS REVIEW CONTINUED Adjusted EBITDA Adjusted EBITDA for the year to 31 December 2017 was 8.3 million 2016 6.4 million.
+Adjusted EBITDA is a nonGAAP company specific measure which is considered to be a key performance indicator for the Groups financial performance.
+It excludes sharebased payment charges and expenses which are considered to be oneoff and nonrecurring in nature and are excluded from the following analysis Revenue 66383 56532 Cost of sales 4572 2360 Direct sales and marketing costs 37764 34917 Segment result 24047 19255 Indirect sales and marketing costs 6207 4265 Research and development costs 696 1299 Management general and administrative cost 8883 7278 Adjusted EBITDA 8261 6413 Operating loss A reconciliation of Adjusted EBITDA to operating loss is provided as follows Adjusted EBITDA 8261 6413 Employee sharebased payment charge 340 716 Charge for repurchase of employee options 3176 Exceptional and nonrecurring costs 899 862 Depreciation and amortisation 6445 9884 Impairment of intangible assets  4683 Operating loss 2599 9732 Exceptional and nonrecurring costs for the full year 2017 comprised 0.3 million of acquisition bonuses to employees other nonrecurring staff costs of 0.1 million professional services related to business combination of 0.3 million and a 0.2 million expense from the repurchase of the founder of CyberGhosts share options on 20 November 2017.
+The charge for repurchase of employee options of 3.2 million is following the acceleration of the repurchased share options.
+Loss before tax Loss before tax has decreased to 2.9 million compared to 10.0 million in 2016.
+Loss after tax Loss after tax was 3.4 million 2016 10.7 million.
+The tax charge derives mainly from Group subsidiaries residual profits.
+The Group continues to recognise a deferred tax asset of 0.1m 2016 0.2m in respect of tax losses accumulated in previous years.
+Cash flow Cash flow from operations 6533 5922 Exceptional and nonrecurring payments 1108 1951 Adjusted cash flow from operations 7641 7873 % of Adjusted EBITDA 92% 123% Cash flow from operations was strong at 6.5 million 2016 5.9 million.
+Adjusted cash flows from operations after adding back payments that are oneoff in nature and deferred payment for past acquisition that was treated as a remuneration expense in previous years was 7.6 million 2016 7.9 million.
+This represents a cash conversion of 92% of Adjusted EBITDA 2016 123%.
+Tax paid net of refunds in the period was 0.1 million 2016 0.9 million.
+Cash spent in the period on capital expenditure of 2 million 2016 0.8 million mainly comprises of capitalised development costs and purchase of fixed assets.
+Net cash paid for acquisitions in the period totalled 5.3 million 2016 1.4 million out of which the Company paid 5.7 million in relation to the CyberGhost acquisition and 0.4 million net inflow related to the acquisition of an additional 33.3% in Clearvelvet and the consolidation of its cash balance in April 2017.
+As a result net cash outflow from investing activities was 7.4 million 2016 3.1 million.
+In addition 0.2 million paid in the period for past acquisitions is included in the operational cash flow as it is treated as remuneration as required by IFRS 2016 1.1 million In November 2017 the Company repurchased 3.8 million share options from CyberGhosts founder for a total consideration of 3.8 million out of which 1.9 million was paid in the year and the rest will be paid in eight equal quarterly instalments.
+KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS
+GOVERNANCE
+FINANCIAL
+STATEMENTS
+STRATEGIC
+REPORT
+Financial position At 31 December 2017 the Company had cash of 69.5 million 31 December 2016 72.1 million net assets of 79.4 million 31 December 2016 80.5 million and is debt free.
+At 31 December 2017 trade receivables were 8.5 million 31 December 2016 5.6 million which represented 42 days outstanding 31 December 2016 44 days.
+Early adoption of IFRS 15 In May 2014 the IASB issued IFRS 15 Revenue from Contracts with Customers IFRS 15 a new standard related to revenue recognition.
+Under the standard revenue is recognised when a customer obtains control of promised goods or services in an amount that reflects the consideration the entity expects to receive in exchange for those goods or services.
+The Company has adopted IFRS 15 using the cumulative effect method applied to those contracts which were not completed as of 1 January 2017.
+Revenue recognition relating to most of our products and services remains substantially unchanged and in consequence the impact of the new standard on our opening balances as at 1 January 2017 was immaterial.
+On an ongoing basis the most significant impact of the standard relates to our accounting for user acquisition costs associated with subscription sales of CyberGhost and auto renewal sales of Reimage which commenced in 2017.
+These costs which relate to sales and marketing are considered incremental in obtaining the contract and therefore capitalised and amortised over the expected customer relationship period under the new standard.
+The adoption of the new standard had no impact to cash from or used in operating financing or investing on our consolidated cash flow statements.
+The impact of the adoption on our consolidated income statement and balance sheet for the period ended 31 December 2017 was as follows Income statement 2017 as reported under IFRS 15 according to previous policy under IAS 18 Effect of the application of IFRS 15 Selling and marketing expenses 44117 45508 1391 Operation loss 2599 3990 1391 Adjusted EBITDA 8261 6870 1391 Total comprehensive loss for the year 2503 3894 1391 Basic earnings per share 2.4 3.4 1 Diluted earnings per share 2.4 3.4 1 Balance sheet Balance at 31 December 2017 as reported under IFRS 15 Balance at 31 December 2017 under IAS 18 Effect of adjustment of IFRS 15 Assets recognised for costs incurred to obtain a contract Noncurrent assets contract assets 347  347 Current assets contract assets 1044  1044 1391  1391
+Following our strong cash flow from operations and cash balance as of 31 December 2017 the Board has recommended a special dividend of 4.93 US cents per share 2016 nil being a total payout of 7 million.
+Moran Laufer Chief Financial Officer 12 March 2018 12 KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS Risks Background Mitigating controls Regulatory legislative or selfregulatory developments regarding internet privacy matters could adversely affect the Groups ability to conduct its business.
+International regulatory bodies are increasingly focused on online privacy issues and user data protection.
+In particular GDPR was approved by the European Union EU and takes effect from May 2018.
+It intends to strengthen and unify data protection for all individuals within the EU.
+It also addresses the export of personal data outside the EU.
+The GDPR aims primarily to give control back to citizens and residents over their personal data and to simplify the regulatory environment for international business by unifying the regulation within the EU.
+All the information that the Group obtains regarding users and their profiling is information that may correspond to a particular person account or profile but does not identify allow contact or enable Kape to locate the person to whom such information pertains.
+As a consequence the Group is not regulated by any regulator or subject to any regulatory approval for its daytoday operations.
+Whilst not externally regulated the Group adheres to a strict set of controls with its partners.
+Partners developers publishers and advertisers are required to comply with these contractually imposed controls which have been jointly created by the Group and its legal advisers.
+Large and established internet Antivirus and technology companies may be able to significantly impair the Groups ability to operate.
+Large and established internet Antivirus and technology companies such as Symantec Corporationsite Inc.
+Amazon AOL
+Apple eBay Inc.
+Facebook Inc.
+Facebook
+Google and Microsoft may have the power to significantly change the very nature of the appdistribution and internet display advertising marketplace.
+These changes could materially disadvantage the Group.
+For example Amazon Apple Facebook Google and Microsoft have substantial resources and control a significant share of widely adopted industry platforms such as web browsers mobile operating systems and advertising exchanges and networks.
+Changes to their web browsers mobile operating systems platforms exchanges networks or other products or services could be significantly harmful to the Groups business.
+Such companies could also seek to replicate all or parts of the Groups business.
+The Group actively monitors the developments of the large and established internet Antivirus and technology companies to identify any threats that may impair the Groups ability to operate.
+PRINCIPAL RISKS AND UNCERTAINTIES There are a number of potential risks and uncertainties that could have a material impact on the Groups longterm performance and could cause results to differ materially from expected and historical results.
+The risks to which the business is exposed are set out below.
+KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS
+GOVERNANCE
+FINANCIAL
+STATEMENTS
+STRATEGIC
+REPORT
+Risks Background Mitigating controls If the Group fails to innovate and respond effectively to rapidly changing technology the Groups solution may become less competitive or obsolete.
+To remain competitive the Groups future success will depend on its ability to continuously enhance and improve its solutions to meet client needs add functionality to its product portfolio and address technological advancements.
+The Group invests in research and development resources to ensure that the Groups technology platforms are continually enhanced through evolution and innovation.
+The Group also invests in acquisitions to expand its technology platforms and adapt to the rapidly changing technology environment.
+Failures in the Groups IT systems and infrastructure supporting its solution could significantly disrupt its operations and cause it to lose clients.
+In addition to the optimal performance of the Kape Engine the Groups business relies on the continued and uninterrupted performance of its software and hardware infrastructures.
+Sustained or repeated system failures of its software and hardware infrastructures which interrupt its ability to deliver its software products and services or advertisements quickly and accurately could significantly reduce the attractiveness of its solution to advertiser clients and publishers reduce its revenue and affect its reputation.
+The Group outsources hosting services holding minimal server infrastructure itself.
+This allows the Group to flex and grow its operations efficiently.
+Kape uses third party content distribution network services in order to offload traffic served directly from its own infrastructure and minimise network latency.
+The Group is a multinational organisation faced with increasingly complex tax issues in many jurisdictions and it could be obliged to pay additional taxes in various jurisdictions as a result of new taxes laws or interpretation including sales taxes which may negatively affect its business.
+As a multinational organisation operating in multiple jurisdictions such as the Isle of Man Cyprus Israel Romania and the United Kingdom the Group may be subject to taxation in several jurisdictions around the world with increasingly complex tax laws the application of which can be uncertain.
+The amount of taxes it pays in these jurisdictions could increase substantially as a result of changes in the applicable tax principles including increased tax rates new tax laws or revised interpretations of existing tax laws and precedents which could have a material adverse effect on its liquidity and results of operations.
+The Group uses advisers to review its tax position and ensure compliance with local tax legislation.
+BOARD OF DIRECTORS Don has many years experience in marketing services including developing companies organically and by acquisition.
+Don retired as Group CEO of Creston plc which was listed on the Main Market of the London Stock Exchange at the end of March 2014.
+He founded Creston as a digitally focused communications and insight group in 2001 and built it into an international group which generated 75m revenue 12m EBITDA and employed over 800 people as at March 2014.
+He is Chairman of Kapes Nominations
+He is also NonExecutive Chairman of The Marketing Group plc which is listed on the Nasdaq First North market in Sweden.
+Ido joined Kape plc in May 2016 as
+Group Chief Executive Officer.
+Ido has more than nine years experience in the technology sector garnered through roles in private equity consulting and finance.
+Prior to joining Kape Ido was acting Joint Chief Executive Officer of VisualDNA which was acquired by The Nielsen Company a leading psychographic data business where he led its geographic expansion and oversaw significant EBITDA growth.
+Prior to VisualDNA Ido worked as a Senior Associate within KPMGs private equity deal advisory practice in London and as a Senior Manager within KPMGs Transaction Services practice focusing on technology deals in Israel and with the Israeli Ministry of Finance.
+Ido is the author of the bestselling book Battle of Strategies published in Israel by Yediot Books.
+Ido is a Certified Public Accountant having graduated magna cum laude in Accounting and Economics from The Hebrew University of Jerusalem.
+He also obtained his Masters degree in Law from BarIlan University and has received an MBA from the University of Cambridges Judge Business School.
+Moran joined Kape as Group Financial Controller in 2012.
+He was a key member of the finance team that successfully supported the Groups admission to AIM in September 2014.
+Prior to joining Kape Moran was a Divisional Controller at SafeCharge International Ltd AIM SCH a global provider of payments services technologies and risk management solutions for online and mobile businesses.
+Previously Moran worked for Ernst and Young as a senior auditor of London Stock Exchange and NASDAQ traded companies primarily focused on the technology sector.
+Moran is a Certified Public Accountant who graduated in Accounting and Economics and received an MBA from Tel Aviv University.
+DON ELGIE NONEXECUTIVE CHAIRMAN IDO ERLICHMAN
+CHIEF EXECUTIVE OFFICER
+MORAN LAUFER CHIEF FINANCIAL OFFICER KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS CORPORATE
+FINANCIAL
+STATEMENTS
+STRATEGIC
+REPORT
+CORPORATE
+GOVERNANCE
+FINANCIAL
+STATEMENTS
+STRATEGIC
+REPORT
+David has over 30 years experience in the information technology software and service sector.
+He has held senior management roles with firms such as ACT Financial Systems DST Advent and SQS Group Plc and has led and successfully integrated many trade sales of technology companies.
+Between 2006 and 2011 David served as the CEO of UKIISA Region UK Ireland South Africa and India and as Board Director at SQS Group plc
+David is currently Non Executive Chairman of SyQic plc.
+Additionally David is Chairman of IT services company Qualitest UK.
+David is Kape Groups Senior Independent Director and also Chairman of the Companys Remuneration Committee.
+Prior to joining the Board of Kape Martin acted as CFO of Pilat Media Global plc a company which previously traded on both AIM and the Tel Aviv Stock Exchange and developed marketed and supported new generation business management software solutions for content and service providers in the media industry.
+Martin joined Pilat Media in 2001 ahead of its admission to AIM in 2002.
+Pilat Media was acquired by SintecMedia Ltd for 63.3 million in April 2014.
+Martin qualified as a chartered accountant with Ernst and Young in 1982 and between 1983 and 1986 worked for PwC.
+Martin is Chairman of Kapes Audit Committee.
+Martin is also currently a NonExecutive Director and Chairman of the Audit Committees at both The Marketing Group and Green Biologics Ltd.
+DAVID COTTERELL NONEXECUTIVE DIRECTOR MARTIN BLAIR NONEXECUTIVE DIRECTOR KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS 16 KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS CORPORATE GOVERNANCE The Board of Directors of the Company the Board are responsible for the Groups system of corporate governance.
+Overview
+The current policies and procedures as adopted by the Group are set out below.
+Role of the Board The Board is responsible for the overall strategy and direction of the Group.
+It provides robust leadership of the Company within a framework of effective controls which enables risk to be assessed and managed.
+The Board in setting the Companys aims ensures that the necessary financial and human resources are in place to meet its objectives.
+It regularly reviews management performance and upholds the Companys values and standards so that its obligations to shareholders and others are understood and met.
+The Board is supplied with information in a quality form and in a timely manner to enable it to discharge its duties.
+The
+Board also reviews arrangements under which employees can raise concerns in confidence about possible improprieties in matters of financial reporting or other areas.
+Division of responsibilities During 2017 the Chairman Donald Don Elgie had a clear and distinct responsibility for running the Board whilst the executive responsibility for running the Companys business was delegated to the Chief Executive Officer Ido Erlichman.
+Moran Laufer was appointed to the Board on 6 February 2017 having been appointed to the position of Chief Financial Officer on 27 October 2016.
+As at 31 December 2017 the Board comprised five Directors three of whom were NonExecutive Directors.
+The NonExecutive Directors normally do not have any daytoday involvement in the running of the business but are responsible for scrutinising the performance of management in meeting agreed goals and objectives and monitoring the reporting of performance.
+All Board members are considered to be able to allocate sufficient time to the Company to discharge their responsibilities as Directors effectively.
+The Board meets at regular scheduled intervals and follows a formal agenda it also meets as and when required.
+No one individual has unfettered powers of decision.
+The
+Directors may take independent professional advice at the Groups expense.
+Board Committees The Group has an Audit Committee a Nominations Committee and a Remuneration Committee each consisting of three NonExecutive Directors.
+Each
+Committee has written terms of delegated responsibilities which will be available for review at the end of the 2018 Annual General Meeting and are available for review in the Investor Relations section of the Groups website site The Board and its Committees are considered to have an appropriate balance of skills experience independence and knowledge of the Company to enable them to discharge their respective duties and responsibilities effectively.
+Remuneration Committee The Remuneration Committee is comprised of David Cotterell Chair of the Committee Don Elgie and Martin Blair all of whom are NonExecutive Directors.
+It is responsible for making recommendations to the Board on remuneration policy as applied to the Companys Executive
+The Remuneration Committee also considers grants of options under the Companys share option schemes.
+The policy of the Remuneration Committee is to grant share options to employees as part of a remuneration package to motivate them to contribute to the growth of the Group over the medium to long term.
+The Chief Executive may at the Remuneration Committees invitation attend meetings except where his own remuneration is discussed.
+The Remuneration Committee met twice during the past financial year.
+The Remuneration Committees terms of reference which can be found on the Companys website site are reviewed on an annual basis and updated as required.
+The Remuneration Committee Report which includes details of Directors remuneration pension entitlements and Directors interests together with information on service contracts is set out on pages 18 to 19.
+KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS
+GOVERNANCE
+FINANCIAL
+STATEMENTS
+STRATEGIC
+REPORT
+Audit Committee The Audit Committee is comprised of Martin Blair Chair of the Committee David Cotterell and Don Elgie all of whom are NonExecutive Directors.
+The Committee meets at least twice a year and at other times as agreed between the members of the Committee.
+Executive Directors and the Groups auditors may be invited to attend all or part of any meetings.
+The
+Committee also meets with the Groups external auditor without the presence of the Executive Directors.
+The Committees terms of reference which can be found on the Companys website site are reviewed on an annual basis and updated as required.
+Risk management and internal controls During the year the Audit Committee has reviewed the scope and effectiveness of systems to identify and address financial and nonfinancial risks.
+The review identified the key risks risk control measures and the implementation status of the risk control measures.
+The report was presented to the Committee by the Chief Financial Officer.
+Audit of the Groups Annual Report Financial
+In advance of the audit of the Groups Annual Report Financial Statements the Audit Committee reviewed the plans as presented by the Groups external auditor BDO
+The plan set out the proposed scope of work audit approach materiality and identified areas of audit risk.
+The Audit Committee also reviewed the Annual Report and Financial Statements along with the audit findings report presented by BDO LLP.
+Auditor independence The Audit Committee monitors the independence of the Groups external auditor.
+During the year BDO LLP provided the Group with the following nonaudit services Taxation compliance services and Taxation advisory services.
+The Audit Committee considered the threats to the independence of BDO LLP created by the provision of the nonaudit services and concluded that sufficient safeguards were in place.
+BDO was appointed as auditor of the Group for the year ended 31 December 2013.
+The Audit Committee will keep under review in consultation with major shareholders the decision as to whether to conduct a tender in respect of the audit in line with the recommendations of the Financial Reporting Council.
+Nominations Committee The Nominations Committee is comprised of Don Elgie Chair of the Committee Martin Blair and David Cotterell all of whom are independent NonExecutive Directors.
+The
+Committee meets when appropriate and considers the composition of the Board retirements and appointments of additional and replacement Directors and makes appropriate recommendations to the Board.
+The objective of the Committee is to review the composition of the Board and to plan for its progressive refreshing with regard to balance and structure.
+The Committee is responsible for Reviewing the structure of the Board Evaluating the balance of skills knowledge experience and diversity of the Board Advising the Board on any areas where further recruitment may be appropriate and Succession planning for key executives at Board level and below.
+Where necessary and appropriate recruitment consultants are used to assist the Committee in delivering its objectives and responsibilities.
+The Committee leads the process for the identification and selection of new Directors and makes recommendations to the Board in respect of such appointments.
+The Committee also makes recommendations to the Board on membership of its Committees.
+The
+Committee terms of reference which can be found on the Companys website site are reviewed on an annual basis and updated as required.
+KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS REMUNERATION COMMITTEE REPORT UNAUDITED The Remuneration Committee for the purpose of the Remuneration Committee report the Committee is comprised of David Cotterell Chair of the Committee Don Elgie and Martin Blair all of whom are NonExecutive Directors.
+The Directors other than alternate Directors shall be entitled to receive by way of fees for their services as Directors in addition to fees paid for employment or executive services such sum as the Board may from time to time determine provided that such amount shall not exceed in aggregate 500000 per annum or such greater sum as the Company in general meeting shall from time to time determine by ordinary resolution.
+Any fees payable shall be distinct from any salary remuneration or other amounts payable to a Director.
+Each Director is entitled to be repaid all reasonable travelling hotel and other expenses properly incurred by him in or about the performance of his duties as a Director including any expenses incurred in attending meetings of the Board or any Committee of the Board or general meetings or separate meetings of the holders of any class of shares or of debentures of the Company.
+Directors emoluments Directors emoluments for the 2017 financial year are set in Pounds Sterling.
+These are set out in the tables below along with the US Dollar equivalent cost to the Company
+Base
+SalaryFees
+GBP
+Benefits
+GBP
+Pension
+GBP
+Bonus
+GBP
+Total
+GBP
+Ido Erlichman 300000 41000 9000 200000 550000 Don Elgie 80000    80000 David Cotterell 50000    50000 Martin Blair 50000    50000 Moran Laufer 97030 33004  60000 200034 The US Dollar equivalent cost to the Company has been calculated using a USDGBP rate of 1.29
+Base
+SalaryFees
+Benefits
+Pension
+Bonus
+Total
+Ido Erlichman 387000 52890 11610 258000 709500 Don Elgie 103200    103200 David Cotterell 64500    64500 Martin Blair 64500    64500 Moran Laufer 125168 42525  77400 258044 The beneficial interests of the Directors who held office at 31 December 2017 together with that of persons connected with the Directors in the share capital of the Company were as follows Directors interests in shares
+2017 2016
+Number of ordinary shares
+Number of ordinary shares Ido Erlichman 0.07% 100000 0.07% 100000 Don Elgie 0.07% 97087 0.07% 97087 Martin Blair 0.01% 19417 0.01% 19417 David Cotterell 0.03% 48544 0.03% 48544 Moran Laufer 0.04% 50000   19 KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS
+GOVERNANCE
+FINANCIAL
+STATEMENTS
+STRATEGIC
+REPORT
+Directors interests in share options
+Number of ordinary shares under option at 31 December 2016 Date of grant Exercise price Number of ordinary shares under option at 31 December Ido Erlichman 2000000 1 June 2016 0.275 2000000 Moran Laufer 241931 29 May 2014 0.380 241931 50000 5 January 2016 0.555 50000 634946 26 October 2016 0.365 634946 Vesting schedule 25% one year from date of grant and then in 12 equal quarterly instalments thereafter.
+Annual bonus The bonuses for the Executive Directors for 2018 will be based on Adjusted EBITDA and nonfinancial and strategic objectives.
+The level of bonus payable by reference to the financial performance of the Company will be determined on a sliding scale based on the Companys budget for the forthcoming financial year.
+Service contracts Executive Directors The service agreements of the Executive Directors are for an indefinite term and provide for formal notice of six months for the Chief Executive Director and three months for the Chief Financial Officer to be served to terminate the agreement either by the Company or by the Director.
+In addition to their annual salaries the Executive Directors are entitled to annual pension contributions of 3 per cent as well as other benefits commensurate with their positions including healthrelated benefits.
+NonExecutive Directors Fees for NonExecutive Directors are set with reference to time commitment the number of Committees chaired and relevant external market benchmarks.
+The NonExecutive Directors each have specific letters of appointment rather than service contracts.
+NonExecutive
+Directors are appointed for an initial term of three years and under normal circumstances would be expected to serve for additional threeyear terms up to a maximum of nine years subject to satisfactory performance and reelection at the Annual General Meeting as required.
+David Cotterell Chairman Remuneration Committee 12 March 2018 20 KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS DIRECTORS REPORT The Directors present their Annual Report on the affairs of the Group together with the financial statements and independent auditors report for the year ended 31 December 2017.
+The Corporate Governance Statement
+The Companys full name is Kape Technologies plc domiciled in the Isle of Man with company number V.
+Kape Technologies plc is a public listed company listed on the AIM market of the London Stock Exchange AIM.
+Principal activity Kape develops and distributes a variety of digital products in the online security space.
+The Company utilises its proprietary digital distribution technology to optimise its reach and distribute its software products to consumers.
+The Company offers products which provide online security privacy and optimisation tools for the consumer system.
+A detailed overview of the Groups activities is set out on pages 4 to 7.
+Review of business and future developments Details of the Groups performance during the year under review and expected future developments are set out in the Strategic Report on pages 1 to 13.
+A description of the principal risks and uncertainties facing the Group is set out on pages 12 to 13.
+Dividends
+The Board has declared the payment of a special dividend of 4.93 US cents per share being a total payout of 7 million 2016 nil which will be paid to shareholders on the register as at 25 May 2018.
+Directors
+The Directors who served during the period were as follows Ido Erlichman Active Donald Don Elgie Active David Cotterell Active Martin Blair Active Moran Laufer Active appointed 06 February 2017 Reelection of Directors The articles of association require that at each Annual General Meeting onethird of the Directors excluding any Director who has been appointed by the Board since the previous Annual General Meeting or if their number is not an integral multiple of three the number nearest to onethird but not exceeding onethird shall retire from office but so that if there are fewer than three Directors who are subject to retirement by rotation one shall retire.
+Any Director who is not required to retire by rotation but who has been in office for three years or more since his appointment or his last reappointment or who would have held office at not less than three consecutive Annual General Meetings of the Company without retiring shall retire from office.
+Appointment of a Director The articles of association require that any Director appointed by the Board shall unless appointed at such meeting hold office only until the dissolution of the Annual General Meeting of the Company next following such appointment.
+Directors responsibility statement The statement of Directors responsibility is set out on page 22.
+Directors indemnities The Directors have been granted an indemnity from the Company to the extent permitted by law in respect of liabilities incurred as a result of their office which remains in force at the date of this report.
+Employee policies At 31 December 2017 the Group employed 128 people 31 December 2016 74 people.
+The Group is committed to attracting and retaining personnel with the requisite technical skills and experience to implement its growth strategy and maintain its position in the competitive industry in which it operates.
+Kape therefore places significant emphasis on ensuring that it has a strong recruitment team as well as appropriate remuneration and bonus policies which are set by reference to appropriate objectives and include sharebased incentive schemes details of which are set out in note 18 to the financial statements.
+Financial instruments The Group does not currently use derivative financial instruments.
+A summary of the Groups financial instruments changes in share capital and related disclosures are set out in notes 15 and 17 to the financial statements.
+The Group has no material exposure to price liquidity or cash flow risk that would impact its objectives.
+KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS
+GOVERNANCE
+FINANCIAL
+STATEMENTS
+STRATEGIC
+REPORT
+Capital structure Under the IOM Companies Act the Company is not required to have an authorised share capital.
+The ordinary shares in issue at 31 December 2017 have been created pursuant to the BVI Companies Act and the articles of association of the Company in place prior to the redomiciliation of the Company from the BVI to the IOM on 13 August 2014 and are ordinary shares of USD 0.0001 par value.
+Details of the issued share capital as at 31 December 2017 of 148496073 ordinary shares of USD 0.0001 par value together with details of the movements in the Companys issued share capital during the year are shown in note 15 to the financial statements.
+The Company has one class of ordinary shares which carry no right to fixed income.
+Each share carries the right to one vote at general meetings of the Company.
+There are no specific restrictions on the size of a holding nor on the transfer of shares which are both governed by the general provisions of the articles of association and prevailing legislation.
+Save as provided by the terms of certain lockin agreements entered into between the Company the Directors and certain shareholders the Directors are not aware of any agreements between holders of the Companys shares that may result in restrictions on the transfer of securities or on voting rights.
+As at 31 December 2017 the Company held 6644738 shares in treasury and no shares in the capital of the Company are held by or on behalf of the Company or by any of the Companys subsidiaries.
+Details of employee share schemes are set out in note 18 to the financial statements.
+Related party transactions Details of all related party transactions are set out in note 22 to the financial statements.
+Research and development The Group maintains an integrated global research and development team which has a staff of 44 2016 14.
+In the opinion of the Directors continuity of investment in this area is essential for the maintenance of the Groups market position and for future growth.
+The amount of research and development costs capitalised in the year was 1432000 2016 744000.
+Going concern The Directors having considered the Groups resources financially and the associated risks with doing business in the current economic climate believe the Group is capable of successfully managing these risks.
+The Board has reviewed the cash flow forecast and business plan as provided by management which includes the rate of revenue growth margins and cost control.
+As such the Directors are satisfied that the Group has adequate resources to continue in operational existence for the foreseeable future.
+Accordingly they continue to adopt the going concern basis in preparing these financial statements.
+Annual General Meeting The Annual General Meeting for 2018 will be held at 12 noon on Thursday 17 May 2018.
+The notice convening the Annual General Meeting for this year and an explanation of the items of nonroutine business are set out in the circular that accompanies the Annual Report.
+Auditor
+A resolution to reappoint BDO LLP as the Companys auditor will be proposed at the 2018 Annual General Meeting.
+Each of the persons who are Directors at the date of approval of this Annual Report confirms that So far as the Director is aware there is no relevant audit information of which the Companys auditor is unaware and The Director has taken all the steps that he ought to have taken as a Director in order to make himself aware of any relevant audit information and to establish that the Companys auditor is aware of that information.
+Signed on behalf of the Board by Don Elgie NonExecutive Chairman 12 March 2018 22 KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS DIRECTORS RESPONSIBILITY
+The Directors are responsible for preparing the Annual Report and the financial statements in accordance with applicable law and regulations.
+Isle of Man company law does not require the Directors to prepare financial statements for each financial year however the Group is required to do so to satisfy the requirements of the AIM Rules for Companies.
+Under company law when preparing the financial statements the Directors are required to prepare the Group financial statements in accordance with an appropriate set of generally accepted accounting principles or practice.
+The Directors have elected to use International Financial Reporting Standards IFRSs as adopted by the European Union.
+Under company law the Directors must not approve the accounts unless they are satisfied that they give a true and fair view of the state of affairs of the Company and of the profit or loss of the Company for that period.
+In preparing these financial statements International Accounting Standard 1 revised requires that directors Properly select and apply accounting policies Present information including accounting policies in a manner that provides relevant reliable comparable and understandable information Provide additional disclosures when compliance with the specific requirements in IFRSs are insufficient to enable users to understand the impact of particular transactions other events and conditions on the entitys financial position and financial performance and Make an assessment of the Companys ability to continue as a going concern.
+The Directors are responsible for keeping adequate accounting records that correctly explain the transactions of the Company enable the financial position of the Company to be determined with reasonable accuracy at any time and allow financial statements to be prepared.
+They are also responsible for safeguarding the assets of the Company and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+The Directors are responsible for the maintenance and integrity of the corporate and financial information included on the Companys website.
+The Directors responsibility also extends to the continued integrity of the financial statements contained therein.
+Signed on behalf of the Board by Don Elgie NonExecutive Chairman 12 March 2018 23 KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS
+GOVERNANCE
+FINANCIAL
+STATEMENTS
+STRATEGIC
+REPORT
+INDEPENDENT AUDITORS REPORT TO THE MEMBERS OF KAPE TECHNOLOGIES PLC
+We have audited the financial statements of Kape Technologies Plc for the year ended 31 December 2017 which comprise the consolidated statement of comprehensive income the consolidated statement of changes in equity the consolidated statement of financial position the consolidated cash flow statement and notes to the financial statements including a summary of significant accounting policies.
+The financial reporting framework that has been applied in the preparation of the financial statements is applicable law and International Financial Reporting Standards IFRSs as adopted by the European Union as applied in accordance with the provisions of the Isle of Man Companies Act 2006 and any other applicable laws and regulations.
+In our opinion the financial statements give a true and fair view of the state of the groups affairs as at 31 December 2017 and of the groups loss for the year then ended and the group financial statements have been properly prepared in accordance with IFRSs as adopted by the European Union.
+Basis for opinion We conducted our audit in accordance with International Standards on Auditing UK ISAs UK and applicable law.
+Our responsibilities under those standards are further described in the Auditors responsibilities for the audit of the financial statements section of our report.
+We are independent of the group in accordance with the ethical requirements that are relevant to our audit of the financial statements in the UK including the FRCs Ethical Standard as applied to listed entities and we have fulfilled our other ethical responsibilities in accordance with these requirements.
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+Conclusions relating to going concern We have nothing to report in respect of the following matters in relation to which the ISAs UK require us to report to you where the directors use of the going concern basis of accounting in the preparation of the financial statements is not appropriate or the directors have not disclosed in the financial statements any identified material uncertainties that may cast significant doubt about the groups or the parent companys ability to continue to adopt the going concern basis of accounting for a period of at least twelve months from the date when the financial statements are authorised for issue.
+Key audit matters Key audit matters are those matters that in our professional judgment were of most significance in our audit of the financial statements of the current period and include the most significant assessed risks of material misstatement whether or not due to fraud we identified including those which had the greatest effect on the overall audit strategy the allocation of resources in the audit and directing the efforts of the engagement team.
+These matters were addressed in the context of our audit of the financial statements as a whole and in forming our opinion thereon and we do not provide a separate opinion on these matters.
+KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS Key audit matter Mitigating controls Revenue recognition and the transition to IFRS 15 Revenue recognition has historically been applied in accordance with IAS 18.
+However the group have elected to early adopt IFRS 15  Revenue from Contracts with Customers effective from 1 January 2017.
+The new revenue standard requires significant consideration as to the adoption of the new 5 step model and as such significant emphasis has been placed on this transition throughout the audit resulting in the recognition of this key audit matter.
+The group has a number of revenue streams for which the accounting must be individually considered.
+International
+Standards on Auditing note that there is a presumed significant audit risk arising from inappropriate or incorrect recognition of revenue unless conditions exist that permit the rebuttal of that risk.
+Due to the different nature of agreements entered into by the group and the fact that revenue is recognised both point in time and over a period of time there is a key risk of material misstatement arising from both the recognition of revenue around the year end cutoff and the revenue recognition policy itself as detailed in note 2 to these financial statements.
+Noting the above including revenue streams where an agency presentation is adopted as well as a new revenue stream in respect of an acquired entity in the year we feel it is inappropriate to rebut the presumed risk.
+We assessed whether the revenue recognition policies adopted by the Group comply with IFRS as adopted by the European Union and Industry standard.
+The relevant IFRS is International Financial Reporting Standard 15 Revenue from Contracts with Customers.
+With the exception of the CyberGhost revenue stream we tested revenue through substantive procedures including confirmation of cash receipts over material revenue streams.
+In respect of the newly acquired subsidiary CyberGhost we performed cutoff procedures including recalculations around the yearend in order to g et comfort over subscription revenues.
+We have further reviewed the requirements of the IFRS 15 transition and reviewed the assessment of expected impacts against the disclosure adjustments proposed by the group.
+Alongside discussions held with management our work involved the audit of supporting documentation through to source data for all IFRS 15 adjustments for which the most significant impact relates to the capitalisation of incremental customer acquisition costs.
+By critically challenging the groups proposed adoption of the new revenue standard we have been able to assess the reasonableness of this adoption.
+INDEPENDENT AUDITORS REPORT TO THE MEMBERS OF KAPE TECHNOLOGIES PLC CONTINUED 25 KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS
+GOVERNANCE
+FINANCIAL
+STATEMENTS
+STRATEGIC
+REPORT
+Key audit matter Mitigating controls Business combinations See accounting policy in note 2 and the intangibles assets note note 10 and the business combinations note note 21 on pages 54 to 56.
+The Group completed the following principal acquisitions in the year On 1 April 2017 the Company increased its holding in Clearvelvet Trading Limited to 50.01% by acquiring an additional 33.34% of its issued share capital.
+On 14 March 2017 the Group acquired 100% of the share capital of CyberGhost S.
+Prior to the acquisition date CyberGhost acquired Mobile Concept a software development company based in Germany.
+There are risks present as a result of managements requirement to make significant judgements in assessing the fair values of consideration including contingent consideration whether arising on acquisitions made in the current year or previous years and of the assets and liabilities acquired.
+Management have engaged external valuations experts to undertake the purchase price allocation exercise required.
+We focused on this area because the fair value adjustments which included the creation of intangible assets and associated deferred tax liabilities were judgmental in nature and also material.
+The two acquisitions resulted in the group holding on consolidation goodwill and intangible assets of 5.69m and 1.829m respectively.
+Goodwill should be allocated to each of the groups cash generating units CGUs.
+Further an annual impairment review is required by management to ensure the level of goodwill and intangibles are supported by the performance and position of the underlying group where impairment indicators exist.
+Given the judgement involved surrounding the inputs for the impairment review a risk arises with respect to the recoverable amount of goodwill and intangibles.
+We challenged the assumptions underpinning the significant judgements and estimates used by management in the assessment of the fair values of the assets and liabilities acquired and consideration paid including underlying cash flow projections royalty rates discount rates applied and the long term growth rates.
+Our testing focused on both material and more judgmental fair value adjustments that were recorded.
+Particular adjustments we tested were Intangible assets  intangible assets in CyberGhost and Clearvelvet of 1.829m and 204000 respectively were valued representing customer relationships brand and domain names and technology.
+The directors obtained external valuations for the acquired intangible assets.
+Utilising our own valuations expertise we evaluated the valuation methodologies used for each type of asset and satisfied ourselves that the methodology was appropriate and consistent with market practice.
+We also examined the key assumptions used as inputs to the valuation models to assess whether these were consistent with our understanding of the businesses acquired their historical performance and the markets in which they operate.
+These assumptions included revenue and profit forecasts discount rates customer attrition rates technology obsolescence rates and royalty rates.
+We found that the key valuation assumptions were within our expected range and that the valuation methodologies applied were appropriate.
+We challenged managements assessment of the fair value of contingent consideration in respect of acquisitions made in the current year and previous periods including principally the level of expected profitability over the forecast period.
+In accordance with accounting standards the creation of these intangible assets resulted in the creation of deferred tax liabilities on acquisition of 366000.
+We examined and satisfied ourselves with the methodology and tax rates used to calculate these liabilities.
+This involved reference to the tax jurisdictions in which the group operates levels of business in those jurisdictions and the manner in which profits are expected to be repatriated and taxed.
+KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS Our application of materiality We determined materiality for the financial statements as a whole to be 646000 2016  596000 which represents approximately 1% of revenues 2016  1% of revenues.
+We agreed with the audit committee that we would report to them misstatements identified during our audit above 32300 2016  29800.
+Revenue has been concluded as the most relevant performance measure to the stakeholders of the group while also providing a more stable measure year on year when compared to the group loss before tax.
+Individual component audits were carried out using component materialities of between 2550% of overall financial statement materiality.
+An overview of the scope of our audit We tailored the scope of our audit to ensure that we performed enough work to be able to give an opinion on the financial statements as a whole taking into account the geographic structure of the Group the accounting processes and controls and the industry in which the Group operates.
+In establishing the overall approach to the Group audit we assessed the audit significance of each reporting unit in the Group by reference to both its financial significance and other indicators of audit risk such as the complexity of operations and the degree of estimation and judgement in the financial results.
+We also considered the changes to the overall Group as a result of the acquisitions of CyberGhost SA and Clearvelvet Trading Limited and where the key business activities and transactions reside.
+We instructed BDO Romania and BDO Cyprus as component auditors to perform full scope audits of financial information of the significant components accounted for locally in those territories.
+BDO Romania performed a full scope audit of CyberGhost SA and BDO Cyprus performed full scope audits of Reimage Limited Crossrider Technologies Limited Blueroad Trading Limited and Frontbase Trading Limited.
+We visited these locations during the year to ensure we obtained a full understanding of the operational activities and appropriately scoped risks and agreed responses to those risks.
+We also attended audit clearance meetings in these locations and took an active part in reviewing the work undertaken by our component auditors.
+We also instructed BDO Israel as component auditors to perform specific procedures of financial information of the nonsignificant reporting unit accounted for locally in the territory.
+This together with the additional procedures performed at Group level over the acquisition accounting and consolidation process gave us the evidence we needed for our opinion on the financial statements as a whole.
+Classification of components We identified two individually significant determined as those that were greater than 15% revenue components which make up 63% of Group revenue.
+A further four components have been scoped in as significant to ensure sufficient coverage was obtained across the group.
+This includes both of the newly acquired entities in the year CyberGhost SA and Clearvelvet Trading Limited which together make up a further 28% of Group revenue.
+Specific procedures have been performed over Definiti Media Limited by BDO Israel.
+This included reporting over material movements in the year taxation and related party transactions.
+INDEPENDENT AUDITORS REPORT TO THE MEMBERS OF KAPE TECHNOLOGIES PLC CONTINUED
+Full scope audit Specic procedures Group level procedures Adjusted EBITDA Full scope audit Specic procedures Group level procedures Total Assets Full scope audit Specic procedures Group level procedures 27 KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS
+GOVERNANCE
+FINANCIAL
+STATEMENTS
+STRATEGIC
+REPORT
+The remaining components not subject to full scope audit or specific procedures have been reviewed for group reporting purposes using analytic procedures to corroborate the conclusions reached that there are no significant risks of material misstatement of the aggregated financial information of those components.
+Summary of audit scope Based on the above scope we were able to conclude that sufficient and appropriate audit evidence had been obtained as a basis to form our opinion on the group financial statements as a whole.
+Other information The directors are responsible for the other information.
+The other information comprises the information included in the annual report other than the financial statements and our auditors report thereon.
+Our opinion on the financial statements does not cover the other information and except to the extent otherwise explicitly stated in our report we do not express any form of assurance conclusion thereon.
+In connection with our audit of the financial statements our responsibility is to read the other information and in doing so consider whether the other information is materially inconsistent with the financial statements or our knowledge obtained in the audit or otherwise appears to be materially misstated.
+If we identify such material inconsistencies or apparent material misstatements we are required to determine whether there is a material misstatement in the financial statements or a material misstatement of the other information.
+If based on the work we have performed we conclude that there is a material misstatement of this other information we are required to report that fact.
+We have nothing to report in this regard.
+Responsibilities of directors As explained more fully in the directors responsibilities statement set out on page 22 the directors are responsible for the preparation of the financial statements and for being satisfied that they give a true and fair view and for such internal control as the directors determine is necessary to enable the preparation of financial statements that are free from material misstatement whether due to fraud or error.
+In preparing the financial statements the directors are responsible for assessing the groups ability to continue as a going concern disclosing as applicable matters related to going concern and using the going concern basis of accounting unless the directors either intend to liquidate the group or to cease operations or have no realistic alternative but to do so.
+Auditors responsibilities for the audit of the financial statements This report is made solely to the companys members as a body in accordance with the Isle of Man Companies Act 2006.
+Our audit work has been undertaken so that we might state to the companys members those matters we are required to state to them in an auditors report and for no other purpose.
+To the fullest extent permitted by law we do not accept or assume responsibility to anyone other than the company and the companys members as a body for our audit work for this report or for the opinions we have formed.
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement whether due to fraud or error and to issue an auditors report that includes our opinion.
+Reasonable assurance is a high level of assurance but is not a guarantee that an audit conducted in accordance with ISAs UK will always detect a material misstatement when it exists.
+Misstatements can arise from fraud or error and are considered material if individually or in aggregate they could reasonably be expected to influence the economic decisions of users taken on the basis of these financial statements.
+A further description of our responsibilities for the audit of the financial statements is located on the Financial Reporting Councils website at www. rc. auditorsresponsibilities.
+This description forms part of our auditors report.
+Iain Henderson Senior Statutory Auditor For and on behalf of BDO LLP Statutory Auditor
+12 March 2018 BDO LLP is a limited liability partnership registered in England and Wales with registered number OC.
+KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME FOR THE YEAR ENDED 31 DECEMBER 2017
+Revenue 4 66383 56532 Cost of sales 4572 2360 Gross profit 61811 54172 Selling and marketing costs 4a 44117 39915 Research and development costs 1016 1661 Management general and administrative costs 12832 7761 Depreciation and amortisation 1011 6445 9884 Impairment of intangible assets 10  4683 Total operating costs 64410 63904 Operating loss 6 2599 9732 Adjusted EBITDA 8261 6413 Employee sharebased payment charge 18 340 716 Charge for repurchase of employee options 18 3176 Exceptional and nonrecurring costs 6 899 862 Depreciation and amortisation 1011 6445 9884 Impairment of intangible assets 10  4683 Operating loss 2599 9732 Share of results of equity accounted associates 40 47 Finance income 277 4 Finance costs 8 532 332 Loss before taxation 2894 10013 Tax charge 9 467 665 Loss for the year 3361 10678 Other comprehensive income Foreign exchange differences on translation of foreign operations 858 Total comprehensive loss for the year 2503 10678 Total profitloss for the year attributable to Owners of the parent Noncontrolling interests 3561 Total comprehensive incomeloss attributable to 200 Owners of the parent 2703 Noncontrolling interests 200 Basic earnings per share cents 19 2.4 7.6 Diluted earnings per share cents 19 2.4 7.6 29 KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS
+GOVERNANCE
+FINANCIAL
+STATEMENTS
+STRATEGIC
+REPORT
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION AS AT 31 DECEMBER 2017
+Noncurrent assets Intangible assets 10 12350 7113 Property plant and equipment 11 815 591 Investments in equity accounted associates 16  859 Noncurrent investments 50 Deferred contract costs 4c 406 Deferred tax asset 9 97 166 13718 8729 Current assets Software licence inventory 65 Deferred contract costs 4c 1386 Trade and other receivables 12 11071 7950 Cash and cash equivalents 13 69502 72064 82024 80014 Total assets 95742 88743
+Share capital 15 14 Additional paid in capital 130728 130292 Foreign exchange differences on translation of foreign operations 852 6 Retained earnings 53200 49747 Equity attributable to equity holders of the parent 78395 80553 Noncontrolling interests 977 Total equity 79372 80553 Noncurrent liabilities Contract liabilities 4b 892 Deferred tax liabilities 9 349 691 Deferred consideration 25 993 160 2234 851 Current liabilities Trade and other payables 14 10094 7096 Contract liabilities 4b 3120 Deferred consideration 25 922 243 14136 7339 Total equity and liabilities 95742 88743 The financial statements were approved by the Board and authorised for issue on 13 March 2018.
+Ido Erlichman Moran Laufer
+Chief Executive Officer Chief Financial Officer 30
+KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS CONSOLIDATED STATEMENT OF CHANGES IN EQUITY FOR THE YEAR ENDED 31 DECEMBER 2017
+Additional paid in capital
+Retained earnings
+Non controlling interests
+At 1 January 2016 14 131287 6 39785 91510  91510 Loss for the year    10678 10678  10678 Other comprehensive income Foreign exchange differences on translation of foreign operations Total comprehensive loss for the year    10678 10678  10678 Transactions with owners Sharebased payments    716 716  716 Exercise of employee options note 15 Purchase of own shares note 15  995   995  995 At 31 December 2016 14 130292 6 49747 80553  80553 At 1 January 2017 14 130292 6 49747 80553  80553 Loss for the year   3561 3561 200 3361 Other comprehensive income Foreign exchange differences on translation of foreign operations   858  858  858 Total comprehensive loss for the year   858 3561 2703 200 2503 Noncontrolling interest from acquisition of subsidiary      777 777 Transactions with owners Sharebased payments    3516 3516  3516 Exercise of employee options note 15 1 436   437  437 Purchase of own share options note 15    3408 3408  3408 At 31 December 2017 15 130728 852 53200 78395 977 79372 31 KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS
+GOVERNANCE
+FINANCIAL
+STATEMENTS
+STRATEGIC
+REPORT
+CONSOLIDATED STATEMENT OF CASH FLOWS FOR THE YEAR ENDED 31 DECEMBER 2017
+Cash flow from operating activities Loss for the year after taxation 3361 10678 Adjustments for Amortisation of intangible assets 10 6046 9421 Impairment of intangible assets 10  4683 Depreciation of property plant and equipment 11 399 463 Loss on sale of property plant and equipment 11 101 35 Tax charge 9 467 665 Interest income 277 4 Interest expenses 8 411 51 Sharebased payment charge 18 3516 716 Share of results of associates 16 40 47 Movement in deferred and contingent consideration 90 Remeasurement gain on equity interest in associate 16 52 Expense from repurchase of employee share options 208 Interest received 277 Unrealised foreign exchange differences 240 4 Operating cash flow before movement in working capital 7925 5309 Decrease in trade and other receivables 967 8327 Increase in software licences inventory 65 Decrease in trade and other payables 2113 6625 Decrease in other current liabilities 209 1089 Increase in deferred contract costs 1330 Increase in contract liabilities 1358 Cash flow from operations 6533 5922 Tax paid net of refunds 109 904 Cash generated from operations 6424 5018 Cash flow from investing activities Purchases of property plant and equipment 11 540 108 Sale of property plant and equipment 39 24 Net cash paid on business combination 21 5337 1089 Intangible assets acquired 10 115 850 Net cash paid on investment in associates 16  350 Capitalisation of development costs 10 1432 744 Net cash used in investing activities 7385 3117 Cash flow from financing activities Repurchase of employee share options 518 1914 Exercise of options by employees 15 437 Net payment for purchase of own shares 15  995 Net cash generated from financing activities 1477 995 Net decreaseincrease in cash and cash equivalents 2438 906 Revaluation of cash due to changes in foreign exchange rates 124 178 Cash and cash equivalents at beginning of year 72064 71336 Cash and cash equivalents at end of year 13 69502 72064 32 KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 1 Basis of preparation The financial information provided is for Kape Technologies plc the Company and its subsidiary undertakings together the Group in respect of the financial years ended 31 December 2017 and 2016.
+The Company is incorporated in the Isle of Man.
+The financial information has been prepared in accordance with International Financial Reporting Standards IFRS International Accounting Standards IAS and interpretations collectively IFRS as adopted by the European Union EU.
+Going concern The Directors have at the time of approving the financial statements a reasonable expectation that the Company and the Group have adequate resources to continue in operational existence for the foreseeable future.
+They therefore continue to adopt the going concern basis of accounting in preparing the financial statements.
+Adoption of new and revised standards New standards and amendments to existing standards that have been published and are mandatory for the first time for the financial year beginning 1 January 2017 have been adopted but had no significant impact on the Group.
+In May 2014 the IASB issued IFRS 15 Revenue from Contract with Customers IFRS 15 a new standard related to revenue recognition.
+Under the standard revenue is recognised when a customer obtains control of promised goods or services in an amount that reflects the consideration the entity expects to receive in exchange for those goods or services.
+In addition the standard requires disclosure of the nature amount timing and uncertainty of revenue and cash flows arising from contracts with customers.
+The Company has early adopted IFRS 15 for the financial year beginning 1 January 2017 as set out in note 4.
+Standards issued but not yet effective IFRS 16 Leases is effective for annual periods beginning on or after 1 January 2019 subject to EU endorsement.
+IFRS 16 provides a single lessee accounting model requiring lessees to recognise right of use assets and lease liabilities for all applicable leases.
+IFRS 16 is not expected to have a significant impact on the amounts recognised in the Groups consolidated financial statements.
+On adoption of IFRS 16 the Group will recognise within the balance sheet a right of use asset and lease liability for all applicable leases.
+Within the income statement rent expense will be replaced by depreciation and interest expense.
+This will result in a decrease in management general and administrative costs and an increase in finance costs.
+The standard will also impact a number of statutory measures such as operating profit and alternative performance measures used by the Group.
+The full impact of IFRS 16 is currently under review and the Company will provide an estimate of the full financial effect on the annual results for the year ending at 31 December 2018.
+IFRS 9 Financial instruments replaces IAS 39 Financial instruments Recognition and Measurement with the exception of macro hedge accounting.
+The standard is effective for accounting periods beginning on or after 1 January 2018.
+The standard covers three elements Classification and measurement changes to a more principlebased approach to classify financial assets as either held at amortised cost fair value through other comprehensive income FVOCI or fair value through profit or loss dependent on the business model and cash flow characteristics of the financial asset Impairment moves to an impairment model based on expected credit losses based on a threestage approach and Hedge accounting the IFRS 9 hedge accounting requirements are designed to allow hedge accounting to be more closely aligned with the Groups underlying risk management.
+A new International Accounting Standards Board IASB project is in progress to develop an approach to better reflect dynamic risk management in entities financial statements.
+The full impact of IFRS 9 is currently under review and the Company will provide an estimate of the full financial effect of the interim results for the period ending at 30 June 2018.
+KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS
+GOVERNANCE
+FINANCIAL
+STATEMENTS
+STRATEGIC
+REPORT
+2 Significant accounting policies Basis of consolidation The Group consolidated financial statements comprise the financial statements of the Parent Company Kape Technologies Plc and the financial statements of the subsidiaries as shown in note 20 of the consolidated financial statements.
+The Group has been partly formed from a series of common control transactions.
+The financial statements of all the Group companies are prepared using uniform accounting policies.
+All transactions and balances between Group companies have been eliminated on consolidation.
+Business combinations and goodwill Acquisitions of businesses not under common control are accounted for using the acquisition method.
+The consideration transferred in a business combination is measured at fair value which is calculated as the sum of the acquisition date fair values of the assets transferred by the Group liabilities incurred by the Group to the former owners of the acquiree and the equity interests issued by the Group in exchange for control of the acquiree.
+Acquisitionrelated costs are recognised in profit or loss as incurred.
+Contingent consideration that is classified as an asset or a liability is initially recognised at fair value and subsequently at fair value thorough profit and loss in accordance with IAS 39 as appropriate.
+At the acquisition date the identifiable assets acquired and the liabilities assumed are recognised at their fair value at the acquisition date.
+Goodwill is measured as the excess of the sum of the consideration transferred and the fair value of the acquirers previously held equity interest in the acquiree if any over the net of the acquisition date amounts of the identifiable assets acquired and the liabilities assumed.
+Consideration which is contingent on completion of a service period by an employee of the Group is treated as remuneration and is expensed over the service period.
+Common control transactions Common control transactions have been accounted for using merger accounting.
+Under merger accounting the assets and liabilities of both entities are recorded at book value not fair value although adjustments are made to achieve uniform accounting policies intangible assets and contingent liabilities are recognised only to the extent that they were recognised by the legal acquiree in accordance within applicable IFRS no goodwill is recognised any expenses of the combination are written off immediately to the income statement and comparative amounts if applicable are restated as if the combination had taken place at the beginning of the earliest accounting period presented.
+The result is that the merged groups are treated as if they had been combined throughout the current and comparative accounting periods.
+Noncontrolling interests For business combinations the Group initially recognises any noncontrolling interest in the acquiree at the noncontrolling interests proportionate share of the acquirees net assets.
+The total comprehensive income of nonwholly owned subsidiaries is attributed to owners of the parent and to the noncontrolling interests in proportion to their relative ownership interests.
+Foreign currencies a Presentational currency Items included in the Groups financial statements are measured using the currency of the primary economic environment in which each entity of the Group operates the functional currency.
+The financial statements are presented in United States Dollars 000.
+KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS b Transactions and balances Foreign currency transactions are translated into the functional currency using the exchange rates prevailing at the dates of the transactions.
+Foreign exchange gains and losses resulting from the settlement of such transactions and from the translation at year end exchange rates of monetary assets and liabilities denominated in foreign currencies are recognised in profit or loss.
+Exchange rates gains and losses are recognised net within Finance cost.
+The functional currency of the Company and the presentation currency for the consolidated financial statements is United States Dollars.
+For the purpose of the consolidated financial statements the assets and liabilities of the Groups foreign operations with a functional currency other than United States Dollars are translated into United States Dollars using exchange rates prevailing on the reporting date.
+Income and expense items including comparatives are translated at the exchange rates at the dates of the transactions.
+Exchange differences arising if any are recognised directly in equity.
+Goodwill and fair value adjustments arising on the acquisition of a foreign operation are treated as assets and liabilities of the foreign operation and translated at the closing rate.
+Associates
+Where the Group has the power to participate in but not control the financial and operating policy decisions of another entity it is classified as an associate.
+Associates are initially recognised in the consolidated statement of financial position at cost.
+Subsequently associates are accounted for using the equity method where the Groups share of postacquisition profits and losses and other comprehensive income is recognised in the consolidated statement of profit and loss and other comprehensive income except for losses in excess of the Groups investment in the associate unless there is an obligation to make good those losses.
+Revenue recognition Revenue is measured based on the consideration specified in a contract with customer and excludes amounts collected on behalf of third parties.
+The Company recognises revenue when it transfers control over a product or service to a customer.
+Sales from App Distribution The Company sells products to customers in a B2C model.
+The CyberGhost product is a SaaS product which contains one performance obligation that is satisfied over time.
+Since the service is being provided evenly across the contract period revenue is recognised on a straightline basis.
+All payments from customers are received upfront.
+Some of these contracts term are greater than one year mostly for 24 and 36 months.
+The Company determined that the upfront payments are for reasons other than providing a financing benefit to the Company and thus there are no significant financing components in its contracts.
+The following factors were considered in the analysis The intent of the payment terms that require all payments in advance is to preserve the customers and to make it economically unlikely for them to stop using the Companys services.
+The Company has no need for financing and it charges its customers with an upfront payment since otherwise it would incur high administration costs related to renewals and collection of payments.
+An upfront payment of the entire consideration is in accordance with the typical payment terms in the industry.
+The Reimage PC and DriverAgent products contain three performance obligations onetime repair unlimited use of the repair software for one year and technical support for one year.
+Revenue for performing the onetime repair obligation is recognised at the time of the sale.
+For the unlimited use package customers benefit from the use of the repair software and technical support for one year revenues are recognised in line with the pattern of usage of the products and technical support which is substantially within the first 30 days of the 12month period.
+In the fourth quarter of 2017 the Company started to sell the CyberGhost and Reimage products as a bundle.
+For software bundles the Company allocates revenue to each of the performance obligations based on their relative standalone selling price.
+The standalone selling prices are determined based on the prices charged to customers who acquire software packages individually.
+In respect of the App Distribution CGU customers are provided with a 3060 day refund period in which they can receive a full refund.
+Historical experience and information post yearend allows management to estimate the value of products that will be returned which are not material to the Group and a refund liability has therefore not been recognised.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+2 Significant accounting policies continued 35 KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS
+GOVERNANCE
+FINANCIAL
+STATEMENTS
+STRATEGIC
+REPORT
+Sales from advertising The Company provides advertisers with the ability to manage and monetise publishers inventory and manage advertisers campaigns.
+These services represent one performance obligation and are recognised in the accounting period in which the services are rendered based on clicksviewsimpressions as detailed below.
+The determination of whether revenue should be reported on a gross or net basis is based on an assessment of whether the Company controls the specified services before the transfer to its customers.
+In determining this the Company follows the accounting guidance for principalagent considerations.
+This determination involves judgement and is based on an evaluation of the terms of each arrangement.
+The Company determined that it is the principal in these transactions and therefore revenue is recognised on a gross basis since it is primarily responsible for fulfilling of the services.
+The Company also bears inventory risk as it pays the majority of publishers according to cost per mille impressions CPM but charges the payment from the customer according to cost per acquisition CPAcost per click CPCDCPCor cost per install CPI.
+Stated differently an impression can be purchased from a publisher with no corresponding sale to an advertiser if the final user does not click on the advertisement delivered.
+Moreover the Company has the discretion in establishing the prices.
+Sales from Ajillion  Adexchange The Company provides adexchange services which allow the Companys partners to seamlessly buy and sell from each other through a realtime bidding process.
+Revenue is recognised in the accounting period in which the services are rendered.
+In this case the Company determined that it is acting as an agent and therefore revenue is recognised on a net basis.
+While the Company is primarily responsible for the connectivity services it does not bear inventory risk nor has discretion in establishing the prices.
+The customer chooses the inventory to purchase on a realtime basis the amount spent on the campaign is determined by the customer through a realtime bidding process and the amount earned by the Company is based on a fixed percentage.
+Sales from licence of web apps platform The Company licence its web apps platform to customers on a SaaS basis.
+The benefits simultaneously provided to and consumed by the customers therefore revenues were recognised on a straightline basis over the period of the contract.
+The following policy was applied before adoption of IFRS 15 Revenue is measured at the fair value of the consideration received or receivable and represents amounts receivable for goods and services provided in the normal course of business net of discounts VAT and other salesrelated taxes.
+The Group generates revenues from its customers advertising campaigns on fixed bases such as cost per mille impressions CPM costperacquisition CPA costpersale CPS costperlead CPL costperdownload CPD and costperinstall CPI.
+These revenues are recognised only when the amount of revenue can be measured reliably it is probable that the economic benefits associated will flow to the Group the transactions are complete and the related costs can be measured reliably.
+Revenue from sales of software tools is recognised at electronic point of sale when payment is identified by the respective credit card payment processor and rights to use the software have been granted.
+Revenues are recognised net when it is identified that the Group is acting as an agent and gross when it is identified that the Group is acting as a principal in accordance with the terms of the arrangement.
+Costs to obtain and fulfil a contract According to IFRS 15 Incremental costs of obtaining a contract are those costs that the entity would not have incurred if the contract had not been obtained for example sales commissions.
+Incremental costs of obtaining a contract with a customer are recognised as assets if they are recoverable.
+The Company recognises an asset in relation to marketing costs to obtain a contract.
+The costs include fees paid to marketing partners on behalf of subscription sales of CyberGhost or Reimage to customers referred by the partners.
+The Company believes that the costs are recoverable as the proceeds from the customer over the expected relationship period exceed the costs to obtain the contract.
+The asset is amortised on a systematic basis over the expected customer relationship period including expected contract renewals by customers.
+The expected customer relationship period is an estimation which is based on historical renewal data.
+KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS In addition the Company recognises an asset for fulfilment costs that is considered directly attributable in fulfilling a contract.
+The fulfilment costs comprised of processing fees paid to third party processing service providers.
+This asset is amortised on a systematic basis over the contract period.
+Assets recognised from the costs to obtain or fulfil a contract are subject to impairment testing.
+An impairment loss should be recognised in profit or loss to the extent that the carrying amount of an asset exceeds a.
+The remaining amount of consideration that the entity expects to receive in exchange for the goods or services to which the asset relates less b.
+The costs that relate directly to providing those goods or services and that have not been recognised as expenses.
+Intangible assets Amortisation for all classes of intangible assets is included within amortisation and depreciation costs in the income statement.
+Externallyacquired intangible assets comprise intellectual property IP customer lists trademarks and internet domains.
+All such intangible assets are stated at cost less any accumulated amortisation and any accumulated impairment losses.
+Amortisation of these intangible assets is calculated using the straightline method over their useful economic lives.
+Where intangible assets are acquired as part of a business combination they are recorded initially at their fair value.
+The useful economic life of IP customer lists and trademarks is three to seven years.
+Internet domains are generally considered to have an indefinite useful economic life.
+They are purchased due to the marketability of the related domain name are not specific to a particular product brand market or service and therefore are not expected to diminish in value or use as a function of time.
+An intangible asset is derecognised on disposal or when no future economic benefits are expected from use or disposal.
+Gains or losses arising from derecognition of an intangible asset measured as the difference between the net disposal proceeds and the carrying amount of the asset are recognised in profit or loss when the asset is derecognised.
+An internallygenerated intangible asset arising from the Groups ebusiness development is recognised only if all of the following conditions are met An asset is created that can be identified such as software and new processes It is probable that the asset created will generate future economic benefits and The development cost of the asset can be measured reliably.
+Internallygenerated intangible assets are amortised on a straightline basis over their estimated useful lives which is two to three years.
+Amortisation commences when the asset is available for use.
+Where no internallygenerated intangible asset can be recognised development expenditure is charged to profit or loss in the period in which it is incurred.
+An intangible asset is derecognised on disposal or when no future economic benefits are expected from use or disposal.
+Gains or losses arising from derecognition of an intangible asset measured as the difference between the net disposal proceeds and the carrying amount of the asset are recognised in profit or loss when the asset is derecognised.
+Goodwill is initially recognised as an asset at cost and is subsequently measured at cost less any accumulated impairment losses.
+The Group tests goodwill annually for impairment or more frequently if there are indicators that goodwill might be impaired.
+Intangible assets are tested separately from goodwill only where impairment indicators exist.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+2 Significant accounting policies continued 37 KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS
+GOVERNANCE
+FINANCIAL
+STATEMENTS
+STRATEGIC
+REPORT
+Property plant and equipment Property plant and equipment are stated at historical cost less accumulated depreciation and any accumulated impairment losses.
+Depreciation is calculated on the straightline method so as to write off the cost of each asset to its residual value over its estimated useful life.
+The annual depreciation rates used are as follows Computer equipment 23 years Furniture fixtures and office equipment 615 years Leasehold improvements 10 years or the term of the lease if shorter Cars 4 years The assets residual values and useful lives are reviewed and adjusted if appropriate at each reporting date.
+Where the carrying amount of an asset is greater than its estimated recoverable amount the asset is written down immediately to its recoverable amount.
+Expenditure for repairs and maintenance of property plant and equipment is charged to profit or loss in the year in which it is incurred.
+An item of property plant and equipment is derecognised upon disposal or when no future economic benefits are expected to arise from the continued use of the asset.
+Any gain or loss arising on the disposal or retirement of an item of property plant and equipment is determined as the difference between the sales proceeds and the carrying amount of the asset and is recognised in profit or loss.
+Impairment of property plant and equipment and internallygenerated intangible assets Assets that have an indefinite useful life are not subject to depreciation or amortisation and are tested annually for impairment.
+Assets that are subject to depreciation or amortisation are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount may not be recoverable.
+An impairment loss is recognised for the amount by which the assets carrying amount exceeds its recoverable amount.
+The recoverable amount is the higher of an assets fair value less costs to sell and value in use.
+For the purposes of assessing impairment assets are grouped at the lowest levels for which there are separately identifiable cash flows cash generating units.
+Trade receivables Trade receivables are measured at initial recognition at fair value and are subsequently measured at amortised cost using the effective interest rate method.
+Appropriate allowances for estimated irrecoverable amounts are recognised in profit or loss when there is objective evidence that the asset is impaired.
+The allowance recognised is measured as the difference between the assets carrying amount and the present value of estimated future cash flows discounted at the effective interest rate computed at initial recognition.
+Cash and cash equivalents For the purpose of the consolidated cash flow statement cash and cash equivalents comprise cash at bank and short term bank deposits.
+Trade payables Trade payables are initially measured at fair value and are subsequently measured at amortised cost using the effective interest rate method.
+Current and deferred tax Income tax expense represents the sum of the tax currently payable and deferred tax.
+Current tax Current tax liabilities and assets are measured at the amount expected to be paid to or recovered from the taxation authorities using the tax rates and laws that have been enacted or substantively enacted by the reporting date.
+Deferred tax Deferred tax is provided in full using the liability method on temporary differences arising between the tax bases of assets and liabilities and their carrying amounts in the financial statements.
+Deferred tax assets are recognised to the extent that it is probable that future taxable profit will be available against which the temporary differences can be utilised.
+Deferred tax is calculated at the tax rates that are expected to apply KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS in the period when the liability is settled or the asset realised based on tax rates that have been enacted or substantively enacted by the period end date and is not discounted.
+Deferred tax assets and liabilities are offset when there is a legally enforceable right to set off current tax assets against current tax liabilities and when the deferred taxes relate to the same fiscal authority.
+Operating leases Leases where a significant portion of the risks and rewards of ownership are retained by the lessor are classified as operating leases.
+Payments made under operating leases are charged to profit or loss on a straightline basis over the period of the lease.
+Sharebased payments Kape operates equitysettled sharebased compensation plans under which the entity receives services from employees as consideration for Kape equity instruments options.
+The fair value of the options and share awards is recognised as an employee benefit expense.
+The total amount to be expensed over the vesting period is determined by reference to the fair value of the options granted excluding the impact of any nonmarket vesting conditions for example profitability and sales growth targets.
+Nonmarket vesting conditions are included in assumptions about the number of options that are expected to vest.
+At each balance sheet date the entity revises its estimates of the number of options that are expected to vest.
+It recognises the impact of the revision of original estimates if any in the income statement with a corresponding adjustment to equity.
+The proceeds received net of any directly attributable transaction costs are credited to share capital par value and share premium when the options are exercised.
+Cancellation or settlement is accounted for as an acceleration of the vesting period and therefore the amount that otherwise would have been recognised for services received over the remainder of the vesting period is recognised immediately.
+Repurchase of cancelled or settled sharebased compensation plan is accounted for as a deduction from equity except to the extent that the payment exceeds the fair value of the equity instruments granted measured at purchase date.
+Such excess is accounted as expense.
+Share capital Ordinary shares are classified as equity.
+The difference between the fair value of the consideration received by the Group and the nominal value of the share capital being issued is classified as additional paid in capital.
+Critical accounting estimates and judgements The preparation of consolidated financial statements under IFRS requires the Group to make estimates and judgements that affect the application of policies and reported amounts.
+Estimates and judgements are continually evaluated and are based on historical experience and other factors including expectations of future events that are believed to be reasonable under the circumstances.
+Actual results may differ from these estimates.
+The following accounting policies cover areas that the Directors consider require estimates and assumptions which have a significant risk of causing a material adjustment to the carrying amount of assets and liabilities within the next financial year a Capitalisation of development expenses Research and development costs which create identifiable assets and are expected to generate future economic benefits are capitalised and the remainder is expensed to the income statement.
+This requires the Group to perform judgements in apportioning costs to identifiable assets and making judgements about which assets are expected to give rise to future economic benefits.
+The Group makes judgements in assessing whether it has acted as a principal or agent in transactions for selling and acquiring advertising media space and therefore whether it reports its revenues gross or net respectively.
+The Group assesses a number of criteria in making these judgements including the party who is responsible for price setting and credit risk of the transaction the losses the Group would suffer for nondelivery of service as well as the perceived and contractual relationship between the media publisher and seller or ad network.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+2 Significant accounting policies continued 39 KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS
+GOVERNANCE
+FINANCIAL
+STATEMENTS
+STRATEGIC
+REPORT
+3 Financial risk management The Group is exposed to interest rate risk credit risk liquidity risk currency risk and capital risk management arising from the financial instruments it holds see also note 17.
+The risk management policies employed by the Group to manage these risks are discussed below Interest rate risk Interest rate risk is the risk that the value of financial instruments will fluctuate due to changes in market interest rates.
+The Group has no material interestbearing financial instruments and is therefore not exposed to changes in market rates of interest or fair value interest rate risk.
+Credit risk Credit risk arises when a failure by counterparties to discharge their obligations could reduce the amount of future cash inflows from financial assets on hand at the reporting date.
+The principal credit risk is considered to result from new relationships with customers with which the Group does not have a long working relationship and for which reliable information as to their credit ratings cannot be obtained.
+In such cases the Group limits the initial credit facility afforded to these customers.
+Cash balances are held with high credit quality financial institutions and the Group has policies to limit the amount of credit exposure to any financial institution or customer.
+Liquidity risk Liquidity risk is the risk that arises when the maturity of assets and liabilities does not match.
+An unmatched position potentially enhances profitability but can also increase the risk of losses.
+The Group has procedures with the object of minimising such losses such as by having available an adequate amount of committed credit facilities from the ultimate shareholder and related parties and maintaining sufficient cash and other highly liquid current assets.
+Currency risk Currency risk is the risk that the value of financial instruments will fluctuate due to changes in foreign exchange rates.
+Currency risk arises when future commercial transactions and recognised assets and liabilities are denominated in a currency that is not the Groups measurement currency.
+The Group is exposed to foreign exchange risk arising from various currency exposures primarily with respect to the Israeli New Shekel British Pound Euro Australian Dollar and Romanian Leu.
+The Groups management monitors the exchange rate fluctuations on a continuous basis and acts accordingly and also avoids engaging in a significant level of transactions in currencies which are considered volatile or exposed to risk of significant fluctuations.
+4 Revenue Revenue from advertising 18157 18291 Sale of software licence 48226 38241 66383 56532 Revenues from sales of software tools and provision of virtual private network VPN solutions are generated from the App Distribution CGU while revenues from advertising are generated mainly from the Media CGU.
+On January 1 2017 the Company adopted IFRS 15 using the cumulative effect method applied to those contracts which were not completed as of January 1 2017.
+The impact of the new standard on our opening balances was immaterial.
+On an ongoing basis the most significant impact of the standard relates to our accounting for marketing costs of the Reimage and CyberGhost products which commenced as of FY 2017.
+These costs are considered incremental in obtaining the contract and therefore capitalised and amortised over the expected customer relationship period under the new standard.
+KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS Revenue recognition related to most of our products and services remains substantially unchanged.
+The following table presents our revenues disaggregated by the timing of revenue recognition in accordance with our reporting segments 2017 USD in thousands 2016 USD in thousands
+Distribution Media Web Apps and License Total
+Distribution Media Web Apps and License Total Revenue recognised over a period 6454  2376 8830   4508 4508 Revenue recognised at a point in time 41772 15781 57553 38241 13783 52024 Total 48226 15781 2376 66383 38241 13783 4508 56532 In accordance with the new revenue standard requirements the disclosure of the impact of adoption on our consolidated income statement and balance sheet for the period ended December 31 2017 was as follows Income statement Fiscal year ended 31 December 2017 as reported under IFRS 15 USD in thousands Fiscal year ended 31 December 2017 under IAS 18 USD in thousands Effect of adjustment of IFRS 15 USD in thousands Costs and expenses Selling and marketing expenses 44117 45508 1391 Total operations cost 64410 65801 1391 Operation loss 2599 3990 1391 Adjusted EBITDA 8261 6870 1391 Total comprehensive loss for the year 2503 3894 1391 Basic earnings per share 2.4 3.4 1 Diluted earnings per share 2.4 3.4 1 Balance sheet Balance at 31 December 2017 as reported under IFRS 15 USD in thousands Balance at 31 December 2017 under IAS 18 USD in thousands Effect of adjustment of IFRS 15 USD in thousands Assets recognised for costs incurred to obtain a contract Noncurrent assets  deferred expenses 347  347 Current assets  deferred expenses 1044  1044 1391  1391 The marketing costs to obtain a contract include fees paid to marketing partners on behalf of subscription sales of CyberGhost or Reimage to customers referred by the partners.
+The Company has recognised the following revenuerelated contract liabilities 31 December 2017 USD in thousands Contract liabilities Total 4012 The balance is relating to CyberGhost which was purchased on March 2017.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+4 Revenue continued 41 KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS
+GOVERNANCE
+FINANCIAL
+STATEMENTS
+STRATEGIC
+REPORT
+Significant changes in relation to contract liabilities The following table shows the significant changes in the current reporting period which relate to carriedforward contract liabilities.
+Significant changes in the contract liabilities balances during the period are as follows 31 December 2017 USD in thousands Business combination 2324 Revenue recognised that was included in the contract liability balance from business combination 2181 Increases due to cash received excluding amounts recognised as revenue during the period 3537 Revaluation of contract liabilities in foreign currency 332 Management expects that 77.8% of the transaction price allocated to the unsatisfied contracts which represent to contract liabilities as of 31 December 2017 3120000 12.5% and 4.6% 500000 and 185000 will be recognised as revenue during the next annual reporting period and will be primarily recognised in the 2019 and 2020 financial years respectively.
+The remaining 5.2% 207000 will be primarily recognised in the following financial years.
+The Company recognises an asset in relation to marketing costs to obtain a contract.
+The asset is recognised as the Company expects to recover the cost over the expected relationship period with the customer which includes the initial contract period and expected renewals.
+The expected relationship period with the customer is estimated based on historical contract renewals data.
+The asset is amortised on a straightline basis over the expected relationship period with the customer.
+In addition the Company recognised an asset for fulfilment costs that are considered directly attributable in fulfilling a contract.
+The fulfilment costs comprised of processing fees paid to third party processing service providers.
+This asset is amortised on a systematic basis over the initial contract period.
+31 December 2017 USD in thousands Asset recognised from marketing cost to obtain a contract 1386 Asset recognised from fulfilment cost to fulfil a contract 406 Amortisation recognised during the period  marketing costs 294 Amortisation recognised during the period  fulfilment cost 804 5 Segmental information Segments revenues and results Based on the management reporting system the Group operates three reportable segments App Distribution  comprising the Groups own software and SaaS products and distribution platform Media  comprising the Groups ad network activities and associated technology platforms and Web Apps and License  comprising revenue generated from monetising web apps and licencing the associated technology Year ended 31 December 2017
+Distribution
+Media
+Web Apps and License
+Revenue 48226 15781 2376 66383 Cost of sales 4572   4572 Direct sales and marketing costs 26447 11317  37764 Segment result 17207 4464 2376 24047 Central operating costs 15786 Adjusted EBITDA1 8261 Depreciation and amortisation 6445 Employee sharebased payment charge 340 Charge for repurchase of employee options 3176 Exceptional and nonrecurring costs 899 Operating loss 2599 Share of results of associates 40 Finance income 277 Finance costs 532 Loss before tax 2894 Taxation 467 Loss after taxation 3361 42 KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS Exceptional and nonrecurring costs in 2017 comprised 0.3 million of acquisition bonuses to employees other non recurring staff costs of 0.1 million professional services related to business combination of 0.3 million and a 0.2 million expense from repurchase of CyberGhosts founders share options on 20 November 2017.
+Year ended 31 December 2016
+Distribution
+Media
+Web Apps and License
+Revenue 38241 13783 4508 56532 Cost of sales 2360   2360 Direct sales and marketing costs 24614 10303  34917 Segment result 11267 3480 4508 19255 Central operating costs 12842 Adjusted EBITDA Depreciation and amortisation 9884 Impairment of intangible assets 4683 Employee sharebased payment charge 716 Exceptional and nonrecurring costs 862 Operating loss 9732 Share of results of associates 47 Finance income 4 Finance costs 332 Loss before tax 10013 Taxation 665 Loss after taxation 10678 Exceptional and nonrecurring costs in 2016 comprised nonrecurring staff restructuring costs of 0.6 million and a 0.3 million onetime onerous contract writtenoff in the period.
+The decrease in the employee sharebased payment charge is due to reversal of charges from previous periods for employees that left the Company during the year.
+The impairment of intangible assets charge of 4683000 relates to the Media segment.
+After allocating this charge to the Media segment the segment result is 1203000 loss.
+1 Adjusted EBITDA is a company specific measure which is calculated as operating loss before depreciation amortisation exceptional and nonrecurring costs employee sharebased payment charges and impairment of intangible assets which are considered to be oneoff and nonrecurring in nature as set out in note 6.
+The Directors believe that this provides a better understanding of the underlying trading performance of the business.
+Information about major customers In 2017 and 2016 there were no customers contributing more than 10% of total revenue of the Group.
+Geographical analysis of revenue Revenue by origin Europe 48800 17297 British Virgin Islands 9878 27520 Asia 7705 11715 66383 56532 Reimage Limited was redomiciled from British Virgin Islands to Isle of Man on 8 September 2016.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+5 Segmental information continued 43 KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS
+GOVERNANCE
+FINANCIAL
+STATEMENTS
+STRATEGIC
+REPORT
+Geographical analysis of noncurrent assets Europe 10364 3990 British Virgin Islands 1954 Asia 847 3714 Total intangible assets and property plant and equipment 13165 7704 6 Operating loss Operating loss has been arrived at after charging Adjusted EBITDA Adjusted EBITDA is calculated as follows Operating loss 2599 9732 Depreciation and amortisation 6445 9884 Impairment of intangible assets  4683 Employee sharebased payment charge 3516 716 Exceptional and nonrecurring costs Nonrecurring staff and restructuring costs 899 862 Adjusted EBITDA 8261 6413 Excluding Web Apps and License segment 2062 4139 Adjusted EBITDA excluding Web Apps and License segment 6199 2274 Exceptional and nonrecurring costs Nonrecurring staff costs 398 562 Professional services related to business combination 293 300 Expenses from repurchase of employee share options 208 Auditors remuneration Audit 158 147 Taxation services 8 21 Amortisation of intangible assets 6046 9421 Depreciation 399 463 Impairment of intangible assets note 10  4683 Employee sharebased payment charge note 7 3516 716 Rent payable under operating leases 717 459 Operating costs Operating costs are further analysed as follows
+Total
+Adjusted
+Total
+Direct sales and marketing costs 37764 37764 34917 34917 Indirect sales and marketing costs 6207 6353 4265 4998 Selling and marketing costs 43971 44117 39182 39915 Research and development costs 696 1016 1299 1661 Management general and administrative cost 8883 12832 7278 7761 Depreciation and amortisation 1315 6445 1379 9884 Impairment of intangible assets    4683 Total operating costs 54865 64410 49138 63904 Adjusted operating costs exclude sharebased payment charges exceptional and nonrecurring costs amortisation of acquired intangible assets and impairment of intangible assets.
+See note 4.
+KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS 7 Staff costs Total staff costs comprise the following Salaries and related costs 8564 7204 Employee sharebased payment charge note 18 3516 716 12080 7920 The remuneration of the key management personnel of the Group which comprises the Executive Directors and senior management team is set out below The aggregate remuneration comprised Wages and salaries 1932 1490 Employee sharebased payment charge 3608 185 5540 1675 Details of Directors remuneration are set out in the Remuneration Committee report on pages 18 to 19.
+8 Finance costs Interest expense 411 51 Net foreign exchange and Other finance expenses 12telThe entire interest expense was incurred on deferred consideration payments that was originally recognised at fair value.
+9 Taxation The Parent Company is domiciled for tax purposes in both the Isle of Man and the UK.
+The final tax charge shown below arises partially from the difference in tax rates applied in the different jurisdictions in which the subsidiaries operate.
+The Group continues to recognise a deferred tax asset of 97000 2016 166000 in respect of tax losses accumulated in previous years.
+The total tax charge can be reconciled to the overall tax charge as follows Loss before taxation 2894 10013 Tax at the applicable tax rate of 19% 2016 20% 550 2003 Tax effect of Differences in overseas rates 421 976 Expenses not deductible for tax purposes 1253 1327 Deferred tax not recognised on losses carried forward 122 440 Tax expense for previous years 63 75 Tax charge for the year 467 665 Analysed as Deferred taxation in respect of the current year 650 263 Current tax charge 1117 402 Tax charge for the year 467 665 NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS CONTINUED 45 KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS
+GOVERNANCE
+FINANCIAL
+STATEMENTS
+STRATEGIC
+REPORT
+The Group has maximum corporation tax losses carried forward at each period end as set out below Corporate tax losses carried forward 33235 28320 Details of the deferred tax asset recognised arising in respect of losses is set out below At the beginning of the year 166 716 Additions through business combinations 10 Derecognised in the year 100 558 Foreign exchange revaluation 21 8 At the end of the year 97 166 Details of the deferred tax liability recognised arising from timing differences on intangible valuations on business combinations is set out below At the beginning of the year 691 986 Arising from business combinations 366 Foreign exchange differences 42 Movement in the year due to temporary differences 750 295 At the end of the year 349 691 In addition the Group has an unrecognised deferred tax asset in respect of the following Tax losses carried forward 33026 28047 10 Intangible assets
+Trademarks
+Customer lists
+Internet
+Capitalised software development costs
+Cost
+At 1 January 2016 35205 9462 2383 7684 69 2706 57509 Additions 1219     744 1963 At 31 December 2016 36424 9462 2383 7684 69 3450 59472 Additions  90   25 1432 1547 Acquisition through business combination 1706 546 743 5690  204 8889 Foreign exchange differences  16 869 At 31 December 2017 38342 10168 3218 13853 94 5102 70777 Accumulated amortisation At 1 January 2016 27031 6474 932 2316  1502 38255 Charge for the year 6528 1494 483   916 9421 Impairment losses    4683   4683 At 31 December 2016 33559 7968 1415 6999  2418 52359 Charge for the period 2320 1595 1128   1003 6046 Foreign exchange differences 12 4 5   1 22 At 31 December 2017 35891 9567 2548 6999  3422 58427 Net book value At 1 January 2016 8174 2988 1451 5368 69 1204 19254 At 31 December 2016 2865 1032 7113 At 31 December 2017 2451 601 670 6854 94 1680 12350 46 KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS On 14 March 2017 the Group acquired 100% of the share capital of CyberGhost S.
+CyberGhost a leading cybersecurity SaaS provider with a focus on the provision of virtual private network VPN solutions.
+Prior to the acquisition date CyberGhost acquired Mobile Concepts GmbH a software development company based in Germany for an amount of 1.5 million as set out in note 21.
+On 1 April 2017 the Company increased its holding in Clearvelvet Trading Limited Clearvelvet to 50.01% of the share capital by acquiring an additional 33.34% of its issued share capital.
+In September 2015 the Group acquired 16.67% of the share capital of Clearvelvet for a total consideration of 850000 of which 350000 was paid in 2016 with the completion of certain milestones.
+Clearvelvets founders hold the remaining 49.99% of the shares.
+Following completion Clearvelvet is considered to be a subsidiary undertaking and has been included in the Companys consolidated statements on a basis of full consolidation as set out in note 21.
+In October 2016 the Group exercised an option to acquire the intellectual property of PC maintenance software product DriverAgentsite Inc. for a total consideration of 1208000.
+150000 from the consideration was paid in the year ending 31 December 2015 for the option and 850000 was paid during the year ending 31 December 2016.
+Another 208000 is deferred consideration which is contingent on future results of the product.
+Goodwill acquired in a business combination is allocated at acquisition to the cash generating units CGUs or group of units that are expected to benefit from that business combination.
+The Group tests goodwill annually for impairment or more frequently if there are indications that goodwill might be impaired.
+The recoverable amounts of the CGUs are determined from value in use calculations.
+The key assumptions for the value in use calculations are those regarding the discount rates growth rates and expected changes to selling prices and direct costs during the period.
+At 31 December 2017 before impairment testing the carrying value of intangible assets allocated to the Media CGU was 2889000 including goodwill of 2524000.
+The carrying value of the goodwill has not been changed due to the impairment testing and no impairment loss was recognised.
+For the Media CGU the Group has prepared calculations based on cash flow projections for the next five years from the most recent budgets approved by management and extrapolated cash flows beyond this period using an estimated growth rate of 1 per cent 2016 1 per cent.
+This rate does not exceed the average longterm growth rate for the relevant markets.
+The rate used to discount these forecast cash flows is 25 per cent 2016 25 per cent.
+The discount rate used in the valuation of the Media CGU was 25 per cent.
+If the discount rate was increased by 1 percentage point the effect would have been nil.
+There is no reasonably possible change in assumption that would give rise to an impairment.
+At 31 December 2016 before impairment testing the carrying value of intangible assets allocated to the Media CGU was 9417000 including goodwill of 5368000.
+As a result of the reduction in the management forecasted cash flows attributable to the acquired intangible assets the carrying value of the goodwill has therefore been reduced to its recoverable amount of 685000 through recognition of an impairment loss of 4683000.
+Web Apps and License
+App
+Distribution
+Total
+Carrying value before impairment losses at 1 January 2016 974 9417 1405 11796 Provisions for impairment  4683  4683 Net book value at 31 December 2016 974 4734 1405 7113 The Group tests the useful economic life of the Intangible asset whenever events or changes in circumstances indicate that the useful economic life may need to be changed.
+The broughtforward media CGU intellectual property customer lists and trademark were fully amortised in the year ended 31 December 2017 due to a change in management assumptions with the expected useful life of these assets.
+If the management assumption was not changed the amortisation attributed to the media intellectual property and customer lists would have been 2416000 instead of 3629000.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+10 Intangible assets continued 47 KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS
+GOVERNANCE
+FINANCIAL
+STATEMENTS
+STRATEGIC
+REPORT
+11 Property plant and equipment
+Furniture fixtures and office equipment
+Cars
+Total
+Cost
+At 1 January tel736  2027 Additions 78 3 27  108 Disposals 19 98 313  430 At 31 December tel450  1705 Additions 215 4telDisposals 67 140 350  557 Acquisition through business combination Foreign exchange differences At 31 December 2017 124tel1937 Accumulated depreciation At 1 January 2016 574 87 363 1024 Charge for the period 150 50 263 463 Disposals Foreign exchange differences 2   2 At 31 December 2016 711 88 315  1114 Charge for the period 250 29 106 14 399 Disposals Foreign exchange differences 9 1 2 12 At 31 December 2017 915 74 117 16 1122 Net book value At 1 January tel373  1003 At 31 December tel135  591 At 31 December telTrade and other receivables Trade receivables and accrued income 8536 5604 Prepayments 663 391 Other receivables 1872 1955 11071 7950 Other receivables as of 31 December 2017 include VAT receivable balance of 742000 2016 187000 The ageing of trade receivables that are past due but not impaired is shown below Between 1 and 30 days 455 685 Between 31 and 60 days 411 219 More than 60 days 1734 247 2600 1151 The fair values of trade and other receivables due within one year approximate to their carrying amounts as presented above.
+The exposure of the Group to credit risk and impairment losses in relation to trade and other receivables is set out in note 17 of the consolidated financial statements.
+KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS 13 Cash and cash equivalents Cash in bank accounts 17844 59857 Bank deposits 51658 12207 69502 72064 The carrying value of these assets represents a reasonable approximation to their fair value.
+14 Trade and other payables Trade payables 2469 1879 Accrued expenses 4643 3367 Employee liabilities 655 709 Current tax liability 1573 484 Other payables 754 657 10094 7096 The Groups management consider that the carrying value of trade and other payables approximates their fair value.
+The
+Group has financial risk management policies in place to ensure that all payables are paid within the credit timeframe and no interest has been charged by any suppliers as a result of late payment of invoices.
+15 Shareholders equity Number of shares Number of shares Issued and paid up ordinary shares of 0.0001 148496073 148496073 During the year a total of 801175 new ordinary shares of 0.0001 par value from treasury were sold for cash in relation to share option schemes resulting in cash consideration of 437000 2016 nil.
+During the year a total of 3810667 of share options of 0.0001 par value were repurchased by the Company for a total cash consideration of 3800000 2016 nil.
+During 2016 a total of 1250000 of ordinary shares of 0.0001 par value were purchased by the Company for a total cash consideration of 994952 and are held in treasury at the reporting date.
+As at 31 December 2017 the Company held in the treasury a total of 6650248 of ordinary shares of 0.0001 per value 2016 7451423.
+During 2017 801175 of ordinary shares of 0.0001 par value were transferred out of treasury to satisfy the exercise of options by the Company employees 2016 nil.
+The following describes the nature and purpose of each reserve within owners equity Reserve Description and purpose Additional paid in capital Share premium i.
+Retained earnings Cumulative net gains and losses recognised in the consolidated statement of comprehensive income Foreign exchange Cumulative foreign exchange differences of translation of foreign operations In accordance with Isle of Man company law all of the reserves with the exception of share capital are distributable.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS CONTINUED 49 KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS
+GOVERNANCE
+FINANCIAL
+STATEMENTS
+STRATEGIC
+REPORT
+16 Interests in associates On 1 April 2017 the Company increased its holding in Clearvelvet Trading Limited Clearvelvet to 50.01% of the share capital of Clearvelvet by acquiring an additional 33.34% of its issued share capital.
+In September 2015 the Group acquired 16.67% of the share capital of Clearvelvet for a total consideration of 850000 of which 350000 paid in 2016 on completion of certain milestones.
+Although the Group held less than 20% of the equity shares of the voting power at shareholder meetings until 1 April 2017 the Group exercises significant influence by virtue of its contractual right to appoint one of four Directors to the Board of Directors of Clearvelvet and to veto certain significant trading and investment decisions.
+The acquisition details are setoff on note 21.
+Interest in associates at the beginning of the year 859 812 Investment in associates in the year 40 Share of results 47 Remeasurement gain on equity interest in associate 52 Transfer on increase in stake note 21 871 Interest in associates at the end of the year  859 Aggregated amounts relating to Clearvelvet as an equity accounted associate are as follows Total current assets  6117 Total current liabilities  5467 Revenues  11793 Profit Loss 240 1 Clearvelvet loss until 1 April 2017.
+17 Financial instruments The Group is exposed to the risks that arise from its use of financial instruments.
+This note describes the objectives policies and processes of the Group for managing those risks and the methods used to measure them.
+Further quantitative information in respect of these risks is presented throughout this financial information.
+Principal financial instruments The principal financial instruments used by the Group from which financial instrument risk arises are as follows Trade and other receivables Trade and other payables Cash and cash equivalents Loans receivable Deferred consideration Financial assets The Group held the following financial assets Trade receivables and accrued income 8536 5604 Other receivables 1872 1955 Cash 69502 72064 79910 79623 50 KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS Financial liabilities The Group held the following financial liabilities Amortised cost Trade payables 2469 1879 Other payables and accrued expenses 5939 4611 Deferred consideration see note 25 1915 403 10323 6893 The Groups Directors monitor and manage the financial risks relating to the operation of the Group.
+These risks include market risk including foreign currency risk and interest rate risk credit risk and liquidity risk.
+Market risk a Foreign currency risk management The carrying amounts of the Groups foreign currency denominated monetary assets and monetary liabilities at the reporting date are as follows Liabilities Assets Israeli New Shekel 54telEuro 308 761 6028 2300 British Pound Australian Dollar    11 Romanian Lei 192 1481 7030 3169 A 10% weakening of the United States Dollar against the following currencies at 31 December 2017 would have increased decreased equity and profit or loss by the amounts shown below.
+This analysis assumes that all other variables in particular interest rates remain constant.
+For a 10% strengthening of the United States Dollar against the relevant currency there would be an equal and opposite impact on the profit and other equity.
+Profit or loss Israeli New Shekel 2 23 Euro 572 154 British Pound 19 16 Australian Dollar  1 Romanian Lei 5 7 b Interest rate risk management At the reporting date the interest rate analysis of financial instruments was Fixed rate financial instruments Financial assets 69502 72064 69502 72064 Any increase decrease in interest rates will have no effect on results and equity of the Group because all financial instruments are fixed rate.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+17 Financial instruments continued 51 KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS
+GOVERNANCE
+FINANCIAL
+STATEMENTS
+STRATEGIC
+REPORT
+Credit risk The carrying amount of financial assets represents the maximum credit exposure.
+The maximum exposure to credit risk at the reporting date was Trade and other receivables 9527 5738 Cash at bank 17844 59857 Bank deposits 51658 12207 Receivables from related companies 881 1821 79910 79623 Before accepting a new customer the Group assesses each potential customers credit quality and risk.
+Customer contracts are drafted to reduce any potential credit risk to the Group.
+Where appropriate the customers recent financial statements are reviewed.
+Trade receivables are regularly reviewed for bad and doubtful debts.
+The Group holds a provision of 239000 at 31 December 2017 against bad and doubtful debts 2016 230000.
+At 31 December 2017 the Group had trade receivables of 2600000 2016 1151000 that were past due but not impaired.
+The ageing analysis of these past due receivables is set out in note 12.
+In determining the recoverability of trade receivables the Group considers any change in the credit quality of the trade receivable from the date the credit was initially granted up to the reporting date.
+The Group does not hold any collateral as security.
+Impairments of trade receivables are expensed as operating expenses.
+The fair value of receivables equates to their book value.
+The Group does not collect external credit ratings for customers but uses its own methods for determining creditworthiness.
+The Group and Company seek to limit the level of credit risk on cash and cash equivalents by depositing funds with banks that have high credit ratings.
+Liquidity risk management The Groups liquidity risk is monitored using regular cash flow reporting and projections to ensure that it is able to meet its obligations as they fall due.
+The following tables detail the Groups remaining contractual maturity for its financial liabilities.
+The tables have been drawn up based on the undiscounted cash flows of financial liabilities based on the earliest date on which the Group can be required to pay.
+The table includes both interest and principal cash flows.
+Carrying amounts
+3 months or less
+312 months
+15 years More than 5 years Trade and other payables 8318 8318 8318 Payables to related parties 90 90 90 Deferred consideration 1915 2249 236 728 1285 10323 10657 8644 728 1285
+Contractual cash flows 3 months or less
+312 months Between 15 years More than 5 years Trade and other payables 6470 6470 6265 205 Payables to related parties 20 20 20 Deferred consideration 403 503  253 250 6893 6993 6285 458 250  52 KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS 18 Employee sharebased payments Options have been granted under the Groups share option scheme to subscribe for ordinary shares of the Company.
+At 31 December 2017 the following options were outstanding 2016 10259383 Group Grant date Number of shares under option
+Group 1 29 May 2014 1338570 0.538 Group 2 21 April 2015 523063 1.376 Group 3 5 January 2016 384000 0.749 Group 4 31 May 2016 2000000 0.371 Group 5 26 October 2016 2232272 0.492 Group 6 3 April 2017 884000 0.0001 Group 7 15 June 2017 1128424 0.890 Total 8490329 Vesting conditions Groups 15 and 7  25% at the end of the first year following the grant date.
+6.25% on a quarterly basis during 12 quarters period thereafter.
+Group 6  50% at the end of the second year following the grant date and the remainder at the end of the third year following the grant.
+The total number of shares exercisable as of 31 December 2017 was 2973348 2016 3840679.
+The weighted average fair value of options granted in the year using the Cox Ross and Rubinsteins Binomial Model the Binomial Model was 0.50.
+The inputs into the Binomial model are as follows Early exercise factor 150% 100%150% Fair value of Groups stock 0.78 0.400.80 Expected volatility 70% 60% Risk free interest rate 0.16%1.11% 0.25%1.89% Dividend yield Forfeiture rate 43% 7%14% Expected volatility was determined based on the historical volatility of comparable companies.
+Forfeiture rate is assumed to be 7%14% for senior management and 43% for other employees.
+The riskfree interest rate was estimated based on average yields of UK Government Bonds.
+The Group recognised total sharebased payments relating to equitysettled sharebased payment transactions as follows Sharebased payment charge 340 716 Charge for repurchase of employee options 3176 Movements in the number of share options outstanding and their related weighted average exercise prices are as follows 2017 2016 Weighted average exercise price Number of options Weighted average exercise price Number of options At the beginning of the year 0.66 10259383 0.66 14481158 Granted 0.17 5843424 0.51 5338272 Lapsed 0.81 3000633 0.56 9560047 Exercised 0.55 801178 Repurchased by the Company 0.0001 3810667 At the end of the year 0.55 8490329 0.66 10259383 NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS CONTINUED 53 KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS
+GOVERNANCE
+FINANCIAL
+STATEMENTS
+STRATEGIC
+REPORT
+The options outstanding at 31 December 2017 had a weighted average remaining contractual life of 8.2 years 2016 7.9 years.
+On 20 November 2017 following his reposition from Managing Director to Chairman and Corporate Development Manager of CyberGhost the Company repurchased and cancelled 3810667 options that were granted to the founder of CyberGhost on 3 April 2017.
+The total cash consideration for the options was of 3.2 million 3.8 million out of the total consideration 1.6 million 1.9 million was paid upon execution of the repurchase agreement while the remaining amount is to be paid in eight equal instalments.
+The fair value as of 20 November 2017 was 3.0 million 3.4 million and deducted from equity in accordance to IFRS 2.
+Following the cancellation of the options a 3.2 million charge was expensed as a result of vesting terms acceleration.
+An additional 0.2 expense was recorded as the consideration exceeded the fair value of the options.
+19 Earnings per share Basic lossearnings per share is calculated by dividing the loss earnings attributable to ordinary shareholders by the weighted average number of ordinary shares outstanding during the year.
+Basic 2.4 7.6 Diluted 2.4 7.6 Adjusted basic 3.8 2.7 Adjusted diluted 3.7 2.7 Adjusted earnings per share is a nonGAAP measure and therefore the approach may differ between companies.
+Adjusted earnings have been calculated as follows Loss for the year 3361 10678 Post tax adjustments Employee sharebased payment charge 3535 823 Exceptional and nonrecurring costs 793 774 Amortisation on acquired intangible assets 4439 8208 Impairment of intangible assets  4683 Exceptional tax charge Adjusted profit for the year 5406 3810 Number Number Denominator  basic Weighted average number of equity shares for the purpose of earnings per share 141547496 141068557 Denominator  diluted Weighted average number of equity shares for the purpose of diluted earnings per share 145260658 141182911 The diluted denominator has not been used where this has antidilutive effect.
+Basic and diluted loss per share are therefore the same for reporting purposes.
+The difference between weighted average number of ordinary shares used for basic earnings per share and the diluted earnings per share is 114354 being the effect of all potentially dilutive ordinary shares derived from the number of share options granted to employees.
+KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS 20 Subsidiaries
+Country of incorporation Principal activities Holding % BestAd Hi Tech Media
+Israel Development technical support and marketing services 100 Crossrider Advanced Technologies Limited Israel Development services and technical and marketing support 100 Crossrider Israel
+Israel Provision of marketing services to related parties 100 Crossrider Technologies Limited formerly Market Connect Cyprus Limited Cyprus Licensing of IP software and agency services to related parties 100 Crossrider Sports
+United Kingdom Provision of consulting services 100 Reimage Limited Isle of Man Development and sale of the Reimage software tool.
+Reimage Limited Cyprus Consulting market research and software development services 100
+Remote Software Fixing Limited Israel Provision of development technical support and marketing support services to its parent company Crosspath Trading
+British Virgin
+Performance of commercial activity through the licensing of technology from Crossrider Technologies Ltd Blueroad Trading Limited Cyprus Provision of agency services to Crosspath Limited 100 Frontbase Trading
+Cyprus Provision of agency services to Crosspath Limited 100 Crossrider ROM SRL Romania Provision of marketing and development services 100 Definiti Media Ltd Israel Providing digital advertising services for mobile platforms 100 CyberGhost SRL Romania Leading cybersecurity SaaS provider with a focus on the provision of virtual private network VPN solutions Mobile Concept Germany Provision of software development services to its parent company 100 Clearvelvet Trading Ltd British Virgin
+Performance of programmatic video advertising activity through the licensing of technology from Strongmove Consultants Ltd
+Consultants Ltd Cyprus Licensing of agency services to related parties 50.01 Spartacs Technologies Israel Provision of marketing support services to its parent company 50.01 Redomiciled from British Virgin Islands on 8 September 2016.
+Indirect shareholding.
+The Group has been formed from a series of common control transactions which have been accounted for using merger accounting and acquisitions from third parties which have been accounted for using the acquisition method.
+Business combinations a Acquisition of CyberGhost SA On 14 March 2017 the Group acquired 100% of the share capital of CyberGhost S.
+CyberGhost a leading cybersecurity SaaS provider with a focus on the provision of virtual private network VPN solutions.
+Prior to the acquisition date CyberGhost acquired Mobile Concepts GmbH a software development company based in Germany for an amount of 1.5 million.
+The acquisition is in line with the Companys stated strategy to broaden its product offering to service highgrowth consumer markets of which cybersecurity is a key vertical.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS CONTINUED 55 KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS
+GOVERNANCE
+FINANCIAL
+STATEMENTS
+STRATEGIC
+REPORT
+Details of the fair value of identifiable assets and liabilities acquired purchase consideration and goodwill are as follows
+Fair value Brand and domain name  546 Customer relations  743 Technology 1166 1706 Deferred tax liability  366 Cash and cash equivalents 1070 1070 Trade and other receivables 1181 1181 Property plant and equipment 199 199 Deferred revenues 2324 2324 Trade and other payables 1857 1857 Fair value of consideration Cash 3272 Contingent consideration 1477 Total consideration 4749 Goodwill 3851 Net cash outflow on acquisition of business Initial consideration 3272 Prepayment in relation of deferred consideration 1871 Cash and cash equivalents acquired 1070 CyberGhost was acquired for a total consideration of up to 9.6 million 9.1 million.
+The consideration comprises of 3.3 million 3.1 million in cash at closing 3.2 million 3.0 million in nominal value share options and deferred earnout consideration capped at 3.2 million 3.0 million to be satisfied in cash on a Euro for Euro basis for the EBITDA of CyberGhost in the 12month period post completion.
+1.9 million 1.75 million was paid at closing as a prepayment of the deferred earnout consideration.
+The share options consideration comprised of 4400000 options that issued over ordinary shares in the capital of the Company ordinary shares exercisable at the nominal value of the shares Consideration Options.
+The Consideration Options are exercisable in two equal portions on the second and third anniversary of the acquisition completion and contingent on the continued employment of the founder.
+If exercised in full the share options would represent 2.87% of the existing issued share capital of the Company.
+On 20 November 2017 the Company repurchased 3810667 options out of the 4400000 option granted to the founder for total cash consideration of 3.8 million 3.2 million.
+Out of which 1.9 million 1.625 million was paid upon execution of the repurchase agreement while the remaining amount is to be paid in eight equal instalments amounting to 235 thousand 197 thousand per quarter over the course of two years.
+The Company accelerated the vesting of the share options purchased and recognised immediately the amount that otherwise would have been recognised for services received over the remainder of the vesting period.
+Following the repurchase the Company recognised expenses of 0.2 million for the excess of the consideration over the fair value.
+Following the acquisition date CyberGhost has issued additional shares to the Company for a consideration amount of 1.9 million that been paid in cash during the period ended 31 December 2017.
+Since the acquisition date CyberGhost has contributed 6.4 million to Group revenues and loss of 1.7 million to Group loss.
+When excluding the expense for the repurchase of CyberGhosts founders options CyberGhost contributes 1.5 million profit to the Group loss.
+In addition since the acquisition date CyberGhost contributed 4.4 million to segmental results of the App Distribution segment as set out in note 5.
+If the acquisition had occurred on 1 January 2017 Group revenue would have been 67.6 million Group loss for the period would have been 3.3 million and the App Distribution segmental result would have been 18.1 million.
+KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS b Acquisition of Clearvelvet Trading Limited On 1 April 2017 the Company increased its holding in Clearvelvet Trading Limited Clearvelvet to 50.01% of the share capital by acquiring an additional 33.34% of its issued share capital.
+In September 2015 the Group acquired 16.67% of the share capital of Clearvelvet for a total consideration of 850000 of which 350000 was paid in 2016 with the completion of certain milestones.
+Clearvelvets founders hold the remaining 49.99% of the shares.
+Following completion Clearvelvet is considered to be a subsidiary undertaking and has been included in the Companys consolidated statements on a basis of full consolidation.
+Details of the fair value of identifiable assets and liabilities acquired purchase consideration and goodwill are as follows
+Fair value Intangible assets 204 204 Investment 50 50 Property plant and equipment 11 11 Trade and other receivables 3992 3992 Deferred tax asset 10 10 Cash and cash equivalents 1387 1387 Trade and other payables 4101 4101 1553 1553 Fair value of consideration Cash 850 Conversion of convertible loan 894 Conversion of previously held interest in associate 871 Total consideration 2615 Goodwill 1839 Noncontrolling interest 777 The initial consideration for the acquisition of Clearvelvet was 1.7 million out of which 894000 was conversion of the loan given by the Group on January 2016 and cash consideration of 850000.
+The cash consideration was paid during July 2017.
+In addition the sellers will be entitled to receive up to a total of 1.4 million earnout consideration to be satisfied in cash subject to their continued employment by Clearvelvet.
+The earnout consideration is contingent on achieving EBITDA goals of 1.7 million in 2017 prorated from 60% of target which was not achieved and 2.2 million for 2018 prorated from 67% of target.
+The earnout consideration is accounted as remuneration in the postacquisition income statement rather as part of the acquisition cost.
+Net cash outflow on acquisition of business Cash and cash equivalents acquired 1387 Since the acquisition date Clearvelvet has contributed 10.8 million to Group revenues profit of 0.4 million to Group loss and 1.8 million to segmental results of the Media segment as set out on note 5.
+If the acquisition had occurred on 1 January 2017 Group revenue would have been 68.9 million Group loss for the period would have been 3.6 million and the Media segmental result would have been 4.9 million.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+Business combinations continued 57 KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS
+GOVERNANCE
+FINANCIAL
+STATEMENTS
+STRATEGIC
+REPORT
+22 Related party transactions The Group is controlled by Unikmind Holdings Limited incorporated in the British Virgin Islands which owns 73% of the Companys shares.
+The controlling party is the Solidinsight Trust established under the laws of the Isle of Man.
+Mr.
+Teddy Sagi is the sole ultimate beneficiary of the Solidinsight Trust.
+The following transactions were carried out with related parties Revenue from common controlled company 2587 5034 Technical support services to end customers provided by common controlled company 2704 2105 Payment processing services provided by common controlled company 208 300 Office rent expenses to common controlled companies 230 82 Revenue from equity investments  100 555 2647 b Receivables owed by related parties see note 17 Name Nature of transaction Parent Company Unpaid share capital 10 10 Equity investments Loan and Trade  799 Companies related by virtue of common control Trade 881 1022 891 1831 c Payables to related parties see note 17 Name Nature of transaction Companies related by virtue of common control Other  Operating leases Due less than 1 year 356 553 Due between 1 and 5 years 222 868 578 1421 The table above summarises the minimum commitments under the Groups office rental agreements.
+24 Contingent liabilities The Group had no contingent liabilities as at 31 December 2017.
+KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS 25 Deferred consideration a Acquisition of Definiti Media Limited The consideration for the acquisition of Definiti Media Ltd in May 2014 included 2489000 deferred consideration.
+Of
+31 December 2015.
+The remainder was repaid during the year ending 31 December 2016.
+The consideration for the acquisition of certain assets of AjillionMax Limited in May 2014 included 654000 deferred consideration.
+Of this 104000 was repaid during the year ending 31 December 2014 156000 was repaid during the year ending 31 December 2015 189000 was repaid during the year ending 31 December 2016 and the remainder was repaid during the year ending 31 December 2017.
+In addition 435000 included as part of the acquisition arrangements has been recognised directly in the income statement during the year ending 31 December 2015 out of which 209000 was paid in May 2017.
+In September 2015 the Group acquired 16.67% of the share capital of Clearvelvet Limited for a total consideration of 850000 of which 350000 was paid in 2016 on completion of certain development milestones.
+In October 2016 the Group acquired the intellectual property of PC maintenance software product DriverAgentsite Inc for a total consideration of 1.2 million.
+As of 31 December 2017 the consideration included 0.17 million of deferred consideration 2016 0.2 million which is contingent on future results.
+On 20 November 2017 the Company repurchased 3810667 options out of the 4057813 option granted to CyberGhosts former founder for total cash consideration of 3.8 million 3.2 million.
+Out of which 1.9 million 1.625 million paid upon execution of the purchase agreement with the remaining amount to be paid in eight equal instalments amounting to 235 thousand 197 thousand per quarter over the course of two years and recognised as deferred consideration.
+26 Subsequent events On 7 March 2018 Crossrider plc announced the renaming of the Company to Kape Technologies plc.
+Trading in the Companys shares under the new name and TIDM KAPE will commence on 13 March 2018.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS CONTINUED 59 KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS
+GOVERNANCE
+FINANCIAL
+STATEMENTS
+STRATEGIC
+REPORT
+NOTES 60 KAPE TECHNOLOGIES PLC ANNUAL REPORT AND ACCOUNTS NOTES SHAREHOLDER INFORMATION AND ADVISERS Shareholder information including financial results news and information on products and services can be found at site Independent Auditor BDO LLP 55 Baker Street London W1U 7EU Nominated Advisor Shore Capital and Corporate Limited Bond Street House 14 Clifford Street London W1S 4JU Investor Relations Vigo Communications 180 Piccadilly London W1J 9HF Corporate Legal Advisers Morrison Foerster City Point One Ropemaker Street London EC2Y 9AW
+Shore Capital Stockbrokers Limited Bond Street House 14 Clifford Street London W1S 4JU
+Computershare Investor Services Jersey
+Queensway House Hilgrove Street St Helier Jersey JE1 1ES Registered Office Sovereign House 1416 Nelson Street
+Isle of Man IM1 2AL Stock exchanges The Companys ordinary shares are listed on the AIM market of the London Stock Exchange under the symbol KAPE.
+The Company does not maintain listings on any other stock exchanges.

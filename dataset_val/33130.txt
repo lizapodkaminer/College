@@ -1,0 +1,819 @@
+Annual Reportand Accounts DICOM Group plc Leading in Products and Services for the Electronic Document Capture Market and the Automation of Related Business Transactions DOC UMENT S IN INF ORMA TION OUT DICOM Group plc 2 Annual Report 2002 4 About DICOM Group 5 Financial Highlights
+6 Chairmans Statement
+9 Chief Executives Review
+11 Financial Review
+13 Making Your Information Digital 14 Our Customers 17 Our Global EDC Team 18 Our EDC Products 20 Our Commitment to the Future 21 SGA Division 22 International Presence 23 Team and Organisation 24 Company News 25 The DICOM Group Share 27 Directors 29 Directors Report
+31 Corporate Governance Statement
+34 Remuneration Report
+36 Statement of Directors Responsibilities
+37 Independent Auditors Report
+39 Consolidated Financial Statements 45 Notes to the Financial Statements 62 Five Year Record 63 Notice of Annual General Meeting 68 Company Secretary and Advisers 68 Principal Subsidiaries C ONTENT S DICOM Group plc DICOM Group plc DICOM Group is the global leader in the Electronic Document Capture EDC market a fast growing segment of the Office Automation industry.
+EDC solutions are used to enable offline data and documents gain an online status to automatically extract mission critical information and link the content to a broad range of IT applications.
+Through authorised business partners DICOM Group has helped more than 10000 blue chip enterprises in over 60 countries to accomplish superior office efficiency.
+Its customers are supported by more than some 700 EDC specialists working out of one of its 23 subsidiaries in Europe the US South East Asia and Australia.
+ABOUT
+DICOM Group Annual Report 2002 Year to 30 June Year to 30 June 2002 2001 000 000 Percentage increase Turnover up 7% at 149.5m Operating profit before goodwill amortisation and exceptional charges up 14% to 11.3m Cash flow generated from operations up 67% 14.0m 8.4m
+HIGHLIGHT S
+Turnover 149527 140290 7% Operating profit  11262 9876 14% Profit before tax  10816 9607 13% Earnings per share basic 3.5p 27.9p 87% adjusted 36.9p 33.4p 10% diluted 3.5p 27.6p 87% Total dividend per share 4.2p 3.66p 15% Average number of ordinary shares 20821701 20716446 Average number of employees 736 634 before goodwill amortisation and exceptional charges 4.2p RESULTS I am pleased to report a record set of results for the financial year 2002 a period marked by the most challenging trading conditions in the global IT industry for a long time.
+Group turnover for the year to 30 June 2002 was up 7% to 149.5m 2001 140.3m.
+Acquisitions contributed 1% of turnover growth.
+Operating
+9.2m 2001 8.1m an increase of 14%.
+Operating profit before goodwill amortisation and exceptional items increased by 14% to  11.3m 2001 9.9m.
+Profit before tax goodwill amor tisation and exceptional items was 10.9m 2001 9.6m up 13%.
+After tax and minority interests basic earnings per share is calculated at 3.5p 2001 27.9p down 87%.
+Adjusted earnings per share earnings being adjusted for goodwill amortisation and exceptional items rose 10% to 36.9p 2001 33.4p.
+During the year the core EDC Electronic Document Capture Division continued to bene fit from its position as the leading global partner for EDC products and services with a significant level of new contract gains.
+In the face of very challenging global IT market condi tions EDC continued its growth record and expanded its market position by new product launches and additional partnership agreements.
+The SGA Samsung General Agency Division experienced declining turnover rates in difficult trading conditions but maintained an acceptable albeit lower level of operating profit contribution.
+FINANCIAL POSITION Due to its cash generative business model the Group generated cash flow from operations of 14.0m 2001 8.4m and ended the year with net funds of 3.8m net debt of 0.7m at 30 June 2001.
+The Group spent 1.7m in cash on acquisitions and other investments during the year .
+OPERATING REVIEW
+The EDC Division is DICOM Groups largest division representing 82% of profits.
+It develops and sells software and electronic components provides a broad range of EDC services and distributes key related products to over 1000 system integrators and software houses in more than 60 countries worldwide.
+EDC solutions offer end users high returns on investment by allowing data and document intensive organisations to reduce business transaction costs and improve their level of customer service.
+EDC achieved organic sales growth in local cur rency terms of 12%.
+Acquisitions contributed an additional 1% in sales.
+In total EDC contributed 68% 2001 63% of the Groups turnover in the year to 30 June 2002.
+The provision of services and sales of products developed by the Group now account for 56% of EDC turnover 2001 51%.
+The sale of complementary third party products primarily highspeed document scanners accounted for 44% 2001 49%.
+DICOM Group plc tel100 40tel
+SGA
+Other
+Turnover in m CHAIRMAN S S TA TEMENT The EDC Division contributed 9.3m 2001 7 .0m operating profit an increase of 33%.
+This represents 82% of DICOM Groups total operating profit before goodwill amortisation and exceptional items.
+During the year EDC also launched a number of new products and entered new partnership arrangements which will enable the Group to address new areas of the EDC market.
+The SGA Division continued to experience difficult trading conditions particularly in
+Turnover fell by 8% to 47.5m 2001 51.5m but SGA contributed 18% of DICOM Groups total operating profit before goodwill amortisation and exceptional items.
+EXCEPTIONAL CHARGES As previously announced DICOM Group has incurred certain costs during the year which have been treated as exceptional charges.
+Following the default on 1 April 2002 of a scheduled consideration payment DICOM Group has reviewed its overall exposure in relation to a noncore investment disposed of in early 2000.
+A provision of 4m with no adverse future cash flow implications is considered necessary.
+This sum is treated as an exceptional item.
+The residual exposure is secured by 450000 DICOM Group shares currently held in escrow.
+DICOM Group had to write off a trade debt owed by a US distributor which discontinued business activities in early December 2001 resulting in an exceptional charge of 1.2m.
+DICOM Groups business prospects in the US have not been materially adversely affected by the discontinuance of the US distributor.
+DICOM
+Group markets its products and services through an extensive network of ISVs Independent Software Vendors and resellers and is therefore not overly dependent on any specific distributor.
+DICOM Group has appointed four distributors in the US and has authorised more than 1000 resellers worldwide to integrate and market its products.
+MANAGEMENT CHANGES We announced in late 2001 that after 11 very happy years as CEO of DICOM Group I would be retiring with effect from 1 July 2002 to take up the post of Nonexecutive Chairman.
+I want to take this opportunity to thank all our employees business partners and shareholders for their outstanding contribution in building DICOM Group into a great company.
+The Group Board has committed significant resources into the planning of our management succession.
+We are very pleased to have elected Arnold von Bren to succeed me as CEO from 1 July 2002.
+Arnold has been with the Group since 1994 and recently managed the successful integration of Kofax since February 2000.
+Before that he was responsible for the Europe based EDC operations.
+Urs Niederberger was promoted to the position of Chief Operating Officer while retaining his function as Group Finance Director.
+During the last two years a strong executive team has been built up including the heads of each of the principal business units and the executive board members.
+STAFF
+Staff numbers grew from 718 to 773 during the year principally due to the acquisition of a majority stake in DICOM Asia.
+DICOM Groups future prosperity is in large measure dependent on the ability energy and loyalty of our staff whose specialist knowledge training and Annual Report 2002 Chairman and Executive Committee of the Group DICOM Group plc experience is key to the successful provision of the Groups valueadded services.
+Staff turnover has remained at low levels and we continue to attract high calibre people around the world. during the year.
+DIVIDEND
+The Directors propose the payment of a final dividend of 2.8p per ordinary share to be paid on 29 November 2002 to those shareholders on the register as at 1 November 2002 which when added to the interim dividend of 1.4p per ordinary share makes a recommended total dividend for the year of 4.2p per ordinary share 2001 3.66p.
+This represents an increase of 15% over the previous year.
+ACQUISITIONS
+On 27 June 2002 DICOM Group announced it had increased its holding in DICOM Asia Holdings Pte Ltd from 40% to 80% by purchasing the balance from local management.
+The consideration paid was S2.4m 0.9m in cash.
+The local management team who will continue to run the Asian operation holds the remaining 20%.
+DICOM Asia founded in 1996 is headquartered in Singapore and active in 10 countries throughout Asia and Australia.
+Its
+Indonesia and in Australia are the EDC market leaders in their respective territories.
+Recently
+DICOM Asia also expanded into new growth markets in the Greater China region with sales outlets in Hong Kong Taipei and Beijing.
+On 13 September 2002 DICOM Group increased the holding in PDS S. purchasing the balance from local management.
+The purchase price consisted of E4.3m 2.7m payable in cash on completion and a deferred consideration of up to E1.9m 1.2m dependent on performance over the financial years 2003 2005.
+LISTING INFORMATION In January 2002 DICOM Group became a constituent of the techMARK100 index comprising the 100 largest UK technology companies on the London Stock Exchange.
+In
+July 2002 DICOM Group applied for a delisting from the Neuer Markt segment of the Deutsche Brse in Frankfurt while retaining its listing on the main board Geregelter Markt.
+These changes became effective on 1 August 2002.
+On
+19 August 2002 it was announced that DICOM Group was reclassified under the Computer Services FTSE UK sub sector on the London Stock Exchange.
+APPOINTMENT OF NEW ADVISOR AND
+In April 2002 DICOM Group announced the appointment of HSBC Investment Bank plc London as its Financial Advisor and Corporate
+PROSPECTS
+The Group is well positioned in its core EDC market which continues to show good growth in contrast to the difficult general trading conditions in the IT market.
+We are excited by recent product launches and partnership agreements that will support our expansion into segments of the EDC market not previously covered by the Group.
+The EDC divisions current trading performance and good growth prospects enable the Directors to view the Groups outlook with optimism.
+Otto Schmid Chairman 10 October 2002 Annual Report 2002 I am delighted to provide a review of the trading companies in my new position as Chief Executive of DICOM Group.
+Since being founded 11 years ago and as a result of the vision and leadership provided by my predecessor Otto Schmid the Group has shown an exceptional development.
+We were established as a Swiss company trading IT peripherals and have gone through a substantial evolution since.
+Today we are recognised as the worldwide leader in our target markets active in over 60 countries around the globe.
+In the past most enterprises have heavily invested in a broad range of IT solutions that automate their business transactions and support decision making.
+However connectivity between input devices and applications is frequently inadequate or absent resulting in data and document access being imprecise slow and hence expensive.
+The EDC solutions offered by DICOM Group solve this dilemma at an attractive cost to benefit ratio.
+We have been able to grow the EDC Division by approximately 30% year over year since our flotation in 1996 through our technological leadership and strict adherence to our successful sales channel concept.
+Building on this success it is my goal to improve the Groups market position in the EDC market whilst also adding businesses that are complementary to our core area of activities.
+DICOM Group achieved excellent results in its core EDC Division last year in contrast to further deteriorating conditions in the IT industry.
+Our business partners and customers have continued to report that IT budgets remain under tight scrutiny.
+EDC investments however were broadly saved from this development as they allow quick payback periods to be achieved.
+EDC now contributes more than 68% to total Group turnover.
+Turnover with own products and services showed substantial growth during the year and contributed 39% and 17% respectively of sales.
+Third party products sold by the EDC Division accounted for the balance.
+It is our strategy to leverage our position in the EDC market to make DICOM Groups products available to the high and low end of the EDC market.
+As a result we have allocated significantly more funds to research and development.
+Last year we increased spending by 41% to 7.4m 2001 5.3m.
+This commitment has allowed us a high rate of product innovations for existing products and the launch of entirely new products at the same time.
+PRODUCT DEVELOPMENTS Our award winning Virtual ReScan VRS product line which optimises both image quality and the scan process continues to do very well.
+Turnover development in m since IPO and number of employees 16tel turnover Number of employees pro forma unaudited CHIEF EXE C UTIVE S REVIEW which is underscored by the successful participation in a rising number of large EDC projects.
+Consequently the number of Ascent Capture software licences sold to date has increased significantly to 32500 30 June 2001 22500.
+EUROPE
+DICOM Europe our European sales and service operations provided solid growth and better margins.
+In the Groups major territories an improved performance was achieved in contrast to the general slowdown in the IT industry.
+The drive to provide consulting and other services continues to improve the quantity and quality of the Groups service revenues.
+ASIA
+In June we announced that our stake in DICOM Asia was increased from 40% to 80%.
+This acquisition strengthens our involvement in South East Asia the Greater China region and Australia and reinforces the Groups ongoing strategy to grow both organically and by acquisitions.
+During the past four years DICOM Asia has successfully managed to expand its reach customer base and capabilities in very challenging market conditions.
+We are currently increasing our activities in the Greater China region and also intend to exploit fully our leading position in the high growth Asian market.
+DICOM Group is better placed than ever to capitalise on its increased global presence with sales and support services in every major market in the world and a product range which is the most comprehensive in the industry at the cutting edge of todays technology in EDC software.
+Arnold von Bren Chief Executive Officer 10 October 2002 DICOM Group plc The software version of VRS v2.1 now supports more than 40 document scanner models with real time image enhancement features.
+Several larger projects were secured.
+The ASIC version of VRS which is being sold on the basis of OEM agreement for use in document scanners is being sold to both new scanner manufacturers and for new scanner models thereby increasing its future sales prospects significantly.
+In May 2002 we were awarded an US patent for VRS.
+Ascent Capture 5.5 a major release of the award winning capture application was launched in May 2002 offering broader product functionality and improved support for high performance databases.
+With these improvements Ascent Capture has been able to gain further market share in the high end sector of the EDC market.
+In June 2002 we launched Ascent Ricochet.
+It is the first software product on the market that extends professional EDC features to every desktop in an enterprise government organisation or not for profit organisation.
+It permits Multifunctional Products and digital copiers to be used as document scanners.
+Almost all organisations have copiers and scanner in use.
+This new product brings added efficiency and features to these equipment investments.
+Blue chip software houses and system integrators have continued to integrate Ascent Capture products and VRS into their solutions as a result of ongoing focused sales and marketing initiatives.
+Ascent Capture also described in the EDC market as The Operating System of Capture continues to move upmarket  a trend Annual Report 2002 ACQUISITIONS AND INVESTMENTS At the end of our financial year DICOM Group increased its holding in DICOM Asia from 40% to 80% by purchasing the balance from local management.
+The consideration paid was S2.4m 0.9m in cash.
+The local management team who will continue to run the Asian operation is retaining the remaining 20%.
+RESEARCH AND DEVELOPMENT
+DICOM Group continues to invest in the ongoing research and development of its market leading products.
+Such expenditure on research and development is charged to the profit and loss account as incurred.
+Such costs totalled 7.4m 2001 5.3m.
+TAXATION
+The pregoodwill and preexceptional tax charge for the year ended 30 June 2002 was 3.2m giving an effective tax rate of 30% 2001 29%.
+A tax credit of 0.4m was attributable to exceptional items.
+GROUP PERFORMANCE Operating profit before goodwill amortisation and exceptional items increased by 14% to 11.3m 2001 9.9m on sales of 149.5m 2001 In the first six months operating profit before goodwill amortisation and excep tional items was 5.5m a margin of 7.2% on sales of 75.6m.
+The second half results contributed 5.8m or 7.8% on sales of 73.9m.
+Overall gross margin increased to 36.4% 2001 restated to 33.5%.
+The increase is due to the change in business mix high growth in high margin business and lownegative growth in lower margin business.
+During the year operating expenses before goodwill amortisation and exceptional items increased from 37.1m to 43.1m up 16%.
+Goodwill amortisation included under operating expenses increased to 2.1m 2001 1.8m.
+Adjusted earnings per share increased 10% to Adjusted earnings per share is shown exclusive of exceptional items and the impact of goodwill amortisation.
+Basic earnings per share are at 3.5p 27.9p.
+Diluted earnings per share decreased to 3.5p 27.6p.
+DIVISIONAL RESULTS The performance of DICOM Groups divisions was as follows DIVISIONAL RESULTS EDC SGAtel 2001 Turnover 000 101985 88826 47542 51464 Turnover contribution % of total turnover 68%% 63% 32% 37% Gross profit margin % 46.0% 43.6% 15.8% 16.2% EBITA 000 9286 6997 1976 2879 EBITA contribution % of total EBITA contribution 82% 71% 18% 29% EBITA margin % 9.1% 7.9% 4.2% 5.6% 68% 46.0% 82% 9.1% 32% 15.8% 18% 4.2%
+REVIEW DICOM Group plc ACCOUNTING POLICIES The figures for the previous year have been restated due to the introduction of FRS 19 Deferred tax.
+Additionally the Group changed its accounting of direct costs for its increased income from professional services.
+While those costs have been included under operating expenses in previous periods the board considered that it should be shown as direct costs of sales as from this year on.
+Thus the accounting change has only an impact on Gross profit and Operating expenses while Operating Profit remains unchanged.
+Urs Niederberger Finance Director and Chief Operating Officer 10 October 2002 BALANCE SHEET Net funds as per 30 June 2002 amounted to 3.8m 30 June 2001 net debt of 0.7m.
+Shareholders funds increased from 65.0m to At yearend committed but undrawn working capital facilities amounted to 24.7m 2001 22.1m.
+The Groups balance sheet therefore remains strong.
+CASH FLOW During the year the operating activities of the Group have generated positive operating cash flows of 14.0m 2001 8.4m representing 125% of operating profit before goodwill amortisation and exceptional items.
+DIVIDEND
+A final dividend of 2.8p has been proposed making a total dividend payable on ordinary shares for the year of 4.2p 2001 3.66p up 15%.
+Dividends on ordinary shares will absorb 0.9m 2001 0.8m of the groups after tax earnings.
+These are covered 0.8 times 2001 7.6 times by profit attributable to ordinary share holders and 8.8 times 2001 9.1 times by profit before goodwill amortisation and exceptional items.
+Operating cash flow in m 2.0tel Annual Report 2002 documentation is eliminated.
+In many cases an almost immediate pay back can be demonstrated in introducing EDC solutions.
+In close cooperation with our worldwide network of 1000 authorised business partners we have helped more than 10000 blue chip companies to achieve substantial commercial benefits in introducing EDC to their IT systems.
+We have brought them closer in accomplishing the vision of having all information at the users fingertips.
+THE OPPORTUNITY On average front and back office workers are only able to retrieve less than 10 per cent of their documents electronically.
+The balance are stored and delivered in formats that do not allow the user to search and find terms or content within them.
+Opportunities missed and the time wasted in accessing information relevant for business transactions and decision making is substantial.
+In addition the cost involved in manually capturing documents is huge.
+Cases where companies and government organisations need to capture thousands of documents each day is high and rising yet often the cost saving potenti al for automating the process has been neglected.
+The advent of electronic forms and the increased use of multimedia files make it an increasingly difficult task to retrieve embedded data in such documents.
+THE SOLUTION Electronic Document Capture products provided by DICOM Group solve the dilemma.
+Our
+They allow many enterprise organisations to achieve high return on investment by cutting costs for collecting processing interpretation distribution and export of data and documents.
+In addition time spent incurred in searching for information and the problem of lost MAKING Y OUR INF ORMATION DIGITAL To date over 10000 blue chip companies have installed DICOM Group products and benefit from using our broad range of services.
+EDC solutions offered by DICOM Group have improved the organisational efficiency across most vertical markets including the financial services industry the government sector health care pharmaceutical transport and manufacturing industry to name the most significant vertical segments.
+CHASE MANHATTAN MORTGAGE HELPS MILLIONS OF AMERICANS TO REALISE THE DREAM OF PROPERTY OWNERSHIP The company is one of the largest mortgage originators and servicers and is a key component of JP Morgan Chase the nations thirdlargest bank.
+Chase Manhattan Mortgage chose Kofax Ascent Capture software and Adrenaline scanner controller boards and now scans more than 2.5 million documents per month.
+Automated indexing was changed from handprint recognition to Adrenaline bar code recognition and the enhancements dropped the manual correction rate from nearly 50 percent to less than 1 percent.
+Further Chase is able to automatically accept input from other applications with new polling features.
+Since Chase buys and services a high volume of mortgages from other financial institutions this integrated approach means Chase can quickly and easily assign loan numbers to mortgages from any source.
+As a result of cost improvements and reduced staff requirements Chase reduces scanning charges from 10 cents to 6 cents per page and has been able to scan 40 percent more documents using the same equipment.
+DIGITISING THE LAW SPEEDING UP JUSTICE Ever wondered how the mass of correspondence and summary documents and files that pass through a courthouse on a daily basis are managed The District Court System in Rotterdam that DICOM Group plc falls under the Dutch Ministry of Justice realised that there had to be another way in this brave new technological world.
+When in full production the system will be able to scan 20000 pages per day including letters faxes and all other documents black and white or colour legal or otherwise related to the administration of justice.
+Documents are converted to pdf files and an Annotation Summariser summarises all remarks per file with direct links to the individual documents contained in the file.
+The Kofax products allow easy integration and across the board imaging functionality.
+REGISTER OF COMPANIES ROC
+In line with the nations creed Malaysia Boleh Malaysia Can Do It the ROC commissioned a system to capture store and retrieve its daily volume of up to 60000 documents.
+They also required a system which would establish a collaborative working network between its Kuala Lumpur headquarters and 11 regional centres using existing communication infrastructure. retrievable electronic format.
+OUR
+CU ST OMERS The system implementation and staff training using the entire range of DICOM Group EDC products was done in stages at the Kuala Lumpur HQ followed by the regional centres.
+The Ascent Capture Internet Server helped regional centres capture and transmit documents via internet connections eliminating the physical transportation of documents by truck saving time and costs as well as the potential loss of documents.
+In addition the Ascent Capture Web Validation Server WVS enabled work sharing capability.
+With the WVS a regional centre could scan and upload documents making them available on a server for a less busy centre to index and validate them.
+As a result productivity rates soared.
+Eliminating the paper mountain through conversion into electronic format led to a substantial reduction in physical storage space.
+At the end of the project the ROC Malaysia had a system in place which allows documents to be viewed online and available 24 hours from receipt throughout the nation with a retrieval time reduced to a maximum 15 minutes once a document is online.
+Phase 2 projects immediate public access at all ROC centres as well as through online services.
+HALIFAX BANK The Halifax Bank part of HBOS is one of the UKs fastest growing retail banks fuelled by a highprofile initiative to gain new customers.
+Halifax installed an Ascent Capture based production capture system to process new current account applications.
+The system ensures compliance with legislation introduced Annual Report 2002 earlier this year that imposes strict time limits for the account transfer process.
+Demonstrating a true commitment to customer service this backoffice facility allows retail cus tomers to switch to the Halifax with minimum delays.
+VOLKSWAGEN  PASSPORT TO SUCCESS Volkswagen introduced a sophisticated quality control procedure whereby each finished car received its own passport.
+This document can be viewed at any given moment during and after the production process.
+About 1100 cars a day are manufactured at Volkswagen Belgium and the passport which contains between 8 and 22 pages is instantaneous digitised.
+With this system it is easy to retrieve the required documents.
+TAKING OFF WITH INVOICE CAPTURE AeroDienst currently has well over 1000 suppliers who send a total of several tens of thousands of incoming invoices and credit notes per year to the accounting department.
+For a service company it is indispensable to have its invoices promptly available.
+The capture solution was able to achieve an identification and classification rate of 90  95% for the top DICOM Group plc 20 main suppliers.
+Kofax Ascent Capture 5 was selected as the capture solution in conjunction with DICOM Invoice123.
+Scanning takes place on 3 stations using Fujitsu M3093DE scanners with Kofax VRS.
+WHERE EGOVERNMENT BECOMES BEST
+The Office of the Public Guardian OPG in Scotland was set up to meet the demands of The Adults with Incapacity Act.
+They establis hed a revolutionary IT system which includes a range of technologies such as Relational Database for storing of authorised data Word Indexing for fast and easy retrieval of data EDM electronic document management for electronic generation and storing and for lin king to cases also ensuring that all incoming items are stored and linked simultaneously. mail is automatically encrypted.
+Incoming paper documents are digitised thanks to several Kodak scanner stations equipped with Kofax Ascent Capture software.
+This process not only streamlines the workflow but also ensures the accessibility and the security of all documents.
+Geographical split of turnover in m 16tel80 40tel 2002
+Europe
+East.
+Europe
+North America
+DICOM Business Manager Meeting at Kofax in Irvine USA Annual Report 2002 party products to complement our solutions.
+Our consultative sales approach supports our customers in their buying decision.
+DICOM
+Groups local organisations in Europe and throughout Asia are the bestonly one stop shop for all EDC requirements.
+Services provided such as the trademarked PlusPac ensure the successful implementation of an EDC solution and high speed scanners from the worlds leading scanner manufacturers complement the product and service offering.
+The variety of sets of data and documents that companies and individuals are using day by day is vast.
+In addition our products accelerate the performance of many kinds of back end systems such as document and content management solutions.
+Our professional service teams res pond accordingly to the vast range of different needs and requirements and help to build EDC solutions that fit these.
+The centre of DICOM Groups EDC product development effort is USbased Kofax Image
+During the past years its hardware and software products became de facto industry standards for image processing and the capture of critical information whether from paper or electronic sources.
+Today over 100 engineers work in the US product development centre and in software development groups in Malaysia Vietnam and Croatia.
+OUR GL OB AL EDC TEAM During the past years we have built up a global team which is active in more than 60 countries and encompasses 700 EDC experts.
+In order to respond to local requirements accordingly and fast we created subsidiaries in 23 countries.
+Our customers almost always use our solutions in mission critical environments.
+To ensure a maximum reliability and a high performance level of the EDC installations we have spent considerable efforts to develop a broad range of service products.
+These include EDC related services such as consulting integration support and installation services.
+In addition to the products developed by DICOM Group and services provided we offer third DICOM Group plc ASCENT CAPTURE Ascent Capture is a highly customisable software platform for capturing information in many different formats from many locations and introducing it into critical business applications.
+It highly automates the capture process including capturing both scanned and electronic documents and forms validating the extracted data indexing it for later retrieval and connecting it to a wide variety of electronic business systems.
+Ascent Capture is recognised as the Operating System of Capture  the most widely used capture software in the world.
+More than 32500 Ascent licenses have been sold to date and installed at over 10000 sites.
+In 2002 Ascent Capture V5.5 was introduced with a powerful new OCR engine and additional support for XML capture.
+ASCENT RICOCHET High volume document capture used to require a dedicated scanner and scanner operator.
+With
+Ascent Ricochet transactions can be easily captured and indexed by the frontoffice workers who know the most about the documents.
+By enabling capture on the office desktop Ascent Ricochet amplifies the benefits of distributed capture business workflows can be triggered in minutes and indexing by the content expert results in accurate classification of missioncritical documents.
+Ascent Ricochet leverages standard office equipment such as digital copiers and multifunction peripherals and no investment in new specialpurpose hardware has to be made.
+Ascent Ricochet supports both paper and edocuments enables visual checking of scanned documents and provides detailed delivery notification all helping to extend the power of the Operating System of Capture to every desktop in an organisation.
+OUR EDC PR ODUC T S Number of Ascent Licenses sold per year during the last 5 years 1teltel Annual Report 2002 ASCENT CAPTURE INTERNET SERVER When an organisation needs to capture a large volume of documents at its outlets the Ascent Capture Internet Server is the proven way to extend batch capture to those remote sites.
+Remote offices can directly capture paper or edocuments saving time and shipping costs and eliminating the possibility of lost documents.
+The captured documents are transmitted to the central site via the Internet where they are released to backend systems for immediate retrieval.
+ASCENT CAPTURE WEB VALIDATION SERVER The Ascent Capture Web Validation Server extends Ascents indexing and validation capabilities to anyone equipped with a standard Web browser.
+Indexing can be performed by parttime workers at home or by subjectmatter experts in their offices or other time zones.
+The
+Ascent Capture Web Validation Server can be easily added to the Ascent Capture workflow so documents can be automatically sent to authorised remote operators for indexing.
+Ascent Capture User Profiles control what documents go to which operators and all activity is recorded for centralised tracking and reporting.
+VIRTUALRESCAN VRS Since its introduction in 1999 VRS has become the de facto standard for image processing and scanning productivity.
+This unique technology continues to win major awards including Product of the Year 2001 from Transform magazine and it was a key component of the FedEx distributed imaging system that was named Best DocumentData Capture Application in the 2002 RealWare awards.
+VRS makes using a document scanner as easy as using a pointandclick camera.
+It automatically improves image quality and provides the unprecedented ability to produce perfect scans without costly rescanning.
+As quickly as images pass through the scanner VRS checks and adjusts for alignment skew brightness contrast and image clarity.
+Any image problems are immediately corrected by VRS producing the straightest most readable images possible.
+VRS shines on the toughest documents such as carbon copies colour or tinted documents or pages which combine very light and very dark areas.
+VRS is available for a range of scanners from software versions for lowvolume scanners to OEM hardware in production scanners.
+ADRENALINE
+Adrenaline is a complete family of image processing accelerators and software engines designed to offer the best support possible for professional document scanning.
+The
+Adrenaline product family provides certified compatibility with document scanners unrivalled technical support dependable installation and operation sophisticated image processing and advanced recognition features such as bar code and patch code recognition page registration and form recognition.
+19 DICOM Group plc Today we successfully support a fast growing number of blue chip companies in performing their business transactions smoother and at lower cost.
+The number of IT applications platforms and communication protocols will continue to grow at a fast pace.
+As a result organisations will face a broad range of challenges and encounter bottlenecks and gaps in relation to the exchange of data and documents.
+It is our challenge and goal to solve those and by that enhance the overall business processes of our customers.
+At DICOM Group we have considerably increased our RandD spending during the last years to be ahead of the market.
+We will continue to come up with innovative solutions that complement our existing EDC product range and beyond.
+During the past two years we also made strategic investments in a number of companies.
+The objective is to have technology available to keep us ahead of the market in areas that are associated with EDC and complementary in nature.
+Also we are building think tanks and business development teams in our organisation to explore new market opportunities.
+We believe that even in a generally difficult economic environment the number of opportunities remain nearly unlimited.
+OUR C OMMITMENT T O THE FUTURE RandD spending in m 1.0tel Annual Report 2002 SG A
+By combining expertise in flat screen visualisation technology marketing and sales consulting integration services and project management the Samsung General Agency SGA division created a well established and exclusive partnership with the worlds leading display manufacturer Samsung.
+The SGA division markets LCD computer displays large format LCD and Plasma Screens and TVs to each of the IT Point of Information POI Point of Sales POS Presentation and highend Home Entertainment markets through resellers solu tion providers integrators and mass merchandisers in Switzerland and Austria.
+As independent research indicates SGA has built a leading market position for Samsung LCD flat panel displays and screens.
+Samsung produces the worldwide first 40inch LCD screen for POI applications and TVs.
+As market leader in the latest widescreen flat displays LCD and Plasma displays SGA is ideally placed to take the next step and expand its offering with the addition of software multimedia and network components integration and technical services for Digital Information Systems
+DICOM Group plc DICOM Group plc INTERNA TIONAL PRE SENCE EDC DIVISION DICOM ASIA Australia 2000 Sydney Melbourne China 2002
+Indonesia 1997 Jakarta Utara Malaysia 1997 Kuala Lumpur Philippines 1997 Makati City Singapore 1996
+KOFAX PRODUCTS USA 2000 Irvine Tampa Atlanta Schaumburg Bethesda Defiance New Providence Syosset Bastrop DICOM EUROPE Austria 1996
+Belgium 1996 Mechelen WemmelBrussels Czech Republic 1996
+Croatia 2000
+Denmark 1996
+Finland 1996
+France 1996
+Germany 1993 Freiburg Hamburg Munich Mnchengladbach Eichstetten Hungary 1996
+Italy 1997 Rome Perugia Florence Milan Monteviale Naples Vicenza Netherlands 1996
+Norway 1995 Oslo Stavanger Poland 1996
+Spain 1997 Barcelona Madrid Sweden 1994 Kungsbacka Tby Switzerland 1991 Rotkreuz Rothenburg United Kingdom 1995 Basingstoke Hampshire Hemel Hempstead Herts Plymouth Aust Bristol SAMSUNG GENERAL AGENCY Austria 1996
+Switzerland 1991 Rotkreuz Crissier Annual Report 2002 Today DICOM Group is recognised as leader in the global EDC market and its EDC Division is comprised of the following business units which are jointly working together in the EDC market DICOM Europe and DICOM Asia both involved in the provision of products and services to the EDC market Kofax Products is the US based product development centre of the Group Capture Services providing outsourced document scanning and data entry services.
+TEAM andO RG ANIS A TION Employee structure 70tel300tel 2001 2002 Support and Development
+Sales and Marketing DICOM Groups aim is to attract customer focused people who wish to accomplish high reaching goals.
+Hence DICOM Group is supporting personal development and other initiatives that foster personal skills and capabilities.
+Kofax Products DICOM Europe DICOM Asia Capture Services Electronic Document Capture EDC Division DICOM Group plc Samsung General Agency SGA Division During the year workforce in sales and marketing and service remained at a stable level.
+As of 30 June 2002 773 employees worked for DICOM
+DICOM Group plc Post financial yearend news 2 July 2002 Application to delist from Neuer Markt 19 August 2002 DICOM Group reclassified under the Computer Services FTSE UK sub sector 13 September 2002 DICOM Group increased its holding in PDS S.
+C OMP ANY NEW S July 2001 June 2002 21 December 2001 Software VRS 2.0 adds product of the year to its growing list of awards 19 February 2002 2nd Quarter Results FY 2002  Six Months to 31 December 2001.
+Turnover in Core EDC Division up 26% Pretax Profits up 13% 3rd Quarter started well 5 March 2002 European Distribution agreement with Neurascript 3 April 2002 Trading Update and Appointment of HSBC Investment Bank 14 May 2002 3rd Quarter Results FY 2002  Nine Months to 31 March 2002.
+Record levels of PreTax Profits and Turnover from Core EDC Division 25 June 2002 Launch of Ricochet Capture 27 June 2002 Acquisition of majority stake in DICOM Asia 23 July 2001 Ascent Capture product integrated with Microsofts SharePoint Portal Server 29 August 2001 LargeScale Imaging Contract for FedEx Corp Global Application Will Speed Airbill Processing 18 September 2001 Preliminary Results  Year to end 30 June 2001.
+Record Results at every level Pretax Profits up 94% 1st Quarter for year 2002 started well.
+6 November 2001 Contract Gain  Kofax subsidiary helps Chase Manhattan cut recognition errors from 45% to 1% 13 November 2001 1st Quarter Results FY 2002  Three Months to 30 September 2001.
+Record Results in histori cally slow Q1 Turnover in Core EDC Division up 37% PreTax Profits up 15% Optimistic Outlook 13 December 2001 New software product launch expands potential market for VRS Software VRS version 2.0 chosen by Epson scanners Annual Report 2002 SHARE PRICE DEVELOPMENT The financial year to 30 June 2002 was successful for the Group in respect of its financial performance and the further improvement of its general market position.
+The
+DICOM Group share price however was affected by the general devaluation of technology stocks.
+THE DIC OM GR OUP
+Share holder structure Free float
+Board
+136 % 131 % 733 % SHAREHOLDER STRUCTURE The total number of shares in issue as of 30 June 2002 was 20837400.
+The directors the management and the employees held approximately 27% of all shares.
+Otto Schmid Nonexecutive Chairman and CoFounder of DICOM Group held 4.3%.
+215000 shares were held by the trustees of the ESOP employees share ownership plan.
+OPTIONS
+DICOM Group has been granting options under three various option schemes.
+Information is contained in the Notes to the financial statements on page 58.
+40teltel 2002 DICOM Group FTSE techMark 100 Total shareholder return from 7799 to 10702 weekly indexed NASDAQ 100 DICOM Group plc COMPANY CALENDAR Annual General Meeting 13 November 2002 Results for the first three months 13 November 2002 Final dividend payment 29 November 2002 Interim results 18 February 2003 Interim dividend payment 2 May 2003 Results for the first nine months 13 May 2003 End of Financial Year 2003 30 June 2003 Preliminary announcement of the full year results September 2003 STOCK EXCHANGE The DICOM Group share is traded at the following stock exchanges London Official List Frankfurt Geregelter Markt SEAQ 50 866DCM SEDOL 268 262 London Stock Exchange WKN 931 486 Coownership participation 903 118 OTC Market Germany ISIN code GBtel INVESTOR RELATIONS For questions about DICOM Group and the Company Report please contact Phone tel06 16 tel693 6 Fax tel699 36 Email Investoremail Regular information for shareholder is also available on the Groups website at httpsite Annual Report 2002 Arnold von Bren Arnold von Bren 50 a Swiss citizen was appointed the Groups
+Chief Executive Officer in July
+2002.
+Before his appointment Arnold was CEO of Kofax DICOM Groups centre for product development.
+He has more than 20 years experience in the Computer industry.
+Before joining DICOM Group in 1994 he cofounded and was general manager of Computerway AG a Swiss IT services company.
+He was appointed to the main board on 15 December 1995.
+Urs Niederberger Urs Niederberger 36 a Swiss citizen was appointed the Groups Chief Operating Officer in July and has served as Group Finance Director since October 1997.
+Before joining DICOM Group he worked as a consultant with Visura Consulting part of BDO International.
+He was appointed to the main board on 2 December 1997 .
+Christoph Lslein Christoph Lslein 35 a German citizen is responsible for Group Business Development and
+He joined DICOM Group in 1993 to start its German operations and was given group management responsibility in November 1996.
+Before joining DICOM Group he held various management positions in the German IT industry.
+In 1998 he attended Executive Classes at the Harvard Business School.
+He was appointed to the main board on 2 December 1997.
+Walter Greifeneder Walter Greifeneder 45 an Austrian citizen has more than 20 years experience in the Computer industry and has had Board responsibility for the Groups Samsung General Agency Division since joining the Group when DICOM Group acquired ELSAT in 1996.
+He was appointed to the main board on 15 December 1995.
+DIRE C T ORS EXE C UTIVE S DICOM Group plc
+EXE C UTIVE S Otto Schmid Otto Schmid 64 a Swiss citizen and co founder of DICOM Group is the Groups Non executive Chairman.
+During his tenure as Executive Chairman he led the development of DICOM Group in countries outside Switzerland and took specific responsibility for planning and corporate development at Board level.
+He holds a PhD in applied mathematics from the University of Zurich.
+He was appointed to the main board on 15 December 1995.
+Bruce Powell Bruce Powell FCA MA Cantab.
+53 a British citizen is the senior Nonexecutive Director.
+He was involved in a group executive role with DICOM Groups flotation on the London Stock Exchange in 1996 and in operational management at Acal Group plc and VideoLogic Group plc now Imagination Technologies Plc.
+He is a nonexecutive director of Dataform Group Ltd and Princeton Consulting Ltd as well as a director of Argenta Discovery Ltd.
+He was appointed to the main board on 16 December 1996.
+Paul Gerny Paul Gerny 60 a Swiss citizen is Strategic Advisor to Cornerstone Capital AG a German investment company focusing on the IT and Industrial Electronic segments.
+He is also Chairman and Chief Executive of Aspro Technology Ltd a leading Power Supply Company and Timonta Ltd.
+Electro Magnetic Compatibility Products.
+He was appointed to the main board on 15 December 1995.
+John Incledon John Incledon 64 MBA Harvard Business School a British citizen is Chairman of IDJ Limited a corporate finance firm based in
+Over the last 20 or so years he has served on the board of a number of listed and privately held companies in the United States and in Europe gaining extensive experience of and appreciation of many different IT businesses.
+He is a member of the Deans council at the John F.
+Kennedy School of Government Harvard University.
+He was appointed to the main board on 7 December 1997.
+David Silver David Silver 44 a US citizen cofounded Kofax Image Products Inc. until July 2000.
+He is a graduate in electronic engineering from the University of California.
+He was appointed to the main board on 22 October 1999.
+Annual Report 2002 The directors present their seventh annual report together with the audited financial statements of the Company for the year ended 30 June 2002.
+PRINCIPAL ACTIVITIES The Company is the UK holding company for a group of businesses which develop and distribute products and provide services in the Electronic Document Capture market a fast growing segment of the Office Automation industry.
+It is also engaged as general agent of Samsung Electronics in Austria and Switzerland.
+More details of the activities of the Group can be found in the Groups website at site and on pages 13 to 21.
+RESULTS AND DIVIDENDS The results for the year to 30 June 2002 are set out in the profit and loss account on page The position at the end of the year is shown in the balance sheet on page 41.
+Details of the Groups operations and an indication of its future prospects are contained in the Chairmans statement the Chief Executives the Financial and the Business review on pages 6 to 12.
+The directors recommend a final dividend of 2.8p per ordinary share of 10p.
+This will result in a total dividend of 4.2p 2001 3.66p per ordinary share of 10p and will absorb 870000 2001 757000 of the results of the year.
+RESEARCH AND DEVELOPMENT Research and development costs amounted to 7 442000 2001 5273000.
+All such expenditure is written off to the profit and loss account as incurred.
+DIRECTORS AND DIRECTORS INTERESTS The directors of the Company during the year and their interests in the issued share capital of the Company were as set out below.
+Details of share options granted to the directors are given in the Remuneration report on pages 34 and 35.
+Bruce Powell Paul Gerny and John Incledon retire by rotation at the Annual General Meeting in accordance with the Companys Articles of Association and being eligible offer themselves for reelection.
+EMPLOYEES
+The Groups employment policy is designed to attract retain and motivate high calibre people recognising that this can only be achieved through offering equal opportunities from DIRE C T ORS REPOR T Interests at Interests at Interests at 10 October 2002 30 June 2002 30 June 2001 Arnold von Bren 592112 Urs Niederberger 121700 Christoph Lslein 223488 Walter Greifeneder 503466 Otto Schmid 942589 Bruce Powell 25370 Paul Gerny 399782 John Incledon 14188 David Silver 63260 43260 DICOM Group plc managed centrally in order to maximise the return.
+The Groups policy is to borrow principally at floating rates of interest in the local operating currency.
+At 30 June 2002 the Groups fixed rate borrowings amounted to 35% 2001 65% of total borrowings.
+Short term flexibility is achieved by overdraft facilities.
+Positive cash balances carry floating rate interest based on relevant national interbank rates.
+The Group has significant overseas subsidiaries which operate principally in their local currency.
+PAYMENT OF SUPPLIERS The Group agrees payment terms with suppliers when it enters into purchase contracts taking into account local good practice and seeks to abide by these payment terms whenever satisfied that the supplier has provided the goods or services in accordance with the agreed terms and conditions.
+As at 30 June 2002 trade creditors represented 53 days 2001 42 days purchases.
+ANNUAL GENERAL MEETING Notice of the Companys Annual General Meeting is given on page 63 at the end of this document.
+AUDITORS
+BDO Stoy Hayward have expressed their willingness to continue in office and a resolution to reappoint them will be proposed at the Annual General Meeting.
+By order of the Board Urs Niederberger Company Secretary 10 October 2002 recruitment and selection through training and development appraisal and promotion to retirement.
+It is our policy to promote an environment free from discrimination harassment and victimisation where everyone will receive equal treatment regardless of gender colour ethnic or national origin disability age marital status sexual orientation and religion.
+All decisions relating to employment practices will be objective free from bias and based solely upon work criteria and individual merit.
+It is the Groups policy to give full and fair consideration to applications for employment from people who are disabled whose aptitude and skills can be utilised within the business and to their training and career development.
+Wherever possible this includes the retraining and retention of staff who become disabled during their employment.
+The success of the Group depends on the quality and performance of its employees and the Group continues to ensure this by communicating with its employees about both local and Groupwide matters this communication is conducted personal briefings regular meetings and e. ails on a regular basis.
+The Company encourages all of its employees to participate in the growth of the Group and welcomes staff input at all levels.
+Employee involvement in the Groups profitability is encouraged through locallybased bonus and profit related pay schemes an execu tive bonus scheme and share option schemes.
+TREASURY MANAGEMENT Borrowings are negotiated locally after consultation with Group directors.
+Any funds in excess of local working capital requirements are DICOM Group is committed to high standards of corporate governance.
+Having reviewed its compliance with the Combined Code the Board confirms that the Company has throughout the year  complied with all aspects of the Code except that the role of chairman and chief executive was combined and that the chief executive was a member of the remuneration committee as well as there was no absolute requirement for each Director to retire at least every three years.
+The roles of nonexecutive chairman and chief executive are now split.
+The remuneration committee now only comprises nonexecutive directors.
+The proposed changes to the Articles of association ensure compliance with the Combined Code in relation to the reelection of directors.
+This statement explains how the Board has set out to ensure that the Group has an effective system of corporate governance and provides details of the procedures the Board has established to apply the principles set out in the Combined Code.
+BOARD OF DIRECTORS The Board leads and maintains full and effective control over the Companys activities.
+The
+Company has now separate posts of Chairman and Chief Executive and in addition the Board currently comprises three other Executive Directors and four independent Nonexecutive
+Short biographies of all of the directors are set out on pages 27 to 28 of this report.
+The
+Board considers that the balance of its constitution brings both independence and an appropriate balance of experience in judging matters of strategy performance resources investor relations internal controls and corporate governance.
+The Board meets at least eight times each year either physically or by conference call with additional meetings and contact between the meetings as necessary.
+The Board has a schedule of matters reserved for its consideration.
+These
+Annual Report 2002 include the Groups strategic plans and annual and mid term operating plans business acquisitions and disposals of companies major litigation and employee share schemes.
+All directors have access to the services of the Company Secretary for any information or advice they may require.
+In addition they may take independent professional advice if necessary at the Companys expense.
+When new members are appointed to the Board they are provided with advice from the Companys solicitors in respect of their role and duties as a public company director .
+The key functions of the Chairman are to conduct Board meetings and meetings of shareholders to ensure that all directors are properly briefed for a full and constructive part in Board discussions to develop and lead business strategies and processes.
+There is a clear distinction between the Chairmans role and that of the Chief Executive who is responsible for managing the Groups day to day business.
+This separation of responsibilities together with the ratio of board membership between executive and nonexecutive directors ensures there is a balance of power and authority at the head of the
+The views of all directors are taken into account in the decisionmaking process.
+Bruce Powell has been designated the senior Non executive director .
+Any concerns relating to the executive management of the Company or the performance of the other Nonexecutive Directors may be raised with him.
+To enable the Board to function effectively and directors to discharge their responsibilities full and timely access is given to all relevant information.
+In the case of Board meetings this consists of a comprehensive set of papers including regular business progress reports and discussion documents regarding specific matters.
+C ORPOR A TE GO VERNANCE S TA TEMENT Appointments to the Board of both Executive and Nonexecutive Directors are considered by the Nomination Committee.
+The Remuneration Committee considers any remuneration package before it is offered to a potential Board appointee.
+The provisions of the Companys Articles of Association require that the number of Directors nearest to but not greater than one third retire by rotation each year and seek reelection at the Annual General Meeting.
+The directors required to retire are those in office longest since their previous reelection.
+The amended Articles of Association requires that no director shall continue to hold office as a director after the third Annual General Meeting following his election or reelection without submitting himself for re election at the said third Annual General Meeting.
+BOARD COMMITTEES The Board has delegated certain responsibilities to Board committees which operate within defined terms of reference reporting regularly to the Board and include Audit Committee assists the Board in fulfilling its overview responsibilities primarily reviewing the reporting of financial and nonfinancial information to shareholders the system of internal control and risk management and the audit process.
+The Committee consists of Bruce Powell Chairman Otto Schmid and John Incledon and meets at least four times a year .
+The meetings are normally attended by the Finance Director and the external auditors.
+The Committee also keeps under review the independence and objectivity of the external auditors.
+The
+Committee reviews further the nature and amount of nonaudit work undertaken by BDO Stoy Hayward BDO each year to satisfy itself that there is no effect on their independence.
+BDO are also subject to professional standards which safeguard the integrity of the auditing role they perform on behalf of the shareholders.
+DICOM Group plc Remuneration Committee ensures the executive directors and the Executive management team are appropriately rewarded.
+The Committee comprises Paul Gerny Chairman Otto Schmid and John Incledon and meets at least three times a year .
+The Committee does not retain remuneration consultants but seeks professional advice as required.
+Nomination Committee keeps under review the Board structure size and composition selects and proposes to the Board suitable candidates for appointment as directors of the Group and considers Board successional plans.
+The
+Committee comprises all Nonexecutive Directors is chaired by Otto Schmid and meets as required.
+DIRECTORS REMUNERATION Full details of Directors remuneration and a statement of the Companys remuneration policy is set out on pages 34 to 35.
+The Chief Executive attends meetings of the Remuneration Committee to discuss the performance of the other Executive Directors and make proposals as necessary but takes no part in deliberations when his own position is being discussed.
+Each Executive Director abstains from any discussion or voting at full Board meetings on Remuneration Committee recommendations where the recommendations have a direct bearing on his own remuneration package.
+The details of each Executive Directors individual package are fixed by the committee in line with the policy adopted by the full Board.
+COMMUNICATIONS
+The Company is committed to ongoing communication with current and prospective shareholders through regular annual and interim reports quarterly financial statements and other trading statements as well as via the AGM.
+The Companys website at httpsite contains both Annual Report 2002 corporate and customer information updated on a regular basis.
+Regular dialogue and presentations take place with both institutional and private shareholders through the Companys investor relations programme.
+INTERNAL CONTROL AND RISK MANAGEMENT The Board has overall responsibility for the Groups approach to assessing risk and the systems of internal control and for monitoring their effectiveness.
+This includes financial operational and compliance controls and risk management procedures.
+This process regularly reviewed by the Directors is carried out in conjunction with business planning and is documented in a risk register .
+Because of the limitations that are inherent in any system of internal control this system is designed to manage rather than eliminate the risk of failure to achieve business objectives and can only provide reasonable but not absolute assurance against material misstatement or loss.
+The Group has well established procedures which have been developed over many years for identifying evaluating and managing the significant risks faced by the Group.
+A key control procedure is the daytoday involvement of executive members of the Board and Group management in all aspects of the business and their attendance at regular management meetings of the operating companies at which performance against plan and business prospects are reviewed.
+Additionally the Board seeks to continually strengthen the internal control system where this is consistent with improving the relationship between risk and reward.
+Other key features and the processes for reviewing effectiveness of the internal control system are described below Board approved medium term strategy and budget plans for each operating company. approval. company. respective companies. following approval of the annual group budget. security.
+Group.
+The Directors each year considers the need for a full time internal audit function in light of the nature of its business and the complexity of transactions.
+At present the size of the business is at a scale that does not justify the need for a fulltime internal audit function.
+Group Executives perform periodic internal audits on main areas of activity at subsidiaries which are reported to the Directors to provide assurance that the system of internal control is functioning as intended.
+GOING CONCERN The directors believe after making enquiries which they consider to be appropriate that the Group has adequate resources to continue in operational existence for the foreseeable future.
+For this reason they continue to adopt the going concern basis in preparing the financial statements.
+DICOM Group plc The remuneration package for Executive Directors presently consists of a fixed salary variable pay benefits comprising car and other personal expense allowances and payments to defined contribution pension schemes.
+The performancerelated element forms a significant proportion of the total package and is linked to both individual and business performance such as growth of profits and cash flow generation.
+Each Executive Director has a service agreement which specifies a 12 months notice period.
+Salary and benefits are competitive and are reviewed annually.
+In making recommendations on rewarding the Executive management team the Remuneration Committee reviews the total reward package making use of published surveys.
+Where necessary specific work is commissioned to supplement published As well as complying with provisions of the Combined Code as disclosed in the Corporate governance statement the Company has applied the principles relating to directors remuneration as described below.
+The Remuneration Committee of the Board presently consists of Paul Gerny Chairman Otto Schmid and John Incledon.
+Arrangements for the Nonexecutive Directors are approved at meetings of the full Board.
+The Remuneration Committee considers that in order to motivate attract and retain Executive Directors and senior management of sufficient calibre it is necessary for the Group to provide a remuneration package which is competitive reflects individual experience and performance and takes account of local market practice.
+REMUNER A TION REPOR T SalaryFees Bonus Benefits Total Total Directors Pensionteltel 2001 Executive Directors Arnold von Bren 115542 55493 12589 183624 163392 22844 19687 Urs Niederberger 100880 41502 12589 154971 124096 18243 14845 Christoph Lslein 90705 31355 12589 134649 108702 14705 7776 Walter Greifeneder 71298 23934 95232 107389 8736 9056 NonExecutive Directors Otto Schmid 193313 43135 5287 241735 140703 12074 21262 Bruce Powell 25000 25000 24000 Paul Gerny 21000  21000 23000 John Incledon 18000  18000 24000 David Silver 18000  18000 18000 Total653419 43054 892211 733282 76602 72626 Details of the Directors remuneration for the year to 30 June 2002 Otto Schmid has been selfemployed since December 2001 social security charges now borne by him are included in the amounts disclosed above.
+As per 1 July 2002 Otto Schmid retired as Executive Chairman but he remains NonExecutive Chairman of the Group.
+Annual Report 2002 information.
+The salaries are set after consideration of the Companys performance market conditions and the need to reward individual performance.
+The Remuneration Committee also considers that share ownership and the award of options are key components in the overall remuneration package for Executive Directors and senior managers.
+It is the Remuneration Committees objective that all Executive Directors and senior managers should by direct share ownership andor by grant of options have a material interest in the success of the Group.
+The exercise of options to the Executive Directors is subject to meeting of performance targets set by the Remuneration committee.
+The options granted during the year to 30 June 2002 to Options at Granted Lapsed Options at 30 June 2001 during the year during the year 30 June 2002 Exercise price Exercise period Arnold von Bren 48000   E13.60 20012010 Arnold von Bren 18000   E7.44 20012010 Arnold von Bren  12000  E5.78 20022011 Arnold von Bren  95000  495p 20032012 Urs Niederberger 48000   E13.60 20012010 Urs Niederberger 18000   E 7.44 20012010 Urs Niederberger  12000  E 5.78 20022011 Urs Niederberger  185000  495p 20032012 Christoph Lslein 24000   E 13.60 20012010 Christoph Lslein 15000   E 7.44 20012010 Christoph Lslein  10000  E 5.78 20022011 Christoph Lslein  58000  495p 20032012 Walter Greifeneder 24000   E 13.60 20012010 Walter Greifeneder  6000  E 5.78 20022011 Otto Schmid 96000   E 13.60 20012010 Otto Schmid 36000   E 7.44 20012010 Otto Schmid  24000  E 5.78 20022011 David Silver 26000  26000 Executive Directors will become exercisable nor mally only when the compound earnings per share growth of the Company has exceeded the increase in the Retail Price Index by an average of 2% per annum. shareholdings in DICOM Group plc.
+Additionally
+Directors holdings of options during the year to 30 June 2002 were as set out above.
+All options have been granted at no less than market price.
+The closing market price of the shares at 28 June 2002 was 442p and the range during the year ended on that date was 240p to 538p.
+Otto Schmid Paul Gerny DICOM Group plc Company law requires the Directors to prepare financial statements for each financial year which give a true and fair view of the state of affairs of the Company and the Group as at the end of the financial period and of the profit or loss for that period.
+In preparing those financial statements the directors are required to select suitable accounting policies and then apply them consistently make judgements and estimates that are reasonable and prudent state whether applicable accounting standards have been followed subject to any material departures disclosed and explained in the financial statements and prepare the financial statements on the going concern basis unless it is inappropriate to presume that the Company and the Group will continue in business.
+The Directors are responsible for keeping proper accounting records which disclose with reasonable accuracy at any time the financial position of the Company and the Group and to enable them to ensure that the financial statements comply with the Companies Act 1985.
+They are also responsible for safeguarding the assets of the Company and the Group and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+Financial statements are published on the Companys website in accordance with legislation in the United Kingdom governing the preparation and dissemination of financial statements which may vary from legislation in other jurisdictions.
+The maintenance and integrity of the Companys website is the res ponsibility of the Directors.
+The Directors res ponsibility also extends to the ongoing integrity of the financial statements contained therein.
+S TA TEMENT OF DIRE C T ORS RE SPONSIBILITIE S Annual Report 2002 We have audited the financial statements on pages 40 to 61 which have been prepared under the accounting policies set out on pages 43 to 44.
+RESPECTIVE RESPONSIBILITIES OF DIRECTORS AND AUDITORS The directors responsibilities for preparing the annual report and the financial statements in accordance with applicable law and United Kingdom Accounting Standards are set out in the Statement of Directors Responsibilities.
+Our responsibility is to audit the financial state ments in accordance with relevant legal and regulatory requirements United Kingdom Auditing Standards and the Listing Rules of the Financial Services Authority.
+We report to you our opinion as to whether the financial statements give a true and fair view and are properly prepared in accordance with the Companies Act.
+We also report to you if in our opinion the Directors report is not consistent with the financial statements if the Company has not kept proper accounting records if we have not received all the information and explanations we require for our audit or if information specified by law or the Listing Rules regarding directors remuneration and transactions with the Company and other members of the Group is not disclosed.
+We review whether the corporate governance statement on pages 31 to 33 reflects the Companys compliance with the seven provisions of the Combined Code specified for our review by the Listing Rules and we report if it does not.
+We are not required to consider whether the Boards Statement on internal control cover all risks and controls or form an opinion on the effectiveness of the Groups corporate governance procedures or its internal controls.
+We read other information contained in the annual report and consider whether it is consistent with the audited financial statements.
+This other information comprises only the Directors Report the Chairmans Statement the Operating and Financial Review and the
+Corporate Governance Statement.
+We consider the implications for our report if we become aware of any apparent misstatements or materi al inconsistencies with the financial statements.
+Our responsibilities do not extend to any other information.
+BASIS OF OPINION We conducted our audit in accordance with United Kingdom Auditing Standards issued by the Auditing Practices Board.
+An audit includes examination on a test basis of evidence relevant to the amounts and disclosures in the financial statements.
+It also includes an assessment of the significant estimates and judgements made by the directors in the preparation of the financial statements and of whether the accounting policies are appropriate to the Groups circumstances consistently applied and adequately disclosed.
+We planned and performed our audit so as to obtain all the information and explanations which we considered necessary in order to provide us with sufficient evidence to give reasonable assurance that the financial state ments are free from material misstatement whether caused by fraud or other irregularity or error.
+In forming our opinion we also evaluated the overall adequacy of the presentation of information in the financial statements.
+OPINION
+In our opinion the financial statements give a true and fair view of the state of affairs of the Company and of the Group at 30 June 2002 and of the profit of the Group for the year then ended and have been properly prepared in accordance with the Companies Act 1985.
+BDO Stoy Hayward Chartered Accountants and Registered Auditors London 10 October 2002 INDEPENDENT A UDIT ORS  REPOR T TO THE SHAREHOLDERS OF DIC OM GR OUP PL C DICOM Group plc 38 Annual Report 2002 C ONSOLID A TED FINANCIAL STATEMENTS DICOM Group plc Year to Year to 30 June 2002 30 June 2001
+Note 000 000 Turnover 1149527 140290 Cost of sales 3 95158 93276 Gross profit 54369 47014 Operating expenses Goodwill amortisation 2058 1802 Exceptional item 5237 287 Other 3 43107 37138 Total operating expenses 2 50402 39227 Operating profit before goodwill amortisation  exceptional item 11262 9876 Goodwill amortisation 2058 1802 Exceptional item 4 5237 287 Operating profit 3967 7787 Share of results of associated undertakings 288 462 Net interest payablereceivable and similar charges 5 158 146 Profit on ordinary activities before taxation 3521 7471 Taxation 7 2780 1797 Profit on ordinary activities after taxation 741 5674 Minority interests 8 101 Profit attributable to ordinary shareholders 733 5775 Dividends  equity 8 870 757 Retained lossprofit 137 5018 Earnings per ordinary share 9 basic 3.5p 27.9p adjusted 36.9p 33.4p diluted 3.5p 27.6p Dividend per ordinary share 4.2p 3.66p Statement of total recognised gains and losses Profit for financial year 733 5775 Gainloss on currency translation 596 650 Total recognised gains and losses relating to the year 1329 5125 Prior year adjustment 103 Total gains and losses recognised since last annual report 2359 5125 Consolidated profit and loss account for the year ended 30 June 2002 All activities are continuing.
+Annual Report 2002 Group at 30 June Parent company at 30 Junetel 2001
+Fixed assets Intangible assets 10 35186 35539 Tangible assets 11 4716 3848 Investments 1213 10428 11153 1975 5033 50540 1975 Current assets Stocks 14 11438 9051 Debtors 15 33965 33111 55107 Investments 16 254 192 Cash at bank and in hand 7265 6299 4 52922 48653 55111
+Amounts falling due within one year 17 34985 32096 2196 Net current assets 17937 16557 52915 Total assets less current liabilities 68267 67097 54890
+Amounts falling due after more than one year 18 1882 1467 Provisions for liabilities and charges 21 724 484 Net assets 65661 65146 54890 Capital and reserves Called up share capital 22 2083 2081 2081 Share premium account 23 51762 51729 51729 Merger reserve 23 527 527 Profit and loss account 23 11086 10627 1080 Shareholders funds  Equity 24 65458 64964 54890 Minority interests  Equity 203 182 65661 65146 54890 These financial statements were approved by the Board of directors on 10 October 2002 and were signed on its behalf by Otto Schmid Urs Niederberger Balance sheets at 30 June 2002 54436 DICOM Group plc Year to Year to 30 June 2002 30 June 2001 Cash inflow from operating activities 14022 8404 Returns on investments and servicing of finance 311 157 Taxation paid 377 1413 Capital expenditure and financial investment 308 16380 Acquisitions and disposals 1284 3993 Equity dividends paid 791 686 Cash inflowoutflow before use of liquid resources and financing 4786 13911 Management of liquid resources 564 6272
+Issue of Ordinary Shares 28 272 DecreaseIncrease in debt 3395 4772 3367 4500 IncreaseDecrease in cash in the year 1983 3139 Reconciliation of net cash flow to movement in net funds IncreaseDecrease in cash in the year 1983 3139 Cash outflowinflow from decreaseincrease in debt and lease financing 3395 4772 Cash inflow from decrease in liquid resources 564 6272 Change in net funds resulting from cash flows 4814 14183 Loans and finance leases acquired with subsidiaries 8 135 New finance leases 176 66 Exchange difference 217 190 Movements in net funds in the period 4413 14194 Net debtfunds at start of period 663 13531 Net fundsdebts at end of period 375 663 Further information in respect of the consolidated cash flow statement can be found in notes 13 and 27 Consolidated cash flow statement for the year ended 30 June 2002 3750 Annual Report 2002 The following accounting policies have been consistently applied in dealing with items which are considered material in relation to the Groups financial statements Basis of accounting The financial statements have been prepared under the historical cost convention and in accordance with applicable United Kingdom accounting standards.
+During the period FRS 18  Accounting Policies and FRS 19 Deferred tax have been implemented.
+These standards had to be applied retrospectively which resulted in a reduction of the tax charge for financial year ending June 2001 of which 391000 was debited to deferred tax asset and of which 609000 was debited to corporation tax.
+In addition exchange differences of 30000 arose.
+There was no material effect on the current year tax charge.
+Basis of consolidation The consolidated financial information includes the financial information of DICOM Group plc and all subsidiary undertakings.
+Intercompany balances and transactions have been eliminated on consolidation.
+The acquisition method of accounting has been adopted.
+Under this method the results of subsidia ry undertakings acquired during the relevant period are included in the consolidated profit and loss account from the date of acquisition.
+Subsidiary undertakings The investment in subsidiary undertakings is stated in the parent company balance sheet at cost less provision where appropriate for permanent diminution in value.
+Cost comprises any cash consideration the fair value of shares issued as consideration and any expenses of these acquisitions.
+Associated undertakings Those undertakings not being subsidiary undertakings over which the Group exercises significant influence are treated as associated undertakings.
+The Group includes its share of associated undertakings profits or losses in the consolidated profit and loss account.
+The investments in associated undertakings are stated in the consolidated balance sheet at the Groups share of the underlying net asset value.
+Goodwill and amortisation Goodwill arising on acquisitions is capitalised in the consolidated balance sheet in the year of acquisi tion.
+Goodwill is amortised on a straight line basis over its expected useful life.
+The principal annual rates used for this purpose are 533%.
+Goodwill is reviewed for impairment at the end of each reporting period if there are indications that the carrying value may not be recoverable.
+Purchased goodwill in respect of acquisitions before 1 July 1998 when UK Financial Reporting Standard 10 was adopted was eliminated against reserves in the year of acquisition.
+When a subsequent disposal occurs any related goodwill previously eliminated against reserves is written back through the profit and loss account as part of the profit or loss on dis posal.
+Impairment of fixed assets and goodwill The need for any fixed asset impairment write down is assessed by comparison of the carrying value of the asset against the higher of net realisable value or value in use.
+T urnover T urnover represents the value of goods supplied commission and other services provided to third Parties excluding V A T and similar taxes.
+Long term projects are assessed on a project by project basis and are reflected in the profit and loss account by recording turnover according to the degree of com pletion.
+Depreciation
+Depreciation of fixed assets is provided on a straight line basis to write off the cost of the assets over their expected lives.
+The principal annual rates used for this purpose are Buildings 3% Leasehold improvements 1020% Machines and equipment 2050% Motor vehicles 20% F urniture and fixtures 20% Accounting policies DICOM Group plc Research and development Research and development costs are charged to the profit and loss account in the period in which the expenditure is incurred.
+Ta xation The charge for taxation is based on the profit for the relevant period and takes into account taxation deferred because of timing differences between the treatment of certain items for taxation and accounting purposes.
+Deferred tax is provided in full on timing differences which result in an obligation at the balance sheet date to pay more tax or a right to pay less tax at a future date at rates expected to apply when they crystallise based on current tax rates and law .
+Timing differences arise from the inclusion of items of income and expenditure in taxation computations in periods different from those in which they are included in the financial statements.
+Deferred tax is not provided on unremitted earnings of subsidiaries and associates where there is no commitment to remit these earnings.
+Deferred tax assets are recognised to the extent that it is regarded as more likely than not that they will be recovered.
+Deferred tax assets and liabilities are not discounted.
+Fixed assets Fixed assets are included in the financial statements at cost less accumulated depreciation.
+Stocks
+Stocks and work in progress are stated at the lower of cost and net realisable value.
+Leased assets Assets acquired under hire purchase contracts and finance leases are capitalised in the balance sheet.
+The corresponding leasing commitments are shown as amounts payable to the lessor .
+Depreciation on the relevant assets is charged to the profit and loss account.
+Expenditure on operating leases is charged to the profit and loss account on a straight line basis over the lease period.
+Pensions
+The Group makes payments to various defined contribution pension schemes the assets of which are held separately in independently administered funds.
+The amount charged to the profit and loss account represents employer contribution payable in respect of the accounting period.
+Foreign currency and financial instruments Exchange profits and losses resulting from trading are accounted for in the results for the period.
+Assets and liabilities expressed in foreign currencies are translated into Sterling at the rates of exchange ruling at the end of the financial year  or at forward rates where covered by forward exchange contracts.
+Results of foreign subsidiary undertakings are translated at the average rate of exchange for the relevant period.
+Currency exchange differences arising from the translation of the net assets of the results of those subsidiary undertakings and of long term intra group loans as permanent as equity are taken directly to reserves.
+The Group does not trade in derivative financial instruments.
+Sales and purchases which occur in other currencies than the local currency are hedged where such transactions are material.
+This is carried out primarily by entering into short term forward exchange contracts to match cashflows.
+Where the instrument is used to hedge a committed or probable future transaction gains and losses are deferred until the transaction occurs.
+Employee share ownership plan The Group operates an Employee share ownership plan for all employees fulltime and parttime working at least 50% of full time hours.
+Shares in the Company held by the T rustees of the Employee Share Ownership T rust are stated at cost less provision for any permanent diminution in value.
+The difference between book value and residual value of the granted shares is charged as an operating cost over a threeyear period.
+Any financing and administrative costs are charged to the profit and loss account in the period in which the expenditure is incurred.
+Annual Report 2002 1  SEGMENTAL ANALYSIS Year to Year to 30 June 2002 30 June 2001 Sales by divisions Electronic Document Capture Own products  31356 Services  13866 Third party products  43604 Total EDC 88826 Samsung General Agency 51464 Sales by geographical market  by destination Western Europe 112371 Eastern Europe  4664 North America 21517 Rest of the World  1738 The sales by origin are not materially different Operating profit before goodwill amortisation and exceptional items by divisions EDC 6997 SGA 2879 Operating profit by divisions EDC 6183 4908 SGA 291 2879 Provision against deferred consideration and loan account due from former subsidiary 5237 Profit on ordinary activities before interest and taxation by geographical market before goodwill amortisation and exceptional items Western Europe  4923 Eastern Europe  284 North America  3967 NO TE S T O THE FINANCIAL S TA TEMENT S FOR THE YEAR ENDED 30 JUNE 2002 DICOM Group plc 1  SEGMENTAL ANALYSIS continued Year to Year to 30 June 2002 30 June 2001 Profit on ordinary activities before taxation by geographical market Western Europe  6183 Eastern Europe  291 North America  997 At 30 June 2002 At 30 June 2001 Shareholders funds by geographical market Western Europe  30391 Eastern Europe  781 North America  33792
+2  PROFIT ON ORDINARY ACTIVITIES BEFORE TAXATION Year to Year to 30 June 2002 30 June 2001 Profit on ordinary activities before taxation is stated after charging Research and development costs  5273 Depreciation of tangible fixed assets  owned  1554 Depreciation of tangible fixed assets  leased  51 Amortisation of goodwill  subsidiaries  1802 Amortisation of goodwill  associates  47 Loss on disposal of tangible fixed assets  18 Auditors remuneration audit Parent company 45000 2001 44000 180 non audit principally in respect of taxation advice  152 Operating lease rentals hire of plant and machinery  444 other operating lease charges  1403 All operating expenses relate to administrative expenses.
+2tel1544 65458 Annual Report 2002 3  COMPARATIVE FIGURES The Group changed its accounting of direct costs for its increased service income.
+While those costs have been included under operating expenses in previous periods the board considered that it should be shown as direct costs of sales from this year on.
+Year to 30 June 2001 Cost of sales as previously stated 89728 Reallocation of overheads 3548 Restated cost of sales 93276 Other overheads as previously stated 40686 Reallocation of overheads 3548 Restated other overheads 37138 4  EXCEPTIONAL ITEM Year to Year to 30 June 2002 30 June 2001 Exceptional item comprises Provision against deferred consideration and loan account due from former subsidiary 5237 Write off of a trade debtor Professional costs related to an abortive acquisition 287 5  NET INTEREST PAYABLERECEIVABLE AND SIMILAR CHARGES Year to Year to 30 June 2002 30 June 2001 Interest receivable 77277 525 Less interest payable on bank loans overdrafts and other loans  331 Less other interest payable  48 Net interest payablereceivable  146 6  STAFF NUMBERS AND COSTS Year to Year to 30 June 2002 30 June 2001 Number Number The average number of employees including executive directors during the year was as follows Sales and marketing  218 Service  207 Support and Development  209 Total  634 22tel4000 5237 DICOM Group plc 6  STAFF NUMBERS AND COSTS continued Year to Year to 30 June 2002 30 June 2001 Group employment costs for all employees including directors were as follows Wages and salaries  21517 Social security costs  3180 Pension costs  508 Staff costs include remuneration in respect of the directors as follows Fees including consultancy to nonexecutive directors  89 Salaries bonuses and benefits in kind  644 Pension contributions  73 All pension contributions relate to defined contributions made to personal pension schemes.
+All of the executive directors are members of a defined contribution pension scheme.
+Year to Year to 30 June 2002 30 June 2001 The emoluments of the highest paid director were as follows Salary bonus fees and benefits  163 Pension contributions  20 A full analysis of directors emoluments and options is contained in the Remuneration report on pages 7  TAXATION Year to Year to 30 June 2002 30 June 2001 The current tax charge represents UK corporation tax  989 Adjustment in respect of previous years Overseas tax  1677 Underprovision of previous years  125 Total current tax 2791 Deferred tax charge represents Increase in deferred tax provision due to timing differences  6 Decrease in deferred tax asset due to reversal of timing differences Recognition of previously not capitalised deferred tax assets 1000 Total deferred tax charge 994 Total tax charge 1797 2780 Annual Report 2002 7  TAXATION continued Year to Year to 30 June 2002 30 June 2001 Reconciliation of tax charge Profit on ordinary activities multiplied with the expected group corporation tax charge of 30 % 2001 30% 2241 Effects of Expenses not deductible for tax purposes mainly goodwill depreciation 694 Exceptional items not attracting tax relief Utilisation of tax losses carried forward 269 Overunderprovison in respect of previous periods 125 Current tax charge for the period 2791 8  DIVIDENDS  EQUITY Year to Year to Year to Year to 30 June 2002 30 June 2001 30 June 2002 30 June 2001 per share per share 000 000 These comprise Ordinary shares of 10p Interim dividendpaid 1.22p  254 Final dividendproposed 2.44p  503 Total dividend 3.66p  757 9  EARNINGS PER SHARE Basic earnings per share of 3.5p 2001 27.9p for the year to 30 June 2002 have been calculated based on the profit attributable to shareholders of 733000 2001 5775000 using the weighted average number of ordinary shares in issue totalling 20821701 2001 20716446 during the period.
+The results of the previous period have been restated due to the required retrospective introduction of FRS 19 Deferred tax.
+This resulted in a reduction of the tax charge for the year ended 30 June 2001 amounting to 1000000 of which 391000 was debited to deferred tax asset and of which 609000 was debited to corporation tax.
+Adjusted earnings per share of 36.9p 2001 33.4p for the year to 30 June 2002 are based on profit of 7673000 2001 6911000 being adjusted by the amortisation of goodwill in subsidiaries of 2058000 2001 1802000 amortisation of goodwill in associates of 84000 2001 47000 and exceptional items amounting to 4798000 being reported net after tax benefits 2001 287000 using the weighted average number of ordinary shares in issue totalling 20821701 2001 20716446 during the period.
+The restatement of the previous year tax charge was not taken into account in the calcul tion of adjusted earnings per share.
+2663 DICOM Group plc 9  EARNINGS PER SHARE Continued Diluted Earnings per share of 3.5p 2001 27.6p for the year to 30 June 2002 is based on 20959654 2001 20901787 the difference to the basic calculation representing the additional shares that would be issued on the conversion of all the dilutive potential Ordinary Shares.
+Share options with an exercise price below the average share price during the year ended 30 June 2002 are considered as dilutive potential Ordinary Shares.
+There is no material difference to earnings if all the dilutive potential Ordinary Shares were converted.
+10  INTANGIBLE ASSETS Goodwill has arisen during the year on the Groups acquisition of the majority holding in DICOM Asia of which it previously held 40%.
+In addition the Group acquired the business of Doxcan AB in Sweden and Proscan Oy in Finland.
+Further details are shown in note 13.
+Associated Subsidiary Undertakings Companies Total
+At 1 July 2001 1075 37082 38157 Additions 2115411562 Increase in deferred consideration  98 98 Currency exchange movements  106 106 At 30 June 2002 1096 38827 39923 At 1 July 2001 96 2522 2618 Charge for the year 61 2058 2119 At 30 June 2002 157 4580 4737 Net book value at 30 June 2002 939 34247 35186 Net book value at 30 June 2001 979 34560 35539 11  TANGIBLE ASSETS Machines Furniture Leasehold and and Motor Building improvements equipment fixtures vehicles Total
+At 1 July tel7141 2307 333 10815 Acquisitions 447 Additions 741tel670 Disposals 141 Currency exchange movements 10 69 280 187 32 66 At 30 June tel8709 2619 413 12857 Annual Report 2002 11  TANGIBLE ASSETS continued Machines Furniture Leasehold and and Motor Building improvements equipment fixtures vehicles Total
+At 1 July 2001 11 385 5046 1402 123 6967 Acquisitions 223 Charge for the year 5 114 1440 398 78 2035 Disposals 032 Currency exchange movements  25 20 58 11 52 At 30 June 2002 16 518 5754 1687 166 8141 Net Book value at 30 June tel2955 932 247 4716 Net Book value at 30 June tel2095 905 210 3848 The amounts stated above include assets held under finance leases and similar hire purchase contracts as follows At 30 June 2002 At 30 June 2001 Net book value 249 154 The depreciation charge for the year on these assets was 46000 2001 51000 12  INVESTMENTS Associated Unlisted Investments Parent undertakings investments in own shares Group company
+At 1 July 2001 114 10796 471 11153 1975 Additions 99 Transfer to subsidiary undertaking 171   171
+Provision 543543 Share of loss in associated undertakings 228   228 Currency exchange movements 87 66 58 95 At 30 June 2002 267 10187 508 10428 1975 Parent company investments relate to investments in subsidiary undertakings.
+The investment shown in own shares is held by the trustees of the Employee Share Ownership plan.
+The holding comprises 155100 shares 2001 176800 shares with a market value at 30 June 2002 of 654500 2001 680700.
+The total carrying value of associates is 672000 2001 865000 which includes goodwill of 939000 2001 979000 as detailed in note 10.
+Further details on Group investments can be found on pages 52 and 53.
+DICOM Group plc 12  INVESTMENTS continued PRINCIPAL SUBSIDIARY AND ASSOCIATED UNDERTAKINGS Country of incorporation Name of undertaking and operation Percentage of issued share capital held Subsidiary undertakings Azag Asia Holdings Pte Ltd Singapore 52% Azag Software Lab AG Switzerland 100% Azag Software Lab Sdn Bhd.
+Malaysia 52% Desc AG Switzerland 100% DICOM AG Switzerland 100% DICOM Asia Holdings Pte Ltd Singapore 80% DICOM Australia Pte Ltd Australia 48% DICOM Benelux NVSA Belgium 100% DICOM Data Management CZ spol. s r.
+Czech Republic 100% DICOM Deutschland AG Germany 100% DICOM Edbdistribution AS Denmark 92% DICOM Finland OY Finland 100% DICOM France SA France 100% DICOM Holding AG Switzerland 100% DICOM Informationstechnologie GmbH Austria 80% DICOM Information Technology Sdn Bhd.
+Malaysia 80% DICOM Italia S.
+Italy 84% DICOM Magyarorszg Kft.
+Hungary 97% DICOM Norge AS Norway 100% DICOM Polska Sp. z o.
+Poland 100% DICOM SEDICO AG Switzerland 60% DICOM Singapore Pte Ltd Singapore 80% DICOM Technologies Ltd England 100% DIALOG Imaging France SA France 100% DIALOG Imaging Ltd England 100% DIALOG Solutions AG Switzerland 100% ELSAT International Computervertriebsges.
+Kofax Image Products Inc.
+United States 100% Imaging Components Corporation United States 100% Logic d.
+Croatia 100% NorDICOM AB Sweden 100% Annual Report 2002 12  INVESTMENTS continued Country of incorporation Name of undertaking and operation Percentage of issued share capital held Opersys AG Switzerland 100% Optistor Australia Pte Ltd Australia 80% PDS S.
+Italy 60% PhilDICOM Inc.
+Philipines 40% Proscan Oy Finland 100% Sidus d.
+Croatia 60% Sidus Italia S.
+Italy 100% Sistemas DICOM Ibrica S.
+Spain 80% Xenstone Storage Systems Ltd England 100% Associated undertakings Alos GmbH Germany 20% BaseNet Informatik AG Switzerland 35% BaseNet Research AG Switzerland 45% DICOM Security AG Switzerland 42% Intelligo AB Sweden 30% iSource AG Switzerland 30% The activities of the Associated undertakings are the same as those of the Group.
+Subsidiary undertakings which are held directly by the parent company.
+13  ACQUISITIONS In July and August 2001 the Group acquired the businesses of two companies in the Nordic Region Doxcan AB in Sweden and Proscan Oy in Finland.
+In June 2002 the Group announced that it increased its stake in DICOM Asia from 40% to 80%.
+An analysis of the consideration paid fair value of net assets acquired and goodwill arising in relation to the above acquisitions is set out below BookFair Value to the Group Fixed assets Tangible fixed assets 185 Current assets Stocks 546 Debtors 2845 Cash at bank and in hand 353 Total assets 3929 DICOM Group plc 13  ACQUISITIONS continued BookFair Value to the Group Creditors 4458 Net assets 529 Costs of acquisition 19 Fair value of consideration 993 Goodwill arising from the acquisitions 1541 The fair value of consideration is calculated as follows Consideration paid in cash 1164 Carrying value of associates 171 Total fair value of consideration 993 The results of DICOM Asia and its affiliates prior to its acquisition are set out below Year ended 30 June 2002
+Operating loss Minority interest Loss on ordinary activities after taxation The prior year preacquisition results of DICOM Asia and the preacquisition results of the two Nordic businesses acquired are considered to be not material.
+Cash Flows The net outflow of cash arising from acquisitions is as follows Cash consideration 1102 Cash acquired 353 Overdraft acquired 473 Net outflow of cash relating to the acquisitions 1222 14  STOCKS Group at 30 June Parent company at 30 Junetel 2001 Work in progress  674 Finished goods and goods for resale 8377 The replacement cost of stock is not considered to be materially different from the amounts shown above.
+Annual Report 2002 15  DEBTORS Group at 30 June Parent company at 30 Junetel 2001 Trade debtors 20045 Amounts due from subsidiary undertakings   55028 Amounts due from associated undertakings 2738 Other debtors 6787  5 Deferred tax asset 391 Amounts recoverable under contracts 826 Prepayments and accrued income 2324  74 33111  55107 Group Parent company Deferred tax asset At 1 July 2001  prior year adjustment 391 Decrease due to reversal of timing differences 106 Currency exchange movements 24 At 30 June 2002 261 16  INVESTMENTS Group at 30 June Parent company at 30 Junetel 2001 Unlisted investments 192 The unlisted investments relate to Austrian Government securities held by one of the Groups subsidiaries.
+17  CREDITORS Group at 30 June Parent company at 30 Junetel 2001 Amounts falling due within one year Bank loans and overdrafts 6056 8 Trade creditors 10302 Other creditors 1892 13 Creditors for taxation and social security 1552 Dividend payable 503 503 53978 DICOM Group plc 17  CREDITORS continued Group at 30 June Parent company at 30 Junetel 2001 Deferred income 3725 Accruals 5983 963 Corporation tax 2016 709 Obligations under hire purchase contracts and finance leases 67 32096 2196 Bank loans and overdrafts to certain subsidiary undertakings amounting to 1028000 2520000 were secured on the assets of those subsidiary undertakings.
+18  CREDITORS Group at 30 June Parent company at 30 Junetel 2001 Amounts falling due after more than one year Long term loans secured on the assets of certain subsidiary undertakings at market interest rates Due after 1 year but not more than 2 years 269 Due after 2 years but not more than 5 years 502 Accruals 628 Obligations under hire purchase contracts and finance leases 68 19  FINANCIAL INSTRUMENTS An explanation on the Groups policy in respect of the risks relating to financial instruments is included in the Accounting policies on pages 43 to 44.
+Shortterm debtors and creditors are not financial assets or financial liabilities in relation of the disclosures made below since the net exposure after hedging of such transactions are considered not to be material.
+The currency and interest rate exposure of the Groups borrowings is shown below
+Weighted average time Floating Fixed average for which Total borrowings borrowings interest rate rate is fixed 000 000 000 % Years
+Sterling 1212 Euro 2139 1466 673 5.6 2.5 USD 1414 Other 1tel.20.1 At 30 June 2002 3199 2084 1115 4.2 1.5
+Sterling 358 358 29tel1882 1531 Annual Report 2002 19  FINANCIAL INSTRUMENTS continued
+Weighted average time Floating Fixed average for which Total borrowings borrowings interest rate rate is fixed 000 000 000 % Years Euro 2483 1773 710 5.7 3.3 USD 2222 92 2130 7.1 0.1 Other 1765 164 1601 4.0 0.2 At 30 June 2001 6828 2387 4441 5.8 0.6 An analysis of the Groups cash by currency is as follows At 30 June 2002 At 30 June 2001
+Sterling  14 Euro  2293 Swiss Franc 562 US Dollar 3029 Other European currencies 401 Cash balances and bank overdrafts carry floating rate interest based on the relevant national interbank rates.
+The Group has negotiated working capital facilities with local relationship banks in the countries in which it operates.
+These facilities are negotiated annually and are normally repayable on demand.
+The benchmark is linked to libor.
+They are primarily for the purpose of providing additional working capital.
+At 30 June 2002 committed but undrawn working capital facilities amounted to 24.7m 2001 22.1m.
+There are no material differences between book values of financial instruments and fair values.
+Further details of the Groups Treasury Management policies can be found in the Directors report on page 30.
+20  OBLIGATIONS UNDER HIRE PURCHASE CONTRACTS AND FINANCE LEASES Group at 30 June Parent company at 30 Junetel 2001 Repayable within 1 year 67 Repayable 1 to 2 years 56 Repayable 2 to 5 years 12 21  PROVISIONS FOR LIABILITIES AND CHARGES Group Parent company Deferred tax provision At 1 July 2001 484 Deferred tax resulting from currency movements charged directly against reserves 166 7265 DICOM Group plc 21  PROVISIONS FOR LIABILITIES AND CHARGES continued Group Parent company Transfer from the profit and loss account 11 Currency exchange movements 63 At 30 June 2002 724 Deferred taxation provided is in respect of timing differences attributable to depreciation rates and profit recognition rules.
+In addition deferred tax arising on certain currency movements was charged directly against reserves.
+22  SHARE CAPITAL Issued called up Authorised and fully paid Number 000 Number 000 Equity share capital Ordinary shares of 10p At 1 July 2001 33000000 3300 20814150 2081 Issued under option scheme   23250 2 At 30 June 2002 33000000 3300 20837400 2083 In addition to the options granted to the directors which are shown in the Remuneration report on pages 34 to 35 the following options over ordinary shares have been granted to certain employees of the Group under various Option Schemes and remain outstanding at June 2002 Outstanding Granted Exersised Lapsed Outstanding at during during during at 1 July 2001 the year the year the year 30June 2002 Exercise price Exercise period Share Option Plan 183500  20250 24500 90p382.5p 20002008 Share Option Super plan 183500  3000 21000 90p382.5p 20012008 DICOM 2000 Share option plan 1042763 663050  95713 4.68E19.84E 20012011 23  RESERVES Share premium Merger reserve Profit and loss Total
+At 1 July 2001 as previously stated 51729 527 9597 61853 Prior year adjustment   1000 1000 Currency exchange movement relating to prior year adjustment   30 30 At 1 July 2001 as restated 51729 527 10627 62883 Retained profit for the year   137 137 Currency exchange movements   596 596 Premium arising on issue of ordinary shares 33   33 At 30 June 2002 51762 527 11086 63375 The cumulative goodwill resulting from acquisitions to date which have been eliminated against reserves is 8912000 2001 8912000.
+1610100 Annual Report 2002 23  RESERVES continued Share premium Profit and loss Total Parent Company At 1 July 2001 51729 1080 52809 Retained profit for the year  489 489 Premium arising from share issues 33  33 At 30 June 2002 51762 591 52353 Under the exemption given in the Companies Act 1985 Section 230 the Parent Company does not present its own profit and loss account.
+The profit attributable to the Parent Company was 381000 2001 875000.
+24  RECONCILIATION OF MOVEMENTS IN SHAREHOLDERS FUNDS Group at 30 June Parent company at 30 Junetel 2001 Shareholders funds at 1 July 2001 as previously stated Prior year adjustment Shareholders funds at 1 July 2001 as restated 58800  52976 Profit for the financial year  5775 381 875 Dividends  757  757 Currency exchange movements  650 New share capital issued  1796  1796 Shareholders funds at 30 June 2002  64964  54890 All of the shareholders funds are equity.
+25  COMMITMENTS UNDER OPERATING LEASES Group at 30 June Parent company at 30 Junetel 2001 Lease of land and buildings Within 1 year  1006 In 2 to 5 years inclusive  1525 After 5 years  185 Other leases Within 1 Year  156 In 2 to 5 years inclusive  236 111tel DICOM Group plc 26  RELATED PARTY TRANSACTIONS Year to Year to 30 June 2002 30 June 2001 Sales to Associated undertakings  1146 Purchases from Associated undertakings  51 At 30 June 2002 the Associated undertakings owed 1551000 2001 2738000 to the Group.
+27  NOTES TO THE CONSOLIDATED CASH FLOW STATEMENT Year to Year to 30 June 2002 30 June 2001 Reconciliation of operating profit to operating cash flows Operating profit  7787 Depreciation and amortisation  3407 Profit on sale of fixed asset investment  85 Loss on sale of tangible fixed assets  18 IncreaseDecrease in stocks  343 DecreaseIncrease in debtors  3910 Increase in creditors  1067 Foreign exchange differences  223 Net cash inflow from operating activities  8404 Returns on investments and servicing of finance Interest paid  363 Interest received  520 Net cash outflowinflow for returns on investments and servicing of finance  157 Capital expenditure and financial instruments Purchase of fixed assets  1366 Purchase of fixed assets investments  15084 Purchase of current asset investments  18 Sale of tangible fixed assets  70 Sale of fixed assets investments  18 Net cash outflow for capital expenditure and financial investments  16380 Acquisitions and disposals Purchase of subsidiary undertakings net of cashoverdraft acquired  2225 Purchase of businesses  1768 Net cash outflow for acquisitions  3993 495 Annual Report 2002 27  NOTES TO THE CONSOLIDATED CASH FLOW STATEMENT continued Year to Year to 30 June 2002 30 June 2001 Management of liquid resources Divestment in short term deposits  6272 Net cash inflow from management of liquid resources  6272
+Issue of ordinary shares net of share issue costs  272 Debt due within a year Loan repayment Loan taken out 4250 Debt due beyond one year Loan repayment Loan taken out 573 Capital element of finance leases repayment  51 Net cash inflow from financing  4500 Analysis of net fundsdebt Other Foreign Acquired with noncash exchange At 30 June 2001 Net Cash flow subsidiary changes movements At 30 June 2002 Cash in hand at bank 5774 1478   13 Overdrafts 1571 50598 Debt due within 1 year 4485 3362   73 Debt due after 1 year 771 12   80 Finance leases 135 21 8 176 18 Current asset investment 525 564   39 Total 663 4 excl.
+Other non cash changes relate to the inception of new finance leases.
+The cash flows relating to acquisitions are not material since DICOM Asia was acquired end of June 2002.
+3750 DICOM Group plcteltel Consolidated profit and loss account Turnover 140290 99229 87863 66295 Operating profit before goodwill amortisation and exceptional items 9876 4734 2815 478 Operating profit 7787 3983 2773 478 Share of results of associated undertakings 462 26 21 45 Exceptional item 287  541 Net interest payablereceivable 146 97 202 116 Profit on ordinary activities before taxation 7471 3860 3133 639 Taxation 1797 1188 689 183 Profit on ordinary activities after taxation 5674 2672 2444 822 Minority interests  Profit attributable to ordinary shareholders 5775 3056 2505 670 Earnings per share basic 27.9p 19.1p 19.1p 5.2p adjusted 33.4p 29.3p 22.7p 5.2p diluted 27.6p 18.8p 19.1p 5.1p Dividends per share 3.66p 3.18p 2.76p 2.4p Assets employed Fixed assets 50540 35809 3757 2662 Current assets 48653 46212 23539 22762 Current liabilities 32096 21979 15565 16345 Net current assets 16557 24233 7974 6417 Total assets less current liabilities 67097 60042 11731 9079 Creditors due after more than one year 1951 1325 603 588 Net assets 65146 58717 11128 8491 Represented by Shareholders funds 64964 58800 11161 8589 Minority interests 182 83 33 98 58717 11128 8491 FIVE YEAR RECORD NOTICE IS HEREBY GIVEN that the seventh Annual General Meeting of the Company will be held at the offices of HSBC Investment Bank plc Vintners Place 68 Upper Thames Street London EC4V 3BJ on 13 November 2002 at 10am for the following purposes ORDINARY BUSINESS To receive and adopt the Directors report and accounts for the year ended 30 June 2002 and the Auditors report thereon.
+To declare a final dividend of 2.8p per ordinary share to be paid on 29 November 2002 to all ordinary shareholders on the Register on 1 November 2002.
+To reelect as a director Bruce Powell who retires by rotation.
+To reelect as a director Paul Gerny who retires by rotation.
+To reelect as a director John Incledon who retires by rotation.
+To consider and if thought fit pass the following resolution as an Ordinary Resolution THAT BDO Stoy Hayward be and are hereby reappointed as Auditors to the Company from the conclusion of this meeting until the conclusion of the next Annual General Meeting and that the directors be and are hereby authorised to fix the remuneration of BDO Stoy Hayward as Auditors.
+SPECIAL BUSINESS To consider and if thought fit pass the following resolution as an Ordinary Resolution a THAT the directors pursuant to and in accordance with Section 80 of the Companies Act 1985 the Act be generally and unconditionally authorised to exercise all the powers of the Company to allot relevant securities up to an aggregate nominal value of 694896 until the conclusion of the Annual General Meeting of the Company which takes place in 2003 or the period of 15 months from the passing of this resolution whichever is the earlier b pursuant to such authority the directors may make an offer or agreement which would or might require relevant securities to be allotted after the expiry of such period c words and expressions defined in or for the purposes of Section 80 of the Act shall have the same meaning in this resolution and d the authority conferred by this resolution be in substitution for all existing authorities granted to the directors pursuant to the said Section 80.
+To consider and if thought fit pass the following resolution as a Special Resolution THAT in substitution for all previous authorities and powers granted to the directors under Section 95 the Section of the Act the directors be and they are hereby authorised and empowered pursuant to the Section to allot equity securities within the meaning of Section 942 of the Act of the Company pursuant to the authority conferred by Resolution 7 above as if Section 891 of the Act did not apply to such allotment provided that the authority and power contained in this paragraph shall be limited as follows a to the allotment of equity securities in connection with a rights issue or any other preemptive offer in favour of holders of equity securities where the equity securities respectively attributable to the interests of such holders Annual Report 2002 are proportionate as nearly as may be to the respective amounts of equity securities held by them subject only to such exclusions or other arrangements as the directors may consider appropriate to deal with fractional entitlements or legal or practical difficulties under the laws or the rules or regulations of any jurisdiction stock exchange or other regulatory body whatsoever b to the allotment otherwise than pursuant to sub paragraph a above of equity securities which are or are to be wholly paid up in cash to an aggregate nominal amount of 104234 and provided further that the authority and power conferred by this Resolution shall expire at the conclusion of the Annual General Meeting of the Company which takes place in 2003 or the period of 15 months from the passing of this Resolution whichever is the earlier unless such authority is renewed or extended at or prior to such time save that the Company may before such expiry make any offer agreement or other arrangement which would or might require equity securities to be allotted otherwise than in accordance with Section 89 of the Act after the expiry of this authority.
+To consider and if thought fit pass the following resolution as a Special Resolution THAT the articles of association of the Company be and are hereby amended as detailed in the Appendix which forms part of the Notice of Annual General Meeting.
+To consider and if thought fit pass the following resolution as a Special Resolution THAT the Company be generally and unconditionally authorised to make market purchases within the meaning of section  of the Companies Act 1985 of ordinary shares of 0.10 each in the capital of the Company Ordinary Shares provided that a the maximum number of Ordinary Shares hereby authorised to be purchased is 2084690 representing 10 per cent of the Companys issued Ordinary Share capital b the minimum price exclusive of any expenses which may be paid for an Ordinary Share is 10p c the maximum price exclusive of any expenses which may be paid for an Ordinary Share is an amount equal to 105 per cent of the average of the middle market quotations for an Ordinary Share derived from the London Stock Exchange Daily Official List for the five business days immediately preceding the date on which such Ordinary Share is contracted to be purchased d the authority hereby conferred shall expire at the conclusion of the Annual General Meeting of the Company which takes place in 2003 or the period of 15 months from the passing of this resolution whichever is the earlier e the Company may make a contract for the purchase of Ordinary Shares under this authority before the expiry of this authority which would or might require to be executed wholly or partly after the expiry of such authority and may make purchases of Ordinary Shares in pursuance of such a contract as if such authority had not expired.
+By Order of the Board Urs Niederberger Company Secretary 10 October 2002 Registered Office Beechwood Chineham Business Park Basingstoke Hampshire RG24 8WA NOTICE OF ANNUAL GENERAL MEETING OF DICOM GROUP PLC THE COMPANY DICOM Group plc
+Any member entitled to attend and vote at the meeting convened by the above notice may appoint one or more pro xies to attend and on a poll to vote instead of him.
+A proxy need not be a member of the Company.
+Completion of a form of proxy does not preclude a member from attending and voting at the meeting in person.
+To be valid a duly executed form of proxy for use at the mee ting together with the power of attorney or other authority if any under which it is signed or a notarially certified copy of such power or authority must be deposited at the Companys Registrars Connaught St.
+Michaels Limited P .
+Box 30 Cresta House Alma Street Luton Bedfordshire LU1 2PU by no later than 48 hours before the time for the holding of the meeting or any adjournment thereof.
+Pursuant to Regulation 34 of the Uncertificated Securities Regulations 1995 the Company gives notice that only those shareholders entered on the register of members at the close of business on 11 November 2002 will be entitled to attend or vote at the aforesaid meeting in respect of the number of shares registered in their name at that time.
+Changes to entries on the register after close of business on 11 November 2002 will be disregarded in determining the rights of any person to attend or vote at the meeting.
+FURTHER EXPLANATORY NOTES Resolution 7 asks shareholders to renew the Directors general authority to allot unissued shares should it be desirable to do so.
+In accordance with corporate governance best practice recommendations if approved this authority is limited to a maximum of 6948960 shares equivalent to onethird of the Companys issued share capital as at 10 October 2002.
+The
+Directors have no present plans to issue shares using this authority which will expire at the next Annual General Meeting or 15 months from the date of the resolution whichever is the earlier .
+Resolution 8 asks shareholders to renew the Directors authority to allot shares for cash to persons other than existing shareholders up to a maximum of 5% of the Companys issued share capital.
+This authority which will expire at the next Annual General Meeting or 15 months from the date of the resolution whichever is the earlier  gives the Directors flexibility to take advantage of business opportunities as they arise and the 5% limit ensures that existing shareholders interests are protected.
+Resolution 9 if approved will make certain changes to the Articles of Association of the Company which the Directors consider are in the best interests of the Company and shareholders.
+The proposed changes seek to update the Articles by inter alia deleting references to the 1996 Placing and reflecting the provisions relating to uncertificated shares in the light of the Uncertificated Securities Regulations 2001 facilitate electronic communications.
+The Electronic Communications Act 2000 allows companies to use electronic communications in relation to the transmission to shareholders of reports accounts notices of meeting and the appointment of proxies.
+The provisions of this Act do not require either companies or shareholders to use electronic communications but will make it possible for them to do so where this is appropriate and where both the Company and the relevant shareholder agree.
+Shareholders will be notified with full information when the Company proposes to allow electronic communications.
+This will not occur until the Companys registrars have the necessary systems in place ensure compliance with the Combined Code in relation to the reelection of directors The proposed changes are set out in the Appendix In certain circumstances it may be advantageous for the Company to purchase its own shares.
+Resolution 10 asks shareholders to give the Company authority to purchase its own shares in the market subject to a maximum of 10% of the issued ordinary share capital of the Company and specified maximum and minimum prices.
+This authority will expire at the next Annual General Meeting or 15 months from the date of the resolution whichever is the earlier .
+The Directors intend to exercise this power only if and only when in light of market conditions prevailing at the time they believe that the effect of such purchases will be to increase earnings per share and is in the best interests of the shareholders generally.
+Other
+Any shares purchased in this way will be cancelled and the number of shares in issue will be accordingly reduced.
+Annual Report 2002 APPENDIX PROPOSED AMENDMENTS TO THE ARTICLES OF ASSOCIATION The proposed amendments to the Articles of Association as set out in Resolution 9 in the Notice of Annual General Meeting are as follows a The adoption and inclusion in alphabetical order  of the following new definitions in Article 2 i address  means in relation to electronic communications any number or address used for the purposes of such communications ii communication  means the same as in the Electronic Communications Act 2000 as amended consolidated or re enacted from time to time iii electronic communication  means the same as in the Electronic Communications Act 2000 as amended consolidated or reenacted from time to time iv The Regulations  means the Uncertificated Securities Regulations 2001 SI 2001 No.
+3755 and any modifications thereof and any substitutions therefor for the time being in force b Inserting the words and every statutory modification or re enactment thereof for the time being in force after the Companies Act 1985 in the definition of the Act in Article 2.
+Article 2. the definition of the London Stock Exchange in Article 2. e Deleting the definition of the Placing in Article 2. inserting the words and Markets Act 2000 in Article 2.3.
+References to a share being in uncertificated form are references to that share being an uncertificated unit of a security and references to a share being in certificated form are references to that share being a certificated unit of a security provided that any reference to a share in uncertificated form applies only to a share of a class which is for the time being a participating security and only for so long as it remains a participating security.
+Subject as aforesaid any word or expression to which a meaning is assigned by the Act or the Regulations has the meaning so assigned to it on the date on which this article 2.12 becomes binding on the Company.
+So far as the Act and the Regulations may allow the Directors may cause any shares arising on consolidation or subdivision and representing fractional entitlements to be issued in certificated form where this is desirable to facilitate the sale thereof. i Deleting Articles 11.3 11.4 and 11.5.
+Article 15 Without prejudice to any powers which the Company or the Directors may have to issue allot dispose of convert or otherwise deal with or make arrangements in relation to shares and other securities in any form the holding of shares in uncertificated form and the transfer of title to such shares by means of a relevant system shall be permitted and the Company may issue shares in uncertificated form and may convert shares from certificated form to uncertificated form and vice versa and if and to the extent that any provision of these Articles is inconsistent with such holding or transfer as is referred to above or with any provision of the Regulations it shall not apply to any share in uncertificated form.
+Notwithstanding anything else contained in these Articles where any class of shares is for the time being a participating security unless the Directors otherwise determine shares of any such class held by the same holder or joint holders in certificated form and uncertificated form shall be treated as separate holdings.
+For the avoidance of doubt a class of share shall not be treated as two classes by virtue only of that class comprising shares in both certificated and uncertificated form or as a result of any provision of these Articles or the Regulations which apply only in respect of sha res in certificated or uncertificated form. certificate in the final paragraph of Article 15.
+Where a share is held in the first line of Article 16. those shares and shall in Article 29. the shares sold in Article 32.
+Where any class of shares is for the time being a participating security title to shares of that class which are recorded on an operator register of members as being held in uncertificated form may be transferred by means of the relevant system concerned. form after the words The Directors may in Article 35.1.
+The Directors may also refuse to register a transfer of any share in uncertificated form to a person who is to hold it thereafter in certificated form in any case where under the Regulations the Company is entitled to refuse to register the transfer or is excepted from the requirement to register the transfer .
+If the Directors refuse to register a transfer of shares in uncertificated form they shall send to the transferee notice of the refusal within two months after the date on which the operators instruction of the relevant system concerned was received by or on behalf of the Company. words the registration of transfers may be in Article 38.
+References in this Article 48 and Article 49 to notice in writing includes notice sent by electronic communications and notice published on a website in accordance with the Statutes.
+Where the notice is published on a website it shall continue to be published in its entirety in the same place on that website from the date notification is given until the conclusion of the meeting to which the notice relates.
+14 days notice in writing.
+Where the relevant shares are held in uncertificated form the Directors may only exercise their discretion not to register a transfer if permitted to do so by the Regulations but may to enable the Company to deal with the shares in accordance with the provisions of this Article require the operator of a relevant system to convert the shares into certificated form. words which the Directors may approve. and has been delivered. received by the Company at the Transfer Office in Article 70.
+General Meeting at the end of Article 82. such communications at the end of Article 86. more Directors on the last line.
+Annual Report 2002 cc By adding the words The Company may send any document required to be sent by this Article by using electronic communications or by publishing such document on a website in accordance with the Statutes. at the end of Article 127 . notices. be invalidated.
+In the case of notices or other documents contained in an electronic communication or the publishing of such notices or documents on a website in accordance with the Statutes the Directors may in their absolute discretion make such arrangements in respect of the security of such electronic communication or publication as they think fit.
+A notice or other document contained in an electronic communication or published on a website in accordance with the Statutes shall be deemed to be given at the expiry of 24 hours after the time it was sent or published. laws of another country.
+Company in uncertificated form at the start of Article 138.1 DICOM Group plc
+AUSTRIA
+DICOM Informationstechnologie GmbH Perfektastrasse 84 1231 Vienna Phone 43 0 Fax 43 0 EMail mailboxemail. httpwww. icomgroup.
+SAMSUNG GENERAL AGENCY ELSAT International Computervertriebsges. m.
+Perfektastrasse 84 1231 Vienna Phone 43 0 Fax 43 0 EMail mailboxemail. httpwww. lsat.
+AUSTRALIA
+DICOM Australia Pty Ltd Unit 1 6 Anella Ave Castle Hill NSW 2154 Phone 61 0 2 9894 8900 Fax 61 0 2 9894 8700 Email Mailboxemail httpsiteau DICOM Australia Pty Ltd Suite 201 Level 2 88 Albert Road South Melbourne Vic 3205 Phone 61 0 3 9694 3400 Fax 61 0 3 9696 1666 EMail Mailboxemail Optistor Australia Pty Ltd Unit 1 6 Anella Ave Castle Hill NSW 2154 Phone 61 0 2 9894 6033 Fax 61 0 2 9894 6766 email Optistor Australia Pty Ltd Suite 201 Level 2 88 Albert Rd South Melbourne Vic 3205 Phone 61 0 3 9694 3444 Fax 61 0 3 9696 1666 email
+DICOM BENELUX NVSA Zandvoortstraat 5 2800 Mechelen Phone 32 0 Fax 32 0 EMail mailboxemail httpwww. icom.
+Kofax Image Products Heide 17 1780 WemmelBruxelles Phone 32 0 2 456 1720 Fax 32 0 2 456 1721 httpsite PRINCIPAL SUBSIDIARIES AND ASSOCIATED UNDERTAKINGS COMPANY SECRETARY Urs Niederberger Registered office
+Chineham Business Park Basingstoke Hampshire RG24 8WA Company registration no
+Auditors
+BDO Stoy Hayward 8 Baker Street London W1U 3LL
+Connaught St.
+Michaels Ltd.
+PO Box 30 Alma Street Luton Bedfordshire LU1 2PU
+Richards Butler Beaufort House 15 St Botolph Street London EC3A 7EE Stockbroker and corporate finance adviser HSBC Investment Bank plc Vintners Place 68 Upper Thames Street London EC4V 3BJ PR advisors Binns and Company PR Ltd.
+16 St.
+Helens Place London EC3A 6DF C OMP ANY SE CRET AR Y AND AD VISERS Annual Report 2002 CZECH REPUBLIC DICOM Data Management CZ spol. s r.
+Zeleny pruh 9597 140 00 Praha 4 Fax telEMail mailboxemail httpwww. icomgroup.
+CROATIA
+SIDUS d.
+Ulica Garibaldi 9 52474 Brtonigla  Verteneglio Tel Fax EMail damir. mail.
+DENMARK
+DICOM Edbdistribution AS Ringager 4C 2605 Brndby
+Fax
+EMail mailboxemail httpwww. icom.
+FINLAND
+DICOM Finland Oy Vksyntie 1 00500 Helsinki EMail mailboxemail httpwww. icom.
+FRANCE
+DICOM FRANCE SA 4 alle de Londres BP 21 91941 COURTABOEUF Cedex Phone 33 0 Fax 33 0 EMail mailboxemail httpwww. icomfrance.
+DIALOG Imaging France S.
+4 alle de Londres BP 76 91943 COURTABOEUF Cedex Phone 33 0 Fax 33 0 EMail dialogsalesemail
+DICOM Deutschland AG Jechtinger Strasse 8 79111 Freiburg Phone tel69 0 Fax tel69 90 EMail mailboxemail httpwww. icom.
+DICOM Deutschland AG Sales Office North Germany Krhenweg 3b 22459 Hamburg DICOM Deutschland AG CCM Competence Center Mnchen Frankfurter Ring 193a 80807 Mnchen GREATER CHINA REGION DICOM Asia Holdings Pte Ltd  Hong Kong Rep Office 6F Tung Hip Commercial Building 244  248 Des Voeux Road Central Hong Kong Phone tel
+EMail mailboxemail httpsitesg
+DICOM Magyarorszg Kft.
+Rimaszombati t 17.
+1118 Budapest EMail email. httpwww. icom.
+INDONESIA
+PT DICOM Komplex Griya Inti Sentosa
+Griya Permai Blok m  1 no.
+Sunter Agung Jakarta Utara 14350 Phone  62 0tel EMail mailboxemail httpsitesg
+PDS s.
+Via Manna 82
+Andrea delle Fratte 06129  Perugia
+Fax
+EMail email httpsite PDS s.
+Via Jacopo Nardi 18 50132 Firenze
+Fax
+EMail email PDS s.
+Via Giovanni da Udine 34 20156 Milano
+Fax 39 0telEMail email PDS s.
+Via dei Prati Fiscali 201 00141 Roma
+Fax
+EMail email PDS s.
+Via Napoli 25 Centro Meridiana  Casalnuovo 80013 Napoli
+Fax 39 0telEMail email DICOM Group plc PDS s.
+Villa Loschi Zileri Motterle Via Biron 72 36050 Monteviale  Vicenza Phone 39 telFax 39 telEMail email DICOM ITALIA S.
+Viale Caduti Guerra Liberazione 118 00128 Roma
+Fax
+EMail mailboxemail DICOM ITALIA S.
+Via Zamenhof 430 36100 Vicenza Phone 39 telFax 39 telEMail mailboxemail
+DICOM Information Technology Sdn Bhd Suite A59 Plaza Mont Kiara
+2 Jalan Kiara Mont Kiara 50480 Kuala Lumpur Phone 60 0 Fax 60 0 EMail mailboxemail httpsitemy AZAG Software Lab Sdn Bhd Suite A59 Plaza Mont Kiara
+2 Jalan Kiara Mont Kiara 50480 Kuala Lumpur Phone 60 0 Fax 60 0 EMail email httpsite
+DICOM BENELUX NV Manitobadreef 6 3565 CH Utrecht Phone 31 0 Fax 31 0 EMail mailboxemail httpwww. icomgroup.
+NORWAY
+DICOM Norge AS
+Tevlingveien 23 1081 Oslo
+Fax
+EMail mailboxemail httpwww. icom.
+DICOM Norge AS
+Kvitsygata 100 4014 Stavanger
+Fax
+EMail mailboxemail
+PhilDICOM Inc Unit 407 Peninsular  Court 8735 Paseo de Roxas Makati City Tel 63 0 2 750 2211
+Email mailboxemail httpsiteph
+DICOM Polska Sp. z o. ul.
+Nakielska 3 01106 Warszawa EMail email httpsitepl
+DICOM Singapore Pte Ltd 203A Henderson Road 0803 Henderson Industrial Park
+Phone Fax.
+EMail mailboxemail httpsitesg
+Sistemas DICOM Ibrica S.
+Sabino de Arana 26 Pl.
+08028 Barcelona
+Fax
+EMail mailboxemail httpwww. icom.
+Sistemas DICOM Ibrica S.
+Orense 85 Esc.
+28020 Madrid
+Fax
+EMail mailboxemail
+NorDICOM AB
+Energigatan 11 43437 Kungsbacka Phone tel80 Fax tel99 EMail mailboxemail httpwww. ordicom.
+NorDICOM AB
+Linjalvgen 6b Phone 46 0 Fax 46 0 EMail mailboxemail Annual Report 2002
+DICOM AG Grundstrasse 14 Business Building Forren West 6343 Rotkreuz Phone 41 0 Fax 41 0 EMail mailboxemail httpwww. icom.
+DIALOG Solutions AG
+6023 Rothenburg Phone 41 0 Fax 41 0 EMail infoemailsolutions. httpwww. ialogsolutions.
+SAMSUNG GENERAL AGENCY DICOM AG Grundstrasse 14 Business Building Forren West 6343 Rotkreuz Phone 41 0 Fax 41 0 EMail mailboxemail httpwww. icom. or httpwww. amsung.
+DICOM SA Chemin de la Gottrause 10 1023 Crissier Phone 41 0 Fax 41 0 EMail mailboxemail DICOM SEDICO AG Grundstrasse 14 Business Building Forren West 6343 Rotkreuz Phone 41 0 Fax 41 0 EMail sedicoemail UNITED KINGDOM DICOM Technologies Ltd
+Chineham Business Park Basingstoke Hampshire RG24 8WA Phone  44 0tel EMail mailboxemail httpsite Kofax Image Products Motion Media Technology Centre
+Bristol
+BS35 4BL
+Faxtel httpsite DIALOG Solutions Ltd.
+Hamilton House The Marlowes Hemel Hempstead
+HP1 1BB Phone 44 0 Fax 44 0 EMail email httpsite
