@@ -1,0 +1,1277 @@
+A-CVA
+ABoR
+ABS
+ABSPP
+acceptance
+acceptor
+accession criteria
+accountability
+ACH
+acquirer
+card acquirer
+acquis communautaire
+actual/360
+Administrative Board of Review
+ABoR
+advisory netting
+agency relationship
+aggregated balance sheet of the MFI sector
+aggregated MFI balance sheet
+AIF
+Alert Mechanism Report
+AMA
+AMC
+American auction
+AMI-Pay
+AMI-SeCo
+AML
+amortisation
+ancillary system
+API
+APP
+appointee
+ASC
+ASLP
+asset
+asset purchases
+asset servicing
+AT1
+ATC
+ATM
+authentication
+authorisation
+auto-collateralisation
+automated clearing house
+ACH
+automated security lending programme
+ASLP
+automated teller machine
+ATM
+automatic fiscal stabilisers
+automatic linking
+autonomous liquidity factors
+average cost
+averaging provision
+b.o.p.
+backup system
+balance of payments
+b.o.p.
+Balance of Payments and International Investment Position Manual
+BPM6
+Bank Recovery and Resolution Directive
+BRRD
+banking union
+base money
+monetary base
+Basel Committee on Banking Supervision
+BCBS
+Basel framework
+Basel III
+Basel III
+batch
+bulk payments
+BCBS
+BCPs
+beneficiary
+BEPGs
+BIC
+bilateral exposure
+bilateral net settlement system
+bilateral netting
+bilateral procedure
+bill of exchange
+BIS
+blocking
+bond market
+book-entry system
+book-entry transaction
+BPM6
+bps
+brand
+BRM
+Broad Economic Policy Guidelines
+BEPGs
+BRRD
+budget balance
+bulk payments
+business continuity
+Business Identifier Code
+BIC
+c.i.f.
+cap
+limit
+CAPE
+capital account
+in a b.o.p. context
+capital accounts
+capital adequacy statement
+CAS
+capital conservation buffer
+CCoB
+Capital Requirements Regulation / Capital Requirements Directive
+CRR/CRD IV
+CAPM
+card acquirer
+card issuer
+card with a cash function
+card with a credit function
+card with a debit function
+cardholder
+CAS
+cash
+cash advance at POS terminal
+cash card
+cash dispenser
+cash placement
+cash settlement agent
+cash withdrawal
+cash/settlement approach
+cashback
+cash advance at POS terminal
+CBOE
+CBPP
+CBR
+CCBM
+CCBM2
+CCoB
+CCP
+CCR
+CCyB
+CDS
+central bank
+central bank credit facility
+central bank independence
+central bank money
+central counterparty
+CCP
+central counterparty
+CCP) lin
+central government
+central parity
+central rate
+central securities depository
+CSD
+CESR
+CET1
+CGFS
+CGO
+chaining
+charge card
+cheque
+chip card
+smart card
+CISS
+CIU
+CJEU
+clean price
+clearing
+clearing fund
+clearing house
+clearing member
+clearing system
+close link
+close-out netting
+CMU
+co-branding
+CO2
+COGESI
+COI
+collateral
+Collateral Central Bank Management
+CCBM2
+collateral management
+collateral pool
+collection of fixed-term deposits
+combined buffer requirement
+CBR
+commercial bank money
+committed facility
+common depository
+common procedures
+compensation of employees
+compensation per employee
+comprehensive assessment
+confirmation
+trade confirmation
+consolidated balance sheet of the MFI sector
+consolidated MFI balance sheet
+consumer credit
+consumer price index
+CPI
+contactless payment
+contingent liability
+contractual settlement date accounting
+convergence criteria
+convergence programme
+Copenhagen criteria
+accession criteria
+Core Principles for Systemically Important Payment Systems
+CPSIPS
+COREP
+corporate action
+corporate event
+corporate event
+correspondent banking
+correspondent central banking model
+CCBM
+cost of the external financing of non-financial corporations
+Council of the European Union
+EU Council
+countercyclical capital buffer
+CCyB
+counterparty
+counterparty credit risk
+CCR
+counterparty risk
+Court of Justice
+Court of Justice of the European Union
+CJEU
+CPI
+CPMI
+CPSIPS
+CRD
+CRE
+credit cap
+credit card
+card with a credit function
+credit institution
+credit limit
+credit cap
+credit line
+credit risk
+credit to euro area residents
+credit transfer
+cross-border payment
+cross-border position
+cross-border settlement
+cross-currency settlement risk
+cross-currency swap
+cross-margining agreement
+cross-system settlement
+CRR
+CRR/CRD IV
+crypto-asset
+CSD
+CSD link
+CSPP
+currency in circulation
+current account
+in a b.o.p. context
+current transfers
+custodian
+custody
+custody risk
+cut-off time
+CVA
+cyclical component of the budget balance
+D-SIB
+daily processing
+day-count convention
+daylight credit
+debit card
+card with a debit function
+debt
+in the context of the financial accounts
+debt market
+debt ratio
+debt security
+debt service
+debt service-to-income
+DSTI) rati
+default
+defaulter pays
+deferred net settlement system
+deficit ratio
+deficit-debt adjustment
+deflation
+degree of openness
+delayed debit card
+charge card
+delivery
+delivery versus delivery
+DvD
+delivery versus payment
+DvP
+Delors Committee
+dematerialisation
+deposit facility
+Deposit Guarantee Schemes
+DGS) Directiv
+deposit rate
+depository
+deposits redeemable at notice
+deposits with an agreed maturity
+derivative
+designated system
+DFR
+DG ECFIN
+DGS
+DGS Directive
+digital payment token
+digital signature
+direct clearing member
+direct debit
+direct holding system
+direct investment
+in a b.o.p. context
+direct link
+direct participant
+direct taxes
+directorship
+discount
+discount security
+zero coupon instrument
+discretionary fiscal policy
+DLT
+domestic settlement
+double-entry bookkeeping
+DSR
+DSTI
+DTA
+DTI
+Dutch auction
+DvD
+DvP
+e-commerce
+EAD
+earmarking
+earmarking system
+EBA
+EBITDA
+EBP
+EBPP
+ECA
+ECAF
+ECB
+ECB time
+ECL
+ECOFIN
+Ecofin Council
+economic analysis
+Economic and Financial Committee
+EFC
+Economic and Monetary Union
+EMU
+economic approach
+economic internal ICAAP perspective
+economic perspective
+economic perspective
+ECU
+EDF
+EDI
+EDIS
+EDP
+EDW
+EEA
+EER
+EER-19
+EER-38
+EFC
+effective exchange rate
+EER) of the eur
+effective lower bound
+ELB
+EFSF
+EFSM
+EFTPOS terminal
+EIOPA
+ELB
+ELBE
+elderly dependency ratio
+Electronic Bill Presentment and Payment
+EBPP; electronic invoicing
+electronic data interchange
+EDI
+electronic invoicing
+electronic money
+electronic money institution
+ELMI
+electronic payment instrument
+electronic payment instrument arrangement
+electronic payment instrument scheme
+electronic signature
+digital signature
+electronic wallet
+eligible assets
+eligible collateral
+eligible collateral
+ELMI
+EMI
+EMIR
+EMMS
+Employment Guidelines
+EMS
+EMU
+EMV
+end user
+enhanced credit support
+EONIA
+equilibrium real interest rate
+equity
+equity market
+equity price risk
+equity security
+ERM II
+ERM II fluctuation margins
+ERPB
+errors and omissions
+ESA
+ESA 2010
+ESA 95
+ESCB
+ESCG
+ESFS
+ESM
+ESMA
+ESRB
+ETF
+EU enlargement
+EU Member State
+EUCLID
+EURIBOR
+euro
+euro area
+euro interbank offered rate
+EURIBOR
+euro overnight index average
+EONIA
+euro short-term rate
+ˆSTR
+Eurogroup
+European Banking Authority
+EBA
+European Central Bank
+ECB
+European Commission
+European Commission surveys
+European Council
+European Currency Unit
+ECU
+European Economic Area
+EEA
+European Financial Stabilisation Mechanism
+EFSM
+European Financial Stability Facility
+EFSF
+European Monetary Institute
+EMI
+European Monetary System
+EMS
+European Parliament
+European Stability Mechanism
+ESM
+European System of Accounts 1995
+ESA 95
+European System of Accounts 2010
+ESA 2010
+European System of Central Banks
+ESCB
+European System of Financial Supervision
+ESFS
+European Systemic Risk Board
+ESRB
+ˆSTR
+Eurostat
+Eurosystem
+Eurosystem business day
+Eurosystem staff projections
+Eurozone Purchasing Managers' Surveys
+EVE
+excessive deficit procedure
+EDP
+excessive imbalance procedure
+exchange rate mechanism II
+ERM II
+exchange rate targeting
+exchange rate volatility
+exchange-for-value settlement system
+Executive Board
+exemption threshold
+exit criteria
+experimental data
+exposure
+external statistics
+external trade in goods
+extra-euro area trade
+f.o.b.
+face-to-face payment
+fail
+failed transaction
+fail
+failing or likely to fail
+FOLTF
+fair value accounting
+FVA
+final investor
+final settlement
+final transfer
+final transfer
+financial account
+in a b.o.p. context
+financial accounts
+financial asset
+financial auxiliary
+financial corporations engaged in lending
+financial derivative
+in a b.o.p. context
+financial intermediary
+financial liability
+financial markets
+financial stability
+Financial Stability Board
+FSB
+financial vehicle corporation
+FVC
+fine-tuning operation
+FINREP
+FIRB approach
+fiscal compact
+fiscal policy stance
+fiscal stance
+fit and proper assessment
+fixed rate bond
+fixed rate instrument
+fixed rate tender
+floating rate instrument
+flow
+transactions
+FMI
+FOLTF
+FOMC
+foreign currency holding
+foreign exchange forward
+foreign exchange operations
+foreign exchange revaluation
+foreign exchange settlement risk
+cross-currency settlement risk
+foreign exchange swap
+forward guidance
+forward rate agreement
+FRA
+forward transactions in securities
+four-party card scheme
+FRA
+free-of-payment
+FOP) deliver
+FSB
+FSR
+FTS
+funds transfer system
+FTS
+fungibility
+futures contract
+FVA
+FVC
+FX
+G-SIB
+G-SII
+G-SII buffer
+GAAP
+GDP
+general clearing member
+General Council of the ECB
+general government
+GESMES
+GESMES/TS
+gift card or voucher
+global certificate
+global custodian
+global note
+global systemically important institutions
+G-SII) buffe
+goods
+in a b.o.p. context
+governance
+governance body
+governance of an electronic payment arrangement
+governance of an electronic payment instrument scheme
+Governing Council
+government deficit/surplus
+government expenditure
+government revenue
+gridlock
+gross domestic product
+GDP
+gross external debt
+gross margining
+gross monthly earnings
+gross settlement
+gross settlement system
+guarantee fund
+haircut
+Harmonised Index of Consumer Prices
+HICP
+harmonised long-term interest rate
+HICP
+HLEG
+HoM
+home banking
+hourly labour cost
+households
+HQLA
+hybrid system
+i.i.p.
+IAIG
+IAIS
+IAS
+IBAN
+IC
+ICAAP
+ICMA
+ICPFs
+ICR
+ICS
+ICSD
+IF
+IFRS
+IFTS
+ILAAP
+ILO
+ILS
+IMA
+IMAS
+IMF
+IMI
+IMM
+immobilisation
+implied volatility
+index of industrial producer prices
+indicator of negotiated wages
+indirect holding system
+indirect link
+indirect participant
+indirect taxes
+industrial producer price
+industrial production
+inflation
+inflation buffer
+inflation risk premium
+inflation targeting
+inflation-indexed government bond
+initial margin
+institutional unit
+insurance corporations and pension funds
+ICPFs
+Integrated Guidelines
+integrity
+integrity of a securities issue
+interbank funds transfer system
+IFTS
+interbank money market
+interchange fee
+interest rate
+interest rate future
+interest rate swap
+interest-bearing claim
+interest-growth differential
+Internal Capital Adequacy Assessment Process
+ICAAP
+Internal Liquidity Adequacy Assessment Process
+ILAAP
+internal model
+internal model approach
+IMA
+internal model method
+IMM
+internal rate of return
+IRR
+internal settlement
+International Bank Account Number
+IBAN
+international central securities depository
+ICSD
+international investment position
+i.i.p.
+International Monetary Fund
+IMF
+international reserves template
+interoperability
+intervention at the limits
+intra-euro area trade
+intra-marginal intervention
+intraday credit
+daylight credit
+intraday finality
+intraday liquidity
+inverse floating rate instrument
+investment firm
+investment fund
+IF
+investor CSD
+IOSCO
+IPS
+IRB
+IRBA
+IRC
+IRR
+IRRBB
+IRT
+ISIN
+issuer
+issuer CSD
+issuing CSD
+issuing CSD
+ITS
+job vacancies
+Joint Supervisory Team
+JST
+JSS
+JST
+JSTC
+key ECB interest rates
+KRI
+L/C
+labour force
+labour force participation rate
+labour productivity
+Lamfalussy standards
+large exposure
+large-value funds transfer system
+wholesale funds transfer system
+large-value payment
+LCBG
+LCR
+lead overseer
+leading indicators
+legal convergence
+legal risk
+less significant institution
+LSI
+letter of credit
+L/C
+leverage ratio
+LGD
+liability
+limit
+linked trade
+liquidity
+liquidity coverage ratio
+LCR
+liquidity risk
+Lisbon strategy
+loan-to-income
+LTI) rati
+loan-to-value
+LTV) rati
+loans for house purchase
+loans to euro area residents
+local government
+longer-term interest rates
+longer-term refinancing operation
+loro account
+vostro account
+loss-sharing agreement
+loss-sharing rule
+LSI
+LSTI
+LTD
+LTG
+LTI
+LTRO
+LTSF
+LTV
+lump-sum allowance
+M&As
+m-payment
+M1
+M2
+M3
+Maastricht criteria
+macroeconomic imbalance procedure
+MIP
+main refinancing operation
+maintenance period
+management body
+mandate for direct debits
+margin
+margin call
+marginal interest rate
+marginal lending facility
+marginal lending rate
+marginal swap point quotation
+market infrastructure
+market price
+market risk
+price risk
+marking-to-market
+matching
+maturity at issue
+original maturity
+maturity bucket
+maturity date
+maximum bid limit
+maximum bid rate
+MDA
+means of payment
+Mediation Panel
+member
+Member State
+Member State with a derogation
+merchant service charge
+MSC
+metadata
+MFI
+MFI credit to euro area residents
+MFI interest rates
+MFI longer-term financial liabilities
+MFI net external assets
+mid-market price
+mid-market rate
+MiFID
+MiFIR
+minimum allotment amount
+minimum allotment ratio
+minimum bid rate
+minimum requirement for own funds and eligible liabilities
+MREL
+minimum reserves
+minimum standards of the Lamfalussy report
+Lamfalussy standards
+MIP
+MMF
+MMS
+MMSR
+mobile device
+mobile payment
+m-payment
+monetary aggregate
+monetary and financial analysis
+monetary base
+monetary financial institution
+MFI
+monetary income
+monetary policy
+monetary policy statement
+monetary policy strategy
+monetary policy transmission mechanism
+monetary presentation of the b.o.p.
+monetary targeting
+money
+money demand
+money market
+money market fund
+MMF
+money order
+money remitter
+MPC
+MREL
+MSC
+multilateral net settlement system
+multilateral netting
+multiple rate auction
+American auction
+national central bank
+NCB
+national competent authority
+NCA
+NAV
+NBNI
+NCA
+NCB
+NCB business day
+NDA
+negative interest rate policy
+NIRP
+net credit cap
+net margining
+net settlement
+net settlement system
+net stable funding ratio
+NSFR
+netting
+netting by novation
+neutrality of money
+new business
+new monetary policy instruments
+NFC
+NFCI
+NII
+NIRP
+nominal effective exchange rate
+EER) of the eur
+nominee
+non-clearing member
+non-financial corporation
+NFC
+non-objection procedure
+non-performing loans
+NPLs
+non-repudiation
+non-seasonally adjusted
+n.s.a.
+normative internal ICAAP perspective
+normative perspective
+normative perspective
+nostro account
+NPE
+NPLs
+NRA
+NSA
+NSFR
+O&D
+O-SII
+O-SII buffer
+OECD
+offline card transaction
+OFI
+OFI sector
+OIS
+OJ
+online card transaction
+open market operation
+operated direct link
+operational risk
+opportunity cost
+optimisation routine
+option
+ORC
+Organisation for Economic Co-operation and Development
+OECD
+original maturity
+OSI
+OTC
+OTC
+over-the-counter) tradin
+other financial intermediary
+OFI
+other investment
+in a b.o.p. context
+other lending
+other revaluations
+other systemically important institutions
+O-SII) buffe
+output gap
+outright transaction
+overnight deposits
+oversight of payment systems
+P&L
+P/E
+P2G
+P2P payment
+P2R
+pan-European automated clearing house
+PE-ACH
+participant
+passporting procedures
+payer
+payment
+payment card
+payment guarantee
+payment integration services
+payment lag
+payment order
+payment service provider
+payment service user
+payment system
+payment versus payment
+PvP
+PCE
+PD
+PE-ACH
+pension fund
+percentage balance
+personal identification number
+PIN
+personalised security credentials
+physical delivery
+PIN
+pledge
+point-of-sale
+POS) termina
+portfolio investment
+in a b.o.p. context
+position netting
+advisory netting
+post-fixed coupon
+postal order
+PPI
+PPP
+PQD
+pre-fixed coupon
+premium
+prenotification
+price risk
+price stability
+primary balance
+primary income
+in a b.o.p. context
+primary site
+principal
+principal
+in a debt service context
+principal risk
+private sector credit flow
+private sector debt
+processing
+projections
+provisional settlement
+provisional transfer
+provisions
+PSPP
+purchasing power parity
+PPP
+PvP
+QE
+qualifying holding
+queue management
+queuing
+quick tender
+RAROC
+RAS
+reachability
+real effective exchange rate
+EER) of the eur
+real-time gross settlement
+RTGS) syste
+realignment
+realised gains or losses
+reclassifications
+reconciliation
+recovery plan
+reference value for the fiscal position
+refund
+refusal
+registrar
+registration
+registry
+registrar
+reject
+relayed link
+remote access
+remote participant
+remote payment
+replacement cost risk
+repo
+repo operation
+repurchase agreement
+repurchase date
+repurchase operation
+repurchase price
+reserve account
+reserve assets
+in a b.o.p. context
+reserve base
+reserve holdings
+reserve ratio
+reserve-related liabilities
+reserves
+residence
+resident
+residential property price indicator
+residual maturity
+resolution plan
+retail bank interest rates
+retail funds transfer system
+retail payment
+retail sales
+retailer card
+returns
+revaluation accounts
+reverse repo
+reverse sale and repurchase agreement
+"reverse repo"
+reverse transaction
+risk appetite statement
+RAS
+ROA
+ROE
+RORAC
+RRE
+RTGS system
+RTS
+RWA
+S&P
+safekeeping services
+same-day funds
+SBBS
+scheduling
+SCR
+SDR
+seasonally adjusted
+s.a.
+secondary income
+in a b.o.p. context
+secondary site
+sectoral capital requirements
+SCR
+Securities Markets Programme
+securities settlement system
+SSS
+securitisation
+security-by-security data collection
+segregation
+SEP
+SEPA
+service provision
+services
+in a b.o.p. context
+set of formal, standardised and common rules
+settlement
+settlement account
+settlement agent
+settlement institution
+settlement asset
+settlement bank
+settlement cycle
+settlement interval
+settlement date
+settlement day
+settlement date
+settlement failure
+settlement institution
+settlement interval
+settlement lag
+payment lag
+settlement obligation
+settlement risk
+settlement system
+settling member
+settling participant
+settlement bank; settling member
+SFT
+SGP
+SI
+significant institution
+SI
+significant supervised entity
+SII
+Single Euro Payments Area
+SEPA
+single rate auction
+Dutch auction
+Single Resolution Mechanism
+SRM
+Single Supervisory Mechanism
+SSM
+Single Supervisory Mechanism Regulation
+SSMR
+SIPS
+six-pack
+smart card
+SMEs
+social security funds
+solvency risk
+special drawing right
+SDR
+specialised depository
+SPV
+SQA
+SRB
+SREP
+SRF
+SRM
+SRMR
+SSG
+SSM
+SSM Framework Regulation
+SSM Regulation
+SSMR
+SSS
+Stability and Growth Pact
+SGP
+stability programmes
+Stage One
+Stage Three
+Stage Two
+standard tender
+standardised deduction
+standing facility
+standing order
+start date
+state government
+STE
+stock market
+STP
+straight line depreciation/amortisation
+straight-through processing
+STP
+strip
+separate trading of interest and principal
+structural operation
+substitution of securities
+supervised entity
+Supervisory Board
+Supervisory Examination Programme
+SEP
+Supervisory Review and Evaluation Process
+SREP
+survivors pay
+sVaR
+swap
+swap point
+symmetry of the ECB's inflation target
+systemic risk
+systemic risk buffer
+SRB
+systemically important payment system
+SIPS
+T2
+T2S
+TARGET
+TARGET2
+TARGET2-Securities
+T2S
+technical service provider
+tender procedure
+TFEU
+three-party card scheme
+tier one asset
+tier two asset
+tiering arrangement
+TIPS
+TLAC
+TLTRO
+trade confirmation
+trade date
+transaction
+transaction cost
+transaction price
+transaction reference number
+TRN
+transfer of value
+between end users
+transfer order
+transfer system
+transmission mechanism
+TREA
+Treaty establishing the European Community
+Treaty of Lisbon
+Treaty on Stability, Coordination and Governance in the Economic and Monetary Union
+TSCG
+Treaty on the Functioning of the European Union
+TFEU
+tri-party repo
+trigger point
+TRIM
+TRN
+truncation
+TSCG
+TSCR
+UCITS
+ULCM
+ULCT
+underlying asset
+unemployed
+unemployment rate
+Union law
+unit labour costs
+unrealised gains or losses
+unwind
+user account
+valuation date
+value added
+value date
+VaR
+variable rate bonds
+variable rate tender
+variation margin
+VIX
+volume tender
+vostro account
+wholesale funds transfer system
+write-down
+write-off
+XML
+yield curve
+zero coupon instrument
+zero-hour rule
