@@ -25,10 +25,10 @@ def block_ip(IP, reason='IP'):
 		config_commands=['access deny %s log'%(IP)]		#print blocked IP
 		output = net_connect.send_config_set(config_commands)
     elif reason == 'time':
-		config_commands=['ip access-list standard 10', 'permit any']	###	PLEASE FIND IF IT'S OK HERE!!!!!!!!!!!
+		config_commands=['ip access-list standard 10', 'permit any']	
 		output = net_connect.send_config_set(config_commands)
 	elif reason == 'number':
-		config_commands=['ip access-list standard 10', 'no permit any']	###	PLEASE FIND IF IT'S OK HERE!!!!!
+		config_commands=['ip access-list standard 10', 'no permit any']
 		output = net_connect.send_config_set(config_commands)
    
    	output = net_connect.send_command('show access-list 10')
